@@ -280,16 +280,34 @@ Saquear:
 
 En batallas con múltiples oleadas, el efecto se reinicia al comienzo de cada una."
 "herocard.passive_skill.description.redirectlethaldamage.enemies.single.battle","La primera vez que este personaje vaya a recibir una cantidad de daño que lo derrotaría, en su lugar redirige un {REDIRECTDAMAGEMULTIPLIER} % de ese daño a un enemigo aleatorio. (Activaciones restantes: {ACTIVATIONSLEFT})."
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled","La primera vez que este personaje vaya a recibir una cantidad de daño que lo derrotaría, en su lugar redirige un {REDIRECTDAMAGEMULTIPLIER} % de ese daño al atacante.
+
+No se activa si este personaje es el único miembro de su equipo en la batalla.
+
+En batallas con múltiples oleadas, el efecto se reinicia al comienzo de cada una."
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled.battle","La primera vez que este personaje vaya a recibir una cantidad de daño que lo derrotaría, en su lugar redirige un {REDIRECTDAMAGEMULTIPLIER} % de ese daño al atacante. (Activaciones restantes: {ACTIVATIONSLEFT})
+No se activa si este personaje es el único miembro de su equipo en la batalla."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single","La primera vez que este personaje vaya a recibir una cantidad de daño que lo derrotaría, en su lugar redirige ese daño hacia un enemigo aleatorio.
 
 En batallas con múltiples oleadas, el efecto se reinicia al comienzo de cada una."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.battle","La primera vez que este personaje vaya a recibir una cantidad de daño que lo derrotaría, en su lugar redirige ese daño hacia un enemigo aleatorio. (Activaciones restantes: {ACTIVATIONSLEFT})."
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","La primera vez que este personaje vaya a recibir una cantidad de daño que lo derrotaría de ataques normales o habilidades especiales, en su lugar redirige hasta un {REDIRECTDAMAGELIMIT} de ese daño al atacante. (Activaciones restantes: {ACTIVATIONSLEFT})"
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","La primera vez que este personaje vaya a recibir una cantidad de daño que lo derrotaría de ataques normales o habilidades especiales, en su lugar redirige hasta un {REDIRECTDAMAGELIMIT} de ese daño al atacante. (Activaciones restantes:{ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","La primera vez que este personaje vaya a recibir una cantidad de daño que lo derrotaría de ataques normales o habilidades especiales, en su lugar redirige hasta un {REDIRECTDAMAGELIMIT} de ese daño a un enemigo aleatorio."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","La primera vez que este personaje vaya a recibir una cantidad de daño que lo derrotaría de ataques normales o habilidades especiales, en su lugar redirige hasta un {REDIRECTDAMAGELIMIT} de ese daño a un enemigo aleatorio. (Activaciones restantes: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled","La primera vez que este personaje vaya a recibir una cantidad de daño que lo derrotaría de ataques normales o habilidades especiales, en su lugar redirige hasta un {REDIRECTDAMAGELIMIT} de ese daño al atacante.
+No se activa si este personaje es el único miembro de su equipo en la batalla."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled.battle","La primera vez que este personaje vaya a recibir una cantidad de daño que lo derrotaría de ataques normales o habilidades especiales, en su lugar redirige hasta un {REDIRECTDAMAGELIMIT} de ese daño al atacante. (Activaciones restantes: {ACTIVATIONSLEFT})
+No se activa si este personaje es el único miembro de su equipo en la batalla."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","La primera vez que este personaje vaya a recibir una cantidad de daño que lo derrotaría de ataques normales o habilidades especiales, en su lugar redirige hasta un {REDIRECTDAMAGELIMIT} de daño hacia el atacante.
 
 En batallas con múltiples oleadas, el efecto se reinicia al comienzo de cada oleada."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit.battle","La primera vez que este personaje vaya a recibir una cantidad de daño que lo derrotaría de ataques normales o habilidades especiales, en su lugar redirige hasta un {REDIRECTDAMAGELIMIT} de ese daño al atacante. (Activaciones restantes: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled","La primera vez que este personaje vaya a recibir una cantidad de daño que lo derrotaría, en su lugar redirige ese daño al atacante.
+
+No se activa si este personaje es el único miembro de su equipo en la batalla.
+
+En batallas con múltiples oleadas, el efecto se reinicia al comienzo de cada una."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled.battle","La primera vez que este personaje vaya a recibir una cantidad de daño que lo derrotaría, en su lugar redirige ese daño al atacante. (Activaciones restantes: {ACTIVATIONSLEFT})
+No se activa si este personaje es el único miembro de su equipo en la batalla."
 "herocard.passive_skill.description.reduceinsanityperturn","Al comienzo de cada turno, la demencia actual de ese personaje se reduce en {REDUCTION}."
 "herocard.passive_skill.description.reflectresistedstatuseffect.all.enemies","Cualquier estado alterado que resista este personaje con habilidades pasivas se reflejará a todos los enemigos."
 "herocard.passive_skill.description.reflectstatuseffect.with_chance","{CHANCE} % más de probabilidad de reflejar los estados alterados al atacante."
@@ -907,10 +925,7 @@ Cuando este héroe lanza su habilidad especial, los escudos sagrados del tablero
 "herocard.passive_skill.title.received_strong_troop_damage_pve","Reducción del daño de tropas"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage","Maestría con tropas"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage.increase.dragon","Aumento de daño de bola de fuego fuerte"
-"herocard.passive_skill.title.redirectlethaldamage.enemies.single","Engaño a la muerte"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single","Engaño a la muerte"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Engaño a la muerte"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","Engaño a la muerte"
+"herocard.passive_skill.title.redirectlethaldamage","Engaño a la muerte"
 "herocard.passive_skill.title.reduceinsanityperturn","Reduce la demencia"
 "herocard.passive_skill.title.reflectresistedstatuseffect","Reflector legendario"
 "herocard.passive_skill.title.remove_growth_from_enemies","Arenga protectora"

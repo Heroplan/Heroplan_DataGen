@@ -250,7 +250,7 @@ Bu Kahramanın Özel Yeteneklerinden biri olan doğrudan iyileştirme %{PASSIVES
 "herocard.passive_skill.description.preventboostedhealth.all.enemies","Düşmanların sağlığı maks. sağlıklarını geçemez."
 "herocard.passive_skill.description.ransack.activates_on_ally_action.does_not_activate_on_owner_action.from.mostbuffs.enemies.to.single.allies.activates_on_specialcast","Başka bir müttefik bir Özel Yetenek uyguladığında bu karakter, en çok buff'a sahip olan düşmanı Yağmalar:
 
-{DAMAGE} çalar.
+{DAMAGE} sağllık çalar.
 Düşmandan bir buff'ı güvenli bir şekilde çalar. Buna bozulamaz buff'lar ve Dans efektleri dâhildir."
 "herocard.passive_skill.description.ransack.from.single.enemies.to.single.allies.activates_on_startofturn","Bu karakter, her turun başında rastgele bir düşmanı Yağmalar:
 
@@ -279,16 +279,34 @@ Alınan hasar: -%{MODIFIER}"
 
 Birden çok dalganın olduğu savaşlarda efekt, her dalganın başında yenilenir."
 "herocard.passive_skill.description.redirectlethaldamage.enemies.single.battle","Bu karakter ilk kez ölümcül hasar aldığında hasar almak yerine bu hasarın %{REDIRECTDAMAGEMULTIPLIER} kadarını rastgele bir düşmana yansıtır. (Kalan etkinleştirme: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled","Bu karakter, ilk defa ölümcül bir hasar aldığında bunun yerine o hasarın %{REDIRECTDAMAGEMULTIPLIER} kadarını saldırgana yönlendirir.
+
+Bu karakter, savaşta takımının tek üyesiyse etkinleşmez.
+
+Birden çok dalganın olduğu savaşlarda efekt, her dalganın başında yenilenir."
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled.battle","Bu karakter, ilk defa ölümcül bir hasar aldığında bunun yerine o hasarın %{REDIRECTDAMAGEMULTIPLIER} kadarını saldırgana yönlendirir. (Kalan etkinleştirmeler: {ACTIVATIONSLEFT})
+Bu karakter, savaşta takımının tek üyesiyse etkinleşmez."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single","Bu karakter, ilk defa ölümcül bir hasar aldığında o hasarı rastgele bir düşmana yönlendirir.
 
 Birden çok dalganın olduğu savaşlarda efekt, her dalganın başında yenilenir."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.battle","Bu karakter ilk kez ölümcül hasar aldığında hasar almak yerine bu hasarı rastgele bir düşmana yansıtır. (Kalan etkinleştirme: {ACTIVATIONSLEFT})"
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Bu karakter, normal saldırılardan veya Özel Yeteneklerden ilk kez ölümcül hasar aldığında hasar almak yerine bu hasarın en fazla {REDIRECTDAMAGELIMIT} kadarını saldırgana yönlendirir. (Kalan etkinleştirme: {ACTIVATIONSLEFT})"
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","Bu karakter, normal saldırılardan veya Özel Yeteneklerden ilk kez ölümcül hasar aldığında hasar almak yerine bu hasarın en fazla {REDIRECTDAMAGELIMIT} kadarını saldırgana yönlendirir. (Kalan etkinleştirme: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Bu karakter, normal saldırılardan veya Özel Yeteneklerden ilk kez ölümcül hasar aldığında hasar almak yerine bu hasarın en fazla {REDIRECTDAMAGELIMIT} kadarını rastgele bir düşmana yönlendirir."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","Bu karakter, normal saldırılardan veya Özel Yeteneklerden ilk kez ölümcül hasar aldığında hasar almak yerine bu hasarın en fazla {REDIRECTDAMAGELIMIT} kadarını rastgele bir düşmana yönlendirir. (Kalan etkinleştirme: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled","Bu karakter, normal saldırılardan veya Özel Yeteneklerden ilk kez ölümcül hasar aldığında hasar almak yerine bu hasarın en fazla {REDIRECTDAMAGELIMIT} kadarını saldırgana yönlendirir.
+Bu karakter, savaşta takımının tek üyesiyse etkinleşmez."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled.battle","Bu karakter, normal saldırılardan veya Özel Yeteneklerden ilk kez ölümcül hasar aldığında hasar almak yerine bu hasarın en fazla {REDIRECTDAMAGELIMIT} kadarını saldırgana yönlendirir. (Kalan etkinleştirme: {ACTIVATIONSLEFT})
+Bu karakter, savaşta takımının tek üyesiyse etkinleşmez."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","Bu karakter, normal saldırılardan veya Özel Yeteneklerden ilk defa ölümcül bir hasar aldığında bunun yerine o hasarın en fazla {REDIRECTDAMAGELIMIT} kadarını saldırgana yönlendirir.
 
 Birden çok dalganın olduğu savaşlarda efekt, her dalganın başında yenilenir."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit.battle","Bu karakter, normal saldırılardan veya Özel Yeteneklerden ilk kez ölümcül hasar aldığında hasar almak yerine bu hasarın en fazla {REDIRECTDAMAGELIMIT} kadarını saldırgana yönlendirir. (Kalan etkinleştirme: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled","Bu karakter, ilk defa ölümcül bir hasar aldığında bunun yerine o hasarı saldırgana yönlendirir.
+
+Bu karakter, savaşta takımının tek üyesiyse etkinleşmez.
+
+Birden çok dalganın olduğu savaşlarda efekt, her dalganın başında yenilenir."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled.battle","Bu karakter, ilk defa ölümcül bir hasar aldığında bunun yerine o hasarı saldırgana yönlendirir. (Kalan etkinleştirmeler: {ACTIVATIONSLEFT})
+Bu karakter, savaşta takımının tek üyesiyse etkinleşmez."
 "herocard.passive_skill.description.reduceinsanityperturn","Her turun başında bu karakterin mevcut Deliliği {REDUCTION} azaltılır."
 "herocard.passive_skill.description.reflectresistedstatuseffect.all.enemies","Bu karakterin Pasif Yeteneklerle direndiği tüm durum engelleri, tüm düşmanlara yansıtılır."
 "herocard.passive_skill.description.reflectstatuseffect.with_chance","Durum engellerini saldırgana geri yansıtmak için %{CHANCE} ekstra şans."
@@ -908,10 +926,7 @@ Bu Kahraman, Özel Yeteneğini uyguladığında panodaki Kutsal kalkanlar geliş
 "herocard.passive_skill.title.received_strong_troop_damage_pve","Birlik Hasarı Azaltma"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage","Birlik Ustalığı"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage.increase.dragon","Güçlü Ateş Topu Hasarı Artışı"
-"herocard.passive_skill.title.redirectlethaldamage.enemies.single","Ölümü Atlat"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single","Ölümü Atlat"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Ölümü Atlat"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","Ölümü Atlat"
+"herocard.passive_skill.title.redirectlethaldamage","Ölümü Atlat"
 "herocard.passive_skill.title.reduceinsanityperturn","Deliliği Azalt"
 "herocard.passive_skill.title.reflectresistedstatuseffect","Efsanevi Yansıtıcı"
 "herocard.passive_skill.title.remove_growth_from_enemies","Muhafız Seferberliği"

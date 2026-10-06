@@ -1880,6 +1880,14 @@ Les danses de la fortune se cumulent avec les autres effets de danse."
 Danse de fortune éclatante
 {STATUSEFFECTS}
 Les danses de la fortune se cumulent avec les autres effets de danse."
+"specials.v2.statuseffect.minor.abyss.sides.enemies.dispelincreasesactivations","Les ennemis sur les bords de la formation ennemie passent en forme de fantôme abyssal pour {TURNS} tours.
+ Sous cette forme, ils reçoivent {DAMAGEPERTURN} points de dégâts par tour. Cet effet est obstiné."
+"specials.v2.statuseffect.minor.abyss.single.enemies.dispelincreasesactivations","La cible passe en forme de fantôme abyssal pour {TURNS} tours. Cet effet est obstiné.
+ Sous cette forme, elle reçoit {DAMAGEPERTURN} points de dégâts par tour."
+"specials.v2.statuseffect.minor.abyss.single.enemies.onremoval.damage.all.allies.expiration.add_insanity_emilie.dispelincreasesactivations","La cible passe en forme de fantôme abyssal pour {TURNS} tours. Cet effet est obstiné.
+ En forme de fantôme abyssal, la cible reçoit {DAMAGEPERTURN} points de dégâts à chaque tour.
+ Quand la forme de fantôme abyssal prend fin :
+ Inflige {FIXEDPOWER} points de dégâts et {STATUSEFFECT1INSANITYTOADD} points de folie à tous les alliés."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies","Tous les ennemis reçoivent {ACCURACY} % de précision pendant {TURNS} tours."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies.dispelincreasesactivations","Tous les ennemis reçoivent {ACCURACY} % de précision pendant {TURNS} tours. Cet effet est obstiné."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies.resetonheal","Tous les ennemis reçoivent {ACCURACY} % de précision pendant {TURNS} tours. La durée de l'effet est réinitialisée si la cible est soignée."
@@ -2294,6 +2302,12 @@ Substance vorace : supprime tous les bonus et effets de croissance dissipables,
 Substance vorace : supprime tous les bonus et effets de croissance dissipables, et inflige {BASEDAMAGEPERTURN} points de dégâts par tour et {DAMAGEPERTURNPEREFFECT} points de dégâts supplémentaires par effet supprimé."
 "specials.v2.statuseffect.minor.devouringgoo.single.enemies.effects.minorbuff.positivebasestatmodifier","La cible reçoit l'effet Substance vorace pendant {TURNS} tours.
 Substance vorace : supprime tous les bonus et effets de croissance dissipables, et inflige {BASEDAMAGEPERTURN} points de dégâts par tour et {DAMAGEPERTURNPEREFFECT} points de dégâts supplémentaires par effet supprimé."
+"specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.add_insanity_salvatore.dispelincreasesactivations","Le lanceur passe en forme de fantôme pressant dément pendant {TURNS} tours. Cet effet est obstiné.
+ Sous cette forme, le lanceur inflige automatiquement {POWER1} % de dégâts et {STATUSEFFECT1INSANITYTOADD} point(s) de folie à un ennemi aléatoire à chaque tour.
+ Sous cette forme, le lanceur peut subir des dégâts des ennemis dont l'élément est fort face au leur."
+"specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.dispelincreasesactivations","Le lanceur passe en forme de fantôme pressant pour {TURNS} tours. Cet effet est obstiné.
+ Sous cette forme, le lanceur inflige automatiquement {POWER1} % de dégâts à un ennemi aléatoire à chaque tour.
+ Sous cette forme, le lanceur peut subir des dégâts des ennemis dont l'élément est fort face au sien."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff","Purifie les effets négatifs de tous les alliés à la fin de chaque tour pendant {TURNS} tours."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.bypassremoveeffects","Purifie de façon sûre les effets négatifs de tous les alliés à la fin de chaque tour pendant {TURNS} tours."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.customremovalcount","Purifie 1 effet négatif de tous les alliés à la fin de chaque tour pendant {TURNS} tours."
@@ -2375,6 +2389,8 @@ Substance vorace : supprime tous les bonus et effets de croissance dissipables,
 "specials.v2.statuseffect.minor.elementswapovertime.allexceptcaster.allies","Pendant {TURNS} tours, tous les alliés à l'exception du lanceur subissent Flux élémentaire. Leur élément change aléatoirement à chaque tour."
 "specials.v2.statuseffect.minor.elementswapovertime.damage_to_green.all.enemies","Pendant {TURNS} tours, tous les ennemis subissent Flux élémentaire. Leur élément change aléatoirement à chaque tour, infligeant {DAMAGEPERTURN} points de dégâts chaque fois qu'il passe à la nature."
 "specials.v2.statuseffect.minor.elementswapovertime.damage_to_yellow.all.enemies","Pendant {TURNS} tours, tous les ennemis subissent Flux élémentaire. Leur élément change aléatoirement à chaque tour, infligeant {DAMAGEPERTURN} points de dégâts chaque fois qu'il passe au sacré."
+"specials.v2.statuseffect.minor.ethereal.single.allies.dispelincreasesactivations","Le lanceur passe en forme de fantôme pour {TURNS} tours.
+ Sous cette forme, le lanceur gagne {ATTACK} % d'attaque. Cet effet est obstiné."
 "specials.v2.statuseffect.minor.explodingberserk.single.allies","Le lanceur obtient {ATTACK} % d'attaque, et une augmentation de {CHANGE} % à chaque fois que lui ou n'importe lequel de ses alliés sont touchés pendant {TURNS} tours, jusqu'à un maximum de {MAXMODIFIER} %. Quand l'effet se termine, tous les ennemis reçoivent {DAMAGE} points de dégâts. Chaque coup sur le lanceur ou ses alliés pendant cette durée augmente les dégâts de {ADDITIONALDAMAGEPERHIT} jusqu'à un maximum de {MAXDAMAGE}."
 "specials.v2.statuseffect.minor.extradamageagainstboostedhealth.all.allies.troop.npcnormalattack.specialskill.statuseffectskill","Toutes les attaques normales et compétences spéciales des alliés infligent {DAMAGEMULTIPLIER} % de dégâts aux cibles à la santé boostée pendant {TURNS} tours."
 "specials.v2.statuseffect.minor.fearstatuseffectskill.all.enemies.on.allyspecial.damage.random.allies","Tous les ennemis succombent à la peur pendant {TURNS} tours."
@@ -2448,6 +2464,14 @@ Chaque pièce inflige {POWER1} % de dégâts."
 "specials.v2.statuseffect.minor.frost.single.enemies.contagious","La cible subit {DAMAGE} dégâts de givre sur {TURNS} tours. L'effet contamine les ennemis proches."
 "specials.v2.statuseffect.minor.frost.single.enemies.contagious.noturns","La cible subit {DAMAGE} points de dégâts de givre persistants par tour. L'effet contamine les ennemis proches."
 "specials.v2.statuseffect.minor.gamble.all.allies","Tous les alliés reçoivent {ATTACK} % d'attaque et {ACCURACY} % de précision pendant {TURNS} tours."
+"specials.v2.statuseffect.minor.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies.dispelincreasesactivations","Le lanceur passe en forme de fantôme pour {TURNS} tours. Cet effet est obstiné.
+ Quand la forme de fantôme prend fin :
+ Tous les alliés reçoivent {REMOVALEFFECT1STATUSEFFECT1CRIT} % de chances de coup critique pendant {REMOVALEFFECT1STATUSEFFECT1TURNS} tours. Cet effet ne peut pas être dissipé."
+"specials.v2.statuseffect.minor.ghost.single.allies.onremoval.revival.randomdead.allies.expiration.hp_recovery_sable.all.allies.dispel_ailments.all.allies.dispelincreasesactivations","Le lanceur passe en forme de fantôme pour {TURNS} tours. Cet effet est obstiné.
+ Quand la forme de fantôme prend fin :
+ Le lanceur ressuscite un allié vaincu aléatoire avec {REMOVALEFFECT1POWER} % de PV.
+ Tous les alliés récupèrent {REMOVALEFFECT1STATUSEFFECT1TOTAL} PV sur {REMOVALEFFECT1STATUSEFFECT1TURNS} tours.
+ Purifie les effet négatifs de tous les alliés à la fin de chaque tour pendant {REMOVALEFFECT1STATUSEFFECT2TURNS} tours."
 "specials.v2.statuseffect.minor.giftbomb.single.enemies.neartotargetminor.allies.death.expiration","La cible reçoit une bombe cadeau. Après {TURNS} tours, elle explose en infligeant {DAMAGE} points de dégâts à la cible, et {MINORDAMAGE} aux ennemis proches. La bombe cadeau explose également si la cible est vaincue."
 "specials.v2.statuseffect.minor.giftbomb.single.enemies.onremoval.damage.neartotarget.allies.death.expiration","La cible reçoit une bombe cadeau. Après {TURNS} tours, elle explose en infligeant {DAMAGE} points de dégâts à la cible et aux ennemis proches. La bombe cadeau explose également si la cible est vaincue."
 "specials.v2.statuseffect.minor.grapple.single.enemies","Lutte avec la cible. Pendant la lutte, l'attaque normale de la cible tombe à 1, et elle subit {DAMAGE} points de dégâts sur {TURNS} tours."
@@ -2937,6 +2961,7 @@ Lors de la résurrection, tous les ennemis reçoivent {STATUSEFFECT1ACCURACY} %
 "specials.v2.statuseffect.minor.stackingattackmodifier.all.allies.effect_per_eaten_familiar.parasite.bigparasite","Cumul (max : {MAXSTACK}) : tous les alliés reçoivent {ATTACK} % d'attaque supplémentaire pour chaque démon détruit."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies","Cumul (max : {MAXSTACK}) : Le lanceur reçoit {ATTACK} % d'attaque."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.effect_per_eaten_familiar.minion.follower.bigminion","Cumul (max : {MAXSTACK}) : le lanceur reçoit {ATTACK} % d'attaque supplémentaire pour chaque sbire détruit."
+"specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.withbasestackcount","Cumul +{BASESTACKCOUNT} (max : {MAXSTACK}) : Le lanceur reçoit {ATTACK} % d'attaque."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.enemies.chain_strike","Cumul (max : {MAXSTACK}) : chaque coup confère {ATTACK} % d'attaque à sa cible."
 "specials.v2.statuseffect.minor.stackingattackmodifieragainstweakerelement.single.allies","Cumul (max : {MAXSTACK}) : le lanceur reçoit {ATTACK} % d'attaque contre l'élément vulnérable."
 "specials.v2.statuseffect.minor.stackingcritmodifier.all.allies","Cumul (maximum : {MAXSTACK}) : tous les alliés reçoivent {CRIT} % de chances de coup critique."
@@ -2956,6 +2981,7 @@ Lors de la résurrection, tous les ennemis reçoivent {STATUSEFFECT1ACCURACY} %
 "specials.v2.statuseffect.minor.stackingicebound.all.enemies.effect_per_kill.minion.follower","Cumul (max : {MAXSTACK}) : tous les ennemis reçoivent {DAMAGE} dégâts de gel pour chaque ennemi ou sbire ennemi vaincu à la fin de chaque tour."
 "specials.v2.statuseffect.minor.stackingicebound.neartotarget.enemies","Cumul (max : {MAXSTACK}) : la cible et les ennemis à proximité reçoivent {DAMAGE} dégâts de gel à la fin de chaque tour."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies","Cumul (max : {MAXSTACK}) : Tous les alliés reçoivent {MANAREGEN} % de génération de mana."
+"specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies.withbasestackcount","Cumul +{BASESTACKCOUNT} (max : {MAXSTACK}) : Tous les alliés reçoivent {MANAREGEN} % de génération de mana."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies","Cumul (max : {MAXSTACK}) : Tous les ennemis reçoivent {MANAREGEN} % de génération de mana."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies.effect_per_eaten_familiar.minion.follower","Cumul (max : {MAXSTACK}) : tous les ennemis reçoivent {MANAREGEN} % de génération de mana pour chaque sbire détruit."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies.effect_per_kill.minion.follower","Cumul (max : {MAXSTACK}) : tous les ennemis reçoivent {MANAREGEN} % de génération de mana pour chaque ennemi ou sbire ennemi vaincu."
@@ -2964,6 +2990,7 @@ Lors de la résurrection, tous les ennemis reçoivent {STATUSEFFECT1ACCURACY} %
 "specials.v2.statuseffect.minor.stackingminionattackmodifier.all.allies","Cumul (max : {MAXSTACK}) : tous les alliés reçoivent {ATTACK} % d'attaque pour leurs sbires."
 "specials.v2.statuseffect.minor.stackingminionmaxhealthmodifier.all.allies","Cumul (max : {MAXSTACK}) : tous les alliés reçoivent {MAXHEALTH} % de PV hérités pour les nouveaux sbires qu'ils invoquent."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease","Cumul (maximum : {MAXSTACK}) : tous les dégâts subis par les alliés sont réduits de {DAMAGEMODIFIER} %."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease.withbasestackcount","Cumul +{BASESTACKCOUNT} (maximum : {MAXSTACK}) : tous les dégâts subis par les alliés sont réduits de {DAMAGEMODIFIER} %."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies","Cumul (maximum : {MAXSTACK}) : tous les dégâts subis par les ennemis sont augmentés de {DAMAGEMODIFIER} %."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies.withbasestackcount","Cumul +{BASESTACKCOUNT} (maximum : {MAXSTACK}) : tous les dégâts subis par les ennemis sont augmentés de {DAMAGEMODIFIER} %."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.lessthanhalfhpleft.enemies","Cumul (Max : {MAXSTACK}) : les ennemis avec moins de 50 % de points de vie subissent {DAMAGEMODIFIER} % de dégâts."
@@ -2975,6 +3002,7 @@ Lors de la résurrection, tous les ennemis reçoivent {STATUSEFFECT1ACCURACY} %
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.allies.decrease","Cumul (maximum : {MAXSTACK}) : tous les dégâts subis par le lanceur sont réduits de {DAMAGEMODIFIER} %."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies","Cumul (maximum : {MAXSTACK}) : tous les dégâts subis par la cible sont augmentés de {DAMAGEMODIFIER} %."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.chain_strike","Cumul (maximum : {MAXSTACK}) : chaque coup augmente tous les dégâts subis par la cible de {DAMAGEMODIFIER} %."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.withbasestackcount.chain_strike","Cumul +{BASESTACKCOUNT} (maximum : {MAXSTACK}) : chaque coup augmente tous les dégâts subis par la cible de {DAMAGEMODIFIER} %."
 "specials.v2.statuseffect.minor.statuseffectgeneratorstatuseffectskill.allexceptcaster.allies.on.ownturnstart.basic_attack_bluecat.mana_regen_bluecat.dispelincreasesactivations","Source de bienfaits : les effets suivants sont conférés à un allié aléatoire (à l'exception du lanceur) au début de chaque tour :
 {STATUSEFFECT1ATTACK} % d'attaque pendant {STATUSEFFECT1TURNS} tours.
 {STATUSEFFECT2MANAREGEN} % de génération de mana pendant {STATUSEFFECT2TURNS} tours.
@@ -3067,6 +3095,7 @@ Chaque esquive donne à tous les alliés {MANAREGEN} % de génération de mana 
 "specials.v2.statuseffect.minor.toxin.sides.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","Les ennemis sur les bords de leur formation reçoivent {DAMAGE} points de dégâts de toxines en {TURNS} tours. Les dégâts sont plus importants sur les cibles dont la santé est boostée ou qui possèdent des sbires ou des méga sbires."
 "specials.v2.statuseffect.minor.toxin.single.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","La cible reçoit {DAMAGE} points de dégâts de toxines en {TURNS} tours. Les dégâts sont plus importants sur les cibles dont la santé est boostée ou qui possèdent des sbires ou des méga sbires."
 "specials.v2.statuseffect.minor.transcendentalframe.single.allies","Le lanceur passe en forme de fantôme pour {TURNS} tours."
+"specials.v2.statuseffect.minor.transcendentalframe.single.allies.dispelincreasesactivations","Le lanceur passe en forme de fantôme pour {TURNS} tours. Cet effet est obstiné."
 "specials.v2.statuseffect.minor.underwater.all.enemies","Tous les ennemis reçoivent {DAMAGE} dégâts d'eau sur {TURNS} tours."
 "specials.v2.statuseffect.minor.underwater.all.enemies.absorb_healing.to.single","Tous les ennemis reçoivent {DAMAGE} dégâts d'eau en {TURNS} tours. Le lanceur absorbe et se soigne à hauteur de {ABSORBHEALING} % des dégâts d'eau."
 "specials.v2.statuseffect.minor.underwater.neartotarget.enemies","La cible et les ennemis à proximité reçoivent {DAMAGE} dégâts d'eau sur {TURNS} tours."

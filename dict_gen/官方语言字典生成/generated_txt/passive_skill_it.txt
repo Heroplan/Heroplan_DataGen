@@ -279,16 +279,34 @@ Saccheggio:
 
 Nelle battaglie con più ondate, l'effetto si rinnova all'inizio di ogni ondata."
 "herocard.passive_skill.description.redirectlethaldamage.enemies.single.battle","La prima volta che questo personaggio riceve danni fatali, reindirizza il {REDIRECTDAMAGEMULTIPLIER}% di quei danni su un nemico casuale. (Attivazioni rimaste: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled","La prima volta che questo personaggio sta per subire danni fatali, reindirizza invece il {REDIRECTDAMAGEMULTIPLIER}% di quei danni all'attaccante.
+
+Non si attiva se questo personaggio è l'unico membro della propria squadra in battaglia.
+
+Nelle battaglie a più ondate, l'effetto viene aggiornato all'inizio di ogni ondata."
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled.battle","La prima volta che questo personaggio sta per subire danni fatali, reindirizza invece il {REDIRECTDAMAGEMULTIPLIER}% di quei danni all'attaccante (attivazioni rimaste: {ACTIVATIONSLEFT}).
+Non si attiva se questo personaggio è l'unico membro della propria squadra in battaglia."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single","La prima volta che questo personaggio riceve danni fatali, reindirizza quei danni su un nemico casuale.
 
 Nelle battaglie con più ondate, l'effetto si ripristina all'inizio di ogni ondata."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.battle","La prima volta che questo personaggio riceve danni fatali, reindirizza quei danni su un nemico casuale. (Attivazioni rimaste: {ACTIVATIONSLEFT})"
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","La prima volta che questo personaggio sta per subire danni fatali da attacchi normali o Abilità speciali, reindirizza invece all'attaccante fino a {REDIRECTDAMAGELIMIT} danni (attivazioni rimaste: {ACTIVATIONSLEFT})."
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","La prima volta che questo personaggio sta per subire danni fatali da attacchi normali o Abilità speciali, reindirizza invece all'attaccante fino a {REDIRECTDAMAGELIMIT} danni (attivazioni rimaste: {ACTIVATIONSLEFT})."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","La prima volta che questo personaggio sta per subire danni fatali da attacchi normali o Abilità speciali, reindirizza invece fino a {REDIRECTDAMAGELIMIT} danni a un nemico casuale."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","La prima volta che questo personaggio sta per subire danni fatali da attacchi normali o Abilità speciali, reindirizza invece fino a {REDIRECTDAMAGELIMIT} danni a un nemico casuale (attivazioni rimaste: {ACTIVATIONSLEFT})."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled","La prima volta che questo personaggio sta per subire danni fatali da attacchi normali o Abilità speciali, reindirizza invece all'attaccante fino a {REDIRECTDAMAGELIMIT} danni.
+Non si attiva se questo personaggio è l'unico membro della propria squadra in battaglia."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled.battle","La prima volta che questo personaggio sta per subire danni fatali da attacchi normali o Abilità speciali, reindirizza invece all'attaccante fino a {REDIRECTDAMAGELIMIT} danni (attivazioni rimaste: {ACTIVATIONSLEFT}).
+Non si attiva se questo personaggio è l'unico membro della propria squadra in battaglia."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","La prima volta che questo personaggio sta per subire danni fatali da attacchi normali o Abilità speciali, reindirizza invece all'attaccante fino a {REDIRECTDAMAGELIMIT} danni.
 
 Nelle battaglie a più ondate, l'effetto viene aggiornato all'inizio di ogni ondata."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit.battle","La prima volta che questo personaggio sta per subire danni fatali da attacchi normali o Abilità speciali, reindirizza invece all'attaccante fino a {REDIRECTDAMAGELIMIT} danni (attivazioni rimaste: {ACTIVATIONSLEFT})."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled","La prima volta che questo personaggio sta per subire danni fatali, reindirizza invece quei danni all'attaccante.
+
+Non si attiva se questo personaggio è l'unico membro della propria squadra in battaglia.
+
+Nelle battaglie a più ondate, l'effetto viene aggiornato all'inizio di ogni ondata."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled.battle","La prima volta che questo personaggio sta per subire danni fatali, reindirizza invece quei danni all'attaccante (attivazioni rimaste: {ACTIVATIONSLEFT}).
+Non si attiva se questo personaggio è l'unico membro della propria squadra in battaglia."
 "herocard.passive_skill.description.reduceinsanityperturn","All'inizio di ogni turno, la Follia attuale di questo personaggio viene ridotta di {REDUCTION}."
 "herocard.passive_skill.description.reflectresistedstatuseffect.all.enemies","Tutti i disturbi a cui questo personaggio resiste con abilità passive vengono riflessi a tutti i nemici."
 "herocard.passive_skill.description.reflectstatuseffect.with_chance","{CHANCE}% di probabilità extra di riflettere i disturbi all'attaccante."
@@ -908,10 +926,7 @@ Gli scudi di tipo Sacro sul campo di battaglia vengono potenziati e conferiscono
 "herocard.passive_skill.title.received_strong_troop_damage_pve","Riduzione danni truppe"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage","Maestria delle truppe"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage.increase.dragon","Aumento danni di Palla di fuoco potenziato"
-"herocard.passive_skill.title.redirectlethaldamage.enemies.single","Ingannare la morte"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single","Ingannare la morte"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Ingannare la morte"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","Ingannare la morte"
+"herocard.passive_skill.title.redirectlethaldamage","Ingannare la morte"
 "herocard.passive_skill.title.reduceinsanityperturn","Riduzione della Follia"
 "herocard.passive_skill.title.reflectresistedstatuseffect","Riflettore leggendario"
 "herocard.passive_skill.title.remove_growth_from_enemies","Raduno delle guardie"

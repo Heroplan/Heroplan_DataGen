@@ -4293,6 +4293,10 @@ Rozpocząć ekspedycję tą drużyną?"
 "familiar.statuseffect.minor.dispelimmunity.single.allies.noturns.reef_shark_sharpoon.summon","Pomocnik rekin blokuje możliwość zdjęcia lub kradzieży ulepszeń efektów ze statusu."
 "familiar.statuseffect.minor.dispelimmunity.single.allies.noturns.shark_mega_minion_haikala.summon","Mega pomocnik rekin blokuje możliwość zdjęcia lub kradzieży ulepszeń efektów ze statusu."
 "familiar.statuseffect.minor.dispelimmunity.single.allies.while.single.allies.familiaralive.spotted_boar_mega_minion.spotted_boar_mega_minion.summon","Po przywołaniu mega pomocnik cętkowany dzik zapewnia właścicielowi niewrażliwość na odwołania efektów ze statusu przez cały okres posiadania. Efekt nie może być odwołany czarami."
+"familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie.deathbydamage.eatenbycharacter","Po rzuceniu [#!]pełnego usunięcia[#] atakujący przeobraża się w ducha Sowiej Walhalli na okres {TURNS} tur. Ten efekt jest [#!]nieustępliwy.[#]
+[*] Pod postacią Sowiej Walhalli wróg otrzymuje  {DAMAGEPERTURN} pkt. obrażeń w każdej turze."
+"familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.owlkyrie_mayhem.deathbydamage.eatenbycharacter","Po rzuceniu [#!]pełnego usunięcia[#] atakujący przeobraża się w ducha Sowiej Walhalli na okres {TURNS} tur. Ten efekt jest [#!]nieustępliwy.[#]
+[*] Pod postacią Sowiej Walhalli wróg otrzymuje  {DAMAGEPERTURN} pkt. obrażeń w każdej turze."
 "familiar.statuseffect.minor.poison.single.enemies.contagious.sword_guard_mega_minion.turn","Cel trafiony przez mega pomocnika strażnika miecza otrzymuje {DAMAGE} pkt. obrażeń od zatrucia przez {TURNS} tur(y). Efekt przenosi się na pobliskich wrogów."
 "familiar.statuseffect.minor.receiveddamagemodifier.single.enemies.bull.turn","Obrażenia otrzymywane przez cel trafiony przez Byka zostaną zwiększone o {DAMAGEREDUCTION}% na czas {TURNS} tur."
 "familiar.statuseffect.minor.receiveddamagemodifier.single.enemies.butterfly.turn","Wszystkie otrzymywane obrażenia są o {DAMAGEREDUCTION}% większe przez okres {TURNS} tur."
@@ -5968,10 +5972,10 @@ Zapobiega to również zadawaniu obrażeń przez efekty ze statusu i negatywne k
 [*]Bezpieczna kradzież pomija efekty drugorzędne, takie jak obrażenia nakładane przez usuwane wzmocnienia. Efekty zewnętrzne, takie jak umiejętności pasywne i efekty rodziny wciąż mogą zostać aktywowane."
 "herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest","Po rzuceniu swojej umiejętności specjalnej ta postać zyskuje {CHANCE}% szans na
 [*]kradzież losowemu wrogowi ze wzmocnieniami ostatniego odwoływalnego wzmocnienia, lub
-[*]zadanie  {DAMAGE}% obrażeń wszystkim wrogom, jeśli nie ma wzmocnień, które da się ukraść."
+[*]zadanie {DAMAGE}% obrażeń wszystkim wrogom, jeśli nie ma wzmocnień, które da się ukraść."
 "herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest.randomenemytarget","Po rzuceniu swojej umiejętności specjalnej ta postać zyskuje {CHANCE}% szans na
 [*]kradzież losowemu wrogowi ze wzmocnieniami ostatniego odwoływalnego wzmocnienia, lub
-[*]zadanie  {DAMAGE}% obrażeń wszystkim wrogom, jeśli nie ma wzmocnień, które da się ukraść."
+[*]zadanie {DAMAGE}% obrażeń wszystkim wrogom, jeśli nie ma wzmocnień, które da się ukraść."
 "herocard.passive_skill.description.reallocatestatuseffectonspecialcast.heal.always.minordebuff.newest","Po rzuceniu umiejętności specjalnej ta postać przenosi swoje najnowsze oczyszczalne dolegliwości ze statusu na cel. Jeśli umiejętności specjalnej nie można wycelować we wroga, dolegliwości ze statusu są nakładane na losowego przeciwnika. Jeśli ta postać nie ma na sobie żadnych oczyszczalnych dolegliwości ze statusu, regeneruje {HEALTH}% zdrowia."
 "herocard.passive_skill.description.receivedeffectreplacement.minordebuff","[#!]{REPLACEMENTCHANCE}%[#] szans na zastąpienie negatywnych efektów odpowiadającymi im pozytywnymi efektami."
 "herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage","Ta postać otrzymuje mniej obrażeń od oddziałów silniejszego żywiołu.
@@ -5983,16 +5987,34 @@ Zapobiega to również zadawaniu obrażeń przez efekty ze statusu i negatywne k
 
 W bitwach z wieloma falami efekt ten jest odświeżany na początku każdej fali."
 "herocard.passive_skill.description.redirectlethaldamage.enemies.single.battle","Za pierwszym razem, gdy ta postać ma otrzymać śmiertelne obrażenia, przekierowuje {REDIRECTDAMAGEMULTIPLIER}% tych obrażeń na losowego wroga. (Pozostała liczba aktywacji: [#!]{ACTIVATIONSLEFT}[#])"
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled","Gdy ta postać po raz pierwszy otrzyma śmiertelne obrażenia, zamiast tego przekieruje {REDIRECTDAMAGEMULTIPLIER}% tych obrażeń na atakującego.
+
+Nie aktywuje się, jeśli ta postać jest jedynym członkiem drużyny w walce.
+
+W bitwach z wieloma falami efekt odnawia się na początku każdej fali."
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled.battle","Gdy ta postać po raz pierwszy otrzyma śmiertelne obrażenia, zamiast tego przekieruje {REDIRECTDAMAGEMULTIPLIER}% tych obrażeń na atakującego. (Pozostałe aktywacje: [#!]{ACTIVATIONSLEFT}[#])
+Nie aktywuje się, jeśli ta postać jest jedynym członkiem drużyny w walce."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single","Za pierwszym razem, gdy ta postać ma otrzymać śmiertelne obrażenia, przekierowuje je na losowego wroga.
 
 W bitwach z wieloma falami efekt ten jest odświeżany na początku każdej fali."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.battle","Za pierwszym razem, gdy ta postać ma otrzymać śmiertelne obrażenia, przekierowuje je na losowego wroga. (Pozostała liczba aktywacji: [#!]{ACTIVATIONSLEFT}[#])"
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Gdy ta postać po raz pierwszy otrzyma śmiertelne obrażenia od zwykłych ataków lub zdolności specjalnych, zamiast tego odbija na atakującego do {REDIRECTDAMAGELIMIT} pkt. obrażeń. (Liczba pozostałych aktywacji: [#!]{ACTIVATIONSLEFT}[#])"
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","Gdy ta postać po raz pierwszy otrzyma śmiertelne obrażenia od zwykłych ataków lub zdolności specjalnych, zamiast tego odbija na atakującego do {REDIRECTDAMAGELIMIT} pkt. obrażeń. (Liczba pozostałych aktywacji: [#!]{ACTIVATIONSLEFT}[#])"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Gdy ta postać po raz pierwszy otrzyma śmiertelne obrażenia od zwykłych ataków lub umiejętności specjalnych, zamiast tego przekieruje maksymalnie do {REDIRECTDAMAGELIMIT} pkt. obrażeń na losowego wroga."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","Gdy ta postać po raz pierwszy otrzyma śmiertelne obrażenia od zwykłych ataków lub umiejętności specjalnych, zamiast tego przekieruje maksymalnie do {REDIRECTDAMAGELIMIT} pkt. obrażeń na losowego wroga. (Pozostałe aktywacje: [#!]{ACTIVATIONSLEFT}[#])"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled","Gdy ta postać po raz pierwszy otrzyma śmiertelne obrażenia od zwykłych ataków lub umiejętności specjalnych, zamiast tego przekieruje maksymalnie do {REDIRECTDAMAGELIMIT} pkt.obrażeń na atakującego.
+Nie działa, jeśli ta postać jest jedynym członkiem drużyny w walce."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled.battle","Gdy ta postać po raz pierwszy otrzyma śmiertelne obrażenia od zwykłych ataków lub umiejętności specjalnych, zamiast tego przekieruje maksymalnie do {REDIRECTDAMAGELIMIT} obrażeń na atakującego. (Pozostałe aktywacje: [#!]{ACTIVATIONSLEFT}[#])
+Nie aktywuje się, jeśli ta postać jest jedynym członkiem drużyny w walce."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","Gdy ta postać po raz pierwszy otrzyma śmiertelne obrażenia od zwykłych ataków lub zdolności specjalnych, zamiast tego odbija na atakującego maksymalnie {REDIRECTDAMAGELIMIT} pkt. obrażeń.
 
 W bitwach z wieloma falami efekt odnawia się na początku każdej fali."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit.battle","Gdy ta postać po raz pierwszy otrzyma śmiertelne obrażenia od zwykłych ataków lub zdolności specjalnych, zamiast tego odbija na atakującego do {REDIRECTDAMAGELIMIT} pkt. obrażeń. (Liczba pozostałych aktywacji: [#!]{ACTIVATIONSLEFT}[#])"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled","Gdy ta postać po raz pierwszy otrzyma śmiertelne obrażenia, zamiast tego przekieruje te obrażenia na atakującego.
+
+Nie aktywuje się, jeśli ta postać jest jedynym członkiem drużyny w walce.
+
+W bitwach z wieloma falami efekt odnawia się na początku każdej fali."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled.battle","Gdy ta postać po raz pierwszy otrzyma śmiertelne obrażenia, zamiast tego przekieruje te obrażenia na atakującego. (Pozostałe aktywacje: [#!]{ACTIVATIONSLEFT}[#])
+Nie aktywuje się, jeśli ta postać jest jedynym członkiem drużyny w walce."
 "herocard.passive_skill.description.reduceinsanityperturn","Na początku każdej tury bieżący [#!]obłęd[#] tej postaci zostaje zmniejszony o [#!]{REDUCTION}[#]."
 "herocard.passive_skill.description.reflectresistedstatuseffect.all.enemies","Dowolne dolegliwości ze statusu odpierane przez tę postać za pomocą umiejętności pasywnych są odbijane we wszystkich wrogów."
 "herocard.passive_skill.description.reflectstatuseffect.with_chance","[#!]{CHANCE}%[#] dodatkowych szans na odbicie dolegliwości ze statusu do atakującego."
@@ -6612,10 +6634,7 @@ Ta [#!]umiejętność oddziału[#] działa na [#!]wszystkich wrogów[#] przez ca
 "herocard.passive_skill.title.received_strong_troop_damage_pve","Zmniejszenie obrażeń oddziału"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage","Mistrzostwo oddziału"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage.increase.dragon","Silne wzmocnienie obrażeń kuli ognia"
-"herocard.passive_skill.title.redirectlethaldamage.enemies.single","Oszukanie śmierci"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single","Oszukanie śmierci"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Oszukanie śmierci"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","Oszukanie śmierci"
+"herocard.passive_skill.title.redirectlethaldamage","Oszukanie śmierci"
 "herocard.passive_skill.title.reduceinsanityperturn","Zmniejszenie obłędu"
 "herocard.passive_skill.title.reflectresistedstatuseffect","Legendarny odbijacz"
 "herocard.passive_skill.title.remove_growth_from_enemies","Zwarcie szyków"
@@ -17057,7 +17076,7 @@ Spróbuj innym razem."
 "odds.asterisk.info.bonus_pull.event.legendary","[#!]{0}%[#] szans na zdobycie [#!]{1}[#] legendarnego bohatera z wydarzenia w ramach premii"
 "odds.asterisk.info.cutoff.old","Obejmuje bohaterów udostępnionych nie więcej niż [#!]{0}[#] dni przed rozpoczęciem tego wydarzenia"
 "odds.asterisk.info.cutoff.young","Obejmuje bohaterów udostępnionych więcej niż [#!]{0}[#] dni przed rozpoczęciem tego wydarzenia"
-"odds.asterisk.info.cutoff.young.dragon","Zawiera smoki dostępne [#!]{0}[#] dni przed rozpoczęciem tego wydarzenia"
+"odds.asterisk.info.cutoff.young.dragon","Zawiera smoki dostępne ponad [#!]{0}[#] dni przed rozpoczęciem tego wydarzenia."
 "odds.asterisk.info.cutoff.young.old","Obejmuje bohaterów udostępnionych od [#!]{0}[#] do [#!]{1}[#] dni przed rozpoczęciem tego wydarzenia"
 "odds.asterisk.info.excluded.classic","Nie obejmuje klasycznych bohaterów"
 "odds.asterisk.info.excluded.classic_hotm","Nie obejmuje klasycznych i miesięcznych bohaterów"
@@ -23644,8 +23663,8 @@ Możesz wymienić tylko [#ffc3ff]LEGENDARNYCH[#] Bohaterów."
 "specials.name.fierce_pierce","Gwałtowne przebicie"
 "specials.name.fierce_slash","Zaciekły cios"
 "specials.name.fiery_charge","Ognista szarża"
-"specials.name.fiery_performance","Dziki występ"
-"specials.name.fiery_performance_mayhem","Dziki występ"
+"specials.name.fiery_performance","Ognisty występ"
+"specials.name.fiery_performance_mayhem","Ognisty występ"
 "specials.name.fiery_revenge","Paląca zemsta"
 "specials.name.fire_barrier_dragon_pve","Ognista bariera"
 "specials.name.fire_bolt_zidane","Ognisty pocisk"
@@ -24935,8 +24954,8 @@ Możesz wymienić tylko [#ffc3ff]LEGENDARNYCH[#] Bohaterów."
 "specials.name.spilled_decoctions","Rozlane odwary"
 "specials.name.spirit_arrow","Strzała ducha"
 "specials.name.spirit_drain","Wyssanie ducha"
-"specials.name.spirit_of_spring","Duch źródła"
-"specials.name.spirit_of_spring_mayhem","Duch źródła"
+"specials.name.spirit_of_spring","Duch wiosny"
+"specials.name.spirit_of_spring_mayhem","Duch wiosny"
 "specials.name.spirit_of_winter","Duch zimy"
 "specials.name.spirit_rally","Rajd duchów"
 "specials.name.spirited_slash","Duchowe cięcie"
@@ -26365,7 +26384,7 @@ Trafienia krytyczne tą zdolnością specjalną:
 {EFFECTS}"
 "specials.v2.property.enablespecialcriticalhit.extra.with_pvpmaxhealthreduction","Trafienia krytyczne zmniejszają maksymalne zdrowie przeciwników w walkach PvP. Efekt ten jest silniejszy w przypadku wzmocnionego zdrowia."
 "specials.v2.property.enablespecialcriticalhit.extra.with_universalmaxhealthreduction","Trafienia krytyczne zmniejszają maksymalne zdrowie przeciwników. Efekt ten jest silniejszy w przypadku wzmocnionego zdrowia."
-"specials.v2.property.enablespecialcriticalhit.minchance.extra","Szansa na trafienie krytyczne zależy od ogólnych szans na trafienie krytyczne bohatera w chwili zadania obrażeń.Szansa wynosi zawsze co najmniej [#!]{MINCHANCE}%[#].
+"specials.v2.property.enablespecialcriticalhit.minchance.extra","Szansa na trafienie krytyczne zależy od ogólnych szans na trafienie krytyczne bohatera w chwili zadania obrażeń. Szansa wynosi zawsze co najmniej [#!]{MINCHANCE}%[#].
 
 Trafienia krytyczne tą zdolnością specjalną: 
 {EFFECTS}"
@@ -27460,6 +27479,14 @@ Jeśli śluz nie zostanie pokonany w ciągu {CHANGEDAPPEARANCETURNS} tur(y), odr
 [#!]Energiczny taniec fortuny[#]
 {STATUSEFFECTS}
 [*] [#!]Tańce fortuny[#] kumulują się z innymi efektami tańca."
+"specials.v2.statuseffect.minor.abyss.sides.enemies.dispelincreasesactivations","Cele na skrajach formacji wroga przeobrażają się w duchy otchłani na okres {TURNS} tur.
+[*] Pod tą postacią otrzymują {DAMAGEPERTURN} pkt. obrażeń z każdą turą. Ten efekt jest [#!]nieustępliwy.[#]"
+"specials.v2.statuseffect.minor.abyss.single.enemies.dispelincreasesactivations","Cel przeobraża się w ducha otchłani na okres {TURNS} tur. Ten efekt jest [#!]nieustępliwy.[#]
+[*] Pod postacią ducha otłchani zadaje wrogowi {DAMAGEPERTURN} pkt. obrażeń w każdej turze."
+"specials.v2.statuseffect.minor.abyss.single.enemies.onremoval.damage.all.allies.expiration.add_insanity_emilie.dispelincreasesactivations","Cel przeobraża się w ducha otchłani na okres {TURNS} tur. Ten efekt jest [#!]nieustępliwy.[#]
+[*] Pod postacią ducha otłchani zadaje wrogowi {DAMAGEPERTURN} pkt. obrażeń w każdej turze.
+[*] Gdy postać ducha otchłani dobiega końca:
+[*] Zadaje {FIXEDPOWER} pkt. obrażeń wszystkim sojusznikom i nakłada na nich {STATUSEFFECT1INSANITYTOADD} pkt. [#!]obłędu[#]."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies","Wszyscy wrogowie otrzymują {ACCURACY}% do precyzji przez okres {TURNS} tur."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies.dispelincreasesactivations","Wszyscy wrogowie otrzymują {ACCURACY}% do precyzji przez okres {TURNS} tur. Ten efekt jest [#!]nieustępliwy[#]."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies.resetonheal","Wszyscy wrogowie otrzymują {ACCURACY}% do precyzji przez {TURNS} tur(y). Czas trwania efektu zostanie zresetowany w razie wyleczenia celu."
@@ -27874,6 +27901,12 @@ Jeśli śluz nie zostanie pokonany w ciągu {CHANGEDAPPEARANCETURNS} tur(y), odr
 [*][#!]Pożerająca maź:[#] Usuwa wszystkie odwoływalne wzmocnienia i efekty rozrostu, zadaje {BASEDAMAGEPERTURN} pkt. obrażeń co turę i {DAMAGEPERTURNPEREFFECT} pkt. obrażeń za każdy usunięty efekt."
 "specials.v2.statuseffect.minor.devouringgoo.single.enemies.effects.minorbuff.positivebasestatmodifier","Wróg obrany za cel otrzymuje dolegliwość ze statusu pożerająca maź na okres {TURNS} tur.
 [*][#!]Pożerająca maź[#]: Usuwa wszystkie odwoływalne wzmocnienia i efekty rozrostu, zadaje {BASEDAMAGEPERTURN} pkt. obrażeń co turę i {DAMAGEPERTURNPEREFFECT} pkt. obrażeń za każdy usunięty efekt."
+"specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.add_insanity_salvatore.dispelincreasesactivations","Rzucający przeobraża się w strasznego obłąkanego ducha na okres {TURNS} tur. Ten efekt jest [#!]nieustępliwy.[#]
+[*] Pod postacią obłąkanego ducha rzucający automatycznie zadaje {POWER1}% obrażeń i nakłada {STATUSEFFECT1INSANITYTOADD} pkt. [#!]obłędu[#] na losowego wroga w każdej turze.
+[*] Pod tą postacią rzucający może otrzymywać obrażenia od wrogów, których żywioł jest silny przeciwko jego żywiołowi."
+"specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.dispelincreasesactivations","Bohater przeobraża się w strasznego ducha na okres {TURNS} tur. Ten efekt jest [#!]nieustępliwy.[#]
+[*] Pod postacią strasznego ducha automatycznie zadaje {POWER1}% obrażeń przeciw losowemu wrogowi w każdej turze.
+[*] Pod tą postacią rzucający może otrzymywać obrażenia od wrogów, którzych żywioł jest silny przeciwko jego żywiołowi."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff","Na koniec każdej tury oczyszcza dolegliwości ze statusu wszystkich sojuszników przez {TURNS} tur(y)."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.bypassremoveeffects","Na koniec każdej tury bezpiecznie oczyszcza dolegliwości ze statusu wszystkich sojuszników przez {TURNS} tur(y)."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.customremovalcount","Na koniec każdej tury oczyszcza 1 dolegliwość ze statusu wszystkich sojuszników przez {TURNS} tur(y)."
@@ -27955,6 +27988,8 @@ Jeśli śluz nie zostanie pokonany w ciągu {CHANGEDAPPEARANCETURNS} tur(y), odr
 "specials.v2.statuseffect.minor.elementswapovertime.allexceptcaster.allies","Przez okres {TURNS} tur wszyscy sojusznicy, z wyjątkiem rzucającego, są dotknięci efektem [#!]przepływu żywiołów[#]. Ich żywioł zmienia się losowo w każdej turze."
 "specials.v2.statuseffect.minor.elementswapovertime.damage_to_green.all.enemies","Przez okres {TURNS} tur wszyscy wrogowie są dotknięci efektem [#!]przepływu żywiołów[#]. Ich żywioł zmienia się losowo w każdej turze, zadając {DAMAGEPERTURN} obrażeń za każdym razem, gdy ich żywioł zmieni się na [##elementgreen]naturę[#]."
 "specials.v2.statuseffect.minor.elementswapovertime.damage_to_yellow.all.enemies","Przez okres {TURNS} tur wszyscy wrogowie są dotknięci efektem [#!]przepływu żywiołów[#]. Ich żywioł zmienia się losowo w każdej turze, zadając {DAMAGEPERTURN} obrażeń za każdym razem, gdy ich żywioł zmieni się na [##elementyellow]światłość[#]."
+"specials.v2.statuseffect.minor.ethereal.single.allies.dispelincreasesactivations","Bohater przeobraża się w ducha na okres {TURNS} tur.
+[*] Jako duch zyskuje {ATTACK}% do ataku. Ten efekt jest [#!]nieustępliwy.[#]"
 "specials.v2.statuseffect.minor.explodingberserk.single.allies","Rzucający otrzymuje {ATTACK}% do ataku i dodatkowo {CHANGE}% za każdym razem, gdy on lub dowolny sojusznik zostanie trafiony w ciągu {TURNS} tur. Atak może wzrosnąć maksymalnie do {MAXMODIFIER}%. Kiedy efekt się kończy, wszyscy wrogowie otrzymują {DAMAGE} pkt. obrażeń. Każde trafienie rzucającego lub sojusznika podczas trwania efektu zwiększa obrażenia o {ADDITIONALDAMAGEPERHIT} pkt. do maksymalnie {MAXDAMAGE} pkt. obrażeń."
 "specials.v2.statuseffect.minor.extradamageagainstboostedhealth.all.allies.troop.npcnormalattack.specialskill.statuseffectskill","Wszystkie normalne ataki i umiejętności specjalne sojuszników zadają {DAMAGEMULTIPLIER}% obrażeń przeciwko celom ze wzmocnionym zdrowiem przez okres {TURNS} tur."
 "specials.v2.statuseffect.minor.fearstatuseffectskill.all.enemies.on.allyspecial.damage.random.allies","Wszyscy wrogowie zostają [#!]przestraszeni[#] na okres {TURNS} tur."
@@ -28027,6 +28062,14 @@ Jeśli śluz nie zostanie pokonany w ciągu {CHANGEDAPPEARANCETURNS} tur(y), odr
 "specials.v2.statuseffect.minor.frost.single.enemies.contagious","Cel otrzymuje {DAMAGE} pkt. obrażeń od mrozu przez okres {TURNS} tur. Efekt przenosi się na pobliskich wrogów."
 "specials.v2.statuseffect.minor.frost.single.enemies.contagious.noturns","Cel otrzymuje [#!]utrzymujące się[#] obrażenia od mrozu równe {DAMAGE} pkt. na turę. Efekt przenosi się na pobliskich wrogów."
 "specials.v2.statuseffect.minor.gamble.all.allies","Wszyscy sojusznicy otrzymują {ATTACK}% do ataku i {ACCURACY}% do precyzji przez {TURNS} tur(y)."
+"specials.v2.statuseffect.minor.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies.dispelincreasesactivations","Rzucający przeobraża się w ducha na okres {TURNS} tur. Ten efekt jest [#!]nieustępliwy.[#]
+[*] Gdy postać ducha dobiega końca:
+[*] Wszyscy sojusznicy zyskują {REMOVALEFFECT1STATUSEFFECT1CRIT}% szans na trafienie krytyczne na okres {REMOVALEFFECT1STATUSEFFECT1TURNS} tur. Odwołanie tego efektu nie jest możliwe."
+"specials.v2.statuseffect.minor.ghost.single.allies.onremoval.revival.randomdead.allies.expiration.hp_recovery_sable.all.allies.dispel_ailments.all.allies.dispelincreasesactivations","Rzucający przeobraża się w ducha na okres {TURNS} tur. Ten efekt jest [#!]nieustępliwy.[#]
+[*] Gdy postać ducha dobiega końca:
+[*] Rzucający wskrzesza jednego losowego pokonanego sojusznika z {REMOVALEFFECT1POWER}% PŻ. 
+[*] Wszyscy sojusznicy zyskują {REMOVALEFFECT1STATUSEFFECT1TOTAL} pkt. zdrowia w ciągu {REMOVALEFFECT1STATUSEFFECT1TURNS} tur.
+[*] Na koniec każdej tury oczyszcza dolegliwości ze statusu wszystkich sojuszników przez okres {REMOVALEFFECT1STATUSEFFECT2TURNS} tur."
 "specials.v2.statuseffect.minor.giftbomb.single.enemies.neartotargetminor.allies.death.expiration","Cel otrzymuje bombę prezentową, która po {TURNS} turach wybucha, zadając {DAMAGE} pkt. obrażeń celowi oraz {MINORDAMAGE} pkt. obrażeń pobliskim celom. Bomba wybucha również, gdy cel zostanie pokonany."
 "specials.v2.statuseffect.minor.giftbomb.single.enemies.onremoval.damage.neartotarget.allies.death.expiration","Cel otrzymuje bombę prezentową, która po {TURNS} turach wybucha, zadając {DAMAGE} pkt. obrażeń celowi i pobliskim wrogom. Bomba wybucha również, gdy cel zostanie pokonany."
 "specials.v2.statuseffect.minor.grapple.single.enemies","Chwyta cel. Normalny atak chwyconego celu zostaje obniżony do 1 i otrzymuje on {DAMAGE} pkt. obrażeń w ciągu {TURNS} tur."
@@ -28510,6 +28553,7 @@ Jeśli śluz nie zostanie pokonany w ciągu {CHANGEDAPPEARANCETURNS} tur(y), odr
 "specials.v2.statuseffect.minor.stackingattackmodifier.all.allies.effect_per_eaten_familiar.parasite.bigparasite","[#!]Kumulacja (maks.: {MAXSTACK}):[#] Wszyscy sojusznicy otrzymują dodatkowe {ATTACK}% do ataku za każdego zniszczonego potwora."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies","[#!]Kumulacja (maks.: {MAXSTACK}):[#] inicjator otrzymuje {ATTACK}% siły ataku."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.effect_per_eaten_familiar.minion.follower.bigminion","[#!]Kumulacja (maks.: {MAXSTACK}):[#] Rzucający otrzymuje dodatkowe {ATTACK}% do ataku za każdego zniszczonego pomocnika."
+"specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.withbasestackcount","[#!]Kumulacja +{BASESTACKCOUNT} (maks.: {MAXSTACK}):[#] inicjator otrzymuje {ATTACK}% siły ataku."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.enemies.chain_strike","[#!]Kumulacja (maks.: {MAXSTACK}):[#] Każde trafienie daje celowi {ATTACK}% siły ataku."
 "specials.v2.statuseffect.minor.stackingattackmodifieragainstweakerelement.single.allies","[#!]Kumulacja (maks.: {MAXSTACK}):[#] inicjator otrzymuje {ATTACK}% siły ataku przeciwko słabszemu żywiołowi."
 "specials.v2.statuseffect.minor.stackingcritmodifier.all.allies","[#!]Kumulacja (Maks.: {MAXSTACK}):[#] Wszyscy sojusznicy zyskują {CRIT}% szans na trafienie krytyczne."
@@ -28529,6 +28573,7 @@ Jeśli śluz nie zostanie pokonany w ciągu {CHANGEDAPPEARANCETURNS} tur(y), odr
 "specials.v2.statuseffect.minor.stackingicebound.all.enemies.effect_per_kill.minion.follower","[#!]Kumulacja (maks.: {MAXSTACK}):[#] wszyscy wrogowie otrzymują {DAMAGE} pkt. obrażeń od szronu za każdego pokonanego wroga lub pomocnika wroga z końcem każdej tury."
 "specials.v2.statuseffect.minor.stackingicebound.neartotarget.enemies","[#!]Kumulacja (maks.: {MAXSTACK}):[#] cel i pobliscy wrogowie otrzymują {DAMAGE} pkt. obrażeń od szronu z końcem każdej tury."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies","[#!]Kumulacja (maks.: {MAXSTACK}):[#] wszyscy sojusznicy otrzymują {MANAREGEN}% regeneracji many."
+"specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies.withbasestackcount","[#!]Kumulacja +{BASESTACKCOUNT} (maks.: {MAXSTACK}):[#] wszyscy sojusznicy otrzymują {MANAREGEN}% regeneracji many."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies","[#!]Kumulacja (maks.: {MAXSTACK}):[#] wszyscy wrogowie otrzymują {MANAREGEN}% regeneracji many."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies.effect_per_eaten_familiar.minion.follower","[#!]Kumulacja (maks.: {MAXSTACK}):[#] wszyscy wrogowie otrzymują {MANAREGEN}% regeneracji many za każdego zabitego pomocnika."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies.effect_per_kill.minion.follower","[#!]Kumulacja (maks.: {MAXSTACK}):[#] wszyscy wrogowie otrzymują {MANAREGEN}% regeneracji many za każdego pokonanego wroga lub pomocnika wroga."
@@ -28537,6 +28582,7 @@ Jeśli śluz nie zostanie pokonany w ciągu {CHANGEDAPPEARANCETURNS} tur(y), odr
 "specials.v2.statuseffect.minor.stackingminionattackmodifier.all.allies","[#!]Kumulacja (maks.: {MAXSTACK}):[#] Wszyscy sojusznicy otrzymują {ATTACK}% do ataku za swoich pomocników."
 "specials.v2.statuseffect.minor.stackingminionmaxhealthmodifier.all.allies","[#!]Kumulacja (maks.: {MAXSTACK}):[#] Wszyscy sojusznicy zyskują {MAXHEALTH}% przejętych PŻ za nowych wezwanych pomocników."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease","[#!]Kumulacja (maks.: {MAXSTACK}):[#] Wszystkie obrażenia odnoszone przez wszystkich sojuszników są zredukowane o {DAMAGEMODIFIER}%."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease.withbasestackcount","[#!]Kumulacja +{BASESTACKCOUNT} (maks.: {MAXSTACK}):[#] Wszystkie obrażenia odnoszone przez wszystkich sojuszników są zredukowane o {DAMAGEMODIFIER}%."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies","[#!]Kumulacja (Maks.: {MAXSTACK}):[#] Wszystkie obrażenia odnoszone przez wszystkich wrogów są o {DAMAGEMODIFIER}% większe."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies.withbasestackcount","[#!]Kumulacja +{BASESTACKCOUNT} (Maks.: {MAXSTACK}):[#] Wszystkie obrażenia odnoszone przez wszystkich wrogów są o {DAMAGEMODIFIER}% większe."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.lessthanhalfhpleft.enemies","[#!]Kumulacja (maks.: {MAXSTACK}):[#] Wrogowie, którzy mają mniej niż 50% zdrowia, otrzymują {DAMAGEMODIFIER}% obrażeń."
@@ -28548,6 +28594,7 @@ Jeśli śluz nie zostanie pokonany w ciągu {CHANGEDAPPEARANCETURNS} tur(y), odr
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.allies.decrease","[#!]Kumulacja (maks.: {MAXSTACK}):[#] Wszystkie obrażenia odnoszone przez rzucającego są zmniejszone o {DAMAGEMODIFIER}%."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies","[#!]Kumulacja (Maks.: {MAXSTACK}):[#] Wszystkie obrażenia odnoszone przez cel są o {DAMAGEMODIFIER}% większe."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.chain_strike","[#!]Kumulacja (Maks.: {MAXSTACK}):[#] Każde trafienie zwiększa wszystkie obrażenia odnoszone przez cel o {DAMAGEMODIFIER}%"
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.withbasestackcount.chain_strike","[#!]Kumulacja +{BASESTACKCOUNT} (Maks.: {MAXSTACK}):[#] Każde trafienie zwiększa wszystkie obrażenia odnoszone przez cel o {DAMAGEMODIFIER}%"
 "specials.v2.statuseffect.minor.statuseffectgeneratorstatuseffectskill.allexceptcaster.allies.on.ownturnstart.basic_attack_bluecat.mana_regen_bluecat.dispelincreasesactivations","[#!]Źródło wzmocnień:[#] Na losowego sojusznika z wyjątkiem rzucającego co turę rzucane są następujące efekty:
 [*]{STATUSEFFECT1ATTACK}% do ataku na okres {STATUSEFFECT1TURNS} tur.
 [*]{STATUSEFFECT2MANAREGEN}% do regeneracji many na okres {STATUSEFFECT2TURNS} tur.
@@ -28640,6 +28687,7 @@ Jeśli śluz nie zostanie pokonany w ciągu {CHANGEDAPPEARANCETURNS} tur(y), odr
 "specials.v2.statuseffect.minor.toxin.sides.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","Wrogowie na skraju formacji przeciwnika otrzymują {DAMAGE} pkt. obrażeń od [#!]toksyn[#] przez okres {TURNS} tur. Obrażenia są zwiększone przeciwko celom ze wzmocnionym zdrowiem, pomocnikami lub mega pomocnikiem."
 "specials.v2.statuseffect.minor.toxin.single.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","Cel otrzymuje {DAMAGE} pkt. obrażeń od [#!]toksyn[#] w ciągu {TURNS} tur. Obrażenia są zwiększone przeciwko celom ze wzmocnionym zdrowiem, pomocnikami lub mega pomocnikiem."
 "specials.v2.statuseffect.minor.transcendentalframe.single.allies","Rzucający przeobraża się w ducha na okres {TURNS} tur."
+"specials.v2.statuseffect.minor.transcendentalframe.single.allies.dispelincreasesactivations","Rzucający przeobraża się w ducha na okres {TURNS} tur. Ten efekt jest [#!]nieustępliwy.[#]"
 "specials.v2.statuseffect.minor.underwater.all.enemies","Wszyscy przeciwnicy otrzymują {DAMAGE} obrażeń od wody przez {TURNS} tur(y)."
 "specials.v2.statuseffect.minor.underwater.all.enemies.absorb_healing.to.single","Wszyscy wrogowie odnoszą {DAMAGE} pkt. obrażeń od wody przez okres {TURNS} tur. Rzucający pochłania {ABSORBHEALING}% zadanych obrażeń od wody w postaci PŻ."
 "specials.v2.statuseffect.minor.underwater.neartotarget.enemies","Cel i pobliscy wrogowie otrzymują {DAMAGE} obrażeń od wody w ciągu {TURNS} tur."
@@ -29124,9 +29172,9 @@ Po upływie [#!]{TURNS}[#] tur:
 "statuseffects.description.debuffshield.while.single.allies.familiaralive.mask_minion","Odporność na nowe dolegliwości ze statusu. (Aktywne, dopóki ta postać posiada [#!]zamaskowanego pomocnika[#])"
 "statuseffects.description.debuffshield.while.single.allies.familiaralive.wooden_doll_jolyon","Odporność na nowe dolegliwości ze statusu. (Aktywne, dopóki ta postać posiada [#!]pomocnika drewnianą lalkę[#])"
 "statuseffects.description.debuffshield.withactivationcount","Niewrażliwość na nowe osłabienia ze statusu. (Pozostałe aktywacje: [#!]{ACTIVATIONSLEFT}[#])"
-"statuseffects.description.debuffshield.withactivationcount.heal","Niewrażliwość na nowe dolegliwości ze statusu. Odzyskiwanie {POWER} pkt. zdrowia za każdą próbę nałożenia dolegliwości ze statusu. (Pozostałe aktywacje: [#!]{ACTIVATIONSLEFT}[#])"
-"statuseffects.description.debuffshield.withactivationcount.one","Niewrażliwość na nowe osłabienia ze statusu. (Pozostałe aktywacje: [#!]{ACTIVATIONSLEFT}[#])"
-"statuseffects.description.debuffshield.withactivationcount.one.heal","Niewrażliwość na nowe dolegliwości ze statusu. Odzyskiwanie {POWER} pkt. zdrowia za każdą próbę nałożenia dolegliwości ze statusu. (Pozostałe aktywacje: [#!]{ACTIVATIONSLEFT}[#])"
+"statuseffects.description.debuffshield.withactivationcount.heal","Niewrażliwość na nowe negatywne efekty ze statusu. Odzyskiwanie {POWER} pkt. zdrowia za każdą próbę nałożenia dolegliwości ze statusu. (Pozostałe aktywacje: [#!]{ACTIVATIONSLEFT}[#])"
+"statuseffects.description.debuffshield.withactivationcount.one","Niewrażliwość na nowe negatywne efekty ze statusu. (Pozostałe aktywacje: [#!]{ACTIVATIONSLEFT}[#])"
+"statuseffects.description.debuffshield.withactivationcount.one.heal","Niewrażliwość na nowe negatywne efekty ze statusu. Odzyskiwanie {POWER} pkt. zdrowia za każdą próbę nałożenia dolegliwości ze statusu. (Pozostałe aktywacje: [#!]{ACTIVATIONSLEFT}[#])"
 "statuseffects.description.deepsleep.removeondamagereceived","[#!]Głęboki sen[#]. Nie może atakować. Nie może otrzymywać many. Odnoszone obrażenia są zwiększone o [#!]{DAMAGEMODIFIER}%[#]. Ta postać budzi się, gdy odniesie łącznie {TOTALDAMAGE} pkt. obrażeń. (Pozostałe obrażenia: {DAMAGELEFT} pkt.)"
 "statuseffects.description.defenderelementweakener","Słabość obrony przeciw: {WEAKELEMENT}, {ADDITIONALWEAKELEMENT}."
 "statuseffects.description.defensebuffimmunity","Nie może otrzymywać ulepszeń efektów ze statusu wpływających na obronę."

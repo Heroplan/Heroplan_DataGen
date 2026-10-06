@@ -279,16 +279,34 @@
 
 في المعارك التي تتكوّن من عدّة موجات، يُعاد تفعيل هذا التأثير في بداية كل موجة."
 "herocard.passive_skill.description.redirectlethaldamage.enemies.single.battle","في المرة الأولى التي تتلقى فيها هذه الشخصية ضررًا قاتلًا، تُحوِّل  {REDIRECTDAMAGEMULTIPLIER}% من ذلك الضرر إلى عدو عشوائي بدلًا من ذلك. (عمليات التفعيل المتبقية: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled","في المرة الأولى التي تتلقّى فيها هذه الشخصية ضررًا قاتلًا، تُحوِّل {REDIRECTDAMAGEMULTIPLIER}% من الضرر إلى المهاجم بدلًا من ذلك.
+
+لا يتم التفعيل إذا كانت هذه الشخصية هي العضو الوحيد من فريقها في المعركة.
+
+في المعارك التي تتكوّن من عدّة موجات، يُعاد تفعيل هذا التأثير في بداية كل موجة."
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled.battle","في المرة الأولى التي تتلقّى فيها هذه الشخصية ضررًا قاتلًا، تُحوِّل {REDIRECTDAMAGEMULTIPLIER}% من الضرر إلى المهاجم بدلًا من ذلك. (عمليات التنشيط المتبقية: {ACTIVATIONSLEFT})
+لا يتم التفعيل إذا كانت هذه الشخصية هي العضو الوحيد من فريقها في المعركة."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single","في المرة الأولى التي تتلقّى فيها هذه الشخصية ضررًا قاتلًا، تُحوِّل ذلك الضرر إلى عدو عشوائي  بدلًا من ذلك.
 
 في المعارك التي تتكوّن من عدّة موجات، يُعاد تفعيل هذا التأثير في بداية كل موجة."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.battle","في المرة الأولى التي تتلقى فيها هذه الشخصية ضررًا قاتلًا، تُحوِّل ذلك الضرر إلى عدو عشوائي بدلًا من ذلك. (عمليات التفعيل المتبقية: {ACTIVATIONSLEFT})"
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","في المرة الأولى التي تتلقى فيها هذه الشخصية ضررًا قاتلًا من الهجمات العادية أو المهارات الخاصة، تُحوِّل حتى {REDIRECTDAMAGELIMIT} من الضرر إلى المهاجم. (عمليات التنشيط المتبقية: {ACTIVATIONSLEFT})"
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","في المرة الأولى التي تتلقى فيها هذه الشخصية ضررًا قاتلًا من الهجمات العادية أو المهارات الخاصة، تُحوِّل حتى {REDIRECTDAMAGELIMIT} من الضرر إلى المهاجم. (عمليات التنشيط المتبقية: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","في المرة الأولى التي تتلقى فيها هذه الشخصية ضررًا قاتلًا من الهجمات العادية أو المهارات الخاصة، تُحوِّل حتى {REDIRECTDAMAGELIMIT} من الضرر إلى عدو عشوائي."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","في المرة الأولى التي تتلقى فيها هذه الشخصية ضررًا قاتلًا من الهجمات العادية أو المهارات الخاصة، تُحوِّل حتى {REDIRECTDAMAGELIMIT} من الضرر إلى عدو عشوائي. (عمليات التنشيط المتبقية: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled","في المرة الأولى التي تتلقى فيها هذه الشخصية ضررًا قاتلًا من الهجمات العادية أو المهارات الخاصة، تُحوِّل حتى {REDIRECTDAMAGELIMIT} من الضرر إلى المهاجم.
+لا يتم التفعيل إذا كانت هذه الشخصية هي العضو الوحيد من فريقها في المعركة."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled.battle","في المرة الأولى التي تتلقى فيها هذه الشخصية ضررًا قاتلًا من الهجمات العادية أو المهارات الخاصة، تُحوِّل حتى {REDIRECTDAMAGELIMIT} من الضرر إلى المهاجم.(عمليات التنشيط المتبقية: {ACTIVATIONSLEFT})
+لا يتم التفعيل إذا كانت هذه الشخصية هي العضو الوحيد من فريقها في المعركة."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","في المرة الأولى التي تتلقى فيها هذه الشخصية ضررًا قاتلًا من الهجمات العادية أو المهارات الخاصة، تُحوِّل حتى {REDIRECTDAMAGELIMIT} من الضرر إلى المهاجم.
 
 في المعارك ذات الموجات المتعددة، يتجدد هذا التأثير في بداية كل موجة."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit.battle","في المرة الأولى التي تتلقى فيها هذه الشخصية ضررًا قاتلًا من الهجمات العادية أو المهارات الخاصة، تُحوِّل حتى {REDIRECTDAMAGELIMIT} من الضرر إلى المهاجم. (عمليات التنشيط المتبقية: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled","في المرة الأولى التي تتلقّى فيها هذه الشخصية ضررًا قاتلًا، تُحوِّل ذلك الضرر إلى المهاجم بدلًا من ذلك.
+
+لا يتم التفعيل إذا كانت هذه الشخصية هي العضو الوحيد من فريقها في المعركة.
+
+في المعارك التي تتكوّن من عدّة موجات، يُعاد تفعيل هذا التأثير في بداية كل موجة."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled.battle","في المرة الأولى التي تتلقّى فيها هذه الشخصية ضررًا قاتلًا، تُحوِّل ذلك الضرر إلى المهاجم بدلًا من ذلك. (عمليات التنشيط المتبقية: {ACTIVATIONSLEFT})
+لا يتم التفعيل إذا كانت هذه الشخصية هي العضو الوحيد من فريقها في المعركة."
 "herocard.passive_skill.description.reduceinsanityperturn","في بداية كل جولة، يتم تقليل الجنون الحالي لهذه الشخصية بمقدار {REDUCTION}."
 "herocard.passive_skill.description.reflectresistedstatuseffect.all.enemies","أي حالات أمراض تقاومها هذه الشخصية باستخدام المهارات الكامنة تنعكس على جميع الأعداء."
 "herocard.passive_skill.description.reflectstatuseffect.with_chance","فرصة إضافية بنسبة {CHANCE}% لتعكس الأمراض إلى المهاجم."
@@ -562,7 +580,19 @@
 
 شرير ضخم مزدهر: 
 {EVOLVINGFAMILIAR3FAMILIARATTACK}% هجوم، {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% صحة."
-"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","يستدعي شرير بذرة كل جولة إلى عدو عشوائي. يتطور الشرير البذرة إلى شرير برعم بعد {EVOLVINGFAMILIAR1EVOLVETURNS} من الجولات. يتطور شرير البرعم إلى شرير ضخم مزدهر بعد {EVOLVINGFAMILIAR2EVOLVETURNS} من الجولات. يتأخر تطور الأشرار بمقدار {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} من الجولات في كل مرة يمتصوا فيها التعافي. لا يمكن أن يتطور الأشرار إلى أشرار ضخام إذا كان هناك أتباع على نفس البطل.  شرير البذرة: {EVOLVINGFAMILIAR1FAMILIARATTACK}% هجوم، {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% صحة.  شرير البرعم: {EVOLVINGFAMILIAR2FAMILIARATTACK}% هجوم، {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% صحة.  شرير ضخم مزدهر:  {EVOLVINGFAMILIAR3FAMILIARATTACK}% هجوم، {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% صحة."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","يستدعي شرير البذرة كل جولة إلى عدو عشوائي.
+يتطور شرير البذرة إلى شرير برعم بعد {EVOLVINGFAMILIAR1EVOLVETURNS} من الجولات.
+يتطور شرير البرعم إلى شرير ضخم مزدهر بعد {EVOLVINGFAMILIAR2EVOLVETURNS} من الجولات.
+يتأخر تطور الأشرار بمقدار {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} من الجولات في كل مرة يمتصون فيها التعافي.
+
+شرير البذرة:
+{EVOLVINGFAMILIAR1FAMILIARATTACK}% هجوم، {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% صحة.
+
+شرير البرعم:
+{EVOLVINGFAMILIAR2FAMILIARATTACK}% هجوم، {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% صحة.
+
+شرير ضخم مزدهر:
+{EVOLVINGFAMILIAR3FAMILIARATTACK}% هجوم، {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% صحة."
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies.blocked_by.minion","يستدعي شرير البذرة كل جولة إلى عدو عشوائي.
 يتطور شرير البذرة إلى شرير برعم بعد {EVOLVINGFAMILIAR1EVOLVETURNS} من الجولات.
 يتطور شرير البرعم إلى شرير ضخم مزدهر بعد {EVOLVINGFAMILIAR2EVOLVETURNS} من الجولات.
@@ -885,10 +915,7 @@
 "herocard.passive_skill.title.received_strong_troop_damage_pve","خفض ضرر القوات"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage","براعة القوات"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage.increase.dragon","زيادة في ضرر الكرة النارية القوية"
-"herocard.passive_skill.title.redirectlethaldamage.enemies.single","خداع الموت"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single","خداع الموت"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","خداع الموت"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","خداع الموت"
+"herocard.passive_skill.title.redirectlethaldamage","خداع الموت"
 "herocard.passive_skill.title.reduceinsanityperturn","تقليل الجنون"
 "herocard.passive_skill.title.reflectresistedstatuseffect","عاكس أسطوري"
 "herocard.passive_skill.title.remove_growth_from_enemies","تجمّع الحراس"

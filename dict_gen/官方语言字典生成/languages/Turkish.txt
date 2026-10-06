@@ -2157,7 +2157,7 @@ Sıyrık"
 "beta.import.description","Oyuncu Desteğinden aldığın içe aktarma kodunu kullan"
 "beta_only.purchase.free","Beta için ücretsiz"
 "black.summon.guaranteed_ascended_hero","Garantili Yükselmiş Kahraman"
-"blackfriday.summon.guaranteed_ascended_hero","Garantili [##specialpowerorange]Yükselmiş[#] Kahraman"
+"blackfriday.summon.guaranteed_ascended_hero","Garantili [##SPECIALPOWERORANGE]Yükselmiş[#] Kahraman"
 "blessings.message.no_blessings","Henüz bir kutsama seçmedin."
 "blessings.message.yours","Bu [#!]Kutsamalar[#] tüm Kahramanlarına buff verir."
 "blessings.title","Kutsamalar"
@@ -4287,6 +4287,10 @@ Keşif bu Grup ile başlatılsın mı?"
 "familiar.statuseffect.minor.dispelimmunity.single.allies.noturns.reef_shark_sharpoon.summon","Köpek Balığı Hizmetkarı, durum efekti buff'larını bozulmaya veya çalınmaya karşı engeller."
 "familiar.statuseffect.minor.dispelimmunity.single.allies.noturns.shark_mega_minion_haikala.summon","Mega Köpek Balığı Hizmetkarı, durum efekti buff'larının bozulmasını veya çalınmasını engeller."
 "familiar.statuseffect.minor.dispelimmunity.single.allies.while.single.allies.familiaralive.spotted_boar_mega_minion.spotted_boar_mega_minion.summon","Benekli Domuz Mega Hizmetkarı çağrıldığında, sahibi Benekli Domuz Mega Hizmetkarına sahip olduğu sürece sahibine efekt bozmalarına karşı bağışıklık verir. Bu efekt bozulamaz."
+"familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie.deathbydamage.eatenbycharacter","[#!]Tam Kaldırma[#] uygulandıktan sonra saldırgan {TURNS} tur boyunca Bayhalla Hayaleti formuna dönüşür. Bu efekt [#!]İnatçıdır.[#]
+[*] Bayhalla Hayaleti formundayken hedef her turda {DAMAGEPERTURN} hasar alır."
+"familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.owlkyrie_mayhem.deathbydamage.eatenbycharacter","[#!]Tam Kaldırma[#] uygulandıktan sonra saldırgan {TURNS} tur boyunca Bayhalla Hayaleti formuna dönüşür. Bu efekt [#!]İnatçıdır.[#]
+[*] Bayhalla Hayaleti formundayken hedef her turda {DAMAGEPERTURN} hasar alır."
 "familiar.statuseffect.minor.poison.single.enemies.contagious.sword_guard_mega_minion.turn","Kılıç Muhafızı Mega Hizmetkarı tarafından vurulan hedef {TURNS} tur boyunca {DAMAGE} Zehir hasarı alır. Bu efekt, yakındaki düşmanlara yayılır."
 "familiar.statuseffect.minor.receiveddamagemodifier.single.enemies.bull.turn","Boğa Hizmetkarın vurduğu hedef, {TURNS} tur boyunca %{DAMAGEREDUCTION} daha fazla hasar alır."
 "familiar.statuseffect.minor.receiveddamagemodifier.single.enemies.butterfly.turn","Alınan tüm hasar {TURNS} boyunca %{DAMAGEREDUCTION} artırılır."
@@ -5953,7 +5957,7 @@ Ayrıca durum engellerinin ve olumsuz istiflerin diğer müttefiklere etkilenen 
 "herocard.passive_skill.description.preventboostedhealth.all.enemies","Düşmanların sağlığı maks. sağlıklarını geçemez."
 "herocard.passive_skill.description.ransack.activates_on_ally_action.does_not_activate_on_owner_action.from.mostbuffs.enemies.to.single.allies.activates_on_specialcast","Başka bir müttefik bir Özel Yetenek uyguladığında bu karakter, en çok buff'a sahip olan düşmanı [#!]Yağmalar[#]:
 
-[*][#!]{DAMAGE}[#] çalar.
+[*][#!]{DAMAGE}[#] sağllık çalar.
 [*]Düşmandan bir buff'ı güvenli bir şekilde çalar. Buna bozulamaz buff'lar ve Dans efektleri dâhildir."
 "herocard.passive_skill.description.ransack.from.single.enemies.to.single.allies.activates_on_startofturn","Bu karakter, her turun başında rastgele bir düşmanı [#!]Yağmalar[#]:
 
@@ -5982,16 +5986,34 @@ Ayrıca durum engellerinin ve olumsuz istiflerin diğer müttefiklere etkilenen 
 
 Birden çok dalganın olduğu savaşlarda efekt, her dalganın başında yenilenir."
 "herocard.passive_skill.description.redirectlethaldamage.enemies.single.battle","Bu karakter ilk kez ölümcül hasar aldığında hasar almak yerine bu hasarın %{REDIRECTDAMAGEMULTIPLIER} kadarını rastgele bir düşmana yansıtır. (Kalan etkinleştirme: [#!]{ACTIVATIONSLEFT}[#])"
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled","Bu karakter, ilk defa ölümcül bir hasar aldığında bunun yerine o hasarın %{REDIRECTDAMAGEMULTIPLIER} kadarını saldırgana yönlendirir.
+
+Bu karakter, savaşta takımının tek üyesiyse etkinleşmez.
+
+Birden çok dalganın olduğu savaşlarda efekt, her dalganın başında yenilenir."
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled.battle","Bu karakter, ilk defa ölümcül bir hasar aldığında bunun yerine o hasarın %{REDIRECTDAMAGEMULTIPLIER} kadarını saldırgana yönlendirir. (Kalan etkinleştirmeler: [#!]{ACTIVATIONSLEFT}[#])
+Bu karakter, savaşta takımının tek üyesiyse etkinleşmez."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single","Bu karakter, ilk defa ölümcül bir hasar aldığında o hasarı rastgele bir düşmana yönlendirir.
 
 Birden çok dalganın olduğu savaşlarda efekt, her dalganın başında yenilenir."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.battle","Bu karakter ilk kez ölümcül hasar aldığında hasar almak yerine bu hasarı rastgele bir düşmana yansıtır. (Kalan etkinleştirme: [#!]{ACTIVATIONSLEFT}[#])"
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Bu karakter, normal saldırılardan veya Özel Yeteneklerden ilk kez ölümcül hasar aldığında hasar almak yerine bu hasarın en fazla {REDIRECTDAMAGELIMIT} kadarını saldırgana yönlendirir. (Kalan etkinleştirme: [#!]{ACTIVATIONSLEFT}[#])"
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","Bu karakter, normal saldırılardan veya Özel Yeteneklerden ilk kez ölümcül hasar aldığında hasar almak yerine bu hasarın en fazla {REDIRECTDAMAGELIMIT} kadarını saldırgana yönlendirir. (Kalan etkinleştirme: [#!]{ACTIVATIONSLEFT}[#])"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Bu karakter, normal saldırılardan veya Özel Yeteneklerden ilk kez ölümcül hasar aldığında hasar almak yerine bu hasarın en fazla {REDIRECTDAMAGELIMIT} kadarını rastgele bir düşmana yönlendirir."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","Bu karakter, normal saldırılardan veya Özel Yeteneklerden ilk kez ölümcül hasar aldığında hasar almak yerine bu hasarın en fazla {REDIRECTDAMAGELIMIT} kadarını rastgele bir düşmana yönlendirir. (Kalan etkinleştirme: [#!]{ACTIVATIONSLEFT}[#])"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled","Bu karakter, normal saldırılardan veya Özel Yeteneklerden ilk kez ölümcül hasar aldığında hasar almak yerine bu hasarın en fazla {REDIRECTDAMAGELIMIT} kadarını saldırgana yönlendirir.
+Bu karakter, savaşta takımının tek üyesiyse etkinleşmez."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled.battle","Bu karakter, normal saldırılardan veya Özel Yeteneklerden ilk kez ölümcül hasar aldığında hasar almak yerine bu hasarın en fazla {REDIRECTDAMAGELIMIT} kadarını saldırgana yönlendirir. (Kalan etkinleştirme: [#!]{ACTIVATIONSLEFT}[#])
+Bu karakter, savaşta takımının tek üyesiyse etkinleşmez."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","Bu karakter, normal saldırılardan veya Özel Yeteneklerden ilk defa ölümcül bir hasar aldığında bunun yerine o hasarın en fazla {REDIRECTDAMAGELIMIT} kadarını saldırgana yönlendirir.
 
 Birden çok dalganın olduğu savaşlarda efekt, her dalganın başında yenilenir."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit.battle","Bu karakter, normal saldırılardan veya Özel Yeteneklerden ilk kez ölümcül hasar aldığında hasar almak yerine bu hasarın en fazla {REDIRECTDAMAGELIMIT} kadarını saldırgana yönlendirir. (Kalan etkinleştirme: [#!]{ACTIVATIONSLEFT}[#])"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled","Bu karakter, ilk defa ölümcül bir hasar aldığında bunun yerine o hasarı saldırgana yönlendirir.
+
+Bu karakter, savaşta takımının tek üyesiyse etkinleşmez.
+
+Birden çok dalganın olduğu savaşlarda efekt, her dalganın başında yenilenir."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled.battle","Bu karakter, ilk defa ölümcül bir hasar aldığında bunun yerine o hasarı saldırgana yönlendirir. (Kalan etkinleştirmeler: [#!]{ACTIVATIONSLEFT}[#])
+Bu karakter, savaşta takımının tek üyesiyse etkinleşmez."
 "herocard.passive_skill.description.reduceinsanityperturn","Her turun başında bu karakterin mevcut [#!]Deliliği[#] [#!]{REDUCTION}[#] azaltılır."
 "herocard.passive_skill.description.reflectresistedstatuseffect.all.enemies","Bu karakterin Pasif Yeteneklerle direndiği tüm durum engelleri, tüm düşmanlara yansıtılır."
 "herocard.passive_skill.description.reflectstatuseffect.with_chance","Durum engellerini saldırgana geri yansıtmak için [#!]%{CHANCE}[#] ekstra şans."
@@ -6611,10 +6633,7 @@ Bu Kahraman, Özel Yeteneğini uyguladığında panodaki [##elementyellow]Kutsal
 "herocard.passive_skill.title.received_strong_troop_damage_pve","Birlik Hasarı Azaltma"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage","Birlik Ustalığı"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage.increase.dragon","Güçlü Ateş Topu Hasarı Artışı"
-"herocard.passive_skill.title.redirectlethaldamage.enemies.single","Ölümü Atlat"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single","Ölümü Atlat"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Ölümü Atlat"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","Ölümü Atlat"
+"herocard.passive_skill.title.redirectlethaldamage","Ölümü Atlat"
 "herocard.passive_skill.title.reduceinsanityperturn","Deliliği Azalt"
 "herocard.passive_skill.title.reflectresistedstatuseffect","Efsanevi Yansıtıcı"
 "herocard.passive_skill.title.remove_growth_from_enemies","Muhafız Seferberliği"
@@ -13071,7 +13090,7 @@ Daha fazla bilgi için hemen aşağıdaki bağlantıya dokun!"
 "lottery.description.banner.seasonalpremiumsummon.beachparty","Her çağrıda [#ffce60]10 Güneşkoyu Ruhu[#] al!"
 "lottery.description.banner.seasonalpremiumsummon.lunarnewyear","Her çağrıda [#ffce60]10 Talih Ruhu[#] al!"
 "lottery.description.birthdaysummon","[#ffc3ff]ÖNE ÇIKAN[#] Kahramanlarını [#!]seç[#]!"
-"lottery.description.blacksolsticesummon.free_ascension_levels","Çağırdığın her kahraman için [##specialpowerorange]ÜCRETSİZ[#] yükseliş seviyeleri alırsın!"
+"lottery.description.blacksolsticesummon.free_ascension_levels","Çağırdığın her kahraman için [##SPECIALPOWERORANGE]ÜCRETSİZ[#] yükseliş seviyeleri alırsın!"
 "lottery.description.blacksummon","TÜM ETKİNLİKLERDEN Kahramanlar için ÜCRETSİZ yükseliş seviyeleri!"
 "lottery.description.blacksummon.alt","Tüm etkinliklerden güncel Kahramanlar!"
 "lottery.description.blacksummon.free_ascension_levels","Çağırdığın her kahraman için [##elementpurple]ÜCRETSİZ[#] yükseliş seviyeleri alırsın!"
@@ -27467,6 +27486,14 @@ Balçık {CHANGEDAPPEARANCETURNS} turda yenilemezse Balçığın sağlığını 
 [#!]Coşkun Talih Dansı[#]
 {STATUSEFFECTS}
 [*][#!]Talih Dansları[#], diğer Dans efektleriyle istiflenir."
+"specials.v2.statuseffect.minor.abyss.sides.enemies.dispelincreasesactivations","Düşman oluşumunun kenarlarındaki düşmanlar, {TURNS} tur boyunca Boşluk Hayaleti formuna dönüşür.
+[*] Boşluk Hayaleti formundayken hedefler her turda {DAMAGEPERTURN} hasar alır. Bu efekt [#!]İnatçıdır.[#]"
+"specials.v2.statuseffect.minor.abyss.single.enemies.dispelincreasesactivations","Hedef, {TURNS} tur boyunca Boşluk Hayaleti formuna dönüşür. Bu efekt [#!]İnatçıdır.[#]
+[*] Boşluk Hayaleti formundayken hedef her turda {DAMAGEPERTURN} hasar alır."
+"specials.v2.statuseffect.minor.abyss.single.enemies.onremoval.damage.all.allies.expiration.add_insanity_emilie.dispelincreasesactivations","Hedef, {TURNS} tur boyunca Boşluk Hayaleti formuna dönüşür. Bu efekt [#!]İnatçıdır.[#]
+[*] Boşluk Hayaleti formundayken hedef her turda {DAMAGEPERTURN} hasar alır.
+[*] Boşluk Hayaleti formunun süresi dolduğunda:
+[*] Tüm müttefiklere {FIXEDPOWER} hasar verir ve onlara {STATUSEFFECT1INSANITYTOADD} [#!]Delilik[#] etkisi uygular."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies","Tüm düşmanlar {TURNS} tur boyunca %{ACCURACY} isabetlilik alır."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies.dispelincreasesactivations","Tüm düşmanlar {TURNS} tur boyunca %{ACCURACY} isabetlilik alır. Bu efekt [#!]İnatçıdır[#]."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies.resetonheal","Tüm düşmanlar {TURNS} tur boyunca %{ACCURACY} isabetlilik alır. Hedef iyileştirilirse efekt süresi sıfırlanır."
@@ -27881,6 +27908,12 @@ Balçık {CHANGEDAPPEARANCETURNS} turda yenilemezse Balçığın sağlığını 
 [*][#!]Yok Eden Sıvı:[#] Tüm bozulabilen buff'ları ve Büyüme efektlerini kaldırır. Tur başına {BASEDAMAGEPERTURN} hasar verir ve kaldırılan her efekt için ek {DAMAGEPERTURNPEREFFECT} hasar verir."
 "specials.v2.statuseffect.minor.devouringgoo.single.enemies.effects.minorbuff.positivebasestatmodifier","Hedef düşman, {TURNS} tur boyunca Yok Eden Sıvı durum engelini alır.
 [*][#!]Yok Eden Sıvı:[#] Tüm bozulabilen buff'ları ve Büyüme efektlerini kaldırır. Tur başına {BASEDAMAGEPERTURN} hasar verir ve kaldırılan her efekt için ek {DAMAGEPERTURNPEREFFECT} hasar verir."
+"specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.add_insanity_salvatore.dispelincreasesactivations","Eylemci, {TURNS} tur boyunca Dengesiz Ulu Hayalet formuna dönüşür. Bu efekt [#!]İnatçıdır.[#]
+[*] Dengesiz Ulu Hayalet formundayken eylemci, %{POWER1} hasar verir ve her turda rastgele bir düşmana {STATUSEFFECT1INSANITYTOADD} [#!]Delilik[#] etkisi verir.
+[*] Dengesiz Ulu Hayalet formundayken eylemci, kendinden daha güçlü bir elemente sahip olan düşmanlardan hasar alabilir."
+"specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.dispelincreasesactivations","Eylemci, {TURNS} tur boyunca Dengesiz Ulu Hayalet formuna dönüşür. Bu efekt [#!]İnatçıdır.[#]
+[*] Eylemci, Dengesiz Ulu Hayalet formundayken otomatik olarak her turda rastgele bir düşmana %{POWER1} hasar verir.
+[*] Dengesiz Ulu Hayalet formundayken eylemci, elementi kendininkinden daha güçlü düşmanlardan hasar alabilir."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff","{TURNS} tur boyunca tur sonunda tüm müttefiklerden durum engellemelerini arındırır."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.bypassremoveeffects","{TURNS} tur boyunca tur sonunda tüm müttefiklerden durum engellemelerini güvenli bir şekilde arındırır."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.customremovalcount","{TURNS} tur boyunca tur sonunda tüm müttefiklerden 1 durum engelini arındırır."
@@ -27962,6 +27995,8 @@ Balçık {CHANGEDAPPEARANCETURNS} turda yenilemezse Balçığın sağlığını 
 "specials.v2.statuseffect.minor.elementswapovertime.allexceptcaster.allies","Eylemci dışında tüm müttefiklere {TURNS} boyunca [#!]Elementer Akış[#] uygulanır. Her tur, elementleri rastgele değişir."
 "specials.v2.statuseffect.minor.elementswapovertime.damage_to_green.all.enemies","Tüm düşmanlara {TURNS} tur boyunca [#!]Elementer Akış[#] uygulanır. Her tur, elementleri rastgele değişir ve [##elementgreen]Doğa[#] elementine her geçişte {DAMAGEPERTURN} hasar verir."
 "specials.v2.statuseffect.minor.elementswapovertime.damage_to_yellow.all.enemies","Tüm düşmanlara {TURNS} tur boyunca [#!]Elementer Akış[#] uygulanır. Her tur, elementleri rastgele değişir ve [##elementyellow]Kutsal[#] elemente her geçişte {DAMAGEPERTURN} hasar verir."
+"specials.v2.statuseffect.minor.ethereal.single.allies.dispelincreasesactivations","Eylemci {TURNS} tur boyunca Hayalet formuna dönüşür.
+[*] Hayalet formundayken eylemci %{ATTACK} saldırı kazanır. Bu efekt [#!]İnatçıdır.[#]"
 "specials.v2.statuseffect.minor.explodingberserk.single.allies","Eylemci %{ATTACK} saldırı alır. {TURNS} tur içinde kendisi veya müttefiklerinden herhangi birine vurulursa fazladan %{CHANGE} saldırı eklenir, maksimum %{MAXMODIFIER} saldırı olabilir. Bu efekt sona erdiğinde tüm düşmanlar {DAMAGE} hasar alır. Süre esnasında kullanan kişiye veya müttefiklerine uygulanan her vuruş, hasarı {ADDITIONALDAMAGEPERHIT} ile maksimum {MAXDAMAGE} arası artırır."
 "specials.v2.statuseffect.minor.extradamageagainstboostedhealth.all.allies.troop.npcnormalattack.specialskill.statuseffectskill","{TURNS} tur boyunca tüm müttefiklerin normal saldırıları ve Özel Yetenekleri, güçlendirilmiş sağlığı olan hedeflere %{DAMAGEMULTIPLIER} hasar verir."
 "specials.v2.statuseffect.minor.fearstatuseffectskill.all.enemies.on.allyspecial.damage.random.allies","Tüm düşmanlar {TURNS} tur boyunca [#!]Korkuya[#] yenik düşer."
@@ -28035,6 +28070,14 @@ Balçık {CHANGEDAPPEARANCETURNS} turda yenilemezse Balçığın sağlığını 
 "specials.v2.statuseffect.minor.frost.single.enemies.contagious","Hedef {TURNS} tur boyunca {DAMAGE} Ayaz hasarı alır. Bu efekt, yakındaki düşmanlara yayılır."
 "specials.v2.statuseffect.minor.frost.single.enemies.contagious.noturns","Hedef, tur başına [#!]kalıcı[#] {DAMAGE} Ayaz hasarı alır. Bu efekt, yakındaki düşmanlara yayılır."
 "specials.v2.statuseffect.minor.gamble.all.allies","Tüm müttefikler {TURNS} tur boyunca %{ACCURACY} isabetliliği bulunan %{ATTACK} saldırı alır."
+"specials.v2.statuseffect.minor.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies.dispelincreasesactivations","Eylemci {TURNS} boyunca Hayalet formuna dönüşür. Bu efekt [#!]İnatçıdır.[#]
+[*] Hayalet formun süresi dolduğunda:
+[*] Tüm müttefikler {REMOVALEFFECT1STATUSEFFECT1TURNS} tur boyunca %{REMOVALEFFECT1STATUSEFFECT1CRIT} kritik şans alır. Bu efekt bozulamaz."
+"specials.v2.statuseffect.minor.ghost.single.allies.onremoval.revival.randomdead.allies.expiration.hp_recovery_sable.all.allies.dispel_ailments.all.allies.dispelincreasesactivations","Eylemci, {TURNS} tur boyunca Hayalet formuna dönüşür. Bu efekt [#!]İnatçıdır.[#]
+[*] Hayalet formunun süresi dolduğunda:
+[*] Eylemci, yenilmiş rastgele bir müttefiki %{REMOVALEFFECT1POWER} SP ile diriltir. 
+[*] Tüm müttefikler {REMOVALEFFECT1STATUSEFFECT1TURNS} tur boyunca {REMOVALEFFECT1STATUSEFFECT1TOTAL} sağlık kazanır.
+[*] {REMOVALEFFECT1STATUSEFFECT2TURNS} tur boyunca her turun sonunda tüm müttefiklerden durum engellerini arındırır."
 "specials.v2.statuseffect.minor.giftbomb.single.enemies.neartotargetminor.allies.death.expiration","Hedef bir Hediye Bombası alır. {TURNS} tur sonra Bomba patlayarak hedefe {DAMAGE}, yakındaki hedeflere de {MINORDAMAGE} hasar verir. Ayrıca Bomba, hedef yenildiğinde de patlar."
 "specials.v2.statuseffect.minor.giftbomb.single.enemies.onremoval.damage.neartotarget.allies.death.expiration","Hedef bir Hediye Bombası alır. {TURNS} tur sonra Bomba patlayarak hedefe ve yakındaki düşmanlara {DAMAGE} hasar verir. Ayrıca Bomba, hedef yenildiğinde de patlar."
 "specials.v2.statuseffect.minor.grapple.single.enemies","Hedefi kıskaca alır. Kıskaca alınmışken hedefin normal saldırısı 1'e düşer ve hedef {TURNS} tur boyunca {DAMAGE} hasar alır."
@@ -28524,6 +28567,7 @@ Balçık {CHANGEDAPPEARANCETURNS} turda yenilemezse Balçığın sağlığını 
 "specials.v2.statuseffect.minor.stackingattackmodifier.all.allies.effect_per_eaten_familiar.parasite.bigparasite","[#!]İstif (Maks.: {MAXSTACK}):[#] Tüm müttefikler, yok edilen her Canavar için ek %{ATTACK} saldırı alır."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies","[#!]İstif (Maks.: {MAXSTACK}):[#] Eylemci her turda %{ATTACK} saldırı alır."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.effect_per_eaten_familiar.minion.follower.bigminion","[#!]İstif (Maks.: {MAXSTACK}):[#] Eylemci, yok edilen her Hizmetkar için ek %{ATTACK} saldırı alır."
+"specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.withbasestackcount","[#!]İstif +{BASESTACKCOUNT} (Maks.: {MAXSTACK}):[#] Eylemci her turda %{ATTACK} saldırı alır."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.enemies.chain_strike","[#!]İstif (Maks.: {MAXSTACK}):[#] Her darbe, hedefine %{ATTACK} saldırı verir."
 "specials.v2.statuseffect.minor.stackingattackmodifieragainstweakerelement.single.allies","[#!]İstif (Maks.: {MAXSTACK}):[#] Eylemci zayıf elemente karşı %{ATTACK} saldırı alır."
 "specials.v2.statuseffect.minor.stackingcritmodifier.all.allies","[#!]İstif (Maks.: {MAXSTACK}):[#] Tüm müttefikler %{CRIT} kritik şansı alır."
@@ -28543,6 +28587,7 @@ Balçık {CHANGEDAPPEARANCETURNS} turda yenilemezse Balçığın sağlığını 
 "specials.v2.statuseffect.minor.stackingicebound.all.enemies.effect_per_kill.minion.follower","[#!]İstif (Maks.: {MAXSTACK}):[#] Tüm düşmanlar her turun sonunda, yenilen her düşman veya düşman Hizmetkarı için {DAMAGE} Ayaz hasarı alır."
 "specials.v2.statuseffect.minor.stackingicebound.neartotarget.enemies","[#!]İstif (Maks.: {MAXSTACK}):[#] Her turun sonunda hedef ve yakındaki düşmanlar {DAMAGE} Ayaz hasarı alır."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies","[#!]İstif (Maks.: {MAXSTACK}):[#] Tüm müttefikler %{MANAREGEN} mana üretimi alır."
+"specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies.withbasestackcount","[#!]İstif +{BASESTACKCOUNT} (Maks.: {MAXSTACK}):[#] Tüm müttefikler %{MANAREGEN} mana üretimi alır."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies","[#!]İstif (Maks.: {MAXSTACK}):[#] Tüm düşmanlar %{MANAREGEN} mana üretimi alır."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies.effect_per_eaten_familiar.minion.follower","[#!]İstif (Maks.: {MAXSTACK}):[#] Tüm düşmanlar, yok edilen her Hizmetkar için %{MANAREGEN} mana üretimi alır."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies.effect_per_kill.minion.follower","[#!]İstif (Maks.: {MAXSTACK}):[#] Tüm düşmanlar, yenilen her düşman veya düşman Hizmetkarı için %{MANAREGEN} mana üretimi alır."
@@ -28551,6 +28596,7 @@ Balçık {CHANGEDAPPEARANCETURNS} turda yenilemezse Balçığın sağlığını 
 "specials.v2.statuseffect.minor.stackingminionattackmodifier.all.allies","[#!]İstif (Maks.: {MAXSTACK}):[#] Tüm müttefikler, Hizmetkarları için %{ATTACK} saldırı alır."
 "specials.v2.statuseffect.minor.stackingminionmaxhealthmodifier.all.allies","[#!]İstif (Maks.: {MAXSTACK}):[#] Tüm müttefikler, çağırdıkları yeni Hizmetkarlar için miras alınan %{MAXHEALTH} SP alırlar."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease","[#!]İstif (Maks: {MAXSTACK}):[#] Tüm müttefiklerin aldığı tüm hasar %{DAMAGEMODIFIER} azaltılır."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease.withbasestackcount","[#!]İstif +{BASESTACKCOUNT} (Maks: {MAXSTACK}):[#] Tüm müttefiklerin aldığı tüm hasar %{DAMAGEMODIFIER} azaltılır."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies","[#!]İstif (Maks: {MAXSTACK}):[#] Tüm düşmanların aldığı tüm hasar %{DAMAGEMODIFIER} artırılır."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies.withbasestackcount","[#!]İstif +{BASESTACKCOUNT} (Maks: {MAXSTACK}):[#] Tüm düşmanların aldığı tüm hasar %{DAMAGEMODIFIER} artırılır."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.lessthanhalfhpleft.enemies","[#!]İstif (Maks.: {MAXSTACK}):[#] Kalan sağlığı %50'den az olan düşmanlar, %{DAMAGEMODIFIER} hasar alır."
@@ -28562,6 +28608,7 @@ Balçık {CHANGEDAPPEARANCETURNS} turda yenilemezse Balçığın sağlığını 
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.allies.decrease","[#!]İstif (Maks: {MAXSTACK}):[#] Eylemcinin aldığı tüm hasar %{DAMAGEMODIFIER} azaltılır."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies","[#!]İstif (Maks: {MAXSTACK}):[#] Hedefin aldığı tüm hasar %{DAMAGEMODIFIER} artırılır."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.chain_strike","[#!]İstif (Maks: {MAXSTACK}):[#] Her vuruş, hedefin aldığı tüm hasarı %{DAMAGEMODIFIER} artırır"
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.withbasestackcount.chain_strike","[#!]İstif +{BASESTACKCOUNT} (Maks: {MAXSTACK}):[#] Her vuruş, hedefin aldığı tüm hasarı %{DAMAGEMODIFIER} artırır"
 "specials.v2.statuseffect.minor.statuseffectgeneratorstatuseffectskill.allexceptcaster.allies.on.ownturnstart.basic_attack_bluecat.mana_regen_bluecat.dispelincreasesactivations","[#!]Buff Kaynağı:[#] Her turun başında eylemci hariç rastgele bir müttefike aşağıdaki efektler uygulanır:
 [*]{STATUSEFFECT1TURNS} tur boyunca %{STATUSEFFECT1ATTACK} saldırı.
 [*]{STATUSEFFECT2TURNS} tur boyunca %{STATUSEFFECT2MANAREGEN} mana üretimi. 
@@ -28654,6 +28701,7 @@ Balçık {CHANGEDAPPEARANCETURNS} turda yenilemezse Balçığın sağlığını 
 "specials.v2.statuseffect.minor.toxin.sides.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","Düşman oluşumunun kenarlarındaki düşmanlar {TURNS} tur boyunca {DAMAGE} [#!]Toksin hasarı[#] alır. Güçlendirilmiş sağlığa, Hizmetkarlara veya Mega Hizmetkara sahip bir hedefe verilen hasar artar."
 "specials.v2.statuseffect.minor.toxin.single.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","Hedef {TURNS} tur boyunca {DAMAGE} [#!]Toksin[#] hasarı alır. Güçlendirilmiş sağlığa, Hizmetkarlara veya Mega Hizmetkara sahip hedeflere verilen hasar artar."
 "specials.v2.statuseffect.minor.transcendentalframe.single.allies","Eylemci {TURNS} tur boyunca Hayalet formuna dönüşür."
+"specials.v2.statuseffect.minor.transcendentalframe.single.allies.dispelincreasesactivations","Eylemci {TURNS} tur boyunca Hayalet formuna dönüşür. Bu efekt [#!]İnatçıdır.[#]"
 "specials.v2.statuseffect.minor.underwater.all.enemies","Tüm düşmanlar {DAMAGE} Su hasarı alır - {TURNS} tur boyunca."
 "specials.v2.statuseffect.minor.underwater.all.enemies.absorb_healing.to.single","Tüm düşmanlar {TURNS} tur boyunca {DAMAGE} Su hasarı alır. Eylemci, verilen Su hasarının %{ABSORBHEALING} kadarını sağlık olarak emer."
 "specials.v2.statuseffect.minor.underwater.neartotarget.enemies","Hedef ve yakındaki düşmanlar {TURNS} tur boyunca {DAMAGE} Su hasarı alır."

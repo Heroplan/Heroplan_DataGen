@@ -299,16 +299,36 @@ PvPモードでクリティカル攻撃を出すと、ターゲットの最大HP
 
 複数回ウェーブのある戦闘では、この効果は各ウェーブの最初にリセットされる。"
 "herocard.passive_skill.description.redirectlethaldamage.enemies.single.battle","初めてこのキャラクターが致命的なダメージを受けた場合、そのダメージの{REDIRECTDAMAGEMULTIPLIER}%をランダムな敵1体にはね返す（発動残り回数：{ACTIVATIONSLEFT}）。"
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled","初めてこのキャラクターが致命的なダメージを受けた場合、そのダメージの{REDIRECTDAMAGEMULTIPLIER}%を攻撃者に跳ね返す。
+
+バトルにおいてこのキャラクターが唯一のチームメンバーの場合は発動しない。
+
+複数回ウェーブのある戦闘では、この効果は各ウェーブの最初にリセットされる。"
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled.battle","初めてこのキャラクターが致命的なダメージを受けた場合、そのダメージの{REDIRECTDAMAGEMULTIPLIER}%を攻撃者に跳ね返す。（残り発動回数：{ACTIVATIONSLEFT}）
+
+バトルにおいてこのキャラクターが唯一のチームメンバーの場合は発動しない。"
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single","初めてこのキャラクターが致命的なダメージを受けた場合、そのダメージをランダムな敵1体にはね返す。
 
 複数回ウェーブのある戦闘では、この効果は各ウェーブの最初にリセットされる。"
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.battle","初めてこのキャラクターが致命的なダメージを受けた場合、そのダメージをランダムな敵1体にはね返す（発動残り回数：{ACTIVATIONSLEFT}）。"
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","初めてこのキャラクターが通常攻撃または特殊スキルによる致命的なダメージを受けた場合、その攻撃者に最大{REDIRECTDAMAGELIMIT}ダメージを跳ね返す（発動残り回数：{ACTIVATIONSLEFT}）。"
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","初めてこのキャラクターが通常攻撃または特殊スキルによる致命的なダメージを受けた場合、その攻撃者に最大{REDIRECTDAMAGELIMIT}ダメージを跳ね返す（発動残り回数：{ACTIVATIONSLEFT}）。"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","初めてこのキャラクターが通常攻撃または特殊スキルによる致命的なダメージを受けた場合、ランダムな敵1体に最大{REDIRECTDAMAGELIMIT}ダメージを跳ね返す。"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","初めてこのキャラクターが通常攻撃または特殊スキルによる致命的なダメージを受けた場合、ランダムな敵1体に最大{REDIRECTDAMAGELIMIT}ダメージを跳ね返す（発動残り回数：{ACTIVATIONSLEFT}）。"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled","初めてこのキャラクターが通常攻撃または特殊スキルによる致命的なダメージを受けた場合、その攻撃者に最大{REDIRECTDAMAGELIMIT}ダメージを跳ね返す。
+バトルにおいてこのキャラクターが唯一のチームメンバーの場合は発動しない。"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled.battle","初めてこのキャラクターが通常攻撃または特殊スキルによる致命的なダメージを受けた場合、その攻撃者に最大{REDIRECTDAMAGELIMIT}ダメージを跳ね返す。（残り発動回数：{ACTIVATIONSLEFT}）
+バトルにおいてこのキャラクターが唯一のチームメンバーの場合は発動しない。"
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","初めてこのキャラクターが通常攻撃または特殊スキルによる致命的なダメージを受けた場合、その攻撃者に最大{REDIRECTDAMAGELIMIT}ダメージを跳ね返す。
 
 複数回ウェーブのある戦闘では、この効果は各ウェーブの最初にリセットされる。"
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit.battle","初めてこのキャラクターが通常攻撃または特殊スキルによる致命的なダメージを受けた場合、その攻撃者に最大{REDIRECTDAMAGELIMIT}ダメージを跳ね返す（発動残り回数：{ACTIVATIONSLEFT}）。"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled","初めてこのキャラクターが致命的なダメージを受けた場合、そのダメージを攻撃者に跳ね返す。
+
+バトルにおいてこのキャラクターが唯一のチームメンバーの場合は発動しない。
+
+複数回ウェーブのある戦闘では、この効果は各ウェーブの最初にリセットされる。"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled.battle","初めてこのキャラクターが致命的なダメージを受けた場合、そのダメージを攻撃者に跳ね返す。（残り発動回数：{ACTIVATIONSLEFT}）
+
+バトルにおいてこのキャラクターが唯一のチームメンバーの場合は発動しない。"
 "herocard.passive_skill.description.reduceinsanityperturn","各ターン開始時に、このキャラクターの現在の狂気が{REDUCTION}減少する。"
 "herocard.passive_skill.description.reflectresistedstatuseffect.all.enemies","パッシブスキルによって、このキャラクターが抵抗したステータス異常が敵全員に跳ね返る。"
 "herocard.passive_skill.description.reflectstatuseffect.with_chance","ステータス異常を攻撃者に反射する確率がさらに{CHANCE}%上昇。"
@@ -931,10 +951,7 @@ PvPモードでクリティカル攻撃を出すと、ターゲットの最大HP
 "herocard.passive_skill.title.received_strong_troop_damage_pve","兵団ダメージ軽減"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage","兵団の達人"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage.increase.dragon","強化ファイヤーボールダメージ増加"
-"herocard.passive_skill.title.redirectlethaldamage.enemies.single","九死に一生"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single","九死に一生"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","九死に一生"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","九死に一生"
+"herocard.passive_skill.title.redirectlethaldamage","九死に一生"
 "herocard.passive_skill.title.reduceinsanityperturn","狂気を減少させる"
 "herocard.passive_skill.title.reflectresistedstatuseffect","レジェンドリフレクター"
 "herocard.passive_skill.title.remove_growth_from_enemies","ガードラリー"

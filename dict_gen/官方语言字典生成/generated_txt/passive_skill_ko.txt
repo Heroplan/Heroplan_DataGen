@@ -281,16 +281,34 @@ PvP 모드에서 치명타는 대상의 최대 HP를 감소시킵니다. 증폭�
 
 여러 공세의 전투에서는 각 공세 시작 시 효과가 초기화됩니다."
 "herocard.passive_skill.description.redirectlethaldamage.enemies.single.battle","이 캐릭터가 처음으로 치명적인 피해를 받을 경우, 해당 피해의 {REDIRECTDAMAGEMULTIPLIER}%를 무작위 적 1명에게 대신 전가합니다. (남은 발동 횟수: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled","이 캐릭터가 처음 치명적인 피해를 받게 될 때, 대신 해당 피해의 {REDIRECTDAMAGEMULTIPLIER}%를 공격자에게 돌려줍니다.
+
+전투 중 이 캐릭터가 팀의 유일한 구성원인 경우 발동하지 않습니다.
+
+여러 웨이브로 구성된 전투에서는 각 웨이브 시작 시 이 효과가 갱신됩니다."
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled.battle","이 캐릭터가 처음 치명적인 피해를 받게 될 때, 대신 해당 피해의 {REDIRECTDAMAGEMULTIPLIER}%를 공격자에게 돌려줍니다. (남은 발동 횟수: {ACTIVATIONSLEFT})
+전투 중 이 캐릭터가 팀의 유일한 구성원인 경우 발동하지 않습니다."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single","이 캐릭터가 치명적인 피해를 처음으로 받으면, 대신 피해를 무작위로 적 하나에게 되돌려 줍니다.
 
 여러 공세가 있는 전투의 경우 다음 공세에 효과가 갱신됩니다."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.battle","이 캐릭터가 치명적인 피해를 처음으로 받으면, 대신 피해를 무작위로 적 하나에게 되돌려 줍니다. (남은 활성화: {ACTIVATIONSLEFT})"
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","이 캐릭터가 일반 공격이나 특수 스킬로 처음 치명적인 피해를 받게 될 때, 대신 공격자에게 최대 {REDIRECTDAMAGELIMIT}의 피해를 돌려줍니다. (남은 발동 횟수: {ACTIVATIONSLEFT})"
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","이 캐릭터가 일반 공격이나 특수 스킬로 처음 치명적인 피해를 받게 될 때, 대신 공격자에게 최대 {REDIRECTDAMAGELIMIT}의 피해를 돌려줍니다. (남은 발동 횟수: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","이 캐릭터가 일반 공격이나 특수 스킬로 처음 치명적인 피해를 받게 될 때, 대신 최대 {REDIRECTDAMAGELIMIT}의 피해를 무작위 적에게 돌려줍니다."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","이 캐릭터가 일반 공격이나 특수 스킬로 처음 치명적인 피해를 받게 될 때, 대신 최대 {REDIRECTDAMAGELIMIT}의 피해를 무작위 적에게 돌려줍니다. (남은 발동 횟수: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled","이 캐릭터가 일반 공격이나 특수 스킬로 처음 치명적인 피해를 받게 될 때, 대신 최대 {REDIRECTDAMAGELIMIT}의 피해를 공격자에게 돌려줍니다.
+전투 중 이 캐릭터가 팀의 유일한 구성원인 경우 발동하지 않습니다."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled.battle","이 캐릭터가 일반 공격이나 특수 스킬로 처음 치명적인 피해를 받게 될 때, 대신 최대 {REDIRECTDAMAGELIMIT}의 피해를 공격자에게 돌려줍니다. (남은 발동 횟수: {ACTIVATIONSLEFT})
+전투 중 이 캐릭터가 팀의 유일한 구성원인 경우 발동하지 않습니다."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","이 캐릭터가 일반 공격이나 특수 스킬로 처음 치명적인 피해를 받게 될 때, 대신 공격자에게 최대 {REDIRECTDAMAGELIMIT}의 피해를 돌려줍니다.
 
 여러 웨이브로 구성된 전투에서는 각 웨이브 시작 시 이 효과가 갱신됩니다."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit.battle","이 캐릭터가 일반 공격이나 특수 스킬로 처음 치명적인 피해를 받게 될 때, 대신 공격자에게 최대 {REDIRECTDAMAGELIMIT}의 피해를 돌려줍니다. (남은 발동 횟수: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled","이 캐릭터가 처음 치명적인 피해를 받게 될 때, 대신 해당 피해를 공격자에게 돌려줍니다.
+
+전투 중 이 캐릭터가 팀의 유일한 구성원인 경우 발동하지 않습니다.
+
+여러 웨이브로 구성된 전투에서는 각 웨이브 시작 시 이 효과가 갱신됩니다."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled.battle","이 캐릭터가 처음 치명적인 피해를 받게 될 때, 대신 해당 피해를 공격자에게 돌려줍니다. (남은 발동 횟수: {ACTIVATIONSLEFT})
+전투 중 이 캐릭터가 팀의 유일한 구성원인 경우 발동하지 않습니다."
 "herocard.passive_skill.description.reduceinsanityperturn","매 턴 시작 시 이 캐릭터의 현재 광기가 {REDUCTION} 감소합니다."
 "herocard.passive_skill.description.reflectresistedstatuseffect.all.enemies","이 캐릭터가 패시브 스킬로 저항한 모든 상태 이상은 모든 적에게 반사됩니다."
 "herocard.passive_skill.description.reflectstatuseffect.with_chance","{CHANCE}%의 추가 확률로 상태 이상 효과를 공격자에게 돌려보냅니다."
@@ -910,10 +928,7 @@ PvP 모드에서 치명타는 대상의 최대 HP를 감소시킵니다. 증폭�
 "herocard.passive_skill.title.received_strong_troop_damage_pve","부대 피해 감소"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage","부대 숙련도"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage.increase.dragon","강력한 화염구 피해 증가"
-"herocard.passive_skill.title.redirectlethaldamage.enemies.single","죽음 속이기"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single","죽음 속이기"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","죽음 속이기"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","죽음 속이기"
+"herocard.passive_skill.title.redirectlethaldamage","죽음 속이기"
 "herocard.passive_skill.title.reduceinsanityperturn","광기 감소"
 "herocard.passive_skill.title.reflectresistedstatuseffect","전설 반사자"
 "herocard.passive_skill.title.remove_growth_from_enemies","경비병 집결"

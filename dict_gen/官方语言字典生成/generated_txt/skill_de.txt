@@ -1249,27 +1249,27 @@ Ein Feind fügt seinem Ziel jede Runde Schaden zu. Ein Feind verschwindet, nachd
 Die Entwicklung der Feinde wird jedes Mal, wenn sie Heilung absorbieren, um {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} Runden verzögert.
 Feinde können sich nicht zu Megafeinden entwickeln, wenn der Held bereits Lakaien hat."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.evolving_seedling_parasite.blocked_by.minion.extra","Der Setzling-Feind entwickelt sich nach {EVOLVINGFAMILIAR1EVOLVETURNS} Runden zu einem Spross-Feind.
- Der Spross-Feind entwickelt sich nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden zu einem Mega-Blütenfeind.
+Der Spross-Feind entwickelt sich nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden zu einem Mega-Blütenfeind.
 
  Setzling-Feind: {EVOLVINGFAMILIAR1FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % Leben.
  Spross-Feind: {EVOLVINGFAMILIAR2FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % Leben.
  Mega-Blütenfeind: {EVOLVINGFAMILIAR3FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % Leben.
 
-Ein Feind fügt seinem Ziel in jedem Zug Schaden zu. Ein Feind verschwindet, nachdem er Heilung absorbiert hat. Die benötigte Menge an Heilung hängt vom maximalen Lebens des Ziels ab.
+Ein Feind fügt seinem Ziel in jedem Zug Schaden zu. Ein Feind verschwindet, nachdem er Heilung absorbiert hat. Die benötigte Menge an Heilung hängt vom maximalen Leben des Ziels ab.
 Feinde können sich nicht zu Megafeinden entwickeln, wenn es Lakaien desselben Helden gibt."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.evolving_seedling_parasite.extra","Der Setzling-Feind entwickelt sich nach {EVOLVINGFAMILIAR1EVOLVETURNS} Runden zu einem Spross-Feind.
- Der Spross-Feind entwickelt sich nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden zu einem Mega-Blütenfeind.
+Der Spross-Feind entwickelt sich nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden zu einem Mega-Blütenfeind.
 
  Setzling-Feind: {EVOLVINGFAMILIAR1FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % Leben.
  Spross-Feind: {EVOLVINGFAMILIAR2FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % Leben.
  Mega-Blütenfeind: {EVOLVINGFAMILIAR3FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % Leben.
 
-Ein Feind fügt seinem Ziel in jedem Zug Schaden zu. Ein Feind verschwindet, nachdem er Heilung absorbiert hat. Die benötigte Menge an Heilung hängt vom maximalen Lebens des Ziels ab."
+Ein Feind fügt seinem Ziel in jedem Zug Schaden zu. Ein Feind verschwindet, nachdem er Heilung absorbiert hat. Die benötigte Menge an Heilung hängt vom maximalen Leben des Ziels ab."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.evolving_seedling_parasite_with_delay.blocked_by.minion.extra","Der Setzling-Feind entwickelt sich nach {EVOLVINGFAMILIAR1EVOLVETURNS} Runden zu einem Spross-Feind.
 Der Spross-Feind entwickelt sich nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden zu einem Mega-Blütenfeind.
 
- Setzling-Feind: {EVOLVINGFAMILIAR1FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % Gesundheit.
- Spross-Feind: {EVOLVINGFAMILIAR2FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % Gesundheit.
+ Setzling-Feind: {EVOLVINGFAMILIAR1FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % Leben.
+ Spross-Feind: {EVOLVINGFAMILIAR2FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % Leben.
  Mega-Blütenfeind: {EVOLVINGFAMILIAR3FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % Leben.
 
 Ein Feind fügt seinem Ziel jede Runde Schaden zu. Ein Feind verschwindet, nachdem er Heilung absorbiert hat. Die erforderliche Heilungsmenge hängt vom max. Leben des Ziels ab.
@@ -1278,8 +1278,8 @@ Feinde können sich nicht zu Megafeinden entwickeln, wenn der Held bereits Lakai
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.evolving_seedling_parasite_with_delay.extra","Der Setzling-Feind entwickelt sich nach {EVOLVINGFAMILIAR1EVOLVETURNS} Runden zu einem Spross-Feind.
 Der Spross-Feind entwickelt sich nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden zu einem Mega-Blütenfeind.
 
- Setzling-Feind: {EVOLVINGFAMILIAR1FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % Gesundheit.
- Spross-Feind: {EVOLVINGFAMILIAR2FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % Gesundheit.
+ Setzling-Feind: {EVOLVINGFAMILIAR1FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % Leben.
+ Spross-Feind: {EVOLVINGFAMILIAR2FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % Leben.
  Mega-Blütenfeind: {EVOLVINGFAMILIAR3FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % Leben.
 
 Ein Feind fügt seinem Ziel jede Runde Schaden zu. Ein Feind verschwindet, nachdem er Heilung absorbiert hat. Die erforderliche Heilungsmenge hängt vom max. Leben des Ziels ab.
@@ -1880,6 +1880,14 @@ Glückstänze sind mit anderen Tanzeffekten stapelbar."
 Lebhafter Glückstanz
 {STATUSEFFECTS}
 Glückstänze sind mit anderen Tanzeffekten stapelbar."
+"specials.v2.statuseffect.minor.abyss.sides.enemies.dispelincreasesactivations","Gegner an den Rändern der gegnerischen Formation wechseln für {TURNS} Züge in die Gestalt eines Abgrundgeists.
+In Gestalt eines Abgrundgeists erleiden Ziele {DAMAGEPERTURN} Schaden pro Zug. Dieser Effekt ist hartnäckig."
+"specials.v2.statuseffect.minor.abyss.single.enemies.dispelincreasesactivations","Das Ziel wechselt für {TURNS} Züge in die Gestalt eines Abgrundgeists. Dieser Effekt ist hartnäckig.
+In Gestalt eines Abgrundgeists erleidet das Ziel {DAMAGEPERTURN} Schaden pro Zug."
+"specials.v2.statuseffect.minor.abyss.single.enemies.onremoval.damage.all.allies.expiration.add_insanity_emilie.dispelincreasesactivations","Das Ziel wechselt für {TURNS} Züge in die Gestalt eines Abgrundgeistes. Dieser Effekt ist hartnäckig.
+ In Gestalt des Abgrundgeistes erhält das Ziel {DAMAGEPERTURN} Schaden pro Zug.
+ Wenn die Gestalt des Abgrundgeistes abläuft:
+ Fügt allen Verbündeten {FIXEDPOWER} Schaden zu und belegt sie mit {STATUSEFFECT1INSANITYTOADD} Wahnsinn."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies","Alle Gegner erhalten {ACCURACY} % Genauigkeit für {TURNS} Züge."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies.dispelincreasesactivations","Alle Gegner erhalten für {TURNS} Züge {ACCURACY} % Genauigkeit. Dieser Effekt ist hartnäckig."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies.resetonheal","Alle Gegner erhalten für {TURNS} Züge eine Treffsicherheit von {ACCURACY} %. Die Wirkungsdauer wird zurückgesetzt, wenn das Ziel geheilt wird."
@@ -2294,6 +2302,12 @@ Verschlingender Schleim: Entfernt alle bannbaren Boni und Wachstumseffekte, veru
 Verschlingender Schleim: Entfernt alle bannbaren Boni und Wachstumseffekte, verursacht {BASEDAMAGEPERTURN} Schaden pro Zug und {DAMAGEPERTURNPEREFFECT} Schaden pro entferntem Effekt."
 "specials.v2.statuseffect.minor.devouringgoo.single.enemies.effects.minorbuff.positivebasestatmodifier","Der Zielgegner erleidet die negative Statusänderung „Verschlingender Schleim“ für {TURNS} Runden.
 Verschlingender Schleim: Entfernt alle bannbaren Boni und Wachstumseffekte, verursacht {BASEDAMAGEPERTURN} Schaden pro Zug und {DAMAGEPERTURNPEREFFECT} Schaden pro entferntem Effekt."
+"specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.add_insanity_salvatore.dispelincreasesactivations","Der Wirker wechselt in die Gestalt eines verrückten grässlichen Geists für {TURNS} Runden. Dieser Effekt ist hartnäckig.
+ In dieser Gestalt fügt der Wirker in jeder Runde einem zufälligen Gegner automatisch {POWER1} % Schaden und {STATUSEFFECT1INSANITYTOADD} Wahnsinn zu.
+ Der Wirker kann in der Gestalt des verrückten grässlichen Geists Schaden durch Gegner erleiden, deren Element stark gegen ihn ist."
+"specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.dispelincreasesactivations","Der Wirker wechselt für {TURNS} Runden in die Gestalt des Grässlichen Geistes. Dieser Effekt ist hartnäckig.
+In der Gestalt des Grässlichen Geistes verursacht der Wirker in jeder Runde automatisch {POWER1} % Schaden bei einem zufälligen Feind.
+In der Gestalt des Grässlichen Geistes kann der Wirker Schaden durch Gegner erleiden, deren Element stark gegen den Wirker ist."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff","Reinigt am Ende des Zugs negative Statusänderungen für alle Verbündeten für {TURNS} Züge."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.bypassremoveeffects","Entfernt am Ende jedes Zuges für {TURNS} Züge sicher alle negativen Statusänderungen von allen Verbündeten."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.customremovalcount","Bereinigt 1 negative Statusänderung bei allen Verbündeten am Ende jedes Zuges für {TURNS} Züge."
@@ -2374,6 +2388,8 @@ Verschlingender Schleim: Entfernt alle bannbaren Boni und Wachstumseffekte, veru
 "specials.v2.statuseffect.minor.elementswapovertime.allexceptcaster.allies","Alle Verbündeten außer dem Wirker werden für {TURNS} Runden mit Elementarflux belegt. Ihr Element ändert sich jede Runde zufällig."
 "specials.v2.statuseffect.minor.elementswapovertime.damage_to_green.all.enemies","Für {TURNS} Runden werden alle Gegner mit Elementarflux belegt. Ihr Element ändert sich jede Runde zufällig und verursacht {DAMAGEPERTURN} Schaden, wenn ihr Element zu Natur wechselt."
 "specials.v2.statuseffect.minor.elementswapovertime.damage_to_yellow.all.enemies","Für {TURNS} Runden werden alle Gegner mit Elementarflux belegt. Ihr Element ändert sich jede Runde zufällig und verursacht {DAMAGEPERTURN} Schaden, wenn ihr Element zu Licht wechselt."
+"specials.v2.statuseffect.minor.ethereal.single.allies.dispelincreasesactivations","Der Wirker wechselt für {TURNS} Runden in die Geisterform.
+ In der Geisterform erhält der Wirker {ATTACK} % Angriff. Dieser Effekt ist hartnäckig."
 "specials.v2.statuseffect.minor.explodingberserk.single.allies","Der Wirker erhält {ATTACK} % Angriff und eine weitere {CHANGE} % Erhöhung jedes Mal, wenn er oder einer seiner Verbündeten während {TURNS} Runden getroffen wird, bis zu {MAXMODIFIER} % Angriff. Wenn der Effekt endet, erhalten alle Feinde {DAMAGE} Schaden. Jeder Treffer des Wirkers oder seiner Verbündeten während der Dauer erhöht den Schaden um {ADDITIONALDAMAGEPERHIT} bis zu einem Maximum von {MAXDAMAGE} Schaden."
 "specials.v2.statuseffect.minor.extradamageagainstboostedhealth.all.allies.troop.npcnormalattack.specialskill.statuseffectskill","Die normalen Angriffe und Spezialfähigkeiten aller Verbündeten verursachen {TURNS} Runden lang {DAMAGEMULTIPLIER} % Schaden an Zielen mit verstärktem Leben."
 "specials.v2.statuseffect.minor.fearstatuseffectskill.all.enemies.on.allyspecial.damage.random.allies","Alle Gegner erliegen für {TURNS} Züge der Furcht."
@@ -2447,6 +2463,14 @@ Jede Münze verursacht {POWER1} % Schaden."
 "specials.v2.statuseffect.minor.frost.single.enemies.contagious","Das Ziel erleidet {DAMAGE} Frostschaden über {TURNS} Züge. Dieser Effekt breitet sich auf nahe Gegner aus."
 "specials.v2.statuseffect.minor.frost.single.enemies.contagious.noturns","Das Ziel erleidet {DAMAGE} bleibenden Frostschaden pro Runde. Dieser Effekt breitet sich auf nahe Gegner aus."
 "specials.v2.statuseffect.minor.gamble.all.allies","Alle Verbündeten erhalten {ATTACK} % Angriff mit {ACCURACY} % Genauigkeit für {TURNS} Züge."
+"specials.v2.statuseffect.minor.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies.dispelincreasesactivations","Der Wirker wechselt für {TURNS} Züge in die Geisterform. Dieser Effekt ist hartnäckig.
+ Wenn die Geist-Form abläuft:
+ Alle Verbündeten erhalten für {REMOVALEFFECT1STATUSEFFECT1TURNS} Züge {REMOVALEFFECT1STATUSEFFECT1CRIT} % Chance auf kritische Treffer. Dieser Effekt kann nicht gebannt werden."
+"specials.v2.statuseffect.minor.ghost.single.allies.onremoval.revival.randomdead.allies.expiration.hp_recovery_sable.all.allies.dispel_ailments.all.allies.dispelincreasesactivations","Der Wirker wechselt für {TURNS} Runden in die Geisterform. Dieser Effekt ist hartnäckig.
+ Wenn die Geisterform abläuft:
+ Der Wirker belebt einen zufälligen besiegten Verbündeten mit {REMOVALEFFECT1POWER} % LP wieder. 
+ Alle Verbündeten erhalten {REMOVALEFFECT1STATUSEFFECT1TOTAL} Leben über {REMOVALEFFECT1STATUSEFFECT1TURNS} Runden.
+ Säubert am Ende des Zugs negative Statusänderungen für alle Verbündeten für {REMOVALEFFECT1STATUSEFFECT2TURNS} Züge."
 "specials.v2.statuseffect.minor.giftbomb.single.enemies.neartotargetminor.allies.death.expiration","Das Ziel erhält eine Giftbombe. Nach {TURNS} Zügen explodiert die Giftbombe und fügt dem Ziel {DAMAGE} Schaden und nahen Zielen {MINORDAMAGE} Schaden zu. Die Giftbombe explodiert auch, wenn das Ziel besiegt wird."
 "specials.v2.statuseffect.minor.giftbomb.single.enemies.onremoval.damage.neartotarget.allies.death.expiration","Das Ziel erhält eine Giftbombe. Nach {TURNS} Zügen explodiert die Giftbombe und fügt dem Ziel und nahen Gegnern {DAMAGE} Schaden zu. Die Giftbombe explodiert auch, wenn das Ziel besiegt wird."
 "specials.v2.statuseffect.minor.grapple.single.enemies","Fesselt das Ziel. Solange es gefesselt ist, wird der normale Angriff des Ziels auf 1 verringert und das Ziel erleidet {DAMAGE} Schaden über {TURNS} Runden."
@@ -2936,6 +2960,7 @@ Wenn die Verstärkte Verteidigungsstatusänderung endet oder entfernt oder erset
 "specials.v2.statuseffect.minor.stackingattackmodifier.all.allies.effect_per_eaten_familiar.parasite.bigparasite","Stapel (Max.: {MAXSTACK}): Alle Verbündeten erhalten zusätzlich {ATTACK} % Angriff pro zerstörtem Feind."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies","Stapel (Max.: {MAXSTACK}): Der Wirker erhält {ATTACK} % Angriff."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.effect_per_eaten_familiar.minion.follower.bigminion","Stapel (Max.: {MAXSTACK}): Der Wirker erhält zusätzlich {ATTACK} % Angriff pro zerstörtem Lakaien."
+"specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.withbasestackcount","Stapel +{BASESTACKCOUNT} (Max.: {MAXSTACK}): Der Wirker erhält {ATTACK} % Angriff."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.enemies.chain_strike","Stapel (Max.: {MAXSTACK}): Jeder Treffer gibt seinem Ziel {ATTACK} % Angriff."
 "specials.v2.statuseffect.minor.stackingattackmodifieragainstweakerelement.single.allies","Stapel (Max.: {MAXSTACK}): Der Wirker erhält {ATTACK} % Angriff gegen das schwächere Element."
 "specials.v2.statuseffect.minor.stackingcritmodifier.all.allies","Stapel (Max.: {MAXSTACK}): Alle Verbündeten erhalten {CRIT} % Chance auf kritische Treffer."
@@ -2955,6 +2980,7 @@ Wenn die Verstärkte Verteidigungsstatusänderung endet oder entfernt oder erset
 "specials.v2.statuseffect.minor.stackingicebound.all.enemies.effect_per_kill.minion.follower","Stapel (Max.: {MAXSTACK}): Alle Gegner erhalten am Ende jeder Runde {DAMAGE} Frostschaden pro besiegtem Gegner oder gegnerischem Lakaien."
 "specials.v2.statuseffect.minor.stackingicebound.neartotarget.enemies","Stapel (Max.: {MAXSTACK}): Das Ziel und nahe Gegner erhalten am Ende jeder Runde {DAMAGE} Frostschaden."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies","Stapel (Max.: {MAXSTACK}): Alle Verbündeten erhalten {MANAREGEN} % Manaregeneration."
+"specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies.withbasestackcount","Stapel +{BASESTACKCOUNT} (Max.: {MAXSTACK}): Alle Verbündeten erhalten {MANAREGEN} % Manaregeneration."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies","Stapel (Max.: {MAXSTACK}): Alle Gegner erhalten {MANAREGEN} % Manaregeneration."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies.effect_per_eaten_familiar.minion.follower","Stapel (Max.: {MAXSTACK}): Alle Gegner erhalten {MANAREGEN} % Manaregeneration pro zerstörtem Lakaien."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies.effect_per_kill.minion.follower","Stapel (Max.: {MAXSTACK}): Alle Gegner erhalten {MANAREGEN} % Manaregeneration pro besiegtem Gegner oder gegnerischem Lakaien."
@@ -2963,6 +2989,7 @@ Wenn die Verstärkte Verteidigungsstatusänderung endet oder entfernt oder erset
 "specials.v2.statuseffect.minor.stackingminionattackmodifier.all.allies","Stapel (Max.: {MAXSTACK}): Alle Verbündeten erhalten {ATTACK} % Angriff für ihre Lakaien."
 "specials.v2.statuseffect.minor.stackingminionmaxhealthmodifier.all.allies","Stapel (Max.: {MAXSTACK}): Alle Verbündeten erhalten {MAXHEALTH} % vererbte LP für neue Lakaien, die sie beschwören."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease","Stapel (Max.: {MAXSTACK}): Der gesamte Schaden, den alle Verbündeten erleiden, wird um {DAMAGEMODIFIER} % verringert."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease.withbasestackcount","Stapel +{BASESTACKCOUNT} (Max.: {MAXSTACK}): Der gesamte Schaden, den alle Verbündeten erleiden, wird um {DAMAGEMODIFIER} % verringert."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies","Stapel (Max.: {MAXSTACK}): Der gesamte Schaden, den alle Gegner erleiden, wird um {DAMAGEMODIFIER} % erhöht."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies.withbasestackcount","Stapel +{BASESTACKCOUNT} (Max.: {MAXSTACK}): Der gesamte Schaden, den alle Gegner erleiden, wird um {DAMAGEMODIFIER} % erhöht."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.lessthanhalfhpleft.enemies","Stapel (max.: {MAXSTACK}): Gegner mit weniger als 50 % verbleibender Gesundheit erleiden {DAMAGEMODIFIER} % Schaden."
@@ -2974,6 +3001,7 @@ Wenn die Verstärkte Verteidigungsstatusänderung endet oder entfernt oder erset
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.allies.decrease","Stapel (Max.: {MAXSTACK}): Der gesamte Schaden, den der Wirker erleidet, wird um {DAMAGEMODIFIER} % verringert."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies","Stapel (Max.: {MAXSTACK}): Der gesamte Schaden, den das Ziel erleidet, wird um {DAMAGEMODIFIER} % erhöht."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.chain_strike","Stapel (Max.: {MAXSTACK}): Jeder Treffer erhöht den gesamten Schaden, den das Ziel erleidet, um {DAMAGEMODIFIER} %."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.withbasestackcount.chain_strike","Stapel +{BASESTACKCOUNT} (Max.: {MAXSTACK}): Jeder Treffer erhöht den gesamten Schaden, den das Ziel erleidet, um {DAMAGEMODIFIER} %."
 "specials.v2.statuseffect.minor.statuseffectgeneratorstatuseffectskill.allexceptcaster.allies.on.ownturnstart.basic_attack_bluecat.mana_regen_bluecat.dispelincreasesactivations","Quelle der Stärke: Die folgenden Effekte werden zu Beginn jedes Zuges auf einen zufälligen Verbündeten gewirkt, der nicht der Wirker sein kann:
 {STATUSEFFECT1ATTACK} % Angriff für {STATUSEFFECT1TURNS} Runden.
 {STATUSEFFECT2MANAREGEN} % Manaregeneration für {STATUSEFFECT2TURNS} Runden.
@@ -3066,6 +3094,7 @@ Jedes Ausweichen gewährt allen Verbündeten {MANAREGEN} % Manaregeneration fü
 "specials.v2.statuseffect.minor.toxin.sides.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","Die Gegner am Rand der gegnerischen Formation erleiden {TURNS} Züge lang {DAMAGE} Toxinschaden. Der Schaden ist für Ziele mit verstärktem Leben, Lakaien oder Mega-Lakaien erhöht."
 "specials.v2.statuseffect.minor.toxin.single.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","Das Ziel erleidet {TURNS} Züge lang {DAMAGE} Toxinschaden. Der Schaden ist für Ziele mit verstärktem Leben, Lakaien oder Mega-Lakaien erhöht."
 "specials.v2.statuseffect.minor.transcendentalframe.single.allies","Der Wirker wechselt für {TURNS} Runden in die Geisterform."
+"specials.v2.statuseffect.minor.transcendentalframe.single.allies.dispelincreasesactivations","Der Wirker wechselt für {TURNS} Runden in die Geisterform. Dieser Effekt ist hartnäckig."
 "specials.v2.statuseffect.minor.underwater.all.enemies","Alle Gegner erleiden {DAMAGE} Wasserschaden über {TURNS} Züge."
 "specials.v2.statuseffect.minor.underwater.all.enemies.absorb_healing.to.single","Alle Gegner erleiden {DAMAGE} Wasserschaden über {TURNS} Züge. Der Wirker absorbiert {ABSORBHEALING} % des zugefügten Wasserschadens als Leben."
 "specials.v2.statuseffect.minor.underwater.neartotarget.enemies","Das Ziel und nahe Gegner erleiden {DAMAGE} Wasserschaden über {TURNS} Züge."

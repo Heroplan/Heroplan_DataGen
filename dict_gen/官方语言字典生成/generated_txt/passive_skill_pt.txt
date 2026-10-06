@@ -279,16 +279,34 @@ Saquear:
 
 Em batalhas com várias ondas, o efeito é atualizado no início de cada onda."
 "herocard.passive_skill.description.redirectlethaldamage.enemies.single.battle","Em vez de receber dano fatal pela primeira vez, este personagem redireciona {REDIRECTDAMAGEMULTIPLIER}% desse dano a um inimigo aleatório. (Ativações restantes: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled","Em vez de receber dano fatal pela primeira vez, este personagem redireciona {REDIRECTDAMAGEMULTIPLIER}% desse dano ao atacante.
+
+Não é ativado quando este personagem é o único membro da equipe na batalha.
+
+Em batalhas com várias ondas, o efeito é atualizado no início de cada onda."
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled.battle","Em vez de receber dano fatal pela primeira vez, este personagem redireciona {REDIRECTDAMAGEMULTIPLIER}% desse dano ao atacante. (Ativações restantes: {ACTIVATIONSLEFT})
+Não é ativado quando este personagem é o único membro da equipe na batalha."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single","Em vez de receber dano fatal pela primeira vez, este personagem redireciona o dano a um inimigo aleatório.
 
 Em batalhas com várias ondas, o efeito é atualizado no início de cada onda."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.battle","Em vez de receber dano fatal pela primeira vez, este personagem redireciona o dano a um inimigo aleatório. (Ativações restantes: {ACTIVATIONSLEFT})"
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Em vez de receber dano fatal de ataques normais ou habilidades especiais pela primeira vez, este personagem redireciona até {REDIRECTDAMAGELIMIT} de dano ao atacante. (Ativações restantes: {ACTIVATIONSLEFT})"
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","Em vez de receber dano fatal de ataques normais ou habilidades especiais pela primeira vez, este personagem redireciona até {REDIRECTDAMAGELIMIT} de dano ao atacante. (Ativações restantes: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Em vez de receber dano fatal de ataques normais ou habilidades especiais pela primeira vez, este personagem redireciona até {REDIRECTDAMAGELIMIT} de dano a um inimigo aleatório."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","Em vez de receber dano fatal de ataques normais ou habilidades especiais pela primeira vez, este personagem redireciona até {REDIRECTDAMAGELIMIT} de dano a um inimigo aleatório. (Ativações restantes: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled","Em vez de receber dano fatal de ataques normais ou habilidades especiais pela primeira vez, este personagem redireciona até {REDIRECTDAMAGELIMIT} de dano ao atacante.
+Não é ativado quando este personagem é o único membro da equipe na batalha."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled.battle","Em vez de receber dano fatal de ataques normais ou habilidades especiais pela primeira vez, este personagem redireciona até {REDIRECTDAMAGELIMIT} de dano ao atacante. (Ativações restantes: {ACTIVATIONSLEFT})
+Não é ativado quando este personagem é o único membro da equipe na batalha."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","Em vez de receber dano fatal de ataques normais ou habilidades especiais pela primeira vez, este personagem redireciona até {REDIRECTDAMAGELIMIT} de dano ao atacante.
 
 Em batalhas com várias ondas, o efeito é atualizado no início de cada onda."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit.battle","Em vez de receber dano fatal de ataques normais ou habilidades especiais pela primeira vez, este personagem redireciona até {REDIRECTDAMAGELIMIT} de dano ao atacante. (Ativações restantes: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled","Em vez de receber dano fatal pela primeira vez, este personagem redireciona esse dano ao atacante.
+
+Não é ativado quando este personagem é o único membro da equipe na batalha.
+
+Em batalhas com várias ondas, o efeito é atualizado no início de cada onda."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled.battle","Em vez de receber dano fatal pela primeira vez, este personagem redireciona esse dano ao atacante. (Ativações restantes: {ACTIVATIONSLEFT})
+Não é ativado quando este personagem é o único membro da equipe na batalha."
 "herocard.passive_skill.description.reduceinsanityperturn","No início de cada turno, a Insanidade atual deste personagem diminui em {REDUCTION}."
 "herocard.passive_skill.description.reflectresistedstatuseffect.all.enemies","Os males de status a que este personagem resiste com habilidades passivas são refletidos para todos os inimigos."
 "herocard.passive_skill.description.reflectstatuseffect.with_chance","{CHANCE}% mais chance de repelir males de status e aplicá-los ao atacante."
@@ -912,10 +930,7 @@ Os escudos de Luz no tabuleiro são aprimorados e dão {MODIFIER}% mais mana qua
 "herocard.passive_skill.title.received_strong_troop_damage_pve","Redução de dano da tropa"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage","Domínio de Tropa"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage.increase.dragon","Aumento do dano de Bola de Fogo"
-"herocard.passive_skill.title.redirectlethaldamage.enemies.single","Vencer a Morte"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single","Vencer a Morte"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Vencer a Morte"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","Vencer a Morte"
+"herocard.passive_skill.title.redirectlethaldamage","Vencer a Morte"
 "herocard.passive_skill.title.reduceinsanityperturn","Reduzir Insanidade"
 "herocard.passive_skill.title.reflectresistedstatuseffect","Refletor lendário"
 "herocard.passive_skill.title.remove_growth_from_enemies","Reunião de Guardas"

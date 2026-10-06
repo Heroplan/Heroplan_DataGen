@@ -1161,7 +1161,7 @@
 "specials.v2.property.talondamage.damage.all.enemies.greaterthanorequal.currentproportionalmana.hittargetsonly","لإلحاق {POWERFOROTHERTARGETS}% من ضرر المخالب بجميع الأعداء."
 "specials.v2.property.talondamage.damage.neartotarget.enemies.greaterthanorequal.currentproportionalmana.hittargetsonly","لإلحاق {POWERFOROTHERTARGETS}% من ضرر المخالب بالهدف والأعداء القريبين."
 "specials.v2.property.talondamage.extra","لإلحاق {POWERFORTARGETSTHATMEETCONDITION}% من الضرر بالأعداء مع {STATTHRESHOLDPERMIL}% من القوة أو أكثر. يحصل الأعداء أيضًا على توليد القوة بنسبة {STATUSEFFECTFORTARGETSTHATMEETCONDITION1MANAREGEN}% لمدة  {STATUSEFFECTFORTARGETSTHATMEETCONDITION1TURNS} من الجولات."
-"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.blocked_by.minion.extra","يتطور شرير اليذرة إلى شرير برعم بعد {EVOLVINGFAMILIAR1EVOLVETURNS} من الجولات.
+"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.blocked_by.minion.extra","يتطور شرير البذرة إلى شرير برعم بعد {EVOLVINGFAMILIAR1EVOLVETURNS} من الجولات.
 يتطور شرير البرعم إلى شرير ضخم مزدهر بعد {EVOLVINGFAMILIAR2EVOLVETURNS} من الجولات.
 
  شرير البذرة: {EVOLVINGFAMILIAR1FAMILIARATTACK}% هجوم، {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% صحة.
@@ -1792,6 +1792,14 @@
 رقصة الحظ النابضة 
 {STATUSEFFECTS}
 تتراكم رقصات الحظ مع تأثيرات الرقص الأخرى."
+"specials.v2.statuseffect.minor.abyss.sides.enemies.dispelincreasesactivations","يتحول الأعداء الموجودون على أطراف تشكيل العدو إلى هيئة شبح الجحيم لمدة {TURNS} من الأدوار.
+ بينما يكون الهدف في هيئة شبح الجحيم، يتلقى {DAMAGEPERTURN} من الضرر كل دور. هذا التأثير عنيد."
+"specials.v2.statuseffect.minor.abyss.single.enemies.dispelincreasesactivations","يتحول الهدف من هيئة شبح الجحيم لمدة {TURNS} من الأدوار. هذا التأثير عنيد.
+ بينما يكون الهدف في هيئة شبح الجحيم، يتلقى {DAMAGEPERTURN} من الضرر كل دور."
+"specials.v2.statuseffect.minor.abyss.single.enemies.onremoval.damage.all.allies.expiration.add_insanity_emilie.dispelincreasesactivations","يتحول الهدف إلى شكل شبح الجحيم لمدة {TURNS} من الجولات. هذا التأثير عنيد.
+ أثناء وجوده في شكل شبح الجحيم، يتلقى الهدف {DAMAGEPERTURN} من الضرر في كل جولة.
+ عندما تنتهي صلاحية شكل شبح الجحيم:
+ يلحق {FIXEDPOWER} من الضرر بجميع الحلفاء، ويلحق بهم {STATUSEFFECT1INSANITYTOADD} جنون."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies","يحصل جميع الأعداء على {ACCURACY}% من الدقة طوال {TURNS} من الجولات."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies.dispelincreasesactivations","يحصل جميع الأعداء على {ACCURACY}% من الدقة طوال {TURNS} من الجولات. هذا التأثير عنيد."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies.resetonheal","يحصل جميع الأعداء على دقة بنسبة {ACCURACY}% لمدة {TURNS} من الجولات. تتم إعادة تعيين مدة التأثير إذا تم علاج الهدف."
@@ -2206,6 +2214,12 @@
 الغراء الملتهم: يلغي كل التعزيزات التي يمكن تبديدها وتأثيرات النمو. يتلقى الهدف {BASEDAMAGEPERTURN} من الضرر في كل دور و{DAMAGEPERTURNPEREFFECT} من الضرر لكل تأثير تم إلغاؤه."
 "specials.v2.statuseffect.minor.devouringgoo.single.enemies.effects.minorbuff.positivebasestatmodifier","يتلقى العدو المستهدف حالة مرض الغراء الملتهم لمدة {TURNS} من الأدوار.
 الغراء الملتهم: يلغي كل التعزيزات التي يمكن تبديدها وتأثيرات النمو. يتلقى الهدف {BASEDAMAGEPERTURN} من الضرر في كل دور و{DAMAGEPERTURNPEREFFECT} من الضرر لكل تأثير تم إلغاؤه."
+"specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.add_insanity_salvatore.dispelincreasesactivations","يتحول الرامي إلى هيئة شبح مخيف مختل لمدة {TURNS} من الأدوار. هذا التأثير عنيد.
+ عند الوجود في هيئة الشبح المخيف المختل، يلحق الرامي تلقائيًّا {POWER1}% من الضرر، ويسبب {STATUSEFFECT1INSANITYTOADD} الجنون لعدو عشوائي كل دور.
+ عند الوجود في هيئة الشبح المخيف المختل، يمكن أن يتلقى الرامي الضرر من الأعداء الذين لديهم عنصر أقوى من البطل."
+"specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.dispelincreasesactivations","يتحوّل البطل إلى هيئة شبح مخيف لمدة {TURNS} من الأدوار.هذا التأثير عنيد.
+ حين يكون البطل في هيئة الشبح المخيف، يسبب تلقائيًّا {POWER1}% من الضرر لأي عدو عشوائي في كل دور.
+ حين يكون البطل في هيئة الشبح المخيف، يستطيع البطل تلقي ضرر من الأعداء الذين لديهم عنصر أقوى من البطل."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff","ينظف أمراض الحلفاء في نهاية الجولة من جميع الحلفاء طوال {TURNS} من الجولات."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.bypassremoveeffects","لتطهير حالات الأمراض بأمان من جميع الحلفاء في نهاية كل جولة لمدة {TURNS} من الجولات."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.customremovalcount","لتطهير حالة مرض واحدة من جميع الحلفاء في نهاية كل جولة لمدة {TURNS} من الجولات."
@@ -2286,6 +2300,8 @@
 "specials.v2.statuseffect.minor.elementswapovertime.allexceptcaster.allies","طوال {TURNS} من الجولات، يُصاب جميع الحلفاء باستثناء الملقي بتأثير التدفق العنصري. ويتغير عنصرهم عشوائيًا في كل جولة."
 "specials.v2.statuseffect.minor.elementswapovertime.damage_to_green.all.enemies","طوال {TURNS} من الجولات، يُصاب جميع الأعداء بتأثير التدفق العنصري. ويتغير عنصرهم عشوائيًا في كل جولة، لإلحاق {DAMAGEPERTURN} من الضرر كلما تغير عنصرهم إلى الطبيعة."
 "specials.v2.statuseffect.minor.elementswapovertime.damage_to_yellow.all.enemies","طوال {TURNS} من الجولات، يُصاب جميع الأعداء بتأثير التدفق العنصري. ويتغير عنصرهم عشوائيًا في كل جولة، لإلحاق {DAMAGEPERTURN} من الضرر كلما تغير عنصرهم إلى المقدس."
+"specials.v2.statuseffect.minor.ethereal.single.allies.dispelincreasesactivations","يتحول  البطل إلى هيئة الشبح لمدة {TURNS} من الأدوار.
+عند التواجد في هيئة الشبح، يكتسب البطل {ATTACK}% من الهجوم. هذا التأثير عنيد."
 "specials.v2.statuseffect.minor.explodingberserk.single.allies","يحصل البطل على {ATTACK}% من الهجوم وزيادة {CHANGE}% إضافية كلّما أصيب هو أو أي من حلفائه طوال {TURNS} من الجولات، بحد أقصى {MAXMODIFIER}% من الهجوم. حين ينتهي التأثير، يحصل جميع الأعداء على {DAMAGE} من الضرر. كل ضربة على الرامي أو حلفائه خلال هذه المدة تزيد من الضرر بنسبة {ADDITIONALDAMAGEPERHIT} إلى حد أقصى يبلغ {MAXDAMAGE} من الضرر."
 "specials.v2.statuseffect.minor.extradamageagainstboostedhealth.all.allies.troop.npcnormalattack.specialskill.statuseffectskill","تُلحق جميع هجمات الحلفاء ومهاراتهم الخاصة {DAMAGEMULTIPLIER}% من الضرر بالأهداف ذات الصحة المعززة لمدة {TURNS} من الجولات."
 "specials.v2.statuseffect.minor.fearstatuseffectskill.all.enemies.on.allyspecial.damage.random.allies","يستسلم جميع الأعداء لـ الخوف لمدة {TURNS} من الأدوار."
@@ -2358,6 +2374,14 @@
 "specials.v2.statuseffect.minor.frost.single.enemies.contagious","يتلقى الهدف {DAMAGE} من ضرر الصقيع طوال {TURNS} من الجولات. ينتشر هذا التأثير ليصل إلى الأعداء القريبين."
 "specials.v2.statuseffect.minor.frost.single.enemies.contagious.noturns","يتلقى الهدف {DAMAGE} من ضرر الصقيع طويل الأمد في الدور. ينتشر هذا التأثير ليصل إلى الأعداء القريبين."
 "specials.v2.statuseffect.minor.gamble.all.allies","يحصل جميع الحلفاء على {ATTACK}% من الهجوم بدقة {ACCURACY}% طوال {TURNS} من الجولات."
+"specials.v2.statuseffect.minor.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies.dispelincreasesactivations","يتحول الملقي إلى شبح لمدة {TURNS} من الجولات. هذا التأثير عنيد.
+ عندما ينتهي وقت هيئة الشبح:
+ يحصل جميع الحلفاء على فرصة حاسمة بنسبة {REMOVALEFFECT1STATUSEFFECT1CRIT}% لمدة {REMOVALEFFECT1STATUSEFFECT1TURNS} من الجولات. لا يمكن إزالة هذا التأثير."
+"specials.v2.statuseffect.minor.ghost.single.allies.onremoval.revival.randomdead.allies.expiration.hp_recovery_sable.all.allies.dispel_ailments.all.allies.dispelincreasesactivations","يتحول الرامي إلى هيئة الشبح لمدة {TURNS} من الجولات. هذا التأثير عنيد.
+ عندما تنتهي صلاحية هيئة الشبح:
+ يعيد الرامي إحياء حليف مهزوم واحد عشوائيًّا مع {REMOVALEFFECT1POWER}% من الصحة 
+ يكتسب كل الحلفاء {REMOVALEFFECT1STATUSEFFECT1TOTAL} من الصحة طوال {REMOVALEFFECT1STATUSEFFECT1TURNS} من الجولات.
+ ينظف حالات الأمراض في نهاية الجولة من جميع الحلفاء طوال {REMOVALEFFECT1STATUSEFFECT2TURNS} من الجولات."
 "specials.v2.statuseffect.minor.giftbomb.single.enemies.neartotargetminor.allies.death.expiration","سيحصل الهدف على قنبلة هدية. بعد {TURNS} من الجولات تنفجر القنبلة الهدية وتلحق ضررًا {DAMAGE} بالهدف وضررًا {MINORDAMAGE} بالأهداف المجاورة. كما تنفجر قنبلة الهدية عند هزيمة الهدف."
 "specials.v2.statuseffect.minor.giftbomb.single.enemies.onremoval.damage.neartotarget.allies.death.expiration","سيحصل الهدف على قنبلة هدية. بعد {TURNS} من الجولات تنفجر القنبلة الهدية وتلحق ضررًا {DAMAGE} بالهدف والأعداء المجاورين. كما تنفجر قنبلة الهدية عند هزيمة الهدف."
 "specials.v2.statuseffect.minor.grapple.single.enemies","يقيد الهدف. خلال تقييده، يتم تقليل هجوم الهدف العادي إلى 1 ويتلقى الهدف {DAMAGE} من الضرر على مدار {TURNS} من الجولات."
@@ -2844,6 +2868,7 @@
 "specials.v2.statuseffect.minor.stackingattackmodifier.all.allies.effect_per_eaten_familiar.parasite.bigparasite","تراكم (الحد الأقصى: {MAXSTACK}): يحصل جميع الحلفاء على نسبة {ATTACK}% من الهجوم الإضافي لكل شرير مُدمَّر."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies","تراكم (الحد الأقصى: {MAXSTACK}): يحصل الرامي على {ATTACK}% من الهجوم."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.effect_per_eaten_familiar.minion.follower.bigminion","تراكم (الحد الأقصى: {MAXSTACK}): يحصل الرامي على نسبة {ATTACK}% من الهجوم الإضافي لكل تابع مُدمَّر."
+"specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.withbasestackcount","تراكم +{BASESTACKCOUNT} (الحد الأقصى: {MAXSTACK}): يحصل الرامي على {ATTACK}% من الهجوم."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.enemies.chain_strike","تراكم (الحد الأقصى: {MAXSTACK}): تُلحق كل ضربة  {ATTACK}% من الهجوم بالهدف."
 "specials.v2.statuseffect.minor.stackingattackmodifieragainstweakerelement.single.allies","تراكم (الحد الأقصى: {MAXSTACK}): يحصل الرامي على {ATTACK}% من الهجوم على عنصر أضعف."
 "specials.v2.statuseffect.minor.stackingcritmodifier.all.allies","تراكم (الحد الأقصى: {MAXSTACK}): يحصل جميع الحلفاء على {CRIT}% من الفرصة الحاسمة."
@@ -2863,6 +2888,7 @@
 "specials.v2.statuseffect.minor.stackingicebound.all.enemies.effect_per_kill.minion.follower","تراكم (الحد الأقصى:{MAXSTACK}): يتلقى جميع الأعداء {DAMAGE} من ضرر الصقيع لكل عدوٍّ مهزوم أو تابع عدوٍّ في نهاية كلِّ جولة."
 "specials.v2.statuseffect.minor.stackingicebound.neartotarget.enemies","تراكم (الحد الأقصى: {MAXSTACK}): يتلقى الهدف والأعداء القريبون {DAMAGE} من ضرر الصقيع في نهاية كلِّ جولة."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies","تراكم (الحد الأقصى: {MAXSTACK}): يحصل جميع الحلفاء على {MANAREGEN}% من توليد القوة."
+"specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies.withbasestackcount","تراكم +{BASESTACKCOUNT} (الحد الأقصى: {MAXSTACK}): يحصل جميع الحلفاء على {MANAREGEN}% من توليد القوة."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies","تراكم (الحد الأقصى: {MAXSTACK}): يحصل جميع الأعداء على {MANAREGEN}% من توليد القوة"
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies.effect_per_eaten_familiar.minion.follower","تراكم (الحد الأقصى:{MAXSTACK}): يتلقى جميع الأعداء {MANAREGEN}% من توليد القوة لكل تابع تم تدميره."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies.effect_per_kill.minion.follower","تراكم (الحد الأقصى:{MAXSTACK}): يتلقى جميع الأعداء {MANAREGEN}% من توليد القوة لكل عدوٍّ مهزوم أو تابع عدوٍّ."
@@ -2871,6 +2897,7 @@
 "specials.v2.statuseffect.minor.stackingminionattackmodifier.all.allies","تراكم (الحد الأقصى: {MAXSTACK}): يحصل كل الحلفاء على نسبة {ATTACK}% من الهجوم لأتباعهم."
 "specials.v2.statuseffect.minor.stackingminionmaxhealthmodifier.all.allies","تراكم (الحد الأقصى: {MAXSTACK}): يحصل كل الحلفاء على نسبة {MAXHEALTH}% من نقاط الصحة الموروثة للأتباع الجدد الذين يستدعونهم."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease","تراكم (الحد الأقصى: {MAXSTACK}): يتم خفض كل الضرر الذي يتلقاه جميع الحلفاء بنسبة {DAMAGEMODIFIER}%."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease.withbasestackcount","تراكم +{BASESTACKCOUNT} (الحد الأقصى: {MAXSTACK}): يتم خفض كل الضرر الذي يتلقاه جميع الحلفاء بنسبة {DAMAGEMODIFIER}%."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies","تراكم (الحد الأقصى: {MAXSTACK}): تتم زيادة كل الضرر الذي يتلقاه جميع الأعداء بنسبة {DAMAGEMODIFIER}%."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies.withbasestackcount","تراكم +{BASESTACKCOUNT} (الحد الأقصى: {MAXSTACK}): تتم زيادة كل الضرر الذي يتلقاه جميع الأعداء بنسبة {DAMAGEMODIFIER}%."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.lessthanhalfhpleft.enemies","تراكم (الحد الأقصى: {MAXSTACK}): يتلقى الأعداء الأقل من 50% من الصحة المتبقية ضررًا بنسبة {DAMAGEMODIFIER}%."
@@ -2882,6 +2909,7 @@
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.allies.decrease","تكدس (الحد الأقصى: {MAXSTACK}): يتم خفض كل الضرر الذي يتلقاه منفذ المهارة بنسبة {DAMAGEMODIFIER}%."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies","تراكم (الحد الأقصى: {MAXSTACK}): تمت زيادة كل الضرر الذي يتلقاه الهدف بنسبة {DAMAGEMODIFIER}%."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.chain_strike","تراكم (الحد الأقصى: {MAXSTACK}): كل ضربة تزيد الضرر الكلي الذي يتلقاه الهدف بنسبة {DAMAGEMODIFIER}%"
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.withbasestackcount.chain_strike","تراكم +{BASESTACKCOUNT} (الحد الأقصى: {MAXSTACK}): كل ضربة تزيد الضرر الكلي الذي يتلقاه الهدف بنسبة {DAMAGEMODIFIER}%"
 "specials.v2.statuseffect.minor.statuseffectgeneratorstatuseffectskill.allexceptcaster.allies.on.ownturnstart.basic_attack_bluecat.mana_regen_bluecat.dispelincreasesactivations","مصدر التعزيزات: سيتم إلقاء التأثيرات التالية على حليف عشوائي ما عدا المُلقي في بداية كل جولة:
 {STATUSEFFECT1ATTACK}% من الهجوم لمدة {STATUSEFFECT1TURNS} من الجولات.
 {STATUSEFFECT2MANAREGEN}% من توليد القوة لمدة {STATUSEFFECT2TURNS} من الجولات. 
@@ -2974,6 +3002,7 @@
 "specials.v2.statuseffect.minor.toxin.sides.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","يتلقى الأعداء على أطراف تشكيل العدو {DAMAGE} من ضرر السم لمدة {TURNS} من الجولات. يزداد الضرر ضد أهداف معززة بالصحة، أو أتباع، أو تابع ضخم."
 "specials.v2.statuseffect.minor.toxin.single.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","يتلقى الهدف {DAMAGE} من ضرر السُمِّية لمدة {TURNS} من الجولات. يزداد الضرر ضد الأهداف ذات الصحة المعززة، أو الأتباع، أو تابع ضخم."
 "specials.v2.statuseffect.minor.transcendentalframe.single.allies","يتحول البطل إلى هيئة شبح لمدة {TURNS} من الأدوار."
+"specials.v2.statuseffect.minor.transcendentalframe.single.allies.dispelincreasesactivations","يتحول البطل إلى هيئة شبح لمدة {TURNS} من الأدوار. هذا التأثير عنيد."
 "specials.v2.statuseffect.minor.underwater.all.enemies","يحصل جميع الأعداء على {DAMAGE} ضرر مائي طوال {TURNS} جولات."
 "specials.v2.statuseffect.minor.underwater.all.enemies.absorb_healing.to.single","يتلقى كل الأعداء {DAMAGE} ضرر المياه على مدار عدد {TURNS} من الجولات. يمتص الرامي نسبة {ABSORBHEALING}% من أضرار المياه الملحقة كصحة."
 "specials.v2.statuseffect.minor.underwater.neartotarget.enemies","يحصل الهدف والأعداء المجاورون على {DAMAGE} ضرر ماء طوال {TURNS} من الجولات."

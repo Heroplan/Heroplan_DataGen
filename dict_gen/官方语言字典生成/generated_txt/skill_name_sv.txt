@@ -2221,7 +2221,7 @@
 "specials.name.spirit_arrow","Andepil"
 "specials.name.spirit_drain","Andetömmare"
 "specials.name.spirit_of_spring","Vårande"
-"specials.name.spirit_of_spring_mayhem","Vårande"
+"specials.name.spirit_of_spring_mayhem","Vårens ande"
 "specials.name.spirit_of_winter","Vinteranda"
 "specials.name.spirit_rally","Samlade andar"
 "specials.name.spirited_slash","Kvickt hugg"

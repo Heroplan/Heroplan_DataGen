@@ -1884,6 +1884,14 @@ HP {HEALTH}%
 강렬한 행운 댄스
 {STATUSEFFECTS}
 행운 댄스는 다른 댄스 효과와 중첩됩니다."
+"specials.v2.statuseffect.minor.abyss.sides.enemies.dispelincreasesactivations","적 진형 가장자리에 있는 적들이 {TURNS}턴 동안 심연 유령 형태로 변합니다.
+ 심연 유령 형태인 동안 대상은 매 턴 {DAMAGEPERTURN}의 피해를 받습니다. 이 효과는 완고입니다."
+"specials.v2.statuseffect.minor.abyss.single.enemies.dispelincreasesactivations","대상이 {TURNS}턴 동안 심연 유령 형태로 변합니다. 이 효과는 완고입니다.
+ 심연 유령 형태인 동안 대상은 매 턴 {DAMAGEPERTURN}의 피해를 받습니다."
+"specials.v2.statuseffect.minor.abyss.single.enemies.onremoval.damage.all.allies.expiration.add_insanity_emilie.dispelincreasesactivations","대상이 {TURNS}턴 동안 심연 유령 형태로 변합니다. 이 효과는 완고입니다.
+ 심연 유령 형태인 동안 대상은 매 턴 {DAMAGEPERTURN}의 피해를 받습니다.
+ 심연 유령 형태가 종료되면:
+ 모든 아군에게 {FIXEDPOWER}의 피해를 주고 광기 {STATUSEFFECT1INSANITYTOADD}를 부여합니다."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies","모든 적들이 {TURNS}턴 동안 {ACCURACY}% 명중률 효과를 받습니다."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies.dispelincreasesactivations","모든 적들이 {TURNS}턴 동안 {ACCURACY}% 명중률 효과를 받습니다. 이 효과는 완고합니다."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies.resetonheal","모든 적이 {TURNS}턴 동안 명중률 {ACCURACY}%를 얻습니다. 대상이 치유되면 효과 지속 시간이 초기화됩니다."
@@ -2298,6 +2306,12 @@ HP {HEALTH}%
 아귀 구: 모든 해제 가능한 강화 효과 및 성장 효과를 제거하며, 턴당 {BASEDAMAGEPERTURN}의 피해를 받으며 효과가 제거될 때마다 {DAMAGEPERTURNPEREFFECT}의 피해를 더 받습니다."
 "specials.v2.statuseffect.minor.devouringgoo.single.enemies.effects.minorbuff.positivebasestatmodifier","대상 적이 {TURNS}턴 동안 아귀 구 상태 이상 효과를 받습니다.
 아귀 구: 모든 해제 가능한 강화 효과 및 성장 효과를 제거하며, 턴당 {BASEDAMAGEPERTURN}의 피해를 받으며 효과가 제거될 때마다 {DAMAGEPERTURNPEREFFECT}의 피해를 더 받습니다."
+"specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.add_insanity_salvatore.dispelincreasesactivations","시전자가 {TURNS}턴 동안 광기에 휩싸인 흉포한 유령 형태로 변합니다. 이 효과는 완고입니다.
+ 광기에 휩싸인 흉포한 유령 형태인 동안 시전자는 매 턴 무작위 적에게 자동으로 {POWER1}%의 피해를 주고 광기 {STATUSEFFECT1INSANITYTOADD}를 부여합니다.
+ 광기에 휩싸인 흉포한 유령 형태인 동안 시전자는 자신에게 강한 속성의 적에게 피해를 받을 수 있습니다."
+"specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.dispelincreasesactivations","시전자가 {TURNS}턴 동안 흉포한 유령 형태로 변합니다. 이 효과는 완고입니다.
+ 흉포한 유령 형태인 동안 시전자는 매 턴 무작위 적에게 자동으로 {POWER1}%의 피해를 줍니다.
+ 흉포한 유령 형태인 동안 시전자는 자신에게 강한 속성의 적에게 피해를 받을 수 있습니다."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff","턴 종료 시 모든 아군으로부터 상태 이상 효과를 {TURNS}턴 동안 정화합니다."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.bypassremoveeffects","{TURNS}턴 동안 매 턴 종료 시 모든 아군의 상태 이상을 안전하게 정화합니다."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.customremovalcount","{TURNS}턴 동안 매 턴 종료 시 모든 아군의 상태 이상 1개를 정화합니다."
@@ -2379,6 +2393,8 @@ HP {HEALTH}%
 "specials.v2.statuseffect.minor.elementswapovertime.allexceptcaster.allies","{TURNS}턴 동안 시전자를 제외한 모든 아군에게 속성 변동이 부여됩니다. 속성이 매 턴 무작위로 변경됩니다."
 "specials.v2.statuseffect.minor.elementswapovertime.damage_to_green.all.enemies","{TURNS}턴 동안 모든 적에게 속성 변동이 부여됩니다. 속성이 매 턴 무작위로 변경되며, 자연 속성으로 변경될 때마다 {DAMAGEPERTURN}의 피해를 받습니다."
 "specials.v2.statuseffect.minor.elementswapovertime.damage_to_yellow.all.enemies","{TURNS}턴 동안 모든 적에게 속성 변동이 부여됩니다. 속성이 매 턴 무작위로 변경되며, 신성 속성으로 변경될 때마다 {DAMAGEPERTURN}의 피해를 받습니다."
+"specials.v2.statuseffect.minor.ethereal.single.allies.dispelincreasesactivations","시전자가 {TURNS}턴 동안 유령 형태로 변합니다.
+ 유령 형태인 동안 시전자의 공격력이 {ATTACK}% 증가합니다. 이 효과는 완고입니다."
 "specials.v2.statuseffect.minor.explodingberserk.single.allies","시전자가 공격력 {ATTACK}% 효과를 얻고, 이후 {TURNS}턴 동안 자신이나 다른 아군이 공격에 적중될 때마다 {CHANGE}%씩, 최대 {MAXMODIFIER}%까지 추가 효과를 얻습니다. 효과가 끝나면 모든 적이 {DAMAGE}의 피해를 받습니다. 지속 시간 동안 시전자나 아군이 공격에 적중될 때마다 피해량이 {ADDITIONALDAMAGEPERHIT}씩, 최대 {MAXDAMAGE}까지 증가합니다."
 "specials.v2.statuseffect.minor.extradamageagainstboostedhealth.all.allies.troop.npcnormalattack.specialskill.statuseffectskill","{TURNS}턴 동안 체력 부스트를 받은 대상에 대한 모든 아군의 일반 공격 및 특수 스킬이 {DAMAGEMULTIPLIER}%의 피해를 줍니다."
 "specials.v2.statuseffect.minor.fearstatuseffectskill.all.enemies.on.allyspecial.damage.random.allies","모든 적이 {TURNS}턴 동안 공포에 굴복합니다."
@@ -2452,6 +2468,14 @@ HP {HEALTH}%
 "specials.v2.statuseffect.minor.frost.single.enemies.contagious","대상이 {TURNS}턴 동안 {DAMAGE}의 서리 피해를 입습니다. 이 효과는 주변 적들에게 퍼집니다."
 "specials.v2.statuseffect.minor.frost.single.enemies.contagious.noturns","대상이 턴당 {DAMAGE}의 지속성 서리 피해를 입습니다. 이 효과는 주변 적들에게 퍼집니다."
 "specials.v2.statuseffect.minor.gamble.all.allies","{TURNS}턴 동안 모든 아군이 정확도 {ACCURACY}%의 공격력 {ATTACK}% 효과를 받습니다."
+"specials.v2.statuseffect.minor.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies.dispelincreasesactivations","시전자가 {TURNS}턴 동안 유령 형태로 변합니다. 이 효과는 완고입니다.
+ 유령 형태가 종료되면:
+ 모든 아군이 {REMOVALEFFECT1STATUSEFFECT1TURNS}턴 동안 치명타 확률 {REMOVALEFFECT1STATUSEFFECT1CRIT}%를 얻습니다. 이 효과는 해제할 수 없습니다."
+"specials.v2.statuseffect.minor.ghost.single.allies.onremoval.revival.randomdead.allies.expiration.hp_recovery_sable.all.allies.dispel_ailments.all.allies.dispelincreasesactivations","시전자가 {TURNS}턴 동안 유령 형태로 변합니다. 이 효과는 완고입니다.
+ 유령 형태가 종료되면:
+ 시전자가 쓰러진 무작위 아군 1명을 HP {REMOVALEFFECT1POWER}%로 부활시킵니다. 
+ 모든 아군이 {REMOVALEFFECT1STATUSEFFECT1TURNS}턴에 걸쳐 HP를 {REMOVALEFFECT1STATUSEFFECT1TOTAL} 회복합니다.
+ {REMOVALEFFECT1STATUSEFFECT2TURNS}턴 동안 매 턴 종료 시 모든 아군의 상태 이상을 정화합니다."
 "specials.v2.statuseffect.minor.giftbomb.single.enemies.neartotargetminor.allies.death.expiration","대상이 선물 폭탄을 받습니다. {TURNS}턴 후 선물 폭탄이 폭발하며 대상에게 {DAMAGE}의 피해를, 인근 대상에게는 {MINORDAMAGE}의 피해를 줍니다. 선물 폭탄은 대상이 쓰러져도 폭발합니다."
 "specials.v2.statuseffect.minor.giftbomb.single.enemies.onremoval.damage.neartotarget.allies.death.expiration","대상이 선물 폭탄을 받습니다. {TURNS}턴 후 선물 폭탄이 폭발하며 대상과 주변의 적에게 {DAMAGE}의 피해를 줍니다. 선물 폭탄은 대상이 쓰러져도 폭발합니다."
 "specials.v2.statuseffect.minor.grapple.single.enemies","대상을 잡아챕니다. 잡아챈 대상은 일반 공격력이 1까지 감소하며 대상은 {TURNS} 턴에 걸쳐 {DAMAGE} 피해를 받습니다."
@@ -2941,6 +2965,7 @@ HP {HEALTH}%
 "specials.v2.statuseffect.minor.stackingattackmodifier.all.allies.effect_per_eaten_familiar.parasite.bigparasite","중첩(최대: {MAXSTACK}): 모든 아군은 악마가 파괴될 때마다 추가로 {ATTACK}% 공격력을 얻습니다."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies","중첩 (최대: {MAXSTACK}): 시전자가 {ATTACK}% 공격력을 받습니다."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.effect_per_eaten_familiar.minion.follower.bigminion","중첩(최대: {MAXSTACK}): 시전자는 하수인이 파괴될 때마다 추가로 {ATTACK}% 공격력을 얻습니다."
+"specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.withbasestackcount","중첩 +{BASESTACKCOUNT} (최대: {MAXSTACK}): 시전자의 공격력이 {ATTACK}% 증가합니다."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.enemies.chain_strike","중첩 (최대: {MAXSTACK}): 타격을 줄 때마다 대상에게 {ATTACK}% 공격력을 줍니다."
 "specials.v2.statuseffect.minor.stackingattackmodifieragainstweakerelement.single.allies","중첩 (최대: {MAXSTACK}): 시전자가 더 약한 속성을 상대로 {ATTACK}% 공격력을 받습니다."
 "specials.v2.statuseffect.minor.stackingcritmodifier.all.allies","중첩(최대: {MAXSTACK}): 모든 아군의 치명타 확률이 {CRIT}% 증가합니다."
@@ -2960,6 +2985,7 @@ HP {HEALTH}%
 "specials.v2.statuseffect.minor.stackingicebound.all.enemies.effect_per_kill.minion.follower","중첩 (최대: {MAXSTACK}): 턴이 끝날 때마다, 이 스킬로 처치된 적이나 적 하수인 하나당 {DAMAGE}의 서리 피해가 모든 적에게 가해집니다."
 "specials.v2.statuseffect.minor.stackingicebound.neartotarget.enemies","중첩 (최대: {MAXSTACK}): 턴이 끝날 때마다 {DAMAGE}의 서리 피해가 대상과 인근 적에게 가해집니다."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies","중첩 (최대: {MAXSTACK}): 모든 아군이 {MANAREGEN}% 마나 재생력을 받습니다."
+"specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies.withbasestackcount","중첩 +{BASESTACKCOUNT} (최대: {MAXSTACK}): 모든 아군의 마나 생성이 {MANAREGEN}% 증가합니다."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies","중첩 (최대: {MAXSTACK}): 모든 적이 {MANAREGEN}% 마나 재생력을 받습니다."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies.effect_per_eaten_familiar.minion.follower","중첩 (최대: {MAXSTACK}): 이 스킬로 파괴된 하수인 하나당 {MANAREGEN}%의 마나 재생 효과가 모든 적에게 입혀집니다."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies.effect_per_kill.minion.follower","중첩 (최대: {MAXSTACK}): 이 스킬로 처치된 적이나 적 하수인 하나당 {MANAREGEN}%의 마나 재생 효과가 모든 적에게 입혀집니다."
@@ -2968,6 +2994,7 @@ HP {HEALTH}%
 "specials.v2.statuseffect.minor.stackingminionattackmodifier.all.allies","중첩(최대: {MAXSTACK}): 모든 아군이 하수인에 대해 {ATTACK}% 공격력을 갖습니다."
 "specials.v2.statuseffect.minor.stackingminionmaxhealthmodifier.all.allies","중첩(최대: {MAXSTACK}): 모든 아군이 소환되는 새 하수인에 대해 {MAXHEALTH}% HP 받습니다."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease","중첩 (최대: {MAXSTACK}): 모든 아군이 받은 모든 피해가 {DAMAGEMODIFIER}% 감소합니다."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease.withbasestackcount","중첩 +{BASESTACKCOUNT} (최대: {MAXSTACK}): 모든 아군이 받는 모든 피해가 {DAMAGEMODIFIER}% 감소합니다."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies","중첩 (최대: {MAXSTACK}): 모든 적이 받은 모든 피해가 {DAMAGEMODIFIER}% 증가합니다."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies.withbasestackcount","중첩 +{BASESTACKCOUNT} (최대: {MAXSTACK}): 모든 적이 받는 피해가 {DAMAGEMODIFIER}% 증가합니다."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.lessthanhalfhpleft.enemies","중첩 (최대: {MAXSTACK}): 남은 HP가 50% 미만인 적이 {DAMAGEMODIFIER}% 피해를 받습니다."
@@ -2979,6 +3006,7 @@ HP {HEALTH}%
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.allies.decrease","중첩 (최대: {MAXSTACK}): 시전자가 받은 모든 피해가 {DAMAGEMODIFIER}% 감소합니다."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies","중첩 (최대: {MAXSTACK}): 대상이 받은 모든 피해가 {DAMAGEMODIFIER}% 증가합니다."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.chain_strike","중첩 (최대: {MAXSTACK}): 명중할 때마다 대상이 받은 모든 피해가 {DAMAGEMODIFIER}% 증가합니다."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.withbasestackcount.chain_strike","중첩 +{BASESTACKCOUNT} (최대: {MAXSTACK}): 공격을 받을 때마다 대상이 받는 모든 피해가 {DAMAGEMODIFIER}% 증가합니다."
 "specials.v2.statuseffect.minor.statuseffectgeneratorstatuseffectskill.allexceptcaster.allies.on.ownturnstart.basic_attack_bluecat.mana_regen_bluecat.dispelincreasesactivations","강화의 근원: 매 턴이 시작될 때 다음 효과가 시전자를 제외한 무작위 아군에게 시전됩니다:
 {STATUSEFFECT1TURNS}턴 동안 {STATUSEFFECT1ATTACK}% 공격력.
 {STATUSEFFECT2TURNS}턴 동안 마나 재생력 {STATUSEFFECT2MANAREGEN}%.
@@ -3071,6 +3099,7 @@ HP {HEALTH}%
 "specials.v2.statuseffect.minor.toxin.sides.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","적 대형의 가장자리에 있는 적들이 {TURNS} 턴 동안 {DAMAGE} 독 피해를 입습니다. 향상된 HP, 하수인, 메가 하수인이 있는 대상에 독을 사용하면 받는 독 피해가 증가합니다."
 "specials.v2.statuseffect.minor.toxin.single.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","대상이 {TURNS}턴 동안 {DAMAGE} 독 피해를 입습니다. 향상된 HP, 하수인이나 메가 하수인이 있는 대상에는 피해가 증가합니다."
 "specials.v2.statuseffect.minor.transcendentalframe.single.allies","시전자가 {TURNS}턴 동안 유령 형태로 변합니다."
+"specials.v2.statuseffect.minor.transcendentalframe.single.allies.dispelincreasesactivations","시전자가 {TURNS}턴 동안 유령 형태로 변합니다. 이 효과는 완고입니다."
 "specials.v2.statuseffect.minor.underwater.all.enemies","모든 적이 {TURNS}턴 동안 {DAMAGE}의 물 속성 피해를 입습니다."
 "specials.v2.statuseffect.minor.underwater.all.enemies.absorb_healing.to.single","모든 적이 {TURNS}턴 동안 {DAMAGE}의 물 속성 피해를 입습니다. 가한 물 속성 피해의 {ABSORBHEALING}%를 시전자가 HP로 흡수합니다."
 "specials.v2.statuseffect.minor.underwater.neartotarget.enemies","대상과 주변 적들이 {TURNS}턴 동안 {DAMAGE}만큼 물 속성 피해를 입습니다."

@@ -279,16 +279,34 @@ Tatt skade: -{MODIFIER} %"
 
 I kamper med flere bølger oppdateres effekten ved begynnelsen av hver bølge."
 "herocard.passive_skill.description.redirectlethaldamage.enemies.single.battle","Den første gangen denne figuren ville tatt fatal skade, omdirigeres i stedet {REDIRECTDAMAGEMULTIPLIER} % av den skaden til en tilfeldig fiende. (Aktiveringer igjen: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled","Den første gangen denne figuren ville tatt fatal skade, omdirigeres i stedet {REDIRECTDAMAGEMULTIPLIER} % av den skaden til en tilfeldig angriper.
+
+Aktiveres ikke hvis denne figuren er det eneste medlemmet av laget sitt i kamp.
+
+I kamper med flere bølger oppdateres effekten ved begynnelsen av hver bølge."
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled.battle","Den første gangen denne figuren ville tatt fatal skade, omdirigeres i stedet {REDIRECTDAMAGEMULTIPLIER} % av den skaden til en tilfeldig angriper. (Aktiveringer igjen: {ACTIVATIONSLEFT})
+Aktiveres ikke hvis denne figuren er det eneste medlemmet av laget sitt i kamp."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single","Den første gangen denne figuren ville tatt fatal skade, omdirigeres i stedet skaden til en tilfeldig fiende.
 
 I kamper med flere bølger oppdateres effekten ved begynnelsen av hver bølge."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.battle","Den første gangen denne figuren ville tatt fatal skade, omdirigeres i stedet skaden til en tilfeldig fiende. (Aktiveringer igjen: {ACTIVATIONSLEFT})"
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Den første gangen denne figuren ville tatt fatal skade fra normale angrep eller spesialferdigheter, omdirigeres i stedet opptil {REDIRECTDAMAGELIMIT} skade til angriperen. (Aktiveringer igjen: {ACTIVATIONSLEFT})"
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","Den første gangen denne figuren ville tatt fatal skade fra normale angrep eller spesialferdigheter, omdirigeres i stedet opptil {REDIRECTDAMAGELIMIT} skade til angriperen. (Aktiveringer igjen: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Den første gangen denne figuren ville tatt fatal skade fra normale angrep eller spesialferdigheter, omdirigeres i stedet opptil {REDIRECTDAMAGELIMIT} skade til en tilfeldig fiende."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","Den første gangen denne figuren ville tatt fatal skade fra normale angrep eller spesialferdigheter, omdirigeres i stedet opptil {REDIRECTDAMAGELIMIT} skade til en tilfeldig fiende. (Aktiveringer igjen: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled","Den første gangen denne figuren ville tatt fatal skade fra normale angrep eller spesialferdigheter, omdirigeres i stedet opptil {REDIRECTDAMAGELIMIT} skade til angriperen.
+Aktiveres ikke hvis denne figuren er det eneste medlemmet av laget sitt i kamp."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled.battle","Den første gangen denne figuren ville tatt fatal skade fra normale angrep eller spesialferdigheter, omdirigeres i stedet opptil {REDIRECTDAMAGELIMIT} skade til angriperen. (Aktiveringer igjen: {ACTIVATIONSLEFT})
+Aktiveres ikke hvis denne figuren er det eneste medlemmet av laget sitt i kamp."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","Den første gangen denne figuren ville tatt fatal skade fra normale angrep eller spesialferdigheter, omdirigeres i stedet opptil {REDIRECTDAMAGELIMIT} skade til angriperen.
 
 I kamper med flere bølger oppdateres effekten ved begynnelsen av hver bølge."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit.battle","Den første gangen denne figuren ville tatt fatal skade fra normale angrep eller spesialferdigheter, omdirigeres i stedet opptil {REDIRECTDAMAGELIMIT} skade til angriperen. (Aktiveringer igjen: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled","Den første gangen denne figuren ville tatt fatal skade, omdirigeres i stedet skaden til en tilfeldig angriper.
+
+Aktiveres ikke hvis denne figuren er det eneste medlemmet av laget sitt i kamp.
+
+I kamper med flere bølger oppdateres effekten ved begynnelsen av hver bølge."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled.battle","Den første gangen denne figuren ville tatt fatal skade, omdirigeres i stedet skaden til en tilfeldig angriper. (Aktiveringer igjen: {ACTIVATIONSLEFT})
+Aktiveres ikke hvis denne figuren er det eneste medlemmet av laget sitt i kamp."
 "herocard.passive_skill.description.reduceinsanityperturn","Ved starten av hver runde reduseres denne figurens nåværende galskap med {REDUCTION}."
 "herocard.passive_skill.description.reflectresistedstatuseffect.all.enemies","Alle statuslidelser denne figuren motstår med passive ferdigheter, reflekteres tilbake på alle fiender."
 "herocard.passive_skill.description.reflectstatuseffect.with_chance","{CHANCE} % ekstra sjanse til å reflektere statuslidelser tilbake til angriperen."
@@ -907,10 +925,7 @@ Hellig-skjold på brettet forbedres og gir {MODIFIER} % mer mana når denne hel
 "herocard.passive_skill.title.received_strong_troop_damage_pve","Troppskadereduksjon"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage","Troppmestring"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage.increase.dragon","Kraftig økning av ildkuleskade"
-"herocard.passive_skill.title.redirectlethaldamage.enemies.single","Lure døden"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single","Lure døden"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Lure døden"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","Lure døden"
+"herocard.passive_skill.title.redirectlethaldamage","Lure døden"
 "herocard.passive_skill.title.reduceinsanityperturn","Reduser galskap"
 "herocard.passive_skill.title.reflectresistedstatuseffect","Legendarisk reflektor"
 "herocard.passive_skill.title.remove_growth_from_enemies","Voktersamling"

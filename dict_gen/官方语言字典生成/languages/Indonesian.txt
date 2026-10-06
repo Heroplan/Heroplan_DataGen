@@ -4288,6 +4288,10 @@ Mulai Ekspedisi dengan Grup ini?"
 "familiar.statuseffect.minor.dispelimmunity.single.allies.noturns.reef_shark_sharpoon.summon","Antek Hiu memblokir genjotan efek status agar tidak dienyahkan atau dicuri."
 "familiar.statuseffect.minor.dispelimmunity.single.allies.noturns.shark_mega_minion_haikala.summon","Antek Mega Hiu memblokir genjotan efek status agar tidak dienyahkan atau dicuri."
 "familiar.statuseffect.minor.dispelimmunity.single.allies.while.single.allies.familiaralive.spotted_boar_mega_minion.spotted_boar_mega_minion.summon","Ketika dipanggil, Antek Mega Celeng Berbintik memberikan pemiliknya kekebalan terhadap pengenyahan efek status selama pemiliknya memiliki Antek Mega Celeng Berbintik. Efek ini tidak bisa dienyahkan."
+"familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie.deathbydamage.eatenbycharacter","Setelah [#!]Penghapusan Penuh[#] dirapal, penyerang berubah menjadi Hantu Owlhalla selama {TURNS} giliran. Efek ini [#!]Bandel.[#]
+[*] Saat berwujud Hantu Owlhalla, musuh menderita kerusakan sebesar {DAMAGEPERTURN} setiap giliran."
+"familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.owlkyrie_mayhem.deathbydamage.eatenbycharacter","Setelah [#!]Penghapusan Penuh[#] dirapal, penyerang berubah menjadi Hantu Owlhalla selama {TURNS} giliran. Efek ini [#!]Bandel.[#]
+[*] Saat berwujud Hantu Owlhalla, musuh menderita kerusakan sebesar {DAMAGEPERTURN} setiap giliran."
 "familiar.statuseffect.minor.poison.single.enemies.contagious.sword_guard_mega_minion.turn","Sasaran yang terkena Antek Mega Penjaga Pedang mengalami {DAMAGE} kerusakan Racun selama {TURNS} giliran. Efek ini menyebar ke musuh terdekat."
 "familiar.statuseffect.minor.receiveddamagemodifier.single.enemies.bull.turn","Sasaran yang terhantam oleh Antek Banteng akan menerima {DAMAGEREDUCTION}% kerusakan ekstra selama {TURNS} giliran."
 "familiar.statuseffect.minor.receiveddamagemodifier.single.enemies.butterfly.turn","Pertambahan {DAMAGEREDUCTION}% untuk semua kerusakan yang diterima musuh selama {TURNS} giliran."
@@ -4346,7 +4350,7 @@ Batas untuk Skor Kemampuan yang dimodifikasi.
 [*][#!]Iblis Tunas[#] berubah menjadi [#!]Iblis Mega Mekar[#] setelah {EVOLVINGFAMILIAR2EVOLVETURNS} giliran.
 
 [*] [#!]Iblis Benih[#]: [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] serangan, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] kesehatan.
-[*] [#!]Iblis Benih[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] serangan, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] kesehatan.
+[*] [#!]Iblis Tunas[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] serangan, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] kesehatan.
 [*] [#!]Iblis Mega Mekar[#]: [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] serangan, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] kesehatan.
 
 [*]Iblis merusak sasaran setiap giliran. Iblis menghilang setelah menyerap penyembuhan. Jumlah penyembuhan yang diperlukan tergantung kesehatan maks sasaran.
@@ -4355,7 +4359,7 @@ Batas untuk Skor Kemampuan yang dimodifikasi.
 [*][#!]Iblis Tunas[#] berubah menjadi [#!]Iblis Mega Mekar[#] setelah {EVOLVINGFAMILIAR2EVOLVETURNS} giliran.
 
 [*] [#!]Iblis Benih[#]: [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] serangan, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] kesehatan.
-[*] [#!]Iblis Benih[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] serangan, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] kesehatan.
+[*] [#!]Iblis Tunas[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] serangan, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] kesehatan.
 [*] [#!]Iblis Mega Mekar[#]: [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] serangan, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] kesehatan.
 
 [*]Iblis merusak sasaran setiap giliran. Iblis menghilang setelah menyerap penyembuhan. Jumlah penyembuhan yang diperlukan tergantung kesehatan maks sasaran."
@@ -5081,14 +5085,14 @@ Kamu akan menerima kembali barang dan sumber daya berikut:"
 "hero.talentskill.description.effectonturndamagereceived","Jika karakter ini mengalami kerusakan pada akhir giliran musuh, berpeluang {ACTIVATION}% untuk mengaktifkan efek berikut:"
 "hero.talentskill.description.reflectmanaeffectsandspecialblocking","Berpeluang {ACTIVATION}% untuk menampik pengurangan mana secara langsung dan memantulkan efek mana negatif dan efek yang mencegah penggunaan Keahlian Khusus. Jika efek ditampik atau dipantulkan, efek berikut juga diaktifkan:"
 "hero.talentskill.description.reflectmanaeffectsandspecialblocking.no_components","Berpeluang {ACTIVATION}% menampik pengurangan mana secara langsung dan memantulkan efek mana negatif dan efek yang mencegah penggunaan Keahlian Khusus."
-"hero.talentskill.description.resistdeath","Saat Menerima serangan fatal, berpeluang {ACTIVATION}% untuk bangkit di akhir giliran. 
+"hero.talentskill.description.resistdeath","Saat menerima serangan fatal, berpeluang {ACTIVATION}% untuk bangkit di akhir giliran. 
 
 Efek berikut juga diaktifkan saat Bakat ini aktif:"
-"hero.talentskill.description.resistdeath.decrease_chance_on_activation","Saat Menerima serangan fatal, berpeluang {ACTIVATION}% untuk bangkit di akhir giliran. Peluang bangkit dikurang pada setiap pengaktifan.
+"hero.talentskill.description.resistdeath.decrease_chance_on_activation","Saat menerima serangan fatal, berpeluang {ACTIVATION}% untuk bangkit di akhir giliran. Peluang bangkit dikurangi pada setiap pengaktifan.
 
 Efek berikut juga diaktifkan saat Bakat ini aktif:"
-"hero.talentskill.description.resistdeath.no_components","Saat Menerima serangan fatal, berpeluang {ACTIVATION}% untuk bangkit di akhir giliran."
-"hero.talentskill.description.resistdeath.no_components.decrease_chance_on_activation","Saat Menerima serangan fatal, berpeluang {ACTIVATION}% untuk bangkit di akhir giliran. Peluang untuk bangkit dikurangi pada setiap pengaktifan."
+"hero.talentskill.description.resistdeath.no_components","Saat menerima serangan fatal, berpeluang {ACTIVATION}% untuk bangkit di akhir giliran."
+"hero.talentskill.description.resistdeath.no_components.decrease_chance_on_activation","Saat menerima serangan fatal, berpeluang {ACTIVATION}% untuk bangkit di akhir giliran. Peluang untuk bangkit dikurangi pada setiap pengaktifan."
 "hero.talentskill.description.resistmanaeffectsandspecialblocking","Berpeluang {ACTIVATION}% untuk menampik efek mana negatif dan efek yang mencegah penggunaan Keahlian Khusus. Jika efek ditampik atau dipantulkan, efek berikut juga diaktifkan:"
 "hero.talentskill.description.resistmanaeffectsandspecialblocking.no_components","Berpeluang {ACTIVATION}% untuk menampik efek mana negatif dan efek yang mencegah penggunaan Keahlian Khusus."
 "hero.talentskill.description.resiststatuseffect","Berpeluang {ACTIVATION}% untuk menampik status pelemahan. Jika status pelemahan ditampik, efek berikut juga diaktifkan:"
@@ -5978,16 +5982,34 @@ The [#!]Inti Destruktif[#] aktif setiap kali Keahlian Khusus karakter ini dirapa
 
 Dalam pertempuran dengan beberapa gelombang, efek ini akan disegarkan di awal setiap gelombang."
 "herocard.passive_skill.description.redirectlethaldamage.enemies.single.battle","Saat pertama kali karakter ini terancam menerima kerusakan fatal, dia mengalihkan {REDIRECTDAMAGEMULTIPLIER}% dari kerusakan itu ke satu musuh acak. (Sisa aktivasi: [#!]{ACTIVATIONSLEFT}[#])"
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled","Saat pertama kali karakter ini terancam menerima kerusakan fatal, dia mengalihkan {REDIRECTDAMAGEMULTIPLIER}% dari kerusakan itu ke penyerang.
+
+Tidak diaktifkan jika karakter ini adalah satu-satunya anggota timnya dalam pertempuran.
+
+Dalam pertempuran dengan beberapa gelombang, efek ini akan disegarkan di awal setiap gelombang."
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled.battle","Saat pertama kali karakter ini terancam menerima kerusakan fatal, dia mengalihkan {REDIRECTDAMAGEMULTIPLIER}% dari kerusakan itu ke penyerang. (Sisa aktivasi: [#!]{ACTIVATIONSLEFT}[#])
+Tidak diaktifkan jika karakter ini adalah satu-satunya anggota timnya dalam pertempuran."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single","Pertama kali karakter ini menerima kerusakan fatal, kerusakan itu dialihkan ke musuh acak.
 
 Dalam pertempuran dengan beberapa gelombang, efeknya akan disegarkan di awal setiap gelombang."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.battle","Pertama kalinya karakter ini menerima kerusakan fatal, kerusakan itu dialihkan ke musuh acak. (Sisa aktivasi: [#!]{ACTIVATIONSLEFT}[#])"
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Pertama kalinya karakter ini menerima kerusakan fatal dari serangan normal atau Keahlian Khusus, dia mengalihkan hingga {REDIRECTDAMAGELIMIT} kerusakan ke si penyerang. (Sisa aktivasi: [#!]{ACTIVATIONSLEFT}[#])"
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","Pertama kalinya karakter ini menerima kerusakan fatal dari serangan normal atau Keahlian Khusus, dia mengalihkan hingga {REDIRECTDAMAGELIMIT} kerusakan ke si penyerang. (Sisa aktivasi: [#!]{ACTIVATIONSLEFT}[#])"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Pertama kalinya karakter ini menerima kerusakan fatal dari serangan normal atau Keahlian Khusus, dia mengalihkan hingga {REDIRECTDAMAGELIMIT} kerusakan ke satu musuh acak."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","Pertama kalinya karakter ini menerima kerusakan fatal dari serangan normal atau Keahlian Khusus, dia mengalihkan hingga {REDIRECTDAMAGELIMIT} kerusakan ke satu musuh acak. (Sisa aktivasi: [#!]{ACTIVATIONSLEFT}[#])"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled","Pertama kalinya karakter ini menerima kerusakan fatal dari serangan normal atau Keahlian Khusus, dia mengalihkan hingga {REDIRECTDAMAGELIMIT} kerusakan ke si penyerang.
+Tidak diaktifkan jika karakter ini adalah satu-satunya anggota timnya dalam pertempuran."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled.battle","Pertama kalinya karakter ini menerima kerusakan fatal dari serangan normal atau Keahlian Khusus, dia mengalihkan hingga {REDIRECTDAMAGELIMIT} kerusakan ke si penyerang. (Sisa aktivasi: [#!]{ACTIVATIONSLEFT}[#])
+Tidak diaktifkan jika karakter ini adalah satu-satunya anggota timnya dalam pertempuran."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","Saat pertama kali karakter ini terancam menerima kerusakan fatal dari serangan normal atau Keahlian Khusus, dia mengalihkan hingga {REDIRECTDAMAGELIMIT} kerusakan ke si penyerang.
 
 Dalam pertempuran dengan beberapa gelombang, efek ini akan disegarkan di awal setiap gelombang."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit.battle","Pertama kalinya karakter ini menerima kerusakan fatal dari serangan normal atau Keahlian Khusus, dia mengalihkan hingga {REDIRECTDAMAGELIMIT} kerusakan ke si penyerang. (Sisa aktivasi: [#!]{ACTIVATIONSLEFT}[#])"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled","Saat pertama kali karakter ini terancam menerima kerusakan fatal, dia mengalihkan kerusakan itu ke penyerang.
+
+Tidak diaktifkan jika karakter ini adalah satu-satunya anggota timnya dalam pertempuran.
+
+Dalam pertempuran dengan beberapa gelombang, efek ini akan disegarkan di awal setiap gelombang."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled.battle","Saat pertama kali karakter ini terancam menerima kerusakan fatal, dia mengalihkan kerusakan itu ke penyerang. (Sisa aktivasi: [#!]{ACTIVATIONSLEFT}[#])
+Tidak diaktifkan jika karakter ini adalah satu-satunya anggota timnya dalam pertempuran."
 "herocard.passive_skill.description.reduceinsanityperturn","Di awal tiap giliran, [#!]Kegilaan[#] saat ini karakter ini berkurang sebesar [#!]{REDUCTION}[#]."
 "herocard.passive_skill.description.reflectresistedstatuseffect.all.enemies","Setiap status pelemahan yang ditampik karakter ini dengan Keahlian Pasif akan dipantulkan kepada semua musuh."
 "herocard.passive_skill.description.reflectstatuseffect.with_chance","Peluang ekstra [#!]{CHANCE}%[#] untuk memantulkan status pelemahan kembali ke penyerang."
@@ -6607,10 +6629,7 @@ Perisai [##elementyellow]Suci[#] pada papan diperkuat dan memberikan [#!]{MODIFI
 "herocard.passive_skill.title.received_strong_troop_damage_pve","Pengurangan Kerusakan Pasukan"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage","Penguasaan Pasukan"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage.increase.dragon","Kenaikan Kerusakan Bola Api Kuat"
-"herocard.passive_skill.title.redirectlethaldamage.enemies.single","Menipu Kematian"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single","Menipu Kematian"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Menipu Kematian"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","Menipu Kematian"
+"herocard.passive_skill.title.redirectlethaldamage","Menipu Kematian"
 "herocard.passive_skill.title.reduceinsanityperturn","Mengurangi Kegilaan"
 "herocard.passive_skill.title.reflectresistedstatuseffect","Pemantul Legendaris"
 "herocard.passive_skill.title.remove_growth_from_enemies","Reli Penjaga"
@@ -27448,6 +27467,14 @@ Jika Lendir tidak kalah dalam {CHANGEDAPPEARANCETURNS} giliran, ia akan terlahir
 [#!]Tarian Hoki Cemerlang[#]
 {STATUSEFFECTS}
 [*][#!]Tarian Hoki[#] bertumpuk dengan efek Tarian lainnya."
+"specials.v2.statuseffect.minor.abyss.sides.enemies.dispelincreasesactivations","Musuh di tepi formasi musuh menjadi Hantu Jurang selama {TURNS} giliran.
+[*] Saat berwujud Hantu Jurang, sasaran menderita kerusakan sebesar {DAMAGEPERTURN} setiap giliran. Efek ini [#!]Bandel.[#]"
+"specials.v2.statuseffect.minor.abyss.single.enemies.dispelincreasesactivations","Sasaran berubah menjadi Hantu Jurang selama {TURNS} giliran. Efek ini [#!]Bandel.[#]
+[*] Saat berwujud Hantu Jurang, sasaran menderita kerusakan sebesar {DAMAGEPERTURN} setiap giliran."
+"specials.v2.statuseffect.minor.abyss.single.enemies.onremoval.damage.all.allies.expiration.add_insanity_emilie.dispelincreasesactivations","Sasaran berubah menjadi Hantu Jurang selama {TURNS} giliran. Efek ini [#!]Bandel.[#]
+[*] Saat berwujud Hantu Jurang, sasaran menderita kerusakan sebesar {DAMAGEPERTURN} setiap giliran.
+[*] Saat wujud Hantu Jurang berakhir:
+[*] Menimbulkan {FIXEDPOWER} kerusakan dan {STATUSEFFECT1INSANITYTOADD} [#!]Kegilaan[#] kepada semua sekutu."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies","Semua musuh mendapat akurasi {ACCURACY}% selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies.dispelincreasesactivations","Semua musuh mendapat akurasi {ACCURACY}% selama {TURNS} giliran. Efek ini [#!]Bandel[#]."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies.resetonheal","Semua musuh mendapat {ACCURACY}% akurasi selama {TURNS} giliran. Durasi efek ini direset jika sasaran disembuhkan."
@@ -27862,6 +27889,12 @@ Jika Lendir tidak kalah dalam {CHANGEDAPPEARANCETURNS} giliran, ia akan terlahir
 [*][#!]Goo Menerkam:[#] Menghapus semua genjotan yang bisa dienyahkan dan efek Bertumbuh, menimbulkan {BASEDAMAGEPERTURN} kerusakan per giliran dan {DAMAGEPERTURNPEREFFECT} kerusakan per efek yang dihapus."
 "specials.v2.statuseffect.minor.devouringgoo.single.enemies.effects.minorbuff.positivebasestatmodifier","Musuh yang ditarget menerima status pelemahan Goo Menerkam selama {TURNS} giliran.
 [*][#!]Goo Menerkam:[#] Menghapus semua genjotan yang bisa dienyahkan dan efek Bertumbuh, menimbulkan {BASEDAMAGEPERTURN} kerusakan per giliran dan {DAMAGEPERTURNPEREFFECT} kerusakan per efek yang dihapus."
+"specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.add_insanity_salvatore.dispelincreasesactivations","Perapal berubah menjadi Arwah Ngeri Edan selama {TURNS} giliran. Efek ini [#!]Bandel.[#]
+[*] Saat berwujud Arwah Ngeri Edan, perapal secara otomatis menimbulkan kerusakan sebesar {POWER1}% dan menimbulkan {STATUSEFFECT1INSANITYTOADD} [#!] Kegilaan[#] kepada musuh acak setiap giliran.
+[*] Saat berwujud Arwah Ngeri Edan, perapal dan sekutu terdekat dapat mengalami kerusakan dari musuh yang berelemen kuat melawan mereka."
+"specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.dispelincreasesactivations","Perapal berubah menjadi Arwah Ngeri selama {TURNS} giliran. Efek ini [#!]Bandel.[#]
+[*] Saat berwujud Arwah Ngeri, perapal secara otomatis menimbulkan {POWER1}% kerusakan terhadap musuh acak setiap giliran.
+[*] Saat berwujud Arwah Ngeri, perapal dapat mengalami kerusakan dari musuh yang berelemen kuat melawan perapal."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff","Membersihkan status pelemahan pada akhir tiap giliran untuk semua sekutu selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.bypassremoveeffects","Secara aman membersihkan status pelemahan pada akhir tiap giliran untuk semua sekutu selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.customremovalcount","Membersihkan 1 status pelemahan pada akhir tiap giliran untuk semua sekutu selama {TURNS} giliran."
@@ -27943,6 +27976,8 @@ Jika Lendir tidak kalah dalam {CHANGEDAPPEARANCETURNS} giliran, ia akan terlahir
 "specials.v2.statuseffect.minor.elementswapovertime.allexceptcaster.allies","Selama {TURNS} giliran, semua sekutu kecuali perapal menderita [#!]Aliran Elemen[#]. Elemen mereka berubah secara acak setiap giliran."
 "specials.v2.statuseffect.minor.elementswapovertime.damage_to_green.all.enemies","Selama {TURNS} giliran, semua musuh menderita [#!]Aliran Elemen[#]. Elemen mereka berubah secara acak setiap giliran, menimbulkan {DAMAGEPERTURN} kerusakan setiap kali elemen mereka berubah menjadi [##elementgreen]Alam[#]."
 "specials.v2.statuseffect.minor.elementswapovertime.damage_to_yellow.all.enemies","Selama {TURNS} giliran, semua musuh menderita [#!]Aliran Elemen[#]. Elemen mereka berubah secara acak setiap giliran, menimbulkan {DAMAGEPERTURN} kerusakan setiap kali elemen mereka berubah menjadi [##elementyellow]Suci[#]."
+"specials.v2.statuseffect.minor.ethereal.single.allies.dispelincreasesactivations","Perapal berubah wujud menjadi Hantu selama {TURNS} giliran.
+[*] Saat berwujud Hantu, perapal meraih {ATTACK}% serangan. Efek ini [#!]Bandel.[#]"
 "specials.v2.statuseffect.minor.explodingberserk.single.allies","Serangan perapal naik {ATTACK}%, dan naik lagi sebesar {CHANGE}% setiap kali dia atau sekutunya terkena serangan selama {TURNS} giliran, hingga {MAXMODIFIER}% serangan. Saat efek ini habis, semua musuh mengalami {DAMAGE} kerusakan. setiap serangan yang mengenai perapal atau sekutunya selama durasi akan meningkatkan kerusakan sebesar {ADDITIONALDAMAGEPERHIT} sampai maksimum {MAXDAMAGE}."
 "specials.v2.statuseffect.minor.extradamageagainstboostedhealth.all.allies.troop.npcnormalattack.specialskill.statuseffectskill","Semua serangan normal sekutu dan Keahlian Khusus menimbulkan {DAMAGEMULTIPLIER}% kerusakan terhadap sasaran dengan peningkatan kesehatan selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.fearstatuseffectskill.all.enemies.on.allyspecial.damage.random.allies","Semua musuh menyerah pada rasa [#!]Takut[#] selama {TURNS} giliran."
@@ -28016,6 +28051,14 @@ Jika Lendir tidak kalah dalam {CHANGEDAPPEARANCETURNS} giliran, ia akan terlahir
 "specials.v2.statuseffect.minor.frost.single.enemies.contagious","Sasaran mengalami {DAMAGE} kerusakan Beku selama {TURNS} giliran. Efek ini menyebar ke musuh terdekat."
 "specials.v2.statuseffect.minor.frost.single.enemies.contagious.noturns","Sasaran mengalami {DAMAGE} kerusakan Beku yang [#!]langgeng[#] per giliran. Efek ini menyebar ke musuh terdekat."
 "specials.v2.statuseffect.minor.gamble.all.allies","Semua sekutu mendapat {ATTACK}% serangan dengan {ACCURACY}% akurasi selama {TURNS} giliran."
+"specials.v2.statuseffect.minor.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies.dispelincreasesactivations","Perapal berubah wujud menjadi Hantu selama {TURNS} giliran. Efek ini [#!]Bandel.[#]
+[*] Saat wujud Hantu berakhir:
+[*] Semua sekutu mendapat peluang kritis {REMOVALEFFECT1STATUSEFFECT1CRIT}% selama {REMOVALEFFECT1STATUSEFFECT1TURNS} giliran. Efek ini tidak bisa dienyahkan."
+"specials.v2.statuseffect.minor.ghost.single.allies.onremoval.revival.randomdead.allies.expiration.hp_recovery_sable.all.allies.dispel_ailments.all.allies.dispelincreasesactivations","Perapal berubah wujud menjadi Hantu selama {TURNS} giliran. Efek ini [#!]Bandel.[#]
+[*] Saat wujud Hantu berakhir:
+[*] Perapal membangkitkan satu sekutu acak yang kalah dengan {REMOVALEFFECT1POWER}% HP. 
+[*] Semua sekutu memperoleh  {REMOVALEFFECT1STATUSEFFECT1TOTAL} kesehatan selama {REMOVALEFFECT1STATUSEFFECT1TURNS} giliran.
+[*] Membersihkan status pelemahan dari semua sekutu di akhir tiap giliran selama {REMOVALEFFECT1STATUSEFFECT2TURNS} giliran."
 "specials.v2.statuseffect.minor.giftbomb.single.enemies.neartotargetminor.allies.death.expiration","Sasaran menerima Bom Kado. Setelah {TURNS} giliran, Bom Kado meledak dan menimbulkan kerusakan {DAMAGE} kepada sasaran dan kerusakan {MINORDAMAGE} kepada sasaran terdekat. Bom Kado juga meledak jika sasaran kalah."
 "specials.v2.statuseffect.minor.giftbomb.single.enemies.onremoval.damage.neartotarget.allies.death.expiration","Sasaran menerima Bom Kado. Setelah {TURNS} giliran, Bom Kado meledak dan menimbulkan kerusakan {DAMAGE} kepada sasaran dan sasaran terdekat. Bom Kado juga meledak jika sasaran kalah."
 "specials.v2.statuseffect.minor.grapple.single.enemies","Bergumul dengan sasaran. Saat bergumul, serangan normal sasaran berkurang menjadi 1 dan sasaran menderita {DAMAGE} kerusakan selama {TURNS} giliran."
@@ -28505,6 +28548,7 @@ Jika Lendir tidak kalah dalam {CHANGEDAPPEARANCETURNS} giliran, ia akan terlahir
 "specials.v2.statuseffect.minor.stackingattackmodifier.all.allies.effect_per_eaten_familiar.parasite.bigparasite","[#!]Tumpukan (Maks: {MAXSTACK}):[#] Semua sekutu mendapat {ATTACK}% serangan tambahan untuk setiap Iblis yang hancur."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies","[#!]Tumpukan (Maks: {MAXSTACK}):[#] Perapal mendapat serangan {ATTACK}%."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.effect_per_eaten_familiar.minion.follower.bigminion","[#!]Tumpukan (Maks: {MAXSTACK}):[#] Perapal mendapat {ATTACK}% serangan tambahan untuk setiap Antek yang hancur."
+"specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.withbasestackcount","[#!]Tumpukan +{BASESTACKCOUNT} (Maks: {MAXSTACK}):[#] Perapal mendapat serangan {ATTACK}%."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.enemies.chain_strike","[#!]Tumpukan (Maks: {MAXSTACK}):[#] Setiap pukulan memberikan serangan {ATTACK}% kepada sasarannya."
 "specials.v2.statuseffect.minor.stackingattackmodifieragainstweakerelement.single.allies","[#!]Tumpukan (Maks: {MAXSTACK}):[#] Perapal mendapat serangan {ATTACK}% terhadap elemen yang lebih lemah."
 "specials.v2.statuseffect.minor.stackingcritmodifier.all.allies","[#!]Tumpukan (Maks: {MAXSTACK}):[#] Semua sekutu mendapat peluang kritis {CRIT}%."
@@ -28524,6 +28568,7 @@ Jika Lendir tidak kalah dalam {CHANGEDAPPEARANCETURNS} giliran, ia akan terlahir
 "specials.v2.statuseffect.minor.stackingicebound.all.enemies.effect_per_kill.minion.follower","[#!]Tumpukan (Maks: {MAXSTACK}):[#] Semua musuh mengalami {DAMAGE} kerusakan Beku per musuh atau Antek musuh yang kalah pada akhir setiap giliran."
 "specials.v2.statuseffect.minor.stackingicebound.neartotarget.enemies","[#!]Tumpukan (Maks: {MAXSTACK}):[#] Sasaran dan musuh terdekat mengalami {DAMAGE} kerusakan Beku pada akhir setiap giliran."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies","[#!]Tumpukan (Maks: {MAXSTACK}):[#] Semua sekutu mendapat generasi mana {MANAREGEN}%."
+"specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies.withbasestackcount","[#!]Tumpukan +{BASESTACKCOUNT} (Maks: {MAXSTACK}):[#] Semua sekutu mendapat generasi mana {MANAREGEN}%."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies","[#!]Tumpukan (Maks: {MAXSTACK}):[#] Semua musuh mendapat generasi mana {MANAREGEN}%."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies.effect_per_eaten_familiar.minion.follower","[#!]Tumpukan (Maks: {MAXSTACK}):[#] Semua musuh mendapat generasi mana {MANAREGEN}%  per Antek yang hancur."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies.effect_per_kill.minion.follower","[#!]Tumpukan (Maks: {MAXSTACK}):[#] Semua musuh mendapat generasi mana {MANAREGEN}% per musuh atau Antek musuh yang kalah."
@@ -28532,6 +28577,7 @@ Jika Lendir tidak kalah dalam {CHANGEDAPPEARANCETURNS} giliran, ia akan terlahir
 "specials.v2.statuseffect.minor.stackingminionattackmodifier.all.allies","[#!]Tumpukan (Maks: {MAXSTACK}):[#] Semua sekutu mendapat {ATTACK}% serangan untuk Anteknya."
 "specials.v2.statuseffect.minor.stackingminionmaxhealthmodifier.all.allies","[#!]Tumpukan (Maks: {MAXSTACK}):[#] Semua sekutu mendapat {MAXHEALTH}% HP yang diwarisi untuk Antek baru yang dipanggilnya."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease","[#!]Tumpukan (Maks: {MAXSTACK}):[#] Semua kerusakan yang diterima semua sekutu berkurang {DAMAGEMODIFIER}%"
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease.withbasestackcount","[#!]Tumpukan +{BASESTACKCOUNT} (Maks: {MAXSTACK}):[#] Semua kerusakan yang diterima semua sekutu berkurang {DAMAGEMODIFIER}%"
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies","[#!]Tumpukan (Maks: {MAXSTACK}):[#] Semua kerusakan yang diterima semua musuh bertambah {DAMAGEMODIFIER}%"
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies.withbasestackcount","[#!]Tumpukan +{BASESTACKCOUNT} (Maks: {MAXSTACK}):[#] Semua kerusakan yang diterima semua musuh bertambah {DAMAGEMODIFIER}%."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.lessthanhalfhpleft.enemies","[#!]Tumpukan (Maks: {MAXSTACK}):[#] Musuh dengan sisa kesehatan kurang dari 50% menerima kerusakan {DAMAGEMODIFIER}%."
@@ -28543,6 +28589,7 @@ Jika Lendir tidak kalah dalam {CHANGEDAPPEARANCETURNS} giliran, ia akan terlahir
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.allies.decrease","[#!]Tumpukan (Maks: {MAXSTACK}):[#] Semua kerusakan yang diterima perapal berkurang {DAMAGEMODIFIER}%."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies","[#!]Tumpukan (Maks: {MAXSTACK}):[#] Semua kerusakan yang diterima sasaran bertambah {DAMAGEMODIFIER}%."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.chain_strike","[#!]Tumpukan (Maks: {MAXSTACK}):[#] Setiap hantaman meningkatkan semua kerusakan yang diterima sasaran sebesar {DAMAGEMODIFIER}%"
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.withbasestackcount.chain_strike","[#!]Tumpukan +{BASESTACKCOUNT} (Maks: {MAXSTACK}):[#] Setiap hantaman meningkatkan semua kerusakan yang diterima sasaran sebesar {DAMAGEMODIFIER}%"
 "specials.v2.statuseffect.minor.statuseffectgeneratorstatuseffectskill.allexceptcaster.allies.on.ownturnstart.basic_attack_bluecat.mana_regen_bluecat.dispelincreasesactivations","[#!]Sumber Genjotan:[#] Efek berikut dirapal ke satu sekutu acak kecuali perapal di awal tiap giliran:
 [*]{STATUSEFFECT1ATTACK}% serangan selama {STATUSEFFECT1TURNS} giliran.
 [*]{STATUSEFFECT2MANAREGEN}% generasi mana selama {STATUSEFFECT2TURNS} giliran. 
@@ -28638,6 +28685,7 @@ Jika Lendir tidak kalah dalam {CHANGEDAPPEARANCETURNS} giliran, ia akan terlahir
 "specials.v2.statuseffect.minor.toxin.single.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","Sasaran mengalami {DAMAGE} kerusakan [#!]Racun[#] selama {TURNS} giliran. 
 [*] Kerusakan bertambah melawan sasaran dengan peningkatan kesehatan, Antek, atau satu Antek Mega."
 "specials.v2.statuseffect.minor.transcendentalframe.single.allies","Perapal berubah wujud menjadi Hantu selama {TURNS} giliran."
+"specials.v2.statuseffect.minor.transcendentalframe.single.allies.dispelincreasesactivations","Perapal berubah wujud menjadi Hantu selama {TURNS} giliran. Efek ini [#!]Bandel.[#]"
 "specials.v2.statuseffect.minor.underwater.all.enemies","Semua musuh mengalami {DAMAGE} kerusakan Air selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.underwater.all.enemies.absorb_healing.to.single","Semua musuh mengalami {DAMAGE} kerusakan Air selama {TURNS} giliran. Perapal menyerap {ABSORBHEALING}% dari kerusakan Air yang ditimbulkan sebagai kesehatan."
 "specials.v2.statuseffect.minor.underwater.neartotarget.enemies","Sasaran dan musuh terdekat mengalami {DAMAGE} kerusakan Air selama {TURNS} giliran."

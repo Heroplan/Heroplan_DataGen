@@ -4285,6 +4285,10 @@ Começar expedição com este grupo?"
 "familiar.statuseffect.minor.dispelimmunity.single.allies.noturns.reef_shark_sharpoon.summon","O ajudante Tubarão impede que reforços de efeitos de status sejam dissipados ou roubados."
 "familiar.statuseffect.minor.dispelimmunity.single.allies.noturns.shark_mega_minion_haikala.summon","O mega-ajudante Tubarão impede que reforços de efeitos de status sejam dissipados ou roubados."
 "familiar.statuseffect.minor.dispelimmunity.single.allies.while.single.allies.familiaralive.spotted_boar_mega_minion.spotted_boar_mega_minion.summon","Quando convocado, o mega-ajudante Javali Pintado dá ao dono imunidade a dissipações de efeito de status enquanto o dono tem um mega-ajudante Javali Pintado. Este efeito não pode ser dissipado."
+"familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie.deathbydamage.eatenbycharacter","Após a aplicação de [#!]Remoção Total[#], o atacante assume a forma de Fantasma de Corujalla por {TURNS} turnos. Este efeito é [#!]persistente[#].
+[*] Enquanto está na forma de Fantasma de Corujalla, o alvo recebe {DAMAGEPERTURN} de dano a cada turno."
+"familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.owlkyrie_mayhem.deathbydamage.eatenbycharacter","Após a aplicação de [#!]Remoção Total[#], o atacante assume a forma de Fantasma de Corujalla por {TURNS} turnos. Este efeito é [#!]persistente[#].
+[*] Enquanto está na forma de Fantasma de Corujalla, o alvo recebe {DAMAGEPERTURN} de dano a cada turno."
 "familiar.statuseffect.minor.poison.single.enemies.contagious.sword_guard_mega_minion.turn","O alvo atingido pelo mega-ajudante Guarda Espadachim recebe {DAMAGE} de dano de Veneno por {TURNS} turnos. O efeito contagia os inimigos próximos."
 "familiar.statuseffect.minor.receiveddamagemodifier.single.enemies.bull.turn","O alvo atingido pelo ajudante Touro recebe {DAMAGEREDUCTION}% mais dano por {TURNS} turnos."
 "familiar.statuseffect.minor.receiveddamagemodifier.single.enemies.butterfly.turn","{DAMAGEREDUCTION}% de aumento em todo o dano recebido por {TURNS} turnos."
@@ -5976,16 +5980,34 @@ O [#!]núcleo de ajudante[#] é ativado sempre que a [#!]habilidade especial[#] 
 
 Em batalhas com várias ondas, o efeito é atualizado no início de cada onda."
 "herocard.passive_skill.description.redirectlethaldamage.enemies.single.battle","Em vez de receber dano fatal pela primeira vez, este personagem redireciona {REDIRECTDAMAGEMULTIPLIER}% desse dano a um inimigo aleatório. (Ativações restantes: [#!]{ACTIVATIONSLEFT}[#])"
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled","Em vez de receber dano fatal pela primeira vez, este personagem redireciona {REDIRECTDAMAGEMULTIPLIER}% desse dano ao atacante.
+
+Não é ativado quando este personagem é o único membro da equipe na batalha.
+
+Em batalhas com várias ondas, o efeito é atualizado no início de cada onda."
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled.battle","Em vez de receber dano fatal pela primeira vez, este personagem redireciona {REDIRECTDAMAGEMULTIPLIER}% desse dano ao atacante. (Ativações restantes: [#!]{ACTIVATIONSLEFT}[#])
+Não é ativado quando este personagem é o único membro da equipe na batalha."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single","Em vez de receber dano fatal pela primeira vez, este personagem redireciona o dano a um inimigo aleatório.
 
 Em batalhas com várias ondas, o efeito é atualizado no início de cada onda."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.battle","Em vez de receber dano fatal pela primeira vez, este personagem redireciona o dano a um inimigo aleatório. (Ativações restantes: [#!]{ACTIVATIONSLEFT}[#])"
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Em vez de receber dano fatal de ataques normais ou habilidades especiais pela primeira vez, este personagem redireciona até {REDIRECTDAMAGELIMIT} de dano ao atacante. (Ativações restantes: [#!]{ACTIVATIONSLEFT}[#])"
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","Em vez de receber dano fatal de ataques normais ou habilidades especiais pela primeira vez, este personagem redireciona até {REDIRECTDAMAGELIMIT} de dano ao atacante. (Ativações restantes: [#!]{ACTIVATIONSLEFT}[#])"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Em vez de receber dano fatal de ataques normais ou habilidades especiais pela primeira vez, este personagem redireciona até {REDIRECTDAMAGELIMIT} de dano a um inimigo aleatório."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","Em vez de receber dano fatal de ataques normais ou habilidades especiais pela primeira vez, este personagem redireciona até {REDIRECTDAMAGELIMIT} de dano a um inimigo aleatório. (Ativações restantes: [#!]{ACTIVATIONSLEFT}[#])"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled","Em vez de receber dano fatal de ataques normais ou habilidades especiais pela primeira vez, este personagem redireciona até {REDIRECTDAMAGELIMIT} de dano ao atacante.
+Não é ativado quando este personagem é o único membro da equipe na batalha."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled.battle","Em vez de receber dano fatal de ataques normais ou habilidades especiais pela primeira vez, este personagem redireciona até {REDIRECTDAMAGELIMIT} de dano ao atacante. (Ativações restantes: [#!]{ACTIVATIONSLEFT}[#])
+Não é ativado quando este personagem é o único membro da equipe na batalha."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","Em vez de receber dano fatal de ataques normais ou habilidades especiais pela primeira vez, este personagem redireciona até {REDIRECTDAMAGELIMIT} de dano ao atacante.
 
 Em batalhas com várias ondas, o efeito é atualizado no início de cada onda."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit.battle","Em vez de receber dano fatal de ataques normais ou habilidades especiais pela primeira vez, este personagem redireciona até {REDIRECTDAMAGELIMIT} de dano ao atacante. (Ativações restantes: [#!]{ACTIVATIONSLEFT}[#])"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled","Em vez de receber dano fatal pela primeira vez, este personagem redireciona esse dano ao atacante.
+
+Não é ativado quando este personagem é o único membro da equipe na batalha.
+
+Em batalhas com várias ondas, o efeito é atualizado no início de cada onda."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled.battle","Em vez de receber dano fatal pela primeira vez, este personagem redireciona esse dano ao atacante. (Ativações restantes: [#!]{ACTIVATIONSLEFT}[#])
+Não é ativado quando este personagem é o único membro da equipe na batalha."
 "herocard.passive_skill.description.reduceinsanityperturn","No início de cada turno, a [#!]Insanidade[#] atual deste personagem diminui em [#!]{REDUCTION}[#]."
 "herocard.passive_skill.description.reflectresistedstatuseffect.all.enemies","Os males de status a que este personagem resiste com habilidades passivas são refletidos para todos os inimigos."
 "herocard.passive_skill.description.reflectstatuseffect.with_chance","[#!]{CHANCE}%[#] mais chance de repelir males de status e aplicá-los ao atacante."
@@ -6609,10 +6631,7 @@ Os escudos de [##elementyellow]Luz[#] no tabuleiro são aprimorados e dão [#!]{
 "herocard.passive_skill.title.received_strong_troop_damage_pve","Redução de dano da tropa"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage","Domínio de Tropa"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage.increase.dragon","Aumento do dano de Bola de Fogo"
-"herocard.passive_skill.title.redirectlethaldamage.enemies.single","Vencer a Morte"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single","Vencer a Morte"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Vencer a Morte"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","Vencer a Morte"
+"herocard.passive_skill.title.redirectlethaldamage","Vencer a Morte"
 "herocard.passive_skill.title.reduceinsanityperturn","Reduzir Insanidade"
 "herocard.passive_skill.title.reflectresistedstatuseffect","Refletor lendário"
 "herocard.passive_skill.title.remove_growth_from_enemies","Reunião de Guardas"
@@ -27361,6 +27380,14 @@ Quando a Gosma não é derrotada em {CHANGEDAPPEARANCETURNS} turnos, renasce com
 [#!]Dança da Fortuna Vibrante[#]
 {STATUSEFFECTS}
 [*] As [#!]Danças da Fortuna[#] se acumulam com outros efeitos de dança."
+"specials.v2.statuseffect.minor.abyss.sides.enemies.dispelincreasesactivations","Os inimigos nas bordas da formação inimiga assumem a forma de Fantasma do Abismo por {TURNS} turnos.
+[*] Enquanto estão na forma de Fantasma de Abismo, os alvos recebem {DAMAGEPERTURN} de dano a cada turno. Este efeito é [#!]persistente[#]."
+"specials.v2.statuseffect.minor.abyss.single.enemies.dispelincreasesactivations","O alvo assume a forma de Fantasma do Abismo por {TURNS} turnos. Este efeito é [#!]persistente[#].
+[*] Enquanto está na forma de Fantasma de Abismo, o alvo recebe {DAMAGEPERTURN} de dano a cada turno."
+"specials.v2.statuseffect.minor.abyss.single.enemies.onremoval.damage.all.allies.expiration.add_insanity_emilie.dispelincreasesactivations","O alvo assume a forma de Fantasma do Abismo por {TURNS} turnos. Este efeito é [#!]persistente[#].
+[*] Enquanto está na forma de Fantasma do Abismo, o alvo recebe {DAMAGEPERTURN} de dano a cada turno.
+[*] Quando a forma Fantasma do Abismo expira:
+[*] Causa {FIXEDPOWER} de dano e aplica {STATUSEFFECT1INSANITYTOADD} [#!]Insanidade[#] a todos os aliados."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies","Todos os inimigos recebem {ACCURACY}% de precisão por {TURNS} turnos."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies.dispelincreasesactivations","Todos os inimigos recebem {ACCURACY}% de precisão por {TURNS} turnos. Este efeito é [#!]persistente[#]."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies.resetonheal","Todos os inimigos recebem {ACCURACY}% de precisão por {TURNS} turnos. A duração do efeito é restaurada ao valor inicial quando o alvo é curado."
@@ -27775,6 +27802,12 @@ Quando a Gosma não é derrotada em {CHANGEDAPPEARANCETURNS} turnos, renasce com
 [*][#!]Gosma Devoradora:[#] remove todos os efeitos Crescimento e reforços dissipáveis, causa {BASEDAMAGEPERTURN} de dano por turno e {DAMAGEPERTURNPEREFFECT} de dano por cada efeito removido."
 "specials.v2.statuseffect.minor.devouringgoo.single.enemies.effects.minorbuff.positivebasestatmodifier","O alvo inimigo recebe o mal de status Gosma Devoradora por {TURNS} turnos.
 [*][#!]Gosma Devoradora:[#] remove todos os efeitos Crescimento e reforços dissipáveis, causa {BASEDAMAGEPERTURN} de dano por turno e {DAMAGEPERTURNPEREFFECT} de dano por cada efeito removido."
+"specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.add_insanity_salvatore.dispelincreasesactivations","O invocador assume a forma de Fantasma Nefasto Desequilibrado por {TURNS} turnos. Este efeito é [#!]persistente[#].
+[*] Enquanto está na forma de Fantasma Nefasto Desequilibrado, o invocador causa automaticamente {POWER1}% de dano e aplica {STATUSEFFECT1INSANITYTOADD} [#!]Insanidade[#] a um inimigo aleatório a cada turno.
+[*] Enquanto está na forma de Fantasma Nefasto Desequilibrado, o invocador pode receber dano dos inimigos cujo elemento é mais forte contra ele."
+"specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.dispelincreasesactivations","O invocador assume a forma de Fantasma Nefasto por {TURNS} turnos. Este efeito é [#!]persistente[#].
+[*] Enquanto está na forma de Fantasma Nefasto, o invocador causa {POWER1}% de dano automaticamente a um inimigo aleatório a cada turno.
+[*] Enquanto está na forma de Fantasma Nefasto Desequilibrado, o invocador pode receber dano dos inimigos cujo elemento é mais forte contra ele."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff","Expurga os males de status de todos os aliados ao fim de cada turno por {TURNS} turnos."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.bypassremoveeffects","Expurga com segurança males de status de todos os aliados ao fim de cada turno por {TURNS} turnos."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.customremovalcount","Expurga 1 mal de status de todos os aliados ao fim de cada turno por {TURNS} turnos."
@@ -27856,6 +27889,8 @@ Quando a Gosma não é derrotada em {CHANGEDAPPEARANCETURNS} turnos, renasce com
 "specials.v2.statuseffect.minor.elementswapovertime.allexceptcaster.allies","Por {TURNS} turnos, todos os aliados exceto o invocador recebem [#!]Fluxo Elemental[#]. O elemento deles muda aleatoriamente a cada turno."
 "specials.v2.statuseffect.minor.elementswapovertime.damage_to_green.all.enemies","Por {TURNS} turnos, todos os inimigos recebem [#!]Fluxo Elemental[#]. O elemento deles muda aleatoriamente a cada turno, causando {DAMAGEPERTURN} de dano sempre que muda para [##elementgreen]Natureza[#]."
 "specials.v2.statuseffect.minor.elementswapovertime.damage_to_yellow.all.enemies","Por {TURNS} turnos, todos os inimigos recebem [#!]Fluxo Elemental[#]. O elemento deles muda aleatoriamente a cada turno, causando {DAMAGEPERTURN} de dano sempre que muda para [##elementyellow]Luz[#]."
+"specials.v2.statuseffect.minor.ethereal.single.allies.dispelincreasesactivations","O invocador assume a forma de Fantasma por {TURNS} turnos.
+[*] Enquanto está na forma de Fantasma, o invocador ganha {ATTACK}% de ataque. Este efeito é [#!]persistente[#]."
 "specials.v2.statuseffect.minor.explodingberserk.single.allies","O invocador recebe {ATTACK}% de ataque e mais {CHANGE}% de aumento cada vez que ele ou qualquer aliado é atingido durante {TURNS} turnos, até o limite de {MAXMODIFIER}% de ataque. Quando o efeito termina, todos os inimigos sofrem {DAMAGE} de dano. Cada vez que o invocador ou um aliado é atingido durante o efeito, o dano aumenta em {ADDITIONALDAMAGEPERHIT} até o limite de {MAXDAMAGE}."
 "specials.v2.statuseffect.minor.extradamageagainstboostedhealth.all.allies.troop.npcnormalattack.specialskill.statuseffectskill","Todos os ataques normais e habilidades especiais dos aliados causam {DAMAGEMULTIPLIER}% de dano contra alvos com vida reforçada por {TURNS} turnos."
 "specials.v2.statuseffect.minor.fearstatuseffectskill.all.enemies.on.allyspecial.damage.random.allies","Todos os inimigos sucumbem ao [#!]medo[#] por {TURNS} turnos."
@@ -27929,6 +27964,14 @@ Quando a Gosma não é derrotada em {CHANGEDAPPEARANCETURNS} turnos, renasce com
 "specials.v2.statuseffect.minor.frost.single.enemies.contagious","O alvo recebe {DAMAGE} de dano de neve por {TURNS} turnos. O efeito contagia os inimigos próximos."
 "specials.v2.statuseffect.minor.frost.single.enemies.contagious.noturns","O alvo recebe {DAMAGE} de dano de neve [#!]duradouro[#] por turno. O efeito contagia os inimigos próximos."
 "specials.v2.statuseffect.minor.gamble.all.allies","Todos os aliados ganham {ATTACK}% de ataque com {ACCURACY}% de precisão por {TURNS} turnos."
+"specials.v2.statuseffect.minor.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies.dispelincreasesactivations","O invocador assume a forma de Fantasma por {TURNS} turnos. Este efeito é [#!]persistente[#].
+[*] Quando a forma de Fantasma expira:
+[*] Todos os aliados recebem {REMOVALEFFECT1STATUSEFFECT1CRIT}% de chance crítica por {REMOVALEFFECT1STATUSEFFECT1TURNS} turnos. Este efeito é indissipável."
+"specials.v2.statuseffect.minor.ghost.single.allies.onremoval.revival.randomdead.allies.expiration.hp_recovery_sable.all.allies.dispel_ailments.all.allies.dispelincreasesactivations","O invocador assume a forma de Fantasma por {TURNS} turnos. Este efeito é [#!]persistente[#].
+[*] Quando a forma de Fantasma expira:
+[*] O invocador revive um aliado derrotado aleatório com {REMOVALEFFECT1POWER}% de PV.
+[*] Todos os aliados ganham {REMOVALEFFECT1STATUSEFFECT1TOTAL} de vida ao longo de {REMOVALEFFECT1STATUSEFFECT1TURNS} turnos.
+[*] Expurga os males de status de todos os aliados ao fim de cada turno por {REMOVALEFFECT1STATUSEFFECT2TURNS} turnos."
 "specials.v2.statuseffect.minor.giftbomb.single.enemies.neartotargetminor.allies.death.expiration","O alvo recebe uma bomba de presente. Após {TURNS} turnos, ela explode e causa {DAMAGE} de dano ao alvo e {MINORDAMAGE} aos alvos próximos. A bomba de presente também explode quando o alvo é derrotado."
 "specials.v2.statuseffect.minor.giftbomb.single.enemies.onremoval.damage.neartotarget.allies.death.expiration","O alvo recebe uma bomba de presente. Após {TURNS} turnos, ela explode e causa {DAMAGE} de dano ao alvo e aos inimigos próximos. A bomba de presente também explode quando o alvo é derrotado."
 "specials.v2.statuseffect.minor.grapple.single.enemies","Agarra o alvo. Enquanto está agarrado, o alvo recebe {DAMAGE} de dano ao longo de {TURNS} e tem o ataque reduzido a 1."
@@ -28418,6 +28461,7 @@ Quando a Gosma não é derrotada em {CHANGEDAPPEARANCETURNS} turnos, renasce com
 "specials.v2.statuseffect.minor.stackingattackmodifier.all.allies.effect_per_eaten_familiar.parasite.bigparasite","[#!]Acumulação (máx.: {MAXSTACK}):[#] todos os aliados recebem mais {ATTACK}% de ataque por cada demônio destruído."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies","[#!]Acumulação (máx.: {MAXSTACK}):[#] o invocador recebe {ATTACK}% do ataque."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.effect_per_eaten_familiar.minion.follower.bigminion","[#!]Acumulação (máx.: {MAXSTACK}):[#] o invocador recebe mais {ATTACK}% de ataque por cada ajudante destruído."
+"specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.withbasestackcount","[#!]Acumulação +{BASESTACKCOUNT} (máx.: {MAXSTACK}):[#] o invocador recebe {ATTACK}% do ataque."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.enemies.chain_strike","[#!]Acumulação (máx.: {MAXSTACK}):[#] cada acerto dá {ATTACK}% de ataque ao alvo."
 "specials.v2.statuseffect.minor.stackingattackmodifieragainstweakerelement.single.allies","[#!]Acumulação (máx.: {MAXSTACK}):[#] o invocador recebe {ATTACK}% de ataque contra o elemento mais fraco."
 "specials.v2.statuseffect.minor.stackingcritmodifier.all.allies","[#!]Acumulação (máx.: {MAXSTACK}):[#] todos os aliados recebem {CRIT}% de chance crítica."
@@ -28437,6 +28481,7 @@ Quando a Gosma não é derrotada em {CHANGEDAPPEARANCETURNS} turnos, renasce com
 "specials.v2.statuseffect.minor.stackingicebound.all.enemies.effect_per_kill.minion.follower","[#!]Acumulação (máx.: {MAXSTACK}):[#] todos os inimigos recebem {DAMAGE} de dano de neve por cada inimigo ou ajudante de inimigo derrotado ao fim de cada turno."
 "specials.v2.statuseffect.minor.stackingicebound.neartotarget.enemies","[#!]Acumulação (máx.: {MAXSTACK}):[#] o alvo e os inimigos próximos recebem {DAMAGE} de dano de neve ao fim de cada turno."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies","[#!]Acumulação (máx.: {MAXSTACK}):[#] todos os aliados recebem {MANAREGEN}% de geração de mana."
+"specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies.withbasestackcount","[#!]Acumulação +{BASESTACKCOUNT} (máx.: {MAXSTACK}):[#] todos os aliados recebem {MANAREGEN}% de geração de mana."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies","[#!]Acumulação (máx.: {MAXSTACK}):[#] todos os inimigos recebem {MANAREGEN}% de geração de mana."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies.effect_per_eaten_familiar.minion.follower","[#!]Acumulação (máx.: {MAXSTACK}):[#] todos os inimigos recebem {MANAREGEN}% de geração de mana por cada ajudante destruído."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies.effect_per_kill.minion.follower","[#!]Acumulação (máx.: {MAXSTACK}):[#] todos os inimigos recebem {MANAREGEN}% de geração de mana por cada inimigo ou ajudante de inimigo derrotado."
@@ -28445,6 +28490,7 @@ Quando a Gosma não é derrotada em {CHANGEDAPPEARANCETURNS} turnos, renasce com
 "specials.v2.statuseffect.minor.stackingminionattackmodifier.all.allies","[#!]Acumulação (máx.: {MAXSTACK}):[#] todos os aliados recebem {ATTACK}% de ataque pelos ajudantes."
 "specials.v2.statuseffect.minor.stackingminionmaxhealthmodifier.all.allies","[#!]Acumulação (máx.: {MAXSTACK}):[#] todos os aliados recebem {MAXHEALTH}% do total de PV herdado pelos novos ajudantes que convocam."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease","[#!]Acumulação (máx.: {MAXSTACK}):[#] todo o dano recebido pelos aliados diminui em {DAMAGEMODIFIER}%."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease.withbasestackcount","[#!]Acumulação +{BASESTACKCOUNT} (máx.: {MAXSTACK}):[#] todo o dano recebido pelos aliados diminui em {DAMAGEMODIFIER}%."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies","[#!]Acumulação (máx.: {MAXSTACK}):[#] todo o dano recebido pelos inimigos aumenta em {DAMAGEMODIFIER}%."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies.withbasestackcount","[#!]Acumulação +{BASESTACKCOUNT} (máx.: {MAXSTACK}):[#] todo o dano recebido pelos inimigos aumenta em {DAMAGEMODIFIER}%."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.lessthanhalfhpleft.enemies","[#!]Acumulação (máx.: {MAXSTACK}):[#] os inimigos com menos de 50% de vida recebem {DAMAGEMODIFIER}% de dano."
@@ -28456,6 +28502,7 @@ Quando a Gosma não é derrotada em {CHANGEDAPPEARANCETURNS} turnos, renasce com
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.allies.decrease","[#!]Acumulação (máx.: {MAXSTACK}):[#] todo o dano recebido pelo invocador diminui em {DAMAGEMODIFIER}%."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies","[#!]Acumulação (máx.: {MAXSTACK}):[#] todo o dano recebido pelo alvo aumenta em {DAMAGEMODIFIER}%."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.chain_strike","[#!]Cumulativo (Max: {MAXSTACK}):[#] todo o dano recebido pelo alvo aumenta em {DAMAGEMODIFIER}% a cada acerto."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.withbasestackcount.chain_strike","[#!]Acumulação +{BASESTACKCOUNT} (Max: {MAXSTACK}):[#] todo o dano recebido pelo alvo aumenta em {DAMAGEMODIFIER}% a cada acerto."
 "specials.v2.statuseffect.minor.statuseffectgeneratorstatuseffectskill.allexceptcaster.allies.on.ownturnstart.basic_attack_bluecat.mana_regen_bluecat.dispelincreasesactivations","[#!]Fonte de Reforços:[#] os seguintes efeitos são aplicados a um aliado aleatório, exceto o invocador, no início de cada turno:
 [*] {STATUSEFFECT1ATTACK}% de ataque por {STATUSEFFECT1TURNS} turnos
 [*] {STATUSEFFECT2MANAREGEN}% de geração de mana por {STATUSEFFECT2TURNS} turnos
@@ -28548,6 +28595,7 @@ Quando a Gosma não é derrotada em {CHANGEDAPPEARANCETURNS} turnos, renasce com
 "specials.v2.statuseffect.minor.toxin.sides.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","Os inimigos nas bordas da formação inimiga recebem {DAMAGE} de [#!]dano de Toxina[#] ao longo de {TURNS} turnos. O dano aumenta contra alvos com vida reforçada, ajudantes ou um mega-ajudante."
 "specials.v2.statuseffect.minor.toxin.single.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","O alvo recebe {DAMAGE} de dano de [#!]Toxina[#] ao longo de {TURNS} turnos. O dano aumenta contra alvos com vida reforçada, ajudantes ou um mega-ajudante."
 "specials.v2.statuseffect.minor.transcendentalframe.single.allies","O invocador assume a forma de Fantasma por {TURNS} turnos."
+"specials.v2.statuseffect.minor.transcendentalframe.single.allies.dispelincreasesactivations","O invocador assume a forma de Fantasma por {TURNS} turnos. Este efeito é [#!]persistente[#]."
 "specials.v2.statuseffect.minor.underwater.all.enemies","Todos os inimigos recebem {DAMAGE} de dano de água por {TURNS} turnos."
 "specials.v2.statuseffect.minor.underwater.all.enemies.absorb_healing.to.single","Todos os inimigos recebem {DAMAGE} de dano de água por {TURNS} turnos. O invocador absorve {ABSORBHEALING}% do dano de água como vida."
 "specials.v2.statuseffect.minor.underwater.neartotarget.enemies","O alvo e todos os inimigos próximos recebem {DAMAGE} de dano de água por {TURNS} turnos."

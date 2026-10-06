@@ -1919,6 +1919,14 @@ Lyckodanser kan staplas med andra danseffekter."
 Livlig lyckodans
 {STATUSEFFECTS}
 Lyckodanser kan staplas med andra danseffekter."
+"specials.v2.statuseffect.minor.abyss.sides.enemies.dispelincreasesactivations","Fiender i utkanten av fiendeformationen antar avgrundsspökform i {TURNS} rundor.
+ I avgrundsspökform tar målet {DAMAGEPERTURN} skada varje runda. Den här effekten är envis."
+"specials.v2.statuseffect.minor.abyss.single.enemies.dispelincreasesactivations","Målet antar avgrundsspökeform i {TURNS} rundor. Den här effekten är envis.
+ I avgrundsspökeform tar målet {DAMAGEPERTURN} skada varje runda."
+"specials.v2.statuseffect.minor.abyss.single.enemies.onremoval.damage.all.allies.expiration.add_insanity_emilie.dispelincreasesactivations","Målet antar avgrundsspökform i {TURNS} rundor. Den här effekten är envis.
+ I avgrundsspökform tar målet {DAMAGEPERTURN} skada varje runda.
+ När avgrundsspökformen upphör:
+ Gör {FIXEDPOWER} skada mot alla allierade och ger dem {STATUSEFFECT1INSANITYTOADD} vansinne."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies","Alla fiender får {ACCURACY} % träffsäkerhet i {TURNS} rundor."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies.dispelincreasesactivations","Alla fiender får {ACCURACY} % träffsäkerhet i {TURNS} rundor. Den här effekten är envis."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies.resetonheal","Alla fiender får {ACCURACY} % träffsäkerhet i {TURNS} rundor. Effektens varaktighet nollställs om målet läks."
@@ -2333,6 +2341,12 @@ Slukande gegga: Tar bort alla positiva effekter som kan avbrytas, samt tillväxt
 Slukande gegga: Tar bort alla positiva effekter som kan avbrytas, samt tillväxteffekter, gör {BASEDAMAGEPERTURN} skada per runda och {DAMAGEPERTURNPEREFFECT} skada per borttagen effekt."
 "specials.v2.statuseffect.minor.devouringgoo.single.enemies.effects.minorbuff.positivebasestatmodifier","Målfienden drabbas av den negativa statuseffekten slukande gegga i {TURNS} rundor.
 Slukande gegga: Tar bort alla positiva effekter som kan avbrytas, samt tillväxteffekter, gör {BASEDAMAGEPERTURN} skada per runda och {DAMAGEPERTURNPEREFFECT} skada per borttagen effekt."
+"specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.add_insanity_salvatore.dispelincreasesactivations","Användaren antar formen av ett vansinningt hemsk spöke i {TURNS} rundor. Den här effekten är envis.
+ I vansinnig hemsk spökform gör användaren automatiskt {POWER1} % skada och ger {STATUSEFFECT1INSANITYTOADD} vansinne till en slumpvald fiende varje runda.
+ I vansinnig hemsk spökform kan användaren ta skada från fiender vars element är starkt mot användaren."
+"specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.dispelincreasesactivations","Användaren byter skepnad till ett hemskt spöke i {TURNS} rundor. Den här effekten är envis.
+ Medan användaren har formen av ett hemskt spöke gör anfallaren automatiskt {POWER1} % skada mot en slumpad fiende varje runda.
+ I hemsk spökform kan användaren ta skada från fiender vars element är starkt mot användaren."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff","Renar negativa statuseffekter från alla allierade i slutet av varje runda under {TURNS} rundor."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.bypassremoveeffects","Rensar negativa statuseffekter säkert från alla allierade i slutet av varje runda i {TURNS} rundor."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.customremovalcount","Rensar 1 negativ statuseffekt från alla allierade i slutet av varje runda i {TURNS} rundor."
@@ -2414,6 +2428,8 @@ När trädockeundersåten åkallas ger den sin ägare immunitet mot nya negativa
 "specials.v2.statuseffect.minor.elementswapovertime.allexceptcaster.allies","Alla allierade utom användaren drabbas av elementflöde under {TURNS} rundor. Deras element ändras slumpmässigt varje runda."
 "specials.v2.statuseffect.minor.elementswapovertime.damage_to_green.all.enemies","Alla fiender drabbas av elementflöde under {TURNS} rundor. Deras element ändras slumpmässigt varje tur och de tar {DAMAGEPERTURN} skada när deras element ändras till natur."
 "specials.v2.statuseffect.minor.elementswapovertime.damage_to_yellow.all.enemies","Alla fiender drabbas av elementflöde under {TURNS} rundor. Deras element ändras slumpmässigt varje tur och de tar {DAMAGEPERTURN} skada när deras element ändras till heligt."
+"specials.v2.statuseffect.minor.ethereal.single.allies.dispelincreasesactivations","Användaren antar spökform i {TURNS} rundor.
+ I spökform får användaren {ATTACK} % attack. Den här effekten är envis."
 "specials.v2.statuseffect.minor.explodingberserk.single.allies","Anfallaren får {ATTACK} % attack, och ytterligare {CHANGE} % i ökning varje gång den eller en allierad träffas under {TURNS} rundor, upp till {MAXMODIFIER}  attack %. När effekten avtar tar alla fiender {DAMAGE} skada. Varje träff på anfallaren eller dess allierade medan effekten varar ökar skadan med {ADDITIONALDAMAGEPERHIT} till maximalt {MAXDAMAGE} skada."
 "specials.v2.statuseffect.minor.extradamageagainstboostedhealth.all.allies.troop.npcnormalattack.specialskill.statuseffectskill","Alla allierades vanliga attacker och specialförmågor gör {DAMAGEMULTIPLIER} % skada mot mål med bonushälsa i {TURNS} rundor."
 "specials.v2.statuseffect.minor.fearstatuseffectskill.all.enemies.on.allyspecial.damage.random.allies","Alla fiender drabbas av skräck i {TURNS} rundor."
@@ -2487,6 +2503,14 @@ Varje mynt gör {POWER1} % skada."
 "specials.v2.statuseffect.minor.frost.single.enemies.contagious","Målet tar {DAMAGE} frostskada under {TURNS} rundor. Effekten sprids till fiender i närheten."
 "specials.v2.statuseffect.minor.frost.single.enemies.contagious.noturns","Målet tar {DAMAGE} varaktig frostskada per runda. Effekten sprids till fiender i närheten."
 "specials.v2.statuseffect.minor.gamble.all.allies","Alla allierade får {ATTACK} % attack med {ACCURACY} % träffsäkerhet i {TURNS} rundor."
+"specials.v2.statuseffect.minor.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies.dispelincreasesactivations","Användaren antar spökform under {TURNS} rundor. Den här effekten är envis.
+ När spökformen upphör:
+ Alla allierade får {REMOVALEFFECT1STATUSEFFECT1CRIT} % kritisk chans i {REMOVALEFFECT1STATUSEFFECT1TURNS} rundor. Effekten kan inte avbrytas."
+"specials.v2.statuseffect.minor.ghost.single.allies.onremoval.revival.randomdead.allies.expiration.hp_recovery_sable.all.allies.dispel_ailments.all.allies.dispelincreasesactivations","Användaren antar spökform under {TURNS} rundor. Den här effekten är envis.
+ När spökformen upphör:
+ Användaren återupplivar en slumpvald besegrad allierad med {REMOVALEFFECT1POWER} % HP.
+ Alla allierade får {REMOVALEFFECT1STATUSEFFECT1TOTAL} hälsa under {REMOVALEFFECT1STATUSEFFECT1TURNS} rundor.
+ Rensar negativa statuseffekter från alla allierade under {REMOVALEFFECT1STATUSEFFECT2TURNS} rundor."
 "specials.v2.statuseffect.minor.giftbomb.single.enemies.neartotargetminor.allies.death.expiration","Målet får en julklappsbomb. Efter {TURNS} rundor exploderar julklappsbomben och gör {DAMAGE} skada på målet och {MINORDAMAGE} på mål i närheten. Julklappsbomben exploderar också när målet dör."
 "specials.v2.statuseffect.minor.giftbomb.single.enemies.onremoval.damage.neartotarget.allies.death.expiration","Målet får en julklappsbomb. Efter {TURNS} rundor exploderar julklappsbomben och gör {DAMAGE} skada på målet och på fiender i närheten. Julklappsbomben exploderar också när målet dör."
 "specials.v2.statuseffect.minor.grapple.single.enemies","Greppar målet. Målets normala attack minskar till 1 och målet tar {DAMAGE} skada över {TURNS} rundor."
@@ -2976,6 +3000,7 @@ Vid återupplivningen får alla fiender {STATUSEFFECT1ACCURACY} % träffsäkerh
 "specials.v2.statuseffect.minor.stackingattackmodifier.all.allies.effect_per_eaten_familiar.parasite.bigparasite","Stapel (max: {MAXSTACK}): Alla allierade får ytterligare {ATTACK} % attack för varje besegrat odjur."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies","Stapel (max: {MAXSTACK}): Användaren får {ATTACK} % attack."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.effect_per_eaten_familiar.minion.follower.bigminion","Staplas (max: {MAXSTACK}): Användaren får ytterligare {ATTACK} % attack för varje besegrad undersåte."
+"specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.withbasestackcount","Stapel +{BASESTACKCOUNT} (max: {MAXSTACK}): Användaren får {ATTACK} % attack."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.enemies.chain_strike","Stapel (max: {MAXSTACK}): Varje träff ger målet {ATTACK} % attack."
 "specials.v2.statuseffect.minor.stackingattackmodifieragainstweakerelement.single.allies","Stapel (max: {MAXSTACK}): Användaren får {ATTACK} % attack mot det svagare elementet."
 "specials.v2.statuseffect.minor.stackingcritmodifier.all.allies","Stapel (max: {MAXSTACK}): Alla allierade får {CRIT} % kritisk chans."
@@ -2995,6 +3020,7 @@ Vid återupplivningen får alla fiender {STATUSEFFECT1ACCURACY} % träffsäkerh
 "specials.v2.statuseffect.minor.stackingicebound.all.enemies.effect_per_kill.minion.follower","Stapel (max: {MAXSTACK}): Alla fiender tar {DAMAGE} frostskada per besegrad fiende eller besegrad undersåte vid slutet av varje runda."
 "specials.v2.statuseffect.minor.stackingicebound.neartotarget.enemies","Stapel (max: {MAXSTACK}): Målet och fiender i närheten får {DAMAGE} frostskada vid slutet av varje runda."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies","Stapel (max: {MAXSTACK}): Alla allierade får {MANAREGEN} % manaskapande."
+"specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies.withbasestackcount","Stapel +{BASESTACKCOUNT} (max: {MAXSTACK}): Alla allierade får {MANAREGEN} % manaskapande."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies","Stapel (max: {MAXSTACK}): Alla fiender får {MANAREGEN} % manaskapande"
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies.effect_per_eaten_familiar.minion.follower","Stapel (max: {MAXSTACK}): Alla fiender får {MANAREGEN} % manaskapande för varje besegrad undersåte."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies.effect_per_kill.minion.follower","Stapel (max: {MAXSTACK}): Alla fiender får {MANAREGEN} % manaskapande per besegrad fiende eller undersåte."
@@ -3002,7 +3028,8 @@ Vid återupplivningen får alla fiender {STATUSEFFECT1ACCURACY} % träffsäkerh
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.single.allies.withbasestackcount","Stapel +{BASESTACKCOUNT} (max: {MAXSTACK}): Användaren får {MANAREGEN} % manaskapande."
 "specials.v2.statuseffect.minor.stackingminionattackmodifier.all.allies","Stapel (max: {MAXSTACK}): Alla allierades undersåtar får {ATTACK} % attack."
 "specials.v2.statuseffect.minor.stackingminionmaxhealthmodifier.all.allies","Stapel (max: {MAXSTACK}): Alla allierade får {MAXHEALTH} % ärvd HP till nya undersåtar de åkallar."
-"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease","Staplas (Max: {MAXSTACK}): All skada som alla allierade tar minskar med {DAMAGEMODIFIER} %."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease","Stapel (max: {MAXSTACK}): All skada som alla allierade tar minskar med {DAMAGEMODIFIER} %."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease.withbasestackcount","Stapel +{BASESTACKCOUNT} (max: {MAXSTACK}): All skada som alla allierade tar minskar med {DAMAGEMODIFIER} %."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies","Staplas (Max: {MAXSTACK}): All skada som alla fiender tar ökar med {DAMAGEMODIFIER} %."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies.withbasestackcount","Stapel +{BASESTACKCOUNT} (max: {MAXSTACK}): All skada som alla fiender tar ökar med {DAMAGEMODIFIER} %."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.lessthanhalfhpleft.enemies","Stapel (max: {MAXSTACK}): Fiender med mindre än 50 % hälsa tar {DAMAGEMODIFIER} % skada."
@@ -3014,6 +3041,7 @@ Vid återupplivningen får alla fiender {STATUSEFFECT1ACCURACY} % träffsäkerh
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.allies.decrease","Staplas (Max: {MAXSTACK}): All skada användaren tar minskar med {DAMAGEMODIFIER} %."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies","Staplas (Max: {MAXSTACK}): All skada som målet tar ökar med {DAMAGEMODIFIER} %."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.chain_strike","Staplas (Max: {MAXSTACK}): Varje träff ökar all skada som målet tar med {DAMAGEMODIFIER} %"
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.withbasestackcount.chain_strike","Stapel +{BASESTACKCOUNT} (max: {MAXSTACK}): Varje träff ökar all skada som målet tar med {DAMAGEMODIFIER} %"
 "specials.v2.statuseffect.minor.statuseffectgeneratorstatuseffectskill.allexceptcaster.allies.on.ownturnstart.basic_attack_bluecat.mana_regen_bluecat.dispelincreasesactivations","Källa till bonusar: Följande effekter används på en slumpvald allierad (inte användaren) i början av varje runda:
 {STATUSEFFECT1ATTACK} % attack i {STATUSEFFECT1TURNS} rundor.
 {STATUSEFFECT2MANAREGEN} % manaskapande i {STATUSEFFECT2TURNS} rundor.
@@ -3106,6 +3134,7 @@ Varje undvikande ger alla allierade {MANAREGEN} % manaskapande i {TURNS} rundor
 "specials.v2.statuseffect.minor.toxin.sides.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","Fiender i fiendeformationens utkanter tar {DAMAGE} giftskada i {TURNS} rundor. Skadan ökas mot mål med ökad hälsa, undersåtar eller megaundersåtar."
 "specials.v2.statuseffect.minor.toxin.single.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","Målet tar {DAMAGE} giftskada i {TURNS} rundor. Skadan ökas mot mål med boostad hälsa, undersåtar eller megaundersåtar."
 "specials.v2.statuseffect.minor.transcendentalframe.single.allies","Användaren antar spökform i {TURNS} rundor."
+"specials.v2.statuseffect.minor.transcendentalframe.single.allies.dispelincreasesactivations","Användaren antar spökform i {TURNS} rundor. Den här effekten är envis."
 "specials.v2.statuseffect.minor.underwater.all.enemies","Alla fiender får {DAMAGE} vattenskada under {TURNS} rundor."
 "specials.v2.statuseffect.minor.underwater.all.enemies.absorb_healing.to.single","Alla fiender får {DAMAGE} vattenskada under {TURNS} rundor. Användaren absorberar {ABSORBHEALING} % av gjord skada som hälsa."
 "specials.v2.statuseffect.minor.underwater.neartotarget.enemies","Fiendemålet och fiender i närheten får {DAMAGE} vattenskada över {TURNS} rundor."

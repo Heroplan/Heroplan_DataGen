@@ -1,59 +1,101 @@
 {
   "languageOverridesConfig": {
     "overrides": {
-      "English": {
-        "overrideEntries": []
-      },
-      "Dutch": {
-        "overrideEntries": []
-      },
-      "French": {
-        "overrideEntries": []
-      },
-      "German": {
-        "overrideEntries": []
-      },
-      "Indonesian": {
-        "overrideEntries": []
-      },
       "Italian": {
-        "overrideEntries": []
-      },
-      "Polish": {
-        "overrideEntries": []
-      },
-      "Portuguese": {
-        "overrideEntries": []
+        "overrideEntries": [
+          {
+            "key": "aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount.one",
+            "text": "All'inizio di ogni battaglia, questo Eroe diventa immune dai nuovi disturbi. Questo effetto dura finché non ha resistito a {MAXACTIVATIONCOUNT} disturbi.\n\nNelle battaglie a più ondate, l'effetto viene aggiornato all'inizio di ogni ondata."
+          },
+          {
+            "key": "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie_mayhem.deathbydamage.eatenbycharacter",
+            "text": "Dopo il lancio di [#!]Rimozione totale[#], l'attaccante assume la forma di Fantasma del Gufhalla per {TURNS} turni. Questo effetto è [#!]persistente.[#]\n[*] Mentre è nella forma Fantasma del Gufhalla, il bersaglio subisce {DAMAGEPERTURN} danni a ogni turno."
+          }
+        ]
       },
       "Russian": {
-        "overrideEntries": []
+        "overrideEntries": [
+          {
+            "key": "aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount.one",
+            "text": "В начале каждого боя герой получает иммунитет к новым недугам. Эффект сохраняется до отражения недугов {MAXACTIVATIONCOUNT} р.\n\nВ боях, где больше одной волны, эффект обновляется в начале каждой волны."
+          },
+          {
+            "key": "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie_mayhem.deathbydamage.eatenbycharacter",
+            "text": "Когда используется [#!]полное снятие[#], атаковавший враг превращается в призрака Совальхаллы на {TURNS} х. Эффект [#!]стойкий.[#]\n[*] В этой форме цель получает {DAMAGEPERTURN} урона каждый ход."
+          }
+        ]
       },
-      "Spanish": {
-        "overrideEntries": []
-      },
-      "Danish": {
-        "overrideEntries": []
-      },
-      "Finnish": {
-        "overrideEntries": []
-      },
-      "Norwegian": {
-        "overrideEntries": []
-      },
-      "Swedish": {
-        "overrideEntries": []
-      },
-      "Korean": {
-        "overrideEntries": []
-      },
-      "Japanese": {
-        "overrideEntries": []
-      },
-      "ChineseSimplified": {
-        "overrideEntries": []
+      "Polish": {
+        "overrideEntries": [
+          {
+            "key": "aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount.one",
+            "text": "Na początku każdej bitwy ten Bohater jest odporny na nowe efekty ze statusu. Efekt trwa aż do odparcia łącznie {MAXACTIVATIONCOUNT} dolegliwości.\n\nW bitwach z wieloma falami efekt odnawia się na początku każdej fali."
+          },
+          {
+            "key": "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie_mayhem.deathbydamage.eatenbycharacter",
+            "text": "Po rzuceniu [#!]pełnego usunięcia[#] atakujący przeobraża się w ducha Sowiej Walhalli na okres {TURNS} tur. Ten efekt jest [#!]nieustępliwy.[#]\n[*] Pod postacią Sowiej Walhalli wróg otrzymuje  {DAMAGEPERTURN} pkt. obrażeń w każdej turze."
+          }
+        ]
       },
       "ChineseTraditional": {
-        "overrideEntries": []
+        "overrideEntries": [
+          {
+            "key": "aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount.one",
+            "text": "每場戰鬥開始時，此英雄免疫新的狀態異常。此效果持續至抵禦{MAXACTIVATIONCOUNT}個狀態異常為止。\n\n在有數波攻勢的戰鬥中，該效果將於每波攻勢開始時刷新。"
+          },
+          {
+            "key": "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie_mayhem.deathbydamage.eatenbycharacter",
+            "text": "在施放[#!]完整移除[#]後，攻擊者變為貓頭鷹哈拉幽靈型態，持續{TURNS}個回合。此效果為[#!]頑固[#]。\n[*]目標變為貓頭鷹哈拉幽靈型態時，目標每回合會受到{DAMAGEPERTURN}點傷害。"
+          }
+        ]
+      },
+      "Korean": {
+        "overrideEntries": [
+          {
+            "key": "aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount.one",
+            "text": "각 전투 시작 시 이 영웅은 새로운 상태 이상에 면역이 됩니다. 이 효과는 상태 이상 {MAXACTIVATIONCOUNT}개에 저항할 때까지 지속됩니다.\n\n여러 웨이브로 구성된 전투에서는 각 웨이브 시작 시 이 효과가 갱신됩니다."
+          },
+          {
+            "key": "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie_mayhem.deathbydamage.eatenbycharacter",
+            "text": "[#!]완전 제거[#]를 사용한 후 공격자가 {TURNS}턴 동안 아울할라 유령 형태로 변합니다. 이 효과는 [#!]완고[#]입니다.\n[*] 아울할라 유령 형태인 동안 대상은 매 턴 {DAMAGEPERTURN}의 피해를 받습니다."
+          }
+        ]
+      },
+      "German": {
+        "overrideEntries": [
+          {
+            "key": "aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount.one",
+            "text": "Zu Beginn jedes Kampfes ist dieser Held immun gegen neue Statusveränderungen. Dieser Effekt hält so lange an, bis {MAXACTIVATIONCOUNT} Statusveränderungen abgewehrt wurden.\n\nIn Kämpfen mit mehreren Wellen wird der Effekt zu Beginn jeder Welle erneuert."
+          },
+          {
+            "key": "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie_mayhem.deathbydamage.eatenbycharacter",
+            "text": "Wenn [#!]volle Entfernung[#] besiegt wird, wechselt der Angreifer für {TURNS} Züge in die Gestalt eines Eulhalla-Geists. Dieser Effekt ist [#!]hartnäckig[#].\n[*]In Gestalt eines Eulhalla-Geists erleidet das Ziel {DAMAGEPERTURN} Schaden pro Zug."
+          }
+        ]
+      },
+      "Japanese": {
+        "overrideEntries": [
+          {
+            "key": "aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount.one",
+            "text": "バトル開始時に、この英雄は新たなステータス異常への耐性を持つ。この効果は、ステータス異常が{MAXACTIVATIONCOUNT}回無効化されると消失する。\n\nバトルが複数のウェーブで構成されている場合、この効果は各ウェーブ開始時にリセットされる。"
+          },
+          {
+            "key": "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie_mayhem.deathbydamage.eatenbycharacter",
+            "text": "[#!]完全解除[#]がかけられると、{TURNS}ターンの間、攻撃者がオウルハラゴースト形態になる。この効果は[#!]強固[#]だ。\n[*]ターゲットがオウルハラゴースト形態でいる間はターン毎に{DAMAGEPERTURN}ダメージを受ける。"
+          }
+        ]
+      },
+      "Swedish": {
+        "overrideEntries": [
+          {
+            "key": "aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount.one",
+            "text": "I början av striden är hjälten immun mot nya negativa statuseffekter. Den här effekten varar tills {MAXACTIVATIONCOUNT} negativa statuseffekter har motståtts.\n\nI strider med flera vågor återställs effekten i början av varje våg."
+          },
+          {
+            "key": "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie_mayhem.deathbydamage.eatenbycharacter",
+            "text": "Efter att [#!]fullständig borttagning[#] används antar anfallaren formen av ett Ugglehallsspöke i {TURNS} rundor. Den här effekten är [#!]envis.[#]\n[*] Som Ugglehallsspöke tar målet {DAMAGEPERTURN} skada varje runda."
+          }
+        ]
       },
       "Turkish": {
         "overrideEntries": [
@@ -64,13 +106,150 @@
           {
             "key": "blackfriday.summon.guaranteed_ascended_hero",
             "text": "Garantili [##specialpowerorange]Yükselmiş[#] Kahraman"
+          },
+          {
+            "key": "aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount.one",
+            "text": "Her savaşın başında bu Kahraman yeni durum engellerine bağışıklık kazanır. Bu efekt, {MAXACTIVATIONCOUNT} engele direnilene kadar sürer.\n\nBirkaç dalganın olduğu savaşlarda efekt, her dalganın başında yenilenir."
+          },
+          {
+            "key": "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie_mayhem.deathbydamage.eatenbycharacter",
+            "text": "[#!]Tam Kaldırma[#] uygulandıktan sonra saldırgan {TURNS} tur boyunca Bayhalla Hayaleti formuna dönüşür. Bu efekt [#!]İnatçıdır.[#]\n[*] Bayhalla Hayaleti formundayken hedef her turda {DAMAGEPERTURN} hasar alır."
+          }
+        ]
+      },
+      "English": {
+        "overrideEntries": [
+          {
+            "key": "aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount.one",
+            "text": "At the start of each battle, this Hero is immune to new status ailments. This effect lasts until {MAXACTIVATIONCOUNT} ailment has been resisted.\n\nIn battles with multiple waves, the effect is refreshed at the beginning of each wave."
+          },
+          {
+            "key": "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie_mayhem.deathbydamage.eatenbycharacter",
+            "text": "After the [#!]Full Removal[#] is cast, the attacker shifts into Owlhalla Ghost form for {TURNS} turns. This effect is [#!]Stubborn.[#]\n[*] While in Owlhalla Ghost form the target receives {DAMAGEPERTURN} damage each turn."
           }
         ]
       },
       "Arabic": {
-        "overrideEntries": []
+        "overrideEntries": [
+          {
+            "key": "aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount.one",
+            "text": "في بداية كل معركة، يتمتع هذا البطل بمناعة ضد أمراض الحالات الجديدة. يستمر هذا التأثير حتى تتم مقاومة {MAXACTIVATIONCOUNT} من الأمراض.\n\nفي المعارك ذات الموجات المتعددة، يتجدد هذا التأثير في بداية كل موجة."
+          },
+          {
+            "key": "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie_mayhem.deathbydamage.eatenbycharacter",
+            "text": "بعد إلقاء [#!]الإزالة الكاملة[#]، يتحول المهاجم إلى هيئة شبح فالهالا لمدة {TURNS} من الجولات.هذا التأثير [#!]عنيد.[#]\n[*]  يتلقى الهدف في هيئة شبح فالهالا، {DAMAGEPERTURN} من الضرر في كل جولة."
+          }
+        ]
+      },
+      "French": {
+        "overrideEntries": [
+          {
+            "key": "aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount.one",
+            "text": "Au début de chaque combat, ce héros est immunisé contre les nouveaux effets négatifs. Cet effet dure jusqu'à ce que {MAXACTIVATIONCOUNT} effets aient été annulés.\n\nDans les combats comportant plusieurs vagues, l'effet est réinitialisé au début de chaque vague."
+          },
+          {
+            "key": "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie_mayhem.deathbydamage.eatenbycharacter",
+            "text": "Après l'utilisation de [#!]Suppression totale[#], l'attaquant passe en forme de fantôme du Valhallhibou pour {TURNS} tours. Cet effet est [#!]obstiné.[#]\n[*] Sous cette forme, il reçoit {DAMAGEPERTURN} points de dégâts par tour."
+          }
+        ]
+      },
+      "Portuguese": {
+        "overrideEntries": [
+          {
+            "key": "aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount.one",
+            "text": "No início da batalha, este herói fica imune a novos males de status. Este efeito dura até que {MAXACTIVATIONCOUNT} males sejam resistidos.\n\nEm batalhas com várias ondas, o efeito é aplicado novamente no início de cada onda."
+          },
+          {
+            "key": "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie_mayhem.deathbydamage.eatenbycharacter",
+            "text": "Após a aplicação de [#!]Remoção Total[#], o atacante assume a forma de Fantasma de Corujalla por {TURNS} turnos. Este efeito é [#!]persistente[#].\n[*] Enquanto está na forma de Fantasma de Corujalla, o alvo recebe {DAMAGEPERTURN} de dano a cada turno."
+          }
+        ]
+      },
+      "Indonesian": {
+        "overrideEntries": [
+          {
+            "key": "aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount.one",
+            "text": "Di awal setiap pertempuran, Pahlawan ini kebal terhadap status pelemahan baru. Efek ini bertahan sampai {MAXACTIVATIONCOUNT} pelemahan telah ditampik.\n\nDi pertempuran dengan banyak gelombang, efeknya diperbarui di awal tiap gelombang."
+          },
+          {
+            "key": "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie_mayhem.deathbydamage.eatenbycharacter",
+            "text": "Setelah [#!]Penghapusan Penuh[#] dirapal, penyerang berubah menjadi Hantu Owlhalla selama {TURNS} giliran. Efek ini [#!]Bandel.[#]\n[*] Saat berwujud Hantu Owlhalla, musuh menderita kerusakan sebesar {DAMAGEPERTURN} setiap giliran."
+          }
+        ]
+      },
+      "Finnish": {
+        "overrideEntries": [
+          {
+            "key": "aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount.one",
+            "text": "Tämä sankari on jokaisen taistelun alusta alkaen immuuni uusille vaivoille. Vaikutus kestää, kunnes {MAXACTIVATIONCOUNT} vaivaa on vastustettu.\n\nUseamman aallon taisteluissa vaikutus uudistuu jokaisen aallon alussa."
+          },
+          {
+            "key": "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie_mayhem.deathbydamage.eatenbycharacter",
+            "text": "Kun [#!]täysi poisto[#] on loitsittu, hyökkääjä muuttuu Pöllövalhallan haamuksi {TURNS} vuoron ajaksi. Tämä vaikutus on [#!]sitkeä.[#]\n[*] Pöllövalhallan haamun muodossa kohde saa {DAMAGEPERTURN} vauriota joka vuorolla."
+          }
+        ]
+      },
+      "Danish": {
+        "overrideEntries": [
+          {
+            "key": "aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount.one",
+            "text": "I starten af hver kamp bliver helten immun over for nye statuslidelser. Denne effekt varer indtil {MAXACTIVATIONCOUNT} lidelser er blevet modkæmpet.\n\nI kampe med flere bølger fornys effekten i starten af hver bølge."
+          },
+          {
+            "key": "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie_mayhem.deathbydamage.eatenbycharacter",
+            "text": "Efter [#!]fuld fjernelse[#] er blevet kastet, tager fjenden form som Uglehallas spøgelse i {TURNS} runder. Denne effekt er [#!]stædig.[#]\n[*] Som Uglehallas spøgelse tager målet {DAMAGEPERTURN} skade i hver runde."
+          }
+        ]
+      },
+      "Spanish": {
+        "overrideEntries": [
+          {
+            "key": "aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount.one",
+            "text": "Al comienzo de cada batalla, este héroe es inmune a nuevos estados alterados. Este efecto dura hasta que haya resistido {MAXACTIVATIONCOUNT} estados alterados.\n\n En batallas con múltiples oleadas, el efecto se reinicia al comienzo de cada una."
+          },
+          {
+            "key": "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie_mayhem.deathbydamage.eatenbycharacter",
+            "text": "Después de lanzarse [#!]Eliminación completa[#], el atacante cambia a la forma de fantasma del Buhohalla durante {TURNS} turnos. Este efecto es [#!]obstinado[#].\n[*] El objetivo recibe {DAMAGEPERTURN} de daño cada turno mientras está en esta forma."
+          }
+        ]
+      },
+      "Norwegian": {
+        "overrideEntries": [
+          {
+            "key": "aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount.one",
+            "text": "Ved starten av hver kamp er denne helten immun mot nye statuslidelser. Denne effekten varer til {MAXACTIVATIONCOUNT} lidelser har blitt motstått.\n\nI kamper med flere bølger fornyes effekten ved starten av hver bølge."
+          },
+          {
+            "key": "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie_mayhem.deathbydamage.eatenbycharacter",
+            "text": "Etter at [#!]full fjerning[#] er brukt, går angriperen over til Uglehalla-spøkelsesform i {TURNS} runder. Denne effekten er [#!]sta.[#]\n[*] Når målet er i Uglehalla-spøkelsesform, tar det {DAMAGEPERTURN} skade hver runde."
+          }
+        ]
+      },
+      "Dutch": {
+        "overrideEntries": [
+          {
+            "key": "aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount.one",
+            "text": "Aan het begin van elk gevecht is deze held immuun voor nieuwe statusaandoeningen. Dit effect duurt totdat er {MAXACTIVATIONCOUNT} aandoeningen zijn weerstaan.\n\nIn gevechten met meerdere aanvalsgolven wordt het effect aan het begin van elke golf vernieuwd."
+          },
+          {
+            "key": "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie_mayhem.deathbydamage.eatenbycharacter",
+            "text": "Nadat de [#!]volledige verwijdering[#] is toegepast, neemt de aanvaller {TURNS} beurten lang de vorm van een Uilhalla-geest aan. Dit effect is [#!]hardnekkig[#].\n[*] Als Uilhalla-geest lijdt het doelwit {DAMAGEPERTURN} schade per beurt."
+          }
+        ]
+      },
+      "ChineseSimplified": {
+        "overrideEntries": [
+          {
+            "key": "aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount.one",
+            "text": "每场战斗开始时，此英雄对新的状态异常免疫。该效果持续至抵抗{MAXACTIVATIONCOUNT}次状态异常状态后失效。\n\n在拥有多个波次的战斗中，该效果将在每一波开始时刷新。"
+          },
+          {
+            "key": "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie_mayhem.deathbydamage.eatenbycharacter",
+            "text": "施放[#!]完全移除[#]后，攻击者转化为猫头鹰神殿幽灵形态，持续{TURNS}回合。此效果具有[#!]顽固[#]特性。\n[*]处于猫头鹰神殿幽灵形态的目标，每回合将受到{DAMAGEPERTURN}点伤害。"
+          }
+        ]
       }
     }
   },
-  "languageOverridesConfigId": 4127832788
+  "languageOverridesConfigId": 3848861074
 }

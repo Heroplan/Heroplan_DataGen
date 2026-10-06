@@ -1380,7 +1380,7 @@
 "specials.name.judgement_of_goo","حكم اللزوجة"
 "specials.name.judgment_and_penance","الحُكم والتوبة"
 "specials.name.judgment_of_sun","حُكم الشمس"
-"specials.name.juggling_trials","اختبارات التوازن"
+"specials.name.juggling_trials","اختبارات التلاعب بالكرات"
 "specials.name.juggling_trials_mayhem","اختبارات التلاعب بالكرات"
 "specials.name.jungle_fury","غضب الأدغال"
 "specials.name.jungle_riposte","رد الغابة"

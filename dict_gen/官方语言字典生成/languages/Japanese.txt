@@ -4309,6 +4309,10 @@ VIPパスの内容：
 "familiar.statuseffect.minor.dispelimmunity.single.allies.noturns.reef_shark_sharpoon.summon","サメのミニオンは、ステータス効果バフの解除および奪取を無効化する。"
 "familiar.statuseffect.minor.dispelimmunity.single.allies.noturns.shark_mega_minion_haikala.summon","サメのメガミニオンは、ステータス効果バフの解除および奪取を無効化する。"
 "familiar.statuseffect.minor.dispelimmunity.single.allies.while.single.allies.familiaralive.spotted_boar_mega_minion.spotted_boar_mega_minion.summon","マダラボアのメガミニオンがサモンされた場合、自らの所有者がステータス効果解除に耐性を持つ。（所有者がマダラボアのメガミニオンを所有する限り有効）。この効果は解除できない。"
+"familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie.deathbydamage.eatenbycharacter","[#!]完全解除[#]がかけられると、{TURNS}ターンの間、攻撃者がオウルハラゴースト形態になる。この効果は[#!]強固[#]だ。
+[*]ターゲットがオウルハラゴースト形態でいる間はターン毎に{DAMAGEPERTURN}ダメージを受ける。"
+"familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.owlkyrie_mayhem.deathbydamage.eatenbycharacter","[#!]完全解除[#]がかけられると、{TURNS}ターンの間、攻撃者がオウルハラゴースト形態になる。この効果は[#!]強固[#]だ。
+[*]ターゲットがオウルハラゴースト形態でいる間はターン毎に{DAMAGEPERTURN}ダメージを受ける。"
 "familiar.statuseffect.minor.poison.single.enemies.contagious.sword_guard_mega_minion.turn","ソードガードのメガミニオンの攻撃が命中したターゲットが、{TURNS}ターンの間に{DAMAGE}の毒ダメージを与える。この効果は近くにいる敵にも波及する。"
 "familiar.statuseffect.minor.receiveddamagemodifier.single.enemies.bull.turn","雄牛ミニオンから攻撃を受けたターゲットの被ダメージが{TURNS}ターンの間、{DAMAGEREDUCTION}%増加する。"
 "familiar.statuseffect.minor.receiveddamagemodifier.single.enemies.butterfly.turn","{TURNS}ターンの間、すべての被ダメージが{DAMAGEREDUCTION}%になる。"
@@ -6054,16 +6058,36 @@ VIPパスの内容：
 
 複数回ウェーブのある戦闘では、この効果は各ウェーブの最初にリセットされる。"
 "herocard.passive_skill.description.redirectlethaldamage.enemies.single.battle","初めてこのキャラクターが致命的なダメージを受けた場合、そのダメージの{REDIRECTDAMAGEMULTIPLIER}%をランダムな敵1体にはね返す（発動残り回数：[#!]{ACTIVATIONSLEFT}[#]）。"
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled","初めてこのキャラクターが致命的なダメージを受けた場合、そのダメージの{REDIRECTDAMAGEMULTIPLIER}%を攻撃者に跳ね返す。
+
+バトルにおいてこのキャラクターが唯一のチームメンバーの場合は発動しない。
+
+複数回ウェーブのある戦闘では、この効果は各ウェーブの最初にリセットされる。"
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled.battle","初めてこのキャラクターが致命的なダメージを受けた場合、そのダメージの{REDIRECTDAMAGEMULTIPLIER}%を攻撃者に跳ね返す。（残り発動回数：[#!]{ACTIVATIONSLEFT}[#]）
+
+バトルにおいてこのキャラクターが唯一のチームメンバーの場合は発動しない。"
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single","初めてこのキャラクターが致命的なダメージを受けた場合、そのダメージをランダムな敵1体にはね返す。
 
 複数回ウェーブのある戦闘では、この効果は各ウェーブの最初にリセットされる。"
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.battle","初めてこのキャラクターが致命的なダメージを受けた場合、そのダメージをランダムな敵1体にはね返す（発動残り回数：[#!]{ACTIVATIONSLEFT}[#]）。"
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","初めてこのキャラクターが通常攻撃または特殊スキルによる致命的なダメージを受けた場合、その攻撃者に最大{REDIRECTDAMAGELIMIT}ダメージを跳ね返す（発動残り回数：[#!]{ACTIVATIONSLEFT}[#]）。"
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","初めてこのキャラクターが通常攻撃または特殊スキルによる致命的なダメージを受けた場合、その攻撃者に最大{REDIRECTDAMAGELIMIT}ダメージを跳ね返す（発動残り回数：[#!]{ACTIVATIONSLEFT}[#]）。"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","初めてこのキャラクターが通常攻撃または特殊スキルによる致命的なダメージを受けた場合、ランダムな敵1体に最大{REDIRECTDAMAGELIMIT}ダメージを跳ね返す。"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","初めてこのキャラクターが通常攻撃または特殊スキルによる致命的なダメージを受けた場合、ランダムな敵1体に最大{REDIRECTDAMAGELIMIT}ダメージを跳ね返す（発動残り回数：[#!]{ACTIVATIONSLEFT}[#]）。"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled","初めてこのキャラクターが通常攻撃または特殊スキルによる致命的なダメージを受けた場合、その攻撃者に最大{REDIRECTDAMAGELIMIT}ダメージを跳ね返す。
+バトルにおいてこのキャラクターが唯一のチームメンバーの場合は発動しない。"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled.battle","初めてこのキャラクターが通常攻撃または特殊スキルによる致命的なダメージを受けた場合、その攻撃者に最大{REDIRECTDAMAGELIMIT}ダメージを跳ね返す。（残り発動回数：[#!]{ACTIVATIONSLEFT}[#]）
+バトルにおいてこのキャラクターが唯一のチームメンバーの場合は発動しない。"
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","初めてこのキャラクターが通常攻撃または特殊スキルによる致命的なダメージを受けた場合、その攻撃者に最大{REDIRECTDAMAGELIMIT}ダメージを跳ね返す。
 
 複数回ウェーブのある戦闘では、この効果は各ウェーブの最初にリセットされる。"
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit.battle","初めてこのキャラクターが通常攻撃または特殊スキルによる致命的なダメージを受けた場合、その攻撃者に最大{REDIRECTDAMAGELIMIT}ダメージを跳ね返す（発動残り回数：[#!]{ACTIVATIONSLEFT}[#]）。"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled","初めてこのキャラクターが致命的なダメージを受けた場合、そのダメージを攻撃者に跳ね返す。
+
+バトルにおいてこのキャラクターが唯一のチームメンバーの場合は発動しない。
+
+複数回ウェーブのある戦闘では、この効果は各ウェーブの最初にリセットされる。"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled.battle","初めてこのキャラクターが致命的なダメージを受けた場合、そのダメージを攻撃者に跳ね返す。（残り発動回数：[#!]{ACTIVATIONSLEFT}[#]）
+
+バトルにおいてこのキャラクターが唯一のチームメンバーの場合は発動しない。"
 "herocard.passive_skill.description.reduceinsanityperturn","各ターン開始時に、このキャラクターの現在の[#!]狂気[#]が[#!]{REDUCTION}[#]減少する。"
 "herocard.passive_skill.description.reflectresistedstatuseffect.all.enemies","パッシブスキルによって、このキャラクターが抵抗したステータス異常が敵全員に跳ね返る。"
 "herocard.passive_skill.description.reflectstatuseffect.with_chance","ステータス異常を攻撃者に反射する確率がさらに[#!]{CHANCE}%[#]上昇。"
@@ -6311,13 +6335,13 @@ VIPパスの内容：
 [*]同じ英雄がミニオンを所持していた場合、フィエンドはメガフィエンドに進化できない。
 
 [#!]苗木のフィエンド[#]：
-攻撃力[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#]%
+攻撃力[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#]、ライフ[#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#]
 
 [#!]新芽のフィエンド[#]：
-攻撃力[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#]%
+攻撃力[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#]、ライフ[#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#]
 
 [#!]開花のメガフィエンド[#]：
-攻撃力[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#]%"
+攻撃力[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#]、ライフ[#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#]"
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_rare_mayhem.enemies","毎ターン、ランダムに敵1体に対して[#!]苗木のフィエンド[#]をサモンする。
 [*][#!]苗木のフィエンド[#]は{EVOLVINGFAMILIAR1EVOLVETURNS}ターン後に[#!]新芽のフィエンド[#]に進化する。
 [*][#!]新芽のフィエンド[#]は{EVOLVINGFAMILIAR2EVOLVETURNS}ターン後に[#!]開花のメガフィエンド[#]に進化する。
@@ -6336,13 +6360,13 @@ VIPパスの内容：
 [*]同じ英雄がミニオンを所持していた場合、フィエンドはメガフィエンドに進化できない。
 
 [#!]苗木のフィエンド[#]：
-攻撃力[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#]%
+攻撃力[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#]、ライフ[#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#]
 
 [#!]新芽のフィエンド[#]：
-攻撃力[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#]%
+攻撃力[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#]、ライフ[#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#]
 
 [#!]開花のメガフィエンド[#]：
-攻撃力[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#]%"
+攻撃力[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#]、ライフ[#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#]"
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay.enemies","毎ターン、ランダムに敵1体に対して[#!]苗木のフィエンド[#]をサモンする。
 [*][#!]苗木のフィエンド[#]は{EVOLVINGFAMILIAR1EVOLVETURNS}ターン後に[#!]新芽のフィエンド[#]に進化する。
 [*][#!]新芽のフィエンド[#]は{EVOLVINGFAMILIAR2EVOLVETURNS}ターン後に[#!]開花のメガフィエンド[#]に進化する。
@@ -6402,13 +6426,13 @@ VIPパスの内容：
 [*]同じ英雄がミニオンを所持していた場合、フィエンドはメガフィエンドに進化できない。
 
 [#!]苗木のフィエンド[#]：
-攻撃力[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#]%
+攻撃力[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#]、ライフ[#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#]
 
 [#!]新芽のフィエンド[#]：
-攻撃力[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#]%
+攻撃力[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#]、ライフ[#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#]
 
 [#!]開花のメガフィエンド[#]：
-攻撃力[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#]%"
+攻撃力[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#]、ライフ[#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#]"
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn","毎ターン、ランダムに敵1体に対して[#!]苗木のフィエンド[#]をサモンする。このパッシブスキルは各チームにつき1回だけ発動する。
 [*][#!]苗木のフィエンド[#]は{EVOLVINGFAMILIAR1EVOLVETURNS}ターン後に[#!]新芽のフィエンド[#]に進化する。
 [*][#!]新芽のフィエンド[#]は{EVOLVINGFAMILIAR2EVOLVETURNS}ターン後に[#!]開花のメガフィエンド[#]に進化する。
@@ -6428,13 +6452,13 @@ VIPパスの内容：
 [*]同じ英雄がミニオンを所持していた場合、フィエンドはメガフィエンドに進化できない。
 
 [#!]苗木のフィエンド[#]：
-攻撃力[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#]%
+攻撃力[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#]、ライフ[#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#]
 
 [#!]新芽のフィエンド[#]：
-攻撃力[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#]%
+攻撃力[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#]、ライフ[#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#]
 
 [#!]開花のメガフィエンド[#]：
-攻撃力[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#]%"
+攻撃力[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#]、ライフ[#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#]"
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","このキャラクターが倒れると、このキャラクターの[#!]{FAMILIARHEALTHPERCENT}%[#]のHPと[#!]{FAMILIARATTACK}%[#]の攻撃力を持つスライムの[#!]メガミニオン[#]が、近くにいる仲間のもとにサモンされる。"
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","このキャラクターが倒れると、このキャラクターの[#!]{FAMILIARHEALTHPERCENT}%[#]のHPと[#!]{FAMILIARATTACK}%[#]の攻撃力を持つスライムの[#!]メガミニオン[#]が、近くにいる仲間のもとにサモンされる。"
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","このキャラクターが倒れると、このキャラクターの[#!]{FAMILIARHEALTHPERCENT}%[#]のHPと[#!]{FAMILIARATTACK}%[#]の攻撃力を持つスライムの[#!]メガミニオン[#]が、近くにいる仲間のもとにサモンされる。"
@@ -6686,10 +6710,7 @@ VIPパスの内容：
 "herocard.passive_skill.title.received_strong_troop_damage_pve","兵団ダメージ軽減"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage","兵団の達人"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage.increase.dragon","強化ファイヤーボールダメージ増加"
-"herocard.passive_skill.title.redirectlethaldamage.enemies.single","九死に一生"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single","九死に一生"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","九死に一生"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","九死に一生"
+"herocard.passive_skill.title.redirectlethaldamage","九死に一生"
 "herocard.passive_skill.title.reduceinsanityperturn","狂気を減少させる"
 "herocard.passive_skill.title.reflectresistedstatuseffect","レジェンドリフレクター"
 "herocard.passive_skill.title.remove_growth_from_enemies","ガードラリー"
@@ -24474,8 +24495,8 @@ VIPパスを複数購入すると、自動的にその有効期間も延長さ�
 "specials.name.mesmerizing_mirror","魅惑の鏡"
 "specials.name.miasma_mace","ミアスマ メイス"
 "specials.name.midnight_blitzing","真夜中の電撃戦"
-"specials.name.midnight_magic","夕闇の魔法"
-"specials.name.midnight_magic_mayhem","夕闇の魔法"
+"specials.name.midnight_magic","真夜中の魔法"
+"specials.name.midnight_magic_mayhem","真夜中の魔法"
 "specials.name.midnight_moon","深夜の月"
 "specials.name.midnight_smite","真夜中の鉄槌"
 "specials.name.midnight_strike","真夜中の一撃"
@@ -27014,20 +27035,20 @@ VIPパスを複数購入すると、自動的にその有効期間も延長さ�
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.evolving_seedling_parasite.blocked_by.minion.extra","[*][#!]苗木のフィエンド[#]は{EVOLVINGFAMILIAR1EVOLVETURNS}ターン後に[#!]新芽のフィエンド[#]に進化する。
 [*][#!]新芽のフィエンド[#]は{EVOLVINGFAMILIAR2EVOLVETURNS}ターン後に[#!]開花のメガフィエンド[#]に進化する。
 
-[*][#!]苗木のフィエンド[#]：攻撃力[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#]%
-[*] [#!]新芽のフィエンド[#]：攻撃力[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#]%
+[*][#!]苗木のフィエンド[#]：攻撃力[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#]、ライフ[#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#]
+[*] [#!]新芽のフィエンド[#]：攻撃力[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#]、ライフ[#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#]
 [*] [#!]開花のメガフィエンド[#]：
-攻撃力[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#]%
+攻撃力[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#]、ライフ[#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#]
 
 [*]フィエンドは毎ターン、ターゲットにダメージを与える。フィエンドは回復を吸収しつくすと消滅する。必要な回復量はターゲットの最大HPに依存する。
 [*]同じ英雄にミニオンがいる場合、フィエンドはメガフィエンドに進化できない。"
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.evolving_seedling_parasite.extra","[*][#!]苗木のフィエンド[#]は{EVOLVINGFAMILIAR1EVOLVETURNS}ターン後に[#!]新芽のフィエンド[#]に進化する。
 [*][#!]新芽のフィエンド[#]は{EVOLVINGFAMILIAR2EVOLVETURNS}ターン後に[#!]開花のメガフィエンド[#]に進化する。
 
-[*][#!]苗木のフィエンド[#]：攻撃力[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#]%
-[*] [#!]新芽のフィエンド[#]：攻撃力[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#]%
+[*][#!]苗木のフィエンド[#]：攻撃力[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#]、ライフ[#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#]
+[*] [#!]新芽のフィエンド[#]：攻撃力[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#]、ライフ[#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#]
 [*] [#!]開花のメガフィエンド[#]：
-攻撃力[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#]%
+攻撃力[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#]、ライフ[#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#]
 
 [*]フィエンドは毎ターン、ターゲットにダメージを与える。フィエンドは回復を吸収しつくすと消滅する。必要な回復量はターゲットの最大HPに依存する。"
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.evolving_seedling_parasite_with_delay.blocked_by.minion.extra","[*][#!]苗木のフィエンド[#]は{EVOLVINGFAMILIAR1EVOLVETURNS}ターン後に[#!]新芽のフィエンド[#]に進化する。
@@ -27044,10 +27065,10 @@ VIPパスを複数購入すると、自動的にその有効期間も延長さ�
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.evolving_seedling_parasite_with_delay.extra","[*][#!]苗木のフィエンド[#]は{EVOLVINGFAMILIAR1EVOLVETURNS}ターン後に[#!]新芽のフィエンド[#]に進化する。
 [*][#!]新芽のフィエンド[#]は{EVOLVINGFAMILIAR2EVOLVETURNS}ターン後に[#!]開花のメガフィエンド[#]に進化する。
 
-[*][#!]苗木のフィエンド[#]：攻撃力[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}[#]%
-[*] [#!]新芽のフィエンド[#]：攻撃力[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}[#]%
+[*][#!]苗木のフィエンド[#]：攻撃力[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#]、ライフ[#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#]
+[*] [#!]新芽のフィエンド[#]：攻撃力[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#]、ライフ[#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#]
 [*] [#!]開花のメガフィエンド[#]：
-攻撃力[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}[#]%、ライフ[#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#]%
+攻撃力[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#]、ライフ[#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#]
 
 [*]フィエンドは毎ターン、ターゲットにダメージを与える。フィエンドは回復を吸収しつくすと消滅する。必要な回復量はターゲットの最大HPに依存する。
 [*]回復を吸収するたびにフィエンドの進化は{EVOLVINGFAMILIAR1EVOLVETURNSDELAY}ターン遅延する。"
@@ -27647,6 +27668,14 @@ VIPパスを複数購入すると、自動的にその有効期間も延長さ�
 [#!]活力の幸運のダンス[#]
 {STATUSEFFECTS}
 [*][#!]幸運のダンス[#] は、他のダンス効果と累積する。"
+"specials.v2.statuseffect.minor.abyss.sides.enemies.dispelincreasesactivations","{TURNS}ターンの間、敵陣形の端にいる敵が奈落の底ゴースト形態になる。
+[*]ターゲットが奈落の底ゴースト形態でいる間はターン毎に{DAMAGEPERTURN}ダメージを受ける。この効果は[#!]強固[#]だ。"
+"specials.v2.statuseffect.minor.abyss.single.enemies.dispelincreasesactivations","{TURNS}ターンの間、ターゲットが奈落の底ゴースト形態になる。この効果は[#!]強固[#]だ。
+[*]ターゲットが奈落の底ゴースト形態でいる間はターン毎に{DAMAGEPERTURN}ダメージを受ける。"
+"specials.v2.statuseffect.minor.abyss.single.enemies.onremoval.damage.all.allies.expiration.add_insanity_emilie.dispelincreasesactivations","{TURNS}ターンの間、ターゲットが奈落の底ゴースト形態になる。この効果は[#!]強固[#]だ。
+[*]ターゲットが奈落の底ゴースト形態でいる間はターン毎に{DAMAGEPERTURN}ダメージを受ける。
+[*]奈落の底ゴースト形態が失効した場合：
+[*]味方全員に{FIXEDPOWER}ダメージを与え、[#!]狂気[#]を{STATUSEFFECT1INSANITYTOADD}付与する。"
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies","{TURNS}ターンの間、敵全員の命中率が{ACCURACY}%になる。"
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies.dispelincreasesactivations","{TURNS}ターンの間、敵全員の命中率が{ACCURACY}%になる。この効果は[#!]強固[#]だ。"
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies.resetonheal","{TURNS}ターンの間、敵全員の命中率が{ACCURACY}%になる。ターゲットがHPを回復すると効果の持続時間がリセットされる。"
@@ -28059,6 +28088,12 @@ VIPパスを複数購入すると、自動的にその有効期間も延長さ�
 [*][#!]貪りのスライム：[#]解除可能なすべてのバフと成長効果を消去する。また、ターン毎に{BASEDAMAGEPERTURN}ダメージを与え、さらに消去された効果1つごとに{DAMAGEPERTURNPEREFFECT}ダメージを与える。"
 "specials.v2.statuseffect.minor.devouringgoo.single.enemies.effects.minorbuff.positivebasestatmodifier","{TURNS}ターンの間、ターゲットとなった敵にステータス異常「貪りのスライム」を付与する。
 [*][#!]貪りのスライム[#]：解除可能なすべてのバフと成長効果を消去する。また、ターン毎に{BASEDAMAGEPERTURN}ダメージを与え、さらに消去された効果1つごとに{DAMAGEPERTURNPEREFFECT}ダメージを与える。"
+"specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.add_insanity_salvatore.dispelincreasesactivations","{TURNS}ターンの間、術者が錯乱のダイアーゴースト形態になる。この効果は[#!]強固[#]だ。
+[*]錯乱のダイアーゴースト形態でいる間、術者は、ターン毎にランダムな敵1体に{POWER1}%のダメージを与え、{STATUSEFFECT1INSANITYTOADD}[#!]狂気[#]を付与する。
+[*]錯乱のダイアーゴースト形態でいる間、術者は、自分より優位な属性の敵からダメージを受ける。"
+"specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.dispelincreasesactivations","{TURNS}ターンの間、術者と近くにいる仲間が錯乱のダイアーゴースト形態になる。この効果は[#!]強固[#]だ。
+[*]錯乱のダイアーゴースト形態でいる間、術者はターン毎にランダムな敵1体に{POWER1}%のダメージを与える。
+[*]錯乱のダイアーゴースト形態でいる間、術者は自分より優位な属性の敵からダメージを受ける。"
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff","{TURNS}ターンの間、各ターン終了時に仲間全員のステータス異常を浄化する。"
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.bypassremoveeffects","{TURNS}ターンの間、各ターン終了時に仲間全員のステータス異常を安全に浄化する。"
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.customremovalcount","{TURNS}ターンの間、各ターン終了時に仲間全員のステータス異常を1つ浄化する。"
@@ -28140,6 +28175,8 @@ VIPパスを複数購入すると、自動的にその有効期間も延長さ�
 "specials.v2.statuseffect.minor.elementswapovertime.allexceptcaster.allies","{TURNS}ターンの間、術者以外の仲間全員が[#!]エレメントフラックス[#]を付与される。これによりターン毎に属性がランダムに変化する。"
 "specials.v2.statuseffect.minor.elementswapovertime.damage_to_green.all.enemies","{TURNS}ターンの間、敵全員が[#!]エレメントフラックス[#]を付与される。これによりターン毎に属性がランダムに変化し、その属性が[##elementgreen]自然属性[#]になると{DAMAGEPERTURN}ダメージを与える。"
 "specials.v2.statuseffect.minor.elementswapovertime.damage_to_yellow.all.enemies","{TURNS}ターンの間、敵全員が[#!]エレメントフラックス[#]を付与される。これによりターン毎に属性がランダムに変化し、その属性が[##elementyellow]聖属性[#]になると{DAMAGEPERTURN}ダメージを与える。"
+"specials.v2.statuseffect.minor.ethereal.single.allies.dispelincreasesactivations","{TURNS}ターンの間、術者がゴースト形態になる。
+[*]ゴースト形態でいる間、術者の攻撃力が{ATTACK}%になる。この効果は[#!]強固[#]だ。"
 "specials.v2.statuseffect.minor.explodingberserk.single.allies","術者の攻撃力が{ATTACK}%になる。{TURNS}ターンの間、術者または仲間が攻撃を受けるたびに、術者の攻撃力はさらに{CHANGE}%ずつ増加する（最大{MAXMODIFIER}%まで）。この効果終了時に、敵全員が{DAMAGE}ダメージを受ける。この効果が有効な間は、術者または仲間が攻撃されるたびに、敵に与えるダメージが{MAXDAMAGE}を上限に{ADDITIONALDAMAGEPERHIT}ずつ増加する。"
 "specials.v2.statuseffect.minor.extradamageagainstboostedhealth.all.allies.troop.npcnormalattack.specialskill.statuseffectskill","{TURNS}ターンの間、仲間全員が通常攻撃と特殊攻撃によって、ライフがブーストされたターゲットに与えるダメージが{DAMAGEMULTIPLIER}%になる。"
 "specials.v2.statuseffect.minor.fearstatuseffectskill.all.enemies.on.allyspecial.damage.random.allies","敵全員が{TURNS}ターンの間、[#!]恐怖[#]に屈する。"
@@ -28213,6 +28250,14 @@ VIPパスを複数購入すると、自動的にその有効期間も延長さ�
 "specials.v2.statuseffect.minor.frost.single.enemies.contagious","{TURNS}ターンの間、ターゲットに{DAMAGE}のフロストダメージを与える。この効果は近くにいる敵にも波及する。"
 "specials.v2.statuseffect.minor.frost.single.enemies.contagious.noturns","毎ターン、ターゲットに{DAMAGE}の[#!]継続[#]フロストダメージを与える。この効果は近くにいる敵にも波及する。"
 "specials.v2.statuseffect.minor.gamble.all.allies","{TURNS}ターンの間、仲間全員の攻撃力が{ATTACK}%に、命中率が{ACCURACY}%になる。"
+"specials.v2.statuseffect.minor.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies.dispelincreasesactivations","{TURNS}ターンの間、術者がゴースト形態になる。この効果は[#!]強固[#]だ。
+[*]ゴースト形態が終了すると：
+[*]{REMOVALEFFECT1STATUSEFFECT1TURNS}ターンの間、味方全員のクリティカル攻撃成功率が{REMOVALEFFECT1STATUSEFFECT1CRIT}%になる。この効果は解除できない。"
+"specials.v2.statuseffect.minor.ghost.single.allies.onremoval.revival.randomdead.allies.expiration.hp_recovery_sable.all.allies.dispel_ailments.all.allies.dispelincreasesactivations","{TURNS}ターンの間、術者がゴースト形態に変化する。この効果は[#!]強固[#]だ。
+[*]ゴースト形態終了時：
+[*]術者がランダムな仲間1人をライフ{REMOVALEFFECT1POWER}%の状態で蘇生させる。
+[*]{REMOVALEFFECT1STATUSEFFECT1TURNS}ターンの間に、仲間全員が合計{REMOVALEFFECT1STATUSEFFECT1TOTAL}のライフを獲得する。
+[*] {REMOVALEFFECT1STATUSEFFECT2TURNS}ターンの間、各ターンの終了時に仲間全員のステータス異常を浄化する。"
 "specials.v2.statuseffect.minor.giftbomb.single.enemies.neartotargetminor.allies.death.expiration","ターゲットにギフト爆弾を与える。{TURNS}ターン後に、ギフト爆弾は爆発し、ターゲットに{DAMAGE}ダメージを与え、近くにいる敵に{MINORDAMAGE}ダメージを与える。ギフト爆弾は、ターゲットが倒れた場合にも爆発する。"
 "specials.v2.statuseffect.minor.giftbomb.single.enemies.onremoval.damage.neartotarget.allies.death.expiration","ターゲットにギフト爆弾を与える。{TURNS}ターン後に、ギフト爆弾は爆発し、ターゲットと近くにいる敵に{DAMAGE}ダメージを与える。ギフト爆弾は、ターゲットが倒れた場合にも爆発する。"
 "specials.v2.statuseffect.minor.grapple.single.enemies","ターゲットを掴む。掴まれている間、{TURNS}ターンにわたってターゲットの通常攻撃が1に減少し、{DAMAGE}ダメージを受ける。"
@@ -28702,6 +28747,7 @@ VIPパスを複数購入すると、自動的にその有効期間も延長さ�
 "specials.v2.statuseffect.minor.stackingattackmodifier.all.allies.effect_per_eaten_familiar.parasite.bigparasite","[#!]累積効果（最大：{MAXSTACK}）：[#]フィエンドが倒されるたびに、仲間全員の攻撃力が{ATTACK}%上昇する。"
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies","[#!]累積効果(最大：{MAXSTACK}):[#]術者の攻撃力が{ATTACK}%になる。"
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.effect_per_eaten_familiar.minion.follower.bigminion","[#!]累積効果（最大：{MAXSTACK}）：[#]ミニオンが倒されるたびに、術者の攻撃力が{ATTACK}%上昇する。"
+"specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.withbasestackcount","[#!]累積効果+{BASESTACKCOUNT}(最大：{MAXSTACK}):[#]術者の攻撃力が{ATTACK}%になる。"
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.enemies.chain_strike","[#!]累積効果(最大：{MAXSTACK})：[#]攻撃を受けるたびに、ターゲットの攻撃力が{ATTACK}%になる。"
 "specials.v2.statuseffect.minor.stackingattackmodifieragainstweakerelement.single.allies","[#!]累積効果(最大：{MAXSTACK}):[#]劣勢の属性の敵に対する術者の攻撃力が{ATTACK}%になる。"
 "specials.v2.statuseffect.minor.stackingcritmodifier.all.allies","[#!]累積効果（最大：{MAXSTACK}）：[#]仲間全員が{CRIT}%のクリティカル確率を得る。"
@@ -28721,6 +28767,7 @@ VIPパスを複数購入すると、自動的にその有効期間も延長さ�
 "specials.v2.statuseffect.minor.stackingicebound.all.enemies.effect_per_kill.minion.follower","[#!]累積効果(最大：{MAXSTACK}):[#]毎ターンの最後に、倒した敵または敵ミニオンの数に応じて、{DAMAGE}のフロストダメージを敵全員に与える。"
 "specials.v2.statuseffect.minor.stackingicebound.neartotarget.enemies","[#!]累積効果（最大：{MAXSTACK}）：[#]毎ターンの最後に、ターゲットと近くにいる敵に{DAMAGE}のフロストダメージを与える。"
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies","[#!]累積効果(最大：{MAXSTACK})：[#]仲間全員のマナ生成が{MANAREGEN}%になる。"
+"specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies.withbasestackcount","[#!]累積効果+{BASESTACKCOUNT}(最大：{MAXSTACK})：[#]仲間全員のマナ生成が{MANAREGEN}%になる。"
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies","[#!]累積効果(最大：{MAXSTACK})：[#]敵全員のマナ生成が{MANAREGEN}%になる。"
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies.effect_per_eaten_familiar.minion.follower","[#!]累積効果(最大：{MAXSTACK}):[#]倒したミニオンの数に応じて、敵全員のマナ生成が{MANAREGEN}%になる。"
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies.effect_per_kill.minion.follower","[#!]累積効果(最大：{MAXSTACK}):[#]倒した敵またはミニオンの数に応じて、敵全員のマナ生成が{MANAREGEN}%になる。"
@@ -28729,6 +28776,7 @@ VIPパスを複数購入すると、自動的にその有効期間も延長さ�
 "specials.v2.statuseffect.minor.stackingminionattackmodifier.all.allies","[#!]累積効果（最大：{MAXSTACK}）：[#]ミニオンを保有する仲間全員の攻撃力が{ATTACK}%増加する。"
 "specials.v2.statuseffect.minor.stackingminionmaxhealthmodifier.all.allies","[#!]累積効果（最大：{MAXSTACK}):[#] 仲間全員が新たにを召喚することで{MAXHEALTH}%のHPを得る。"
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease","[#!]累積効果（最大：{MAXSTACK}）：[#]仲間全員が受けるすべてのダメージが{DAMAGEMODIFIER}%減少する。"
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease.withbasestackcount","[#!]累積効果+{BASESTACKCOUNT}（最大：{MAXSTACK}）：[#]仲間全員が受けるすべてのダメージが{DAMAGEMODIFIER}%減少する。"
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies","[#!]累積効果（最大：{MAXSTACK}）：[#]敵全員が受けるすべてのダメージが{DAMAGEMODIFIER}%増加する。"
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies.withbasestackcount","[#!]累積効果+{BASESTACKCOUNT}（最大：{MAXSTACK}）：[#]敵全員が受けるすべてのダメージが{DAMAGEMODIFIER}%増加する。"
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.lessthanhalfhpleft.enemies","[#!]累積効果（最大：{MAXSTACK}）:[#]残りHPが50%未満の敵が{DAMAGEMODIFIER}%のダメージを受ける。"
@@ -28740,6 +28788,7 @@ VIPパスを複数購入すると、自動的にその有効期間も延長さ�
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.allies.decrease","[#!]累積効果（最大：{MAXSTACK}）：[#]術者が受けるすべてのダメージが{DAMAGEMODIFIER}%減少する。"
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies","[#!]累積効果（最大：{MAXSTACK}）:[#]ターゲットが受けるすべてのダメージが{DAMAGEMODIFIER}%増加する。"
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.chain_strike","[#!]累積効果（最大：{MAXSTACK}）:[#]攻撃が当たるごとに、ターゲットが受けるすべてのダメージが{DAMAGEMODIFIER}%増加する。"
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.withbasestackcount.chain_strike","[#!]累積効果+{BASESTACKCOUNT}（最大：{MAXSTACK}）:[#]攻撃が当たるごとに、ターゲットが受けるすべてのダメージが{DAMAGEMODIFIER}%増加する。"
 "specials.v2.statuseffect.minor.statuseffectgeneratorstatuseffectskill.allexceptcaster.allies.on.ownturnstart.basic_attack_bluecat.mana_regen_bluecat.dispelincreasesactivations","[#!]バフの源：[#]各ターン開始時に、術者を除くいずれかの仲間1体に次の効果を付与する：
 [*]{STATUSEFFECT1TURNS}ターンの間、攻撃力が{STATUSEFFECT1ATTACK}%になる。
 [*]{STATUSEFFECT2TURNS}ターンの間、マナ生成が{STATUSEFFECT2MANAREGEN}%になる。
@@ -28836,6 +28885,7 @@ HPがブーストされたターゲットやミニオンまたはメガミニオ
 "specials.v2.statuseffect.minor.toxin.single.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","ターゲットが{TURNS}ターンにわたって{DAMAGE}の[#!]猛毒[#]ダメージを受ける。
 HPがブーストされたターゲットやミニオンまたはメガミニオンを所有するターゲットには追加ダメージを付与する。"
 "specials.v2.statuseffect.minor.transcendentalframe.single.allies","{TURNS}ターンの間、術者がゴースト形態になる。"
+"specials.v2.statuseffect.minor.transcendentalframe.single.allies.dispelincreasesactivations","{TURNS}ターンの間、術者がゴースト形態になる。この効果は[#!]強固[#]だ。"
 "specials.v2.statuseffect.minor.underwater.all.enemies","{TURNS}ターンの間、敵全員に{DAMAGE}の水ダメージを与える。"
 "specials.v2.statuseffect.minor.underwater.all.enemies.absorb_healing.to.single","{TURNS}ターンの間、敵全員に{DAMAGE}の水ダメージを与える。術者は、与えた水ダメージの{ABSORBHEALING}%を回復として吸収する。"
 "specials.v2.statuseffect.minor.underwater.neartotarget.enemies","{TURNS}ターンの間、ターゲットと近くにいる敵に{DAMAGE}の水ダメージを与える。"

@@ -280,16 +280,34 @@ Kärsitty vaurio: -{MODIFIER} %"
 
 Jos taistelussa on useita aaltoja, tämä vaikutus nollautuu jokaisen aallon alussa."
 "herocard.passive_skill.description.redirectlethaldamage.enemies.single.battle","Kun tämä hahmo kärsisi ensimmäisen kerran kuolettavan vaurion, se ohjaakin {REDIRECTDAMAGEMULTIPLIER} % kyseisestä vauriosta satunnaiselle viholliselle sen sijaan. (Aktivointeja jäljellä: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled","Kun tämä hahmo kärsisi ensimmäisen kerran kuolettavan vaurion, se ohjaakin {REDIRECTDAMAGEMULTIPLIER} % kyseisestä vauriosta hyökkääjälle sen sijaan.
+
+Vaikutus ei aktivoidu, jos tämä hahmo on ryhmänsä ainoa jäsen taistelussa.
+
+Jos taistelussa on useita aaltoja, tämä vaikutus nollautuu jokaisen aallon alussa."
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled.battle","Kun tämä hahmo kärsisi ensimmäisen kerran kuolettavan vaurion, se ohjaakin {REDIRECTDAMAGEMULTIPLIER} % kyseisestä vauriosta hyökkääjälle sen sijaan.(Aktivointeja jäljellä: {ACTIVATIONSLEFT})
+Vaikutus ei aktivoidu, jos tämä hahmo on ryhmänsä ainoa jäsen taistelussa."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single","Kun tämä hahmo kärsii ensimmäisen kerran kuolettavan vaurion, kyseinen vaurio ohjataan satunnaiseen viholliseen.
 
 Jos taistelussa on useita aaltoja, tämä vaikutus nollautuu jokaisen aallon alussa."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.battle","Kun tämä hahmo kärsii ensimmäisen kerran kuolettavan vaurion, kyseinen vaurio ohjataan satunnaiseen viholliseen. (Aktivointeja jäljellä: {ACTIVATIONSLEFT})"
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Kun tämä hahmo kärsisi ensimmäisen kerran kuolettavan vaurion normaaleista hyökkäyksistä tai erikoistaidoista, se ohjaakin jopa {REDIRECTDAMAGELIMIT} vauriota hyökkääjälle sen sijaan. (Aktivointeja jäljellä: {ACTIVATIONSLEFT})"
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","Kun tämä hahmo kärsisi ensimmäisen kerran kuolettavan vaurion normaaleista hyökkäyksistä tai erikoistaidoista, se ohjaakin jopa {REDIRECTDAMAGELIMIT} vauriota hyökkääjälle sen sijaan. (Aktivointeja jäljellä: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Kun tämä hahmo kärsisi ensimmäisen kerran kuolettavan vaurion normaaleista hyökkäyksistä tai erikoistaidoista, se ohjaakin jopa {REDIRECTDAMAGELIMIT} vauriota satunnaiselle viholliselle."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","Kun tämä hahmo kärsisi ensimmäisen kerran kuolettavan vaurion normaaleista hyökkäyksistä tai erikoistaidoista, se ohjaakin jopa {REDIRECTDAMAGELIMIT} vauriota satunnaiselle viholliselle sen sijaan. (Aktivointeja jäljellä: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled","Kun tämä hahmo kärsisi ensimmäisen kerran kuolettavan vaurion normaaleista hyökkäyksistä tai erikoistaidoista, se ohjaakin jopa {REDIRECTDAMAGELIMIT} vauriota hyökkääjälle sen sijaan.
+Vaikutus ei aktivoidu, jos tämä hahmo on ryhmänsä ainoa jäsen taistelussa."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled.battle","Kun tämä hahmo kärsisi ensimmäisen kerran kuolettavan vaurion normaaleista hyökkäyksistä tai erikoistaidoista, se ohjaakin jopa {REDIRECTDAMAGELIMIT} vauriota hyökkääjälle sen sijaan. (Aktivointeja jäljellä: {ACTIVATIONSLEFT})
+Vaikutus ei aktivoidu, jos tämä hahmo on ryhmänsä ainoa jäsen taistelussa."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","Kun tämä hahmo kärsisi ensimmäisen kerran kuolettavan vaurion normaaleista hyökkäyksistä tai erikoistaidoista, se ohjaakin jopa {REDIRECTDAMAGELIMIT} vauriota hyökkääjälle sen sijaan.
 
 Jos taistelussa on useita aaltoja, tämä vaikutus nollautuu jokaisen aallon alussa."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit.battle","Kun tämä hahmo kärsisi ensimmäisen kerran kuolettavan vaurion normaaleista hyökkäyksistä tai erikoistaidoista, se ohjaakin jopa {REDIRECTDAMAGELIMIT} vauriota hyökkääjälle sen sijaan. (Aktivointeja jäljellä: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled","Kun tämä hahmo kärsisi ensimmäisen kerran kuolettavan vaurion, se ohjaakin kyseisen vaurion hyökkääjälle sen sijaan.
+
+Vaikutus ei aktivoidu, jos tämä hahmo on ryhmänsä ainoa jäsen taistelussa.
+
+Jos taistelussa on useita aaltoja, tämä vaikutus nollautuu jokaisen aallon alussa."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled.battle","Kun tämä hahmo kärsisi ensimmäisen kerran kuolettavan vaurion, se ohjaakin kyseisen vaurion hyökkääjälle sen sijaan.(Aktivointeja jäljellä: {ACTIVATIONSLEFT})
+Vaikutus ei aktivoidu, jos tämä hahmo on ryhmänsä ainoa jäsen taistelussa."
 "herocard.passive_skill.description.reduceinsanityperturn","Tämän hahmon nykyinen hulluus laskee {REDUCTION} pisteellä jokaisen vuoron alussa."
 "herocard.passive_skill.description.reflectresistedstatuseffect.all.enemies","Kaikki vaivat, joita tämä hahmo vastustaa passiivisilla taidoilla, heijastuvat kaikkiin vihollisiin."
 "herocard.passive_skill.description.reflectstatuseffect.with_chance","{CHANCE} %:n lisämahdollisuus heijastaa vaivat takaisin hyökkääjälle."
@@ -909,10 +927,7 @@ Laudalla olevat pyhät kilvet vahvistuvat ja antavat {MODIFIER} %:n enemmän ma
 "herocard.passive_skill.title.received_strong_troop_damage_pve","Joukkojen vaurion vähennys"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage","Joukkojen mestari"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage.increase.dragon","Tulipallon vaurion voimakas kasvu"
-"herocard.passive_skill.title.redirectlethaldamage.enemies.single","Huijaa kuolemaa"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single","Huijaa kuolemaa"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Huijaa kuolemaa"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","Huijaa kuolemaa"
+"herocard.passive_skill.title.redirectlethaldamage","Huijaa kuolemaa"
 "herocard.passive_skill.title.reduceinsanityperturn","Laskee hulluutta"
 "herocard.passive_skill.title.reflectresistedstatuseffect","Legendaarinen heijastus"
 "herocard.passive_skill.title.remove_growth_from_enemies","Vartijoiden kokoonkutsu"

@@ -64785,7 +64785,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Sides",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2850,
+          "powerMultiplierPerMil": 2300,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -64793,8 +64793,7 @@
           "wither_henriette2"
         ],
         "buffToRemove": "MinorBuff",
-        "buffToRemoveTargetType": "Sides",
-        "removeBuffsFirst": true
+        "buffToRemoveTargetType": "Sides"
       },
       {
         "id": "coronal_burn",
@@ -83427,5 +83426,5 @@
       }
     ]
   },
-  "specialsConfigId": 2784062784
+  "specialsConfigId": 1317628764
 }

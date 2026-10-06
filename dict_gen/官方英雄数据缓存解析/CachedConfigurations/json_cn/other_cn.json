@@ -22910,10 +22910,10 @@
         "monthlyDragonSummonChancePerMil": 13
       },
       "characterBalanceUpdateEvents": {
-        "enabled": false,
-        "rewardsEnabled": false,
+        "enabled": true,
+        "rewardsEnabled": true,
         "requiredLevel": 12,
-        "activeEntryId": "balance_event_test",
+        "activeEntryId": "renewal_live",
         "entries": [
           {
             "id": "balance_event_test",
@@ -23482,7 +23482,19 @@
               "fire_god_zerfain",
               "magic_carpet_amelia",
               "beauty_beast_cerissa",
-              "ice_god_nerasis"
+              "ice_god_nerasis",
+              "mahayoddha_devyani",
+              "nature_god_coleston",
+              "goblin_soursting",
+              "kalevala_kaski",
+              "goblin_boom_and_fang_costume_poisonous",
+              "ronin_asakura_masao",
+              "beauty_beast_rose_de_flo",
+              "slime_bulklug",
+              "slime_zestique",
+              "goblin_darkfeather_costume_glowing",
+              "goblin_darkfeather",
+              "magic_carpet_ragrim"
             ]
           }
         ],
@@ -102432,8 +102444,8 @@
     "minSecondsBetweenRecentActivityRequests": 30,
     "colorBlindModeEnabled": true,
     "languageSelectionEnabled": true,
-    "maxVersionToShowUpdateOutReminderAndroid": "87.0.4",
-    "maxVersionToShowUpdateOutReminderIos": "87.0.3",
+    "maxVersionToShowUpdateOutReminderAndroid": "89.0.0",
+    "maxVersionToShowUpdateOutReminderIos": "89.0.1",
     "maxVersionToShowUpdateOutReminderAndroidStandalone": "89.0.1.539",
     "standaloneNewVersionRolloutPercentage": 100,
     "fastClientLogFlushTimeSeconds": 5,
@@ -102540,5 +102552,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 4066960096
+  "otherConfigId": 114050275
 }

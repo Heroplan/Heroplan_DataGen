@@ -280,16 +280,34 @@ Tagen skada: -{MODIFIER} %"
 
 I strider med flera vågor återställs effekten i början av varje våg."
 "herocard.passive_skill.description.redirectlethaldamage.enemies.single.battle","Första gången den här karaktären skulle få dödlig skada så omdirigeras istället {REDIRECTDAMAGEMULTIPLIER} % av den skadan till en slumpmässig fiende. (Aktiveringar kvar: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled","Första gången den här karaktären skulle få dödlig skada så omdirigeras istället {REDIRECTDAMAGEMULTIPLIER} % av den skadan till anfallaren.
+
+Aktiveras inte om den här karaktären är den enda medlemmen av sitt lag i strid.
+
+I strider med flera vågor återställs effekten i början av varje våg."
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled.battle","Första gången den här karaktären skulle få dödlig skada så omdirigeras istället {REDIRECTDAMAGEMULTIPLIER} % av den skadan till anfallaren. (Aktiveringar kvar: {ACTIVATIONSLEFT})
+Aktiveras inte om den här karaktären är den enda medlemmen av sitt lag i strid."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single","Första gången den här karaktären hade tagit dödlig skada dirigeras den skadan vidare till en slumpmässig fiende.
 
 I strider med flera vågor återställs effekten i början av varje våg."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.battle","Första gången den här karaktären hade tagit dödlig skada dirigeras den skadan vidare till en slumpmässig fiende. (Aktiveringar kvar: {ACTIVATIONSLEFT})"
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Första gången den här karaktären hade tagit dödlig skada av vanliga attacker eller specialförmågor dirigeras upp till {REDIRECTDAMAGELIMIT} skada vidare till anfallaren. (Aktiveringar kvar: {ACTIVATIONSLEFT})"
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","Första gången den här karaktären hade tagit dödlig skada av vanliga attacker eller specialförmågor dirigeras upp till {REDIRECTDAMAGELIMIT} skada vidare till anfallaren. (Aktiveringar kvar: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Första gången den här karaktären hade tagit dödlig skada av vanliga attacker eller specialförmågor dirigeras upp till {REDIRECTDAMAGELIMIT} skada vidare till en slumpvald fiende."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","Första gången den här karaktären hade tagit dödlig skada av vanliga attacker eller specialförmågor dirigeras upp till {REDIRECTDAMAGELIMIT} skada vidare till en slumpvald fiende. (Aktiveringar kvar: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled","Första gången den här karaktären hade tagit dödlig skada av vanliga attacker eller specialförmågor dirigeras upp till {REDIRECTDAMAGELIMIT} skada vidare till anfallaren.
+Aktiveras inte om den här karaktären är den enda medlemmen av sitt lag i strid."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled.battle","Första gången den här karaktären hade tagit dödlig skada av vanliga attacker eller specialförmågor dirigeras upp till {REDIRECTDAMAGELIMIT} skada vidare till anfallaren. (Aktiveringar kvar: {ACTIVATIONSLEFT})
+Aktiveras inte om den här karaktären är den enda medlemmen av sitt lag i strid."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","Första gången den här karaktären hade tagit dödlig skada av vanliga attacker eller specialförmågor dirigeras upp till {REDIRECTDAMAGELIMIT} skada istället vidare till anfallaren.
 
 I strider med flera vågor återställs effekten i början av varje våg."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit.battle","Första gången den här karaktären hade tagit dödlig skada av vanliga attacker eller specialförmågor dirigeras upp till {REDIRECTDAMAGELIMIT} skada vidare till anfallaren. (Aktiveringar kvar: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled","Första gången den här karaktären skulle få dödlig skada så omdirigeras den skadan istället till anfallaren.
+
+Aktiveras inte om den här karaktären är den enda medlemmen av sitt lag i strid.
+
+I strider med flera vågor återställs effekten i början av varje våg."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled.battle","Första gången den här karaktären skulle få dödlig skada så omdirigeras den skadan istället till anfallaren. (Aktiveringar kvar: {ACTIVATIONSLEFT})
+Aktiveras inte om den här karaktären är den enda medlemmen av sitt lag i strid."
 "herocard.passive_skill.description.reduceinsanityperturn","I början av varje tur sänks den här karaktärens aktuella vansinne med {REDUCTION}."
 "herocard.passive_skill.description.reflectresistedstatuseffect.all.enemies","Alla negativa statuseffekter den här karaktären motstår med passiva förmågor reflekteras på alla fiender."
 "herocard.passive_skill.description.reflectstatuseffect.with_chance","{CHANCE} % extra chans att reflektera negativa statuseffekter på anfallaren."
@@ -909,10 +927,7 @@ heliga sköldar på brädet förstärks och ger {MODIFIER} % mer mana när den 
 "herocard.passive_skill.title.received_strong_troop_damage_pve","Skademinskning till trupper"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage","Truppbemästring"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage.increase.dragon","Stark skadeökning för eldklot"
-"herocard.passive_skill.title.redirectlethaldamage.enemies.single","Lura döden"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single","Lura döden"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Lura döden"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","Lura döden"
+"herocard.passive_skill.title.redirectlethaldamage","Lura döden"
 "herocard.passive_skill.title.reduceinsanityperturn","Sänk vansinne"
 "herocard.passive_skill.title.reflectresistedstatuseffect","Legendarisk reflekterare"
 "herocard.passive_skill.title.remove_growth_from_enemies","Vaktsamling"

@@ -67792,7 +67792,7 @@
           {
             "typeOfTarget": "Random",
             "effectType": "Damage",
-            "powerMultiplierPerMil": 3000
+            "powerMultiplierPerMil": 2500
           }
         ],
         "activationChancePerMil": 1000,
@@ -72666,12 +72666,12 @@
         "targets": "Single",
         "targetsSideAffected": "Allies",
         "manaSpeedToStatusEffect": {
-          "very_slow": "stone_5_hits",
-          "slow": "stone_5_hits",
+          "slow_boss": "stone_5_hits",
           "average": "stone_4_hits",
           "fast": "stone_3_hits",
+          "slow": "stone_5_hits",
           "very_fast": "stone_2_hits",
-          "slow_boss": "stone_5_hits"
+          "very_slow": "stone_5_hits"
         },
         "statusEffectTargetType": "Single",
         "statusEffectSide": "Allies"
@@ -73098,12 +73098,12 @@
         "targets": "Single",
         "targetsSideAffected": "Allies",
         "manaSpeedToStatusEffect": {
-          "very_slow": "stone_3_hits",
-          "slow": "stone_3_hits",
+          "slow_boss": "stone_3_hits",
           "average": "stone_3_hits",
           "fast": "stone_3_hits",
+          "slow": "stone_3_hits",
           "very_fast": "stone_3_hits",
-          "slow_boss": "stone_3_hits"
+          "very_slow": "stone_3_hits"
         },
         "statusEffectTargetType": "Single",
         "statusEffectSide": "Allies"
@@ -73755,11 +73755,11 @@
         "targets": "Single",
         "targetsSideAffected": "Allies",
         "manaSpeedToStatusEffect": {
-          "fast": "attack_modifier_jungle_hunter_passive",
           "average": "attack_modifier_jungle_hunter_passive",
+          "fast": "attack_modifier_jungle_hunter_passive",
           "slow": "attack_modifier_jungle_hunter_passive",
-          "very_slow": "attack_modifier_jungle_hunter_passive",
-          "very_fast": "attack_modifier_jungle_hunter_passive"
+          "very_fast": "attack_modifier_jungle_hunter_passive",
+          "very_slow": "attack_modifier_jungle_hunter_passive"
         },
         "statusEffectTargetType": "Single",
         "statusEffectSide": "Allies",
@@ -74738,12 +74738,12 @@
         "targets": "Single",
         "targetsSideAffected": "Allies",
         "manaSpeedToStatusEffect": {
-          "very_slow": "soft_skin_5_activations",
-          "slow": "soft_skin_5_activations",
+          "slow_boss": "soft_skin_5_activations",
           "average": "soft_skin_4_activations",
           "fast": "soft_skin_3_activations",
+          "slow": "soft_skin_5_activations",
           "very_fast": "soft_skin_2_activations",
-          "slow_boss": "soft_skin_5_activations"
+          "very_slow": "soft_skin_5_activations"
         },
         "statusEffectTargetType": "Single",
         "statusEffectSide": "Allies"
@@ -75098,12 +75098,12 @@
         "targets": "Single",
         "targetsSideAffected": "Allies",
         "manaSpeedToStatusEffect": {
-          "very_slow": "soft_skin_3_activations",
-          "slow": "soft_skin_3_activations",
+          "slow_boss": "soft_skin_3_activations",
           "average": "soft_skin_3_activations",
           "fast": "soft_skin_3_activations",
+          "slow": "soft_skin_3_activations",
           "very_fast": "soft_skin_3_activations",
-          "slow_boss": "soft_skin_3_activations"
+          "very_slow": "soft_skin_3_activations"
         },
         "statusEffectTargetType": "Single",
         "statusEffectSide": "Allies"
@@ -77035,8 +77035,8 @@
         "targets": "Single",
         "targetsSideAffected": "Allies",
         "manaSpeedToStatusEffect": {
-          "fast": "damage_on_critical_hit_received_titan_hunter",
-          "average": "damage_on_critical_hit_received_titan_hunter"
+          "average": "damage_on_critical_hit_received_titan_hunter",
+          "fast": "damage_on_critical_hit_received_titan_hunter"
         },
         "statusEffectTargetType": "Random",
         "statusEffectSide": "Enemies",
@@ -78316,7 +78316,7 @@
           "removeGrowthEffects": true,
           "removeWitherEffects": true
         },
-        "requiredDamageThresholdPerMil": 350,
+        "requiredDamageThresholdPerMil": 300,
         "chancePerMil": 1000
       },
       {
@@ -81800,7 +81800,7 @@
             "id": "damage_seedling_parasite"
           }
         ],
-        "healthPerMil": 200,
+        "healthPerMil": 150,
         "monsterHealthPerMil": 200
       },
       {
@@ -81830,7 +81830,7 @@
             "id": "damage_sapling_parasite"
           }
         ],
-        "healthPerMil": 250,
+        "healthPerMil": 200,
         "monsterHealthPerMil": 500
       },
       {
@@ -82195,7 +82195,7 @@
             "id": "damage_sapling_parasite_with_delay_epic"
           }
         ],
-        "healthPerMil": 200,
+        "healthPerMil": 150,
         "monsterHealthPerMil": 200
       },
       {
@@ -85805,7 +85805,7 @@
         "effectTriggers": [
           "LateTurn"
         ],
-        "effectTurnsFrequencyOverride": 2,
+        "effectTurnsFrequencyOverride": 3,
         "evolvedFamiliarId": "evolving_sapling_parasite"
       },
       {
@@ -86147,7 +86147,7 @@
         "effectTriggers": [
           "LateTurn"
         ],
-        "effectTurnsFrequencyOverride": 2,
+        "effectTurnsFrequencyOverride": 3,
         "evolvedFamiliarId": "evolving_sapling_parasite_epic_mayhem"
       },
       {
@@ -86185,7 +86185,7 @@
         "effectTriggers": [
           "LateTurn"
         ],
-        "effectTurnsFrequencyOverride": 2,
+        "effectTurnsFrequencyOverride": 3,
         "evolvedFamiliarId": "evolving_sapling_parasite_rare_mayhem"
       },
       {
@@ -86243,7 +86243,7 @@
           "Turn"
         ],
         "sideAffected": "Allies",
-        "attackPercentPerMil": 1250,
+        "attackPercentPerMil": 850,
         "monsterAttackPercentPerMil": 1800
       },
       {
@@ -86283,7 +86283,7 @@
           "Turn"
         ],
         "sideAffected": "Allies",
-        "attackPercentPerMil": 1000,
+        "attackPercentPerMil": 400,
         "monsterAttackPercentPerMil": 1200
       },
       {
@@ -86293,7 +86293,7 @@
           "Turn"
         ],
         "targetType": "Single",
-        "baseAttackModifier": 216
+        "baseAttackModifier": 211
       },
       {
         "effectType": "Damage",
@@ -87938,7 +87938,7 @@
         "id": "astral_demons",
         "familyEffects": [
           "add_mana_on_received_special_damage_astral_demons",
-          "chance_to_cleanse_all_on_received_special_damage_astral_demons"
+          "cleanse_random_debuff_on_special_damage_received_astral_demons"
         ]
       },
       {
@@ -89652,14 +89652,18 @@
         "typeOfTarget": "Single",
         "sideAffected": "Allies",
         "baseAttackIncreaseForEachMember": [
-          75,
+          90,
           10,
-          15
+          10,
+          0,
+          0
         ],
         "baseDefenseIncreaseForEachMember": [
-          75,
+          90,
           10,
-          15
+          10,
+          0,
+          0
         ]
       },
       {
@@ -90023,7 +90027,7 @@
         "effectType": "AddManaOnStatusRemoved",
         "id": "add_mana_on_ghost_expired",
         "statMultiplierIncrementPerMilsForEachMember": [
-          400,
+          200,
           50
         ],
         "statusEffectTags": [
@@ -90064,7 +90068,7 @@
         "typeOfTarget": "Single",
         "sideAffected": "Allies",
         "baseAttackIncreaseForEachMember": [
-          100,
+          120,
           10,
           10,
           0,
@@ -94556,11 +94560,11 @@
         "match5ExplosionPattern": "AllTilesOfElement",
         "match4ExplosionPattern": "Cross",
         "match5TileMatchEffectPerElement": {
-          "Blue": "super_underwater_blue",
-          "Green": "super_underwater_green",
           "Red": "super_underwater_red",
           "Yellow": "super_underwater_yellow",
-          "Purple": "super_underwater_purple"
+          "Blue": "super_underwater_blue",
+          "Purple": "super_underwater_purple",
+          "Green": "super_underwater_green"
         }
       },
       {
@@ -97941,8 +97945,8 @@
         "aetherGiftType": "StatusEffectAtStartOfNewWave",
         "id": "aether_special_armor",
         "statusEffect": {
-          "id": "aether_special_armor",
-          "turns": 6
+          "id": "aether_special_armor_mayhem",
+          "turns": 8
         },
         "turnsIncrementPerLevel": 0
       },
@@ -97986,8 +97990,8 @@
         "aetherGiftType": "StatusEffectAtStartOfNewWave",
         "id": "aether_special_boost",
         "statusEffect": {
-          "id": "aether_special_boost",
-          "turns": 6
+          "id": "aether_special_boost_mayhem",
+          "turns": 8
         },
         "turnsIncrementPerLevel": 0
       },
@@ -98058,8 +98062,7 @@
         "aetherGiftType": "StatusEffectAtStartOfNewWave",
         "id": "aether_ailment_shield",
         "statusEffect": {
-          "id": "aether_ailment_shield",
-          "turns": 6
+          "id": "aether_ailment_shield_activation_count"
         },
         "turnsIncrementPerLevel": 0
       },
@@ -103428,15 +103431,15 @@
       "specialSkillCriticalMaxHealthReductionFromDamagePerMil": 500
     },
     "mayhemOverrides": {
-      "dispelBaseStatMultiplierRuleEnabled": false,
-      "cheatDeathChangesEnabled": false,
-      "pvpOpponentHeroDefenseBuffOverrideEnabled": false,
-      "ailmentAndBuffImmunityActivationsEnabled": false,
-      "bigFamiliarDamageOnSmallFamiliarSummonEnabled": false,
-      "absentsCanBeDispelledEnabled": false,
-      "fighterTalentDiminishingChanceEnabled": false,
-      "dispellableStatusEffectStacksEnabled": false,
-      "smallFamiliarsBlockEvolvingBigFamiliarsEnabled": false,
+      "dispelBaseStatMultiplierRuleEnabled": true,
+      "cheatDeathChangesEnabled": true,
+      "pvpOpponentHeroDefenseBuffOverrideEnabled": true,
+      "ailmentAndBuffImmunityActivationsEnabled": true,
+      "bigFamiliarDamageOnSmallFamiliarSummonEnabled": true,
+      "absentsCanBeDispelledEnabled": true,
+      "fighterTalentDiminishingChanceEnabled": true,
+      "dispellableStatusEffectStacksEnabled": true,
+      "smallFamiliarsBlockEvolvingBigFamiliarsEnabled": true,
       "minSpecialSkillCriticalChancePerMil": 10,
       "pvpNpcNormalAttackCriticalChanceIncrementPerMil": 50,
       "pvpNpcNormalAttackCriticalMaxHealthReductionFromDamagePerMil": 1000,
@@ -103463,7 +103466,7 @@
       ],
       "reductionForFeaturedHeals": 10,
       "reductionForOtherHealSources": 1,
-      "otherHealSourcesReduceInsanity": false
+      "otherHealSourcesReduceInsanity": true
     },
     "dragonBattleItemSlotsConfig": {
       "slotTypes": [
@@ -103504,8 +103507,8 @@
     "familiarPersistenceDuringOwnerWaitingForReviveEnabled": false,
     "supportCharacterReviveModifierEnabled": false,
     "rareMonsterLootSourceIconEnabled": true,
-    "criticalHitMaxHealthReductionPvpSpecialRulesInAllBattlesEnabled": false,
-    "specialSkillCriticalHitsRemoveGrowthEffectsEnabled": false,
+    "criticalHitMaxHealthReductionPvpSpecialRulesInAllBattlesEnabled": true,
+    "specialSkillCriticalHitsRemoveGrowthEffectsEnabled": true,
     "assistSkills": [
       {
         "id": "dragon_blazing_inferno",
@@ -106060,5 +106063,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 3048510826
+  "battleConfigId": 2905698613
 }

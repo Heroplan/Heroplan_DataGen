@@ -4232,7 +4232,7 @@ VIP卡中包含：
 "familiar.statuseffect.major.dispelimmunity.single.allies.while.single.allies.familiaralive.temporarykey1","當受到召喚時，只要主人還有鯊魚小兵，鯊魚小兵就會給予主人免疫增益驅散和竊取。"
 "familiar.statuseffect.major.dispelimmunity.single.allies.while.single.allies.familiaralive.temporarykey2","當受到召喚時，只要主人還有鯊魚超級小兵，鯊魚超級小兵就會給予主人免疫增益驅散和竊取。"
 "familiar.statuseffect.major.elementbasedattackmodifier.single.allies.while.single.allies.familiaralive.pike_big_parasite.red.pike_big_parasite.summon","召喚時，長矛超級惡魔會賦予其目標{ATTACK}%攻擊。長矛超級惡魔對[##elementred]火焰[#]角色，會給予{ATTACKFORELEMENT}%攻擊。只要目標擁有長矛超級惡魔，此效果就會持續生效。"
-"familiar.statuseffect.major.fixedhealthrecovery.healthboost.single.allies.while.single.allies.familiaralive.leadria_spring_minion.leadria_spring_minion.summon","召喚時，只要主人擁有春之巫師小兵，每回合結束時春之巫師小兵就能替主人提升{HPPERTURN}點生命值。此效果無法驅散。"
+"familiar.statuseffect.major.fixedhealthrecovery.healthboost.single.allies.while.single.allies.familiaralive.leadria_spring_minion.leadria_spring_minion.summon","召喚時，只要主人擁有春之精靈小兵，每回合結束時春之巫師小兵就能替主人提升{HPPERTURN}點生命值。此效果無法驅散。"
 "familiar.statuseffect.major.increasingattackmodifier.all.enemies.while.single.allies.familiaralive.loyal_hound_minion.loyal_hound_minion.summon","召喚忠誠獵犬小兵之後，在主人擁有忠誠獵犬小兵期間，忠誠獵犬小兵會賦予其主人{ATTACK}%攻擊。此效果無法被驅散。"
 "familiar.statuseffect.major.increasingattackmodifier.single.allies.while.single.allies.familiaralive.icebound_sickle_minion.icebound_sickle_minion.summon","召喚冰封鐮刀小兵之後，在主人擁有該小兵期間，冰封鐮刀小兵會賦予其主人{ATTACK}%攻擊。每回合攻擊增加{INCREASEPERTURN}%，最多達{CAP}%。此效果無法驅散。"
 "familiar.statuseffect.major.increasingattackmodifier.single.allies.while.single.allies.familiaralive.loyal_hound_minion.loyal_hound_minion.summon","召喚忠誠獵犬小兵之後，在主人擁有忠誠獵犬小兵期間，忠誠獵犬小兵會賦予其主人{ATTACK}%攻擊。此效果無法被驅散。"
@@ -4281,6 +4281,10 @@ VIP卡中包含：
 "familiar.statuseffect.minor.dispelimmunity.single.allies.noturns.reef_shark_sharpoon.summon","鯊魚小兵可阻止狀態效果增益被驅散或竊取。"
 "familiar.statuseffect.minor.dispelimmunity.single.allies.noturns.shark_mega_minion_haikala.summon","鯊魚超級小兵可阻止狀態效果增益被驅散或竊取。"
 "familiar.statuseffect.minor.dispelimmunity.single.allies.while.single.allies.familiaralive.spotted_boar_mega_minion.spotted_boar_mega_minion.summon","當受到召喚時，只要主人還有斑點野豬超級小兵，斑點野豬超級小兵就會給予主人免疫增益驅散。"
+"familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie.deathbydamage.eatenbycharacter","在施放[#!]完整移除[#]後，攻擊者變為貓頭鷹哈拉幽靈型態，持續{TURNS}個回合。此效果為[#!]頑固[#]。
+[*]目標變為貓頭鷹哈拉幽靈型態時，目標每回合會受到{DAMAGEPERTURN}點傷害。"
+"familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.owlkyrie_mayhem.deathbydamage.eatenbycharacter","在施放[#!]完整移除[#]後，攻擊者變為貓頭鷹哈拉幽靈型態，持續{TURNS}個回合。此效果為[#!]頑固[#]。
+[*]目標變為貓頭鷹哈拉幽靈型態時，目標每回合會受到{DAMAGEPERTURN}點傷害。"
 "familiar.statuseffect.minor.poison.single.enemies.contagious.sword_guard_mega_minion.turn","被刀劍守衛超級小兵擊中的目標受到{DAMAGE}點劇毒傷害，持續{TURNS}回合。此效果會擴散至附近的敵人。"
 "familiar.statuseffect.minor.receiveddamagemodifier.single.enemies.bull.turn","被公牛小兵命中的目標將受到{DAMAGEREDUCTION}%的額外傷害，持續{TURNS}回合。"
 "familiar.statuseffect.minor.receiveddamagemodifier.single.enemies.butterfly.turn","所有受到的傷害提高{DAMAGEREDUCTION}%，持續{TURNS}個回合。"
@@ -4346,8 +4350,8 @@ VIP卡中包含：
 [*]{EVOLVINGFAMILIAR2EVOLVETURNS}回合後，[#!]發芽惡魔[#]會進化為[#!]盛開超級惡魔[#]。
 
 [*] [#!]種子惡魔[#]：[#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#]攻擊、[#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#]生命。
-[*] [#!]發芽惡魔[#]：[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#]攻擊、[#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#]生命。
-[#!]盛開超級惡魔[#]：[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#]攻擊、[#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#]生命。
+[*][#!]發芽惡魔[#]：[#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#]攻擊、[#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#]生命。
+[*][#!]盛開超級惡魔[#]：[#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#]攻擊、[#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#]生命。
 
 [*]惡魔會在每個回合攻擊其目標。惡魔會在吸收治療後消失。根據目標的最大生命值決定所需的治療量。"
 "familiareffects.parasite.evolve.evolve_seedling_to_sapling_with_delay_on_damage.evolving_sapling_parasite_with_delay.blooming_big_parasite.blocked_by.minion.extra","[*]{EVOLVINGFAMILIAR1EVOLVETURNS}回合後，[#!]種子惡魔[#]會進化為[#!]發芽惡魔[#]。
@@ -5969,16 +5973,34 @@ VIP卡中包含：
 
 在有數波攻勢的戰鬥中，效果將於每波攻勢開始時刷新。"
 "herocard.passive_skill.description.redirectlethaldamage.enemies.single.battle","當該角色首次承受致命傷害時，會將該傷害的{REDIRECTDAMAGEMULTIPLIER}%轉移至隨機敵人身上。（剩餘啟動次數：[#!]{ACTIVATIONSLEFT}[#]）"
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled","當該角色首次承受致命傷害時，會將該傷害的{REDIRECTDAMAGEMULTIPLIER}%轉移至攻擊者身上。
+
+若此角色為戰鬥中其隊伍的唯一成員，則不會啟動。
+
+在有數波攻勢的戰鬥中，效果將於每波攻勢開始時刷新。"
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled.battle","當該角色首次承受致命傷害時，會將該傷害的{REDIRECTDAMAGEMULTIPLIER}%轉移至攻擊者身上。（剩餘啟動次數：[#!]{ACTIVATIONSLEFT}[#]）
+若此角色為戰鬥中其隊伍的唯一成員，則不會觸發。"
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single","當該角色首次承受致命傷害時，會將該傷害轉移至隨機敵人身上。
 
 在有數波攻勢的戰鬥中，效果將於每波攻勢開始時刷新。"
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.battle","當該角色首次承受致命傷害時，會將該傷害轉移至隨機敵人身上。（剩餘啟動次數：[#!]{ACTIVATIONSLEFT}[#]）"
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","此角色首次受到來自一般攻擊或特殊技能的致命傷害時，會將最多{REDIRECTDAMAGELIMIT}點傷害轉移給攻擊者。（剩餘發動次數：[#!]{ACTIVATIONSLEFT}[#]）"
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","此角色首次受到來自一般攻擊或特殊技能的致命傷害時，會將最多{REDIRECTDAMAGELIMIT}點傷害轉移給攻擊者。（剩餘發動次數：[#!]{ACTIVATIONSLEFT}[#]）"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","此角色首次受到來自一般攻擊或特殊技能的致命傷害時，會將最多{REDIRECTDAMAGELIMIT}點傷害轉移給隨機敵人身上。"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","此角色首次受到來自一般攻擊或特殊技能的致命傷害時，會將最多{REDIRECTDAMAGELIMIT}點傷害轉移給隨機敵人身上。（剩餘啟動次數：[#!]{ACTIVATIONSLEFT}[#]）"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled","此角色首次受到來自一般攻擊或特殊技能的致命傷害時，會將最多{REDIRECTDAMAGELIMIT}點傷害轉移給攻擊者。
+若此角色為戰鬥中其隊伍的唯一成員，則不會啟動。"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled.battle","此角色首次受到來自一般攻擊或特殊技能的致命傷害時，會將最多{REDIRECTDAMAGELIMIT}點傷害轉移給攻擊者。（剩餘啟動次數：[#!]{ACTIVATIONSLEFT}[#]）
+若此角色為戰鬥中其隊伍的唯一成員，則不會啟動。"
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","此角色首次受到來自一般攻擊或特殊技能的致命傷害時，會將最多{REDIRECTDAMAGELIMIT}點傷害轉移給攻擊者。
 
 在有數波攻勢的戰鬥中，效果將於每波攻勢開始時刷新。"
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit.battle","此角色首次受到來自一般攻擊或特殊技能的致命傷害時，會將最多{REDIRECTDAMAGELIMIT}點傷害轉移給攻擊者。（剩餘發動次數：[#!]{ACTIVATIONSLEFT}[#]）"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled","當該角色首次承受致命傷害時，會將該傷害轉移至攻擊者身上。
+
+若此角色為戰鬥中其隊伍的唯一成員，則不會啟動。
+
+在有數波攻勢的戰鬥中，效果將於每波攻勢開始時刷新。"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled.battle","當該角色首次承受致命傷害時，會將該傷害轉移至攻擊者身上。（剩餘啟動次數：[#!]{ACTIVATIONSLEFT}[#]）
+若此角色為戰鬥中其隊伍的唯一成員，則不會觸發。"
 "herocard.passive_skill.description.reduceinsanityperturn","在每個回合開始時，此角色當前的[#!]瘋狂[#]減少[#!]{REDUCTION}[#]。"
 "herocard.passive_skill.description.reflectresistedstatuseffect.all.enemies","此角色使用被動技能抵抗的狀態異常都會反射給所有敵人。"
 "herocard.passive_skill.description.reflectstatuseffect.with_chance","有額外[#!]{CHANCE}%[#]機率反射狀態異常回至攻擊者。"
@@ -6601,10 +6623,7 @@ The [#!]駭異宿主[#]具有：
 "herocard.passive_skill.title.received_strong_troop_damage_pve","部隊傷害減少"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage","部隊精通"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage.increase.dragon","強力火球傷害提升"
-"herocard.passive_skill.title.redirectlethaldamage.enemies.single","死裡逃生"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single","死裡逃生"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","死裡逃生"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","死裡逃生"
+"herocard.passive_skill.title.redirectlethaldamage","死裡逃生"
 "herocard.passive_skill.title.reduceinsanityperturn","減少瘋狂"
 "herocard.passive_skill.title.reflectresistedstatuseffect","傳奇反射"
 "herocard.passive_skill.title.remove_growth_from_enemies","守衛集結"
@@ -24395,8 +24414,8 @@ Empires & Puzzles團隊"
 "specials.name.portents_of_future","未來預兆"
 "specials.name.possessed_strike","瘋狂打擊"
 "specials.name.possessor_of_penance","贖罪之人"
-"specials.name.postal_pulverizer","樁柱粉碎"
-"specials.name.postal_pulverizer_mayhem","樁柱粉碎"
+"specials.name.postal_pulverizer","郵政粉碎機"
+"specials.name.postal_pulverizer_mayhem","郵政粉碎機"
 "specials.name.potato_plunder","馬鈴薯掠奪"
 "specials.name.potion_cocktail","藥水調酒"
 "specials.name.potions_of_covetous_desire","貪慾藥水"
@@ -24801,8 +24820,8 @@ Empires & Puzzles團隊"
 "specials.name.spilled_decoctions","灑出的湯劑"
 "specials.name.spirit_arrow","英靈之箭"
 "specials.name.spirit_drain","靈魂消耗"
-"specials.name.spirit_of_spring","春之巫師"
-"specials.name.spirit_of_spring_mayhem","春之巫師"
+"specials.name.spirit_of_spring","春之精靈"
+"specials.name.spirit_of_spring_mayhem","春之精靈"
 "specials.name.spirit_of_winter","冬日之魂"
 "specials.name.spirit_rally","靈魂齊聚"
 "specials.name.spirited_slash","熱情劈斬"
@@ -25665,7 +25684,7 @@ Empires & Puzzles團隊"
 "specials.v2.minion.larva.neartotarget","為施法者以及周遭盟友召喚一個幼蟲小兵，並從施法者繼承{FAMILIARHEALTHPERCENT}%生命。小兵在每個回合結束時為主人恢復{FAMILIARHEAL}%的生命。"
 "specials.v2.minion.larva_costume_hulda.all","為每個盟友召喚一個幼蟲小兵，並從施法者繼承{FAMILIARHEALTHPERCENT}%生命。小兵在每個回合結束時為主人恢復{FAMILIARHEAL}%的生命。"
 "specials.v2.minion.lava_droplet.single.fixedhealth.multiplepercharacter","召喚{FAMILIARAMOUNT}個熔岩滴小兵，其可從施法者繼承{FIXEDHEALTH}點生命與{FAMILIARATTACK}%攻擊。"
-"specials.v2.minion.leadria_spring_minion.all","為所有盟友召喚一個春之巫師小兵，其可從施法者繼承{FAMILIARHEALTHPERCENT}%生命。"
+"specials.v2.minion.leadria_spring_minion.all","為所有盟友召喚一個春之精靈小兵，其可從施法者繼承{FAMILIARHEALTHPERCENT}%生命。"
 "specials.v2.minion.living_fire.all","為所有盟友召喚一個火牆小兵，可繼承施法者{FAMILIARHEALTHPERCENT}%的生命值。"
 "specials.v2.minion.living_fire.explode","火牆小兵被摧毀時，會對進攻敵人造成{FAMILIARFIXEDEXPLOSIONDAMAGE}點傷害。"
 "specials.v2.minion.loyal_hound_minion.single","為施法者召喚一個忠誠獵犬小兵，其可從施法者繼承{FAMILIARHEALTHPERCENT}%生命和{FAMILIARATTACK}%攻擊力。"
@@ -27324,6 +27343,14 @@ Empires & Puzzles團隊"
 [#!]活力鴻運舞蹈[#]
 {STATUSEFFECTS}
 [*][#!]鴻運舞蹈[#]可與其他舞蹈效果疊加。"
+"specials.v2.statuseffect.minor.abyss.sides.enemies.dispelincreasesactivations","敵方陣型邊緣的敵人轉變為深淵幽靈型態，持續{TURNS}個回合。
+[*]目標變為深淵幽靈型態時，目標每回合會受到{DAMAGEPERTURN}點傷害。此效果為[#!]頑固[#]。"
+"specials.v2.statuseffect.minor.abyss.single.enemies.dispelincreasesactivations","目標轉變為深淵幽靈型態，持續{TURNS}個回合。此效果為[#!]頑固[#]。
+[*]目標變為深淵幽靈型態時，目標每回合會受到{DAMAGEPERTURN}點傷害。"
+"specials.v2.statuseffect.minor.abyss.single.enemies.onremoval.damage.all.allies.expiration.add_insanity_emilie.dispelincreasesactivations","目標轉變為深淵幽靈型態，持續{TURNS}個回合。此效果為[#!]頑固[#]。
+[*]目標變為深淵幽靈型態時，其每回合會受到{DAMAGEPERTURN}點傷害。
+[*]深淵幽靈型態失效後：
+[*] 對所有盟友造成{FIXEDPOWER}傷害，並對其造成{STATUSEFFECT1INSANITYTOADD}點[#!]瘋狂[#]。"
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies","所有敵人獲得{ACCURACY}%精準度，持續{TURNS}個回合。"
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies.dispelincreasesactivations","所有敵人獲得{ACCURACY}%精準度，持續{TURNS}個回合。此效果為[#!]頑固[#]。"
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies.resetonheal","所有敵人精準度變為{ACCURACY}%，持續{TURNS}個回合。如果目標受到治癒，效果持續時間會重設。"
@@ -27738,6 +27765,12 @@ Empires & Puzzles團隊"
 [*][#!]吞噬黏液：[#] 移除所有可驅散的增益和成長效果，每回合造成{BASEDAMAGEPERTURN}點傷害，並且每移除一個效果就會受到{DAMAGEPERTURNPEREFFECT}點傷害。"
 "specials.v2.statuseffect.minor.devouringgoo.single.enemies.effects.minorbuff.positivebasestatmodifier","目標敵人會獲得吞噬黏液狀態異常，持續{TURNS}個回合。
 [*][#!]吞噬黏液[#]：移除所有可驅散的增益和成長效果，每回合造成{BASEDAMAGEPERTURN}點傷害，並且每移除一個效果就會受到{DAMAGEPERTURNPEREFFECT}點傷害。"
+"specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.add_insanity_salvatore.dispelincreasesactivations","施法者轉變為瘋狂恐怖幽靈形態，持續{TURNS}個回合。此效果為[#!]頑固[#]。
+[*]在變為瘋狂恐怖幽靈形態時，施法者每回合自動對隨機敵人造成{POWER1}%傷害，並造成 {STATUSEFFECT1INSANITYTOADD}[#!]瘋狂[#]。
+[*]在變為瘋狂恐怖幽靈形態時，施法者可以承受相衝元素敵人的傷害。"
+"specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.dispelincreasesactivations","施法者變為恐怖幽靈形態，持續{TURNS}個回合。此效果為[#!]頑固[#]。
+[*]在變為恐怖幽靈形態時，施法者每回合會自動對隨機敵人造成{POWER1}%傷害。
+[*]在變為恐怖幽靈形態時，施法者可以承受相衝元素敵人的傷害。"
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff","每個回合結束時淨化所有盟友的狀態異常，持續{TURNS}個回合。"
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.bypassremoveeffects","每個回合結束時安全淨化所有盟友的狀態異常，持續{TURNS}個回合。"
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.customremovalcount","每個回合結束時淨化所有盟友的1項狀態異常，持續{TURNS}個回合。"
@@ -27819,6 +27852,8 @@ Empires & Puzzles團隊"
 "specials.v2.statuseffect.minor.elementswapovertime.allexceptcaster.allies","除了施法者以外，所有盟友都會受到[#!]元素亂流[#]影響，持續{TURNS}回合。其元素每回合會隨機改變。"
 "specials.v2.statuseffect.minor.elementswapovertime.damage_to_green.all.enemies","所有敵人受到[#!]元素亂流[#]影響，持續{TURNS}回合。其元素每回合隨機改變，每當其元素變成[##elementgreen]自然[#]時，造成{DAMAGEPERTURN}點傷害。"
 "specials.v2.statuseffect.minor.elementswapovertime.damage_to_yellow.all.enemies","所有敵人受到[#!]元素亂流[#]影響，持續{TURNS}回合。其元素每回合隨機改變，每當其元素變成[##elementyellow]神聖[#]時，造成{DAMAGEPERTURN}點傷害。"
+"specials.v2.statuseffect.minor.ethereal.single.allies.dispelincreasesactivations","施法者轉變為幽靈型態，持續{TURNS}個回合。
+[*]在變為幽靈型態時，施法者獲得 {ATTACK}%攻擊。此效果為[#!]頑固[#]。"
 "specials.v2.statuseffect.minor.explodingberserk.single.allies","施法者獲得{ATTACK}%攻擊，並且每次施法者或任何盟友受到攻擊，便額外提高{CHANGE}%，持續{TURNS}回合，最高{MAXMODIFIER}%攻擊。在效果結束時，所有敵人受到{DAMAGE}傷害。在持續期間，每當施法者或盟友受到攻擊，該傷害提高{ADDITIONALDAMAGEPERHIT}，最高{MAXDAMAGE}。"
 "specials.v2.statuseffect.minor.extradamageagainstboostedhealth.all.allies.troop.npcnormalattack.specialskill.statuseffectskill","所有盟友的普通攻擊與特殊技能對有生命值加成的目標造成{DAMAGEMULTIPLIER}%傷害，持續{TURNS}個回合。"
 "specials.v2.statuseffect.minor.fearstatuseffectskill.all.enemies.on.allyspecial.damage.random.allies","所有敵人屈服於[#!]恐懼[#]，持續{TURNS}回合。"
@@ -27892,6 +27927,14 @@ Empires & Puzzles團隊"
 "specials.v2.statuseffect.minor.frost.single.enemies.contagious","目標在{TURNS}個回合內受到{DAMAGE}點冰霜傷害。此效果會擴散至附近的敵人。"
 "specials.v2.statuseffect.minor.frost.single.enemies.contagious.noturns","目標每回合內[#!]持續[#]受到{DAMAGE}點冰霜傷害。此效果會擴散至附近的敵人。"
 "specials.v2.statuseffect.minor.gamble.all.allies","所有盟友攻擊力提高{ATTACK}%，精準度提高{ACCURACY}%，持續{TURNS}個回合。"
+"specials.v2.statuseffect.minor.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies.dispelincreasesactivations","施法者轉變為幽靈型態，持續{TURNS}個回合。此效果為[#!]頑固[#]。
+[*] 當幽靈形態期間結束時：
+[*] 所有盟友獲得{REMOVALEFFECT1STATUSEFFECT1CRIT}%暴擊率，持續{REMOVALEFFECT1STATUSEFFECT1TURNS}回合。此效果無法驅散。"
+"specials.v2.statuseffect.minor.ghost.single.allies.onremoval.revival.randomdead.allies.expiration.hp_recovery_sable.all.allies.dispel_ailments.all.allies.dispelincreasesactivations","施法者轉為幽靈形態，持續{TURNS}回合。此效果為[#!]頑固[#]。
+[*]當幽靈形態結束時：
+[*]施法者隨機復活一個遭到擊敗的盟友，其具有{REMOVALEFFECT1POWER}%生命。
+[*]所有盟友在{REMOVALEFFECT1STATUSEFFECT1TURNS}個回合內獲得{REMOVALEFFECT1STATUSEFFECT1TOTAL}點生命。
+[*]每個回合結束時淨化所有盟友的狀態異常，持續{REMOVALEFFECT1STATUSEFFECT2TURNS}個回合。"
 "specials.v2.statuseffect.minor.giftbomb.single.enemies.neartotargetminor.allies.death.expiration","目標收到禮物炸彈。{TURNS}個回合後禮物炸彈會爆炸並對目標造成{DAMAGE}傷害，並對附近目標造成{MINORDAMAGE}傷害。目標被擊敗時，禮物炸彈也會爆炸。"
 "specials.v2.statuseffect.minor.giftbomb.single.enemies.onremoval.damage.neartotarget.allies.death.expiration","目標獲得禮物炸彈。{TURNS}個回合後，禮物炸彈會爆炸，並對目標和附近的敵人造成{DAMAGE}傷害。目標被擊敗時，禮物炸彈也會爆炸。"
 "specials.v2.statuseffect.minor.grapple.single.enemies","抓握目標。被抓握時，目標的普通攻擊降低至1點，且目標在{TURNS}個回合內受到{DAMAGE}點傷害。"
@@ -28381,6 +28424,7 @@ Empires & Puzzles團隊"
 "specials.v2.statuseffect.minor.stackingattackmodifier.all.allies.effect_per_eaten_familiar.parasite.bigparasite","[#!]疊加（上限：{MAXSTACK}）：[#]每摧毀一名惡魔，所有盟友獲得額外{ATTACK}%攻擊。"
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies","[#!]疊加（上限：{MAXSTACK}）：[#]施法者獲得{ATTACK}%攻擊。"
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.effect_per_eaten_familiar.minion.follower.bigminion","[#!]疊加（上限：{MAXSTACK}）：[#]每摧毀一名小兵，施法者獲得額外{ATTACK}%攻擊。"
+"specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.withbasestackcount","[#!]疊加+{BASESTACKCOUNT}（上限：{MAXSTACK}）：[#]施法者獲得{ATTACK}%攻擊。"
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.enemies.chain_strike","[#!]疊加（上限：{MAXSTACK}）：[#]每次擊中時使目標獲得{ATTACK}%攻擊。"
 "specials.v2.statuseffect.minor.stackingattackmodifieragainstweakerelement.single.allies","[#!]疊加（上限：{MAXSTACK}）：[#]施法者對弱點元素獲得{ATTACK}%攻擊。"
 "specials.v2.statuseffect.minor.stackingcritmodifier.all.allies","[#!]疊加上限({MAXSTACK})：[#]所有盟友獲得{CRIT}%暴擊率。"
@@ -28400,6 +28444,7 @@ Empires & Puzzles團隊"
 "specials.v2.statuseffect.minor.stackingicebound.all.enemies.effect_per_kill.minion.follower","[#!]疊加（上限：{MAXSTACK}）：[#]每個回合結束時，每個落敗的敵人或敵方小兵，都會讓所有敵人受到{DAMAGE}點冰霜傷害。"
 "specials.v2.statuseffect.minor.stackingicebound.neartotarget.enemies","[#!]疊加（上限：{MAXSTACK}）：[#]每個回合結束時，都會讓目標和附近敵人受到{DAMAGE}冰霜傷害。"
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies","[#!]疊加(上限：{MAXSTACK})：[#]所有盟友獲得{MANAREGEN}%法力產出。"
+"specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies.withbasestackcount","[#!]疊加+{BASESTACKCOUNT}（上限：{MAXSTACK}）：[#]所有盟友獲得{MANAREGEN}%法力產出。"
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies","[#!]疊加(上限：{MAXSTACK})：[#]所有敵人獲得{MANAREGEN}%法力產出。"
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies.effect_per_eaten_familiar.minion.follower","[#!]疊加（上限：{MAXSTACK}）：[#]每個被摧毀的小兵，都會讓所有敵人獲得{MANAREGEN}%法力產出。"
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies.effect_per_kill.minion.follower","[#!]疊加（上限：{MAXSTACK}）：[#]每個落敗的敵人或敵方小兵，都會讓所有敵人獲得{MANAREGEN}%法力產出。"
@@ -28408,6 +28453,7 @@ Empires & Puzzles團隊"
 "specials.v2.statuseffect.minor.stackingminionattackmodifier.all.allies","[#!]疊加（上限：{MAXSTACK}）：[#]所有盟友因小兵而獲得{ATTACK}%攻擊。"
 "specials.v2.statuseffect.minor.stackingminionmaxhealthmodifier.all.allies","[#!]疊加（上限：{MAXSTACK}）：[#]所有盟友因自身所召喚小兵而獲得{MAXHEALTH}%繼承生命值。"
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease","[#!]疊加（最大值：{MAXSTACK}）：[#]所有盟友受到的所有傷害減少{DAMAGEMODIFIER}%。"
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease.withbasestackcount","[#!]疊加+{BASESTACKCOUNT}（上限：{MAXSTACK}）：[#]所有盟友受到的所有傷害減少{DAMAGEMODIFIER}%。"
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies","[#!]疊加（最大值：{MAXSTACK}）：[#]所有敵人受到的所有傷害增加{DAMAGEMODIFIER}%。"
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies.withbasestackcount","[#!]疊加+{BASESTACKCOUNT}（最大值：{MAXSTACK}）：[#]所有敵人受到的所有傷害增加{DAMAGEMODIFIER}%。"
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.lessthanhalfhpleft.enemies","[#!]疊加（最大值：{MAXSTACK}）：[#]剩餘生命低於50%的敵人獲得{DAMAGEMODIFIER}%傷害。"
@@ -28419,6 +28465,7 @@ Empires & Puzzles團隊"
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.allies.decrease","[#!]疊加（最大值：{MAXSTACK}）：[#]施法者受到的所有傷害減少{DAMAGEMODIFIER}%。"
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies","[#!]疊加(最大值：{MAXSTACK})：[#]目標受到的所有傷害增加{DAMAGEMODIFIER}%。"
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.chain_strike","[#!]疊加（最大值：{MAXSTACK}）：[#]每次擊中都會使目標受到的所有傷害增加{DAMAGEMODIFIER}%"
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.withbasestackcount.chain_strike","[#!]疊加+{BASESTACKCOUNT}（上限：{MAXSTACK}）：[#]每次擊中都會使目標受到的所有傷害增加{DAMAGEMODIFIER}%"
 "specials.v2.statuseffect.minor.statuseffectgeneratorstatuseffectskill.allexceptcaster.allies.on.ownturnstart.basic_attack_bluecat.mana_regen_bluecat.dispelincreasesactivations","[#!]增益來源：[#]以下效果在每回合開始時對一名隨機盟友施放（施法者除外）：
 [*]{STATUSEFFECT1ATTACK}%攻擊，持續{STATUSEFFECT1TURNS}個回合。
 [*]{STATUSEFFECT2MANAREGEN}%法力產出，持續{STATUSEFFECT2TURNS}個回合。
@@ -28512,6 +28559,7 @@ Empires & Puzzles團隊"
 [*]有加成生命值、小兵或一名超級小兵的目標會受到額外傷害。"
 "specials.v2.statuseffect.minor.toxin.single.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","在{TURNS}個回合內，目標受到{DAMAGE}點[#!]劇毒[#]傷害。有加成生命值、小兵或一名超級小兵的目標會受到額外傷害。"
 "specials.v2.statuseffect.minor.transcendentalframe.single.allies","施法者轉變為幽靈型態，持續{TURNS}個回合。"
+"specials.v2.statuseffect.minor.transcendentalframe.single.allies.dispelincreasesactivations","施法者轉變為幽靈型態，持續{TURNS}個回合。此效果為[#!]頑固[#]。"
 "specials.v2.statuseffect.minor.underwater.all.enemies","所有敵人在{TURNS}個回合內受到{DAMAGE}點水系傷害。"
 "specials.v2.statuseffect.minor.underwater.all.enemies.absorb_healing.to.single","所有敵人在{TURNS}個回合內受到{DAMAGE}點水系傷害。施法者能吸收已造成水系傷害的{ABSORBHEALING}%作為生命值。"
 "specials.v2.statuseffect.minor.underwater.neartotarget.enemies","目標與附近敵人在{TURNS}個回合內受到{DAMAGE}點水系傷害。"
@@ -29112,7 +29160,7 @@ Empires & Puzzles團隊"
 "statuseffects.description.fixedhealthrecovery.resetondirectspecialdamage.healthboost","每個回合獲得[#!]{HPPERTURN}[#]點加成生命值。若角色受到特殊技能的直接傷害，效果持續時間會重設。"
 "statuseffects.description.fixedhealthrecovery.while.caster.allies.transcendentalframe","每個回合恢復[#!]{HPPERTURN}[#]點生命。（施法者 ([#!]{CASTER}[#]) 處於幽靈形態時才有效）"
 "statuseffects.description.fixedhealthrecovery.while.caster.allies.transcendentalframe.healthboost","每個回合獲得[#!]{HPPERTURN}[#]點加成生命值。（施法者 ([#!]{CASTER}[#]) 處於幽靈形態時才有效）"
-"statuseffects.description.fixedhealthrecovery.while.single.allies.familiaralive.leadria_spring_minion.healthboost","每回合提升[#!]{HPPERTURN}[#]點生命值。（此角色有[#!]春之巫師小兵[#]時才有效）。"
+"statuseffects.description.fixedhealthrecovery.while.single.allies.familiaralive.leadria_spring_minion.healthboost","每回合提升[#!]{HPPERTURN}[#]點生命值。（此角色有[#!]春之精靈小兵[#]時才有效）。"
 "statuseffects.description.fixedhealthrecoverypertile","每個回合恢復[#!]{HPPERTURN}[#]點生命。"
 "statuseffects.description.fixedhealthrecoveryrunicrock","每個回合恢復[#!]{HPPERTURN}[#]點生命。"
 "statuseffects.description.fixedhealthrecoveryrunicrock.healthboost","每個回合獲得[#!]{HPPERTURN}[#]點加成生命值。"

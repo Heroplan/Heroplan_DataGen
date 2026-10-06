@@ -4285,6 +4285,10 @@ Expeditie starten met dit team?"
 "familiar.statuseffect.minor.dispelimmunity.single.allies.noturns.reef_shark_sharpoon.summon","De haaivolgeling blokkeert het verwijderen of stelen van statuseffectoppeppers."
 "familiar.statuseffect.minor.dispelimmunity.single.allies.noturns.shark_mega_minion_haikala.summon","De haaimegavolgeling blokkeert het verwijderen of stelen van statuseffectoppeppers."
 "familiar.statuseffect.minor.dispelimmunity.single.allies.while.single.allies.familiaralive.spotted_boar_mega_minion.spotted_boar_mega_minion.summon","Wanneer deze aangeroepen wordt, levert de gevlekte everzwijn-megavolgeling de eigenaar immuniteit op voor het verwijderen van statuseffecten zolang de eigenaar een gevlekte everzwijn-megavolgeling heeft. Dit effect kan niet worden verwijderd."
+"familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie.deathbydamage.eatenbycharacter","Nadat de [#!]volledige verwijdering[#] is toegepast, neemt de aanvaller {TURNS} beurten lang de vorm van een Uilhalla-geest aan. Dit effect is [#!]hardnekkig[#].
+[*] Als Uilhalla-geest lijdt het doelwit {DAMAGEPERTURN} schade per beurt."
+"familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.owlkyrie_mayhem.deathbydamage.eatenbycharacter","Nadat de [#!]volledige verwijdering[#] is toegepast, neemt de aanvaller {TURNS} beurten lang de vorm van een Uilhalla-geest aan. Dit effect is [#!]hardnekkig[#].
+[*] Als Uilhalla-geest lijdt het doelwit {DAMAGEPERTURN} schade per beurt."
 "familiar.statuseffect.minor.poison.single.enemies.contagious.sword_guard_mega_minion.turn","Het doelwit dat geraakt wordt door de zwaardwachter-megavolgeling lijdt {DAMAGE} gifschade gedurende {TURNS} beurten. Dit effect verspreidt zich naar vijanden in de buurt."
 "familiar.statuseffect.minor.receiveddamagemodifier.single.enemies.bull.turn","Het doelwit dat is geraakt door een stiervolgeling loopt {DAMAGEREDUCTION}% meer schade op gedurende {TURNS} beurten."
 "familiar.statuseffect.minor.receiveddamagemodifier.single.enemies.butterfly.turn","{DAMAGEREDUCTION}% toename van alle geleden schade gedurende {TURNS} beurten."
@@ -5957,12 +5961,12 @@ De [#!]volgelingkern[#] wordt geactiveerd als de [#!]speciale vaardigheid[#] van
 [*]Steelt {DAMAGE} gezondheid.
 [*]Steelt veilig een willekeurig groeieffect, positief cumulatief effect of statuseffectoppepper van de vijand. Dit is inclusief niet-verwijderbare oppeppers en danseffecten.
 [*]Veilig stelen omzeilt secundaire effecten zoals schade na verwijdering uit verwijderde oppeppers. Effecten zoals passieve vaardigheden en familie-effecten kunnen nog steeds actief zijn."
-"herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest","Wanneer dit personage zijn of haar speciale vaardigheid toepast, heeft hij of zij een kans van {CHANCE}% om de 
-[*]nieuwste verwijderbare oppepper te stelen van een willekeurige vijanden met oppeppers of 
-[*]brengt {DAMAGE}% schade toe aan alle vijanden als er geen oppeppers gestolen kunnen worden."
-"herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest.randomenemytarget","Wanneer dit personage zijn of haar speciale vaardigheid toepast, heeft hij of zij een kans van {CHANCE}% om de 
-[*]nieuwste verwijderbare oppepper te stelen van een willekeurige vijanden met oppeppers of 
-[*]brengt {DAMAGE}% schade toe aan alle vijanden als er geen oppeppers gestolen kunnen worden."
+"herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest","Wanneer dit personage de speciale vaardigheid toepast, is er een kans van {CHANCE}% om de 
+[*]nieuwste verwijderbare oppepper te stelen van een willekeurige vijand met oppeppers of 
+[*]{DAMAGE}% schade toe te brengen aan alle vijanden als er geen oppeppers gestolen kunnen worden."
+"herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest.randomenemytarget","Wanneer dit personage de speciale vaardigheid toepast, is er een kans van {CHANCE}% om de 
+[*]nieuwste verwijderbare oppepper te stelen van een willekeurige vijand met oppeppers of 
+[*]{DAMAGE}% schade toe te brengen aan alle vijanden als er geen oppeppers gestolen kunnen worden."
 "herocard.passive_skill.description.reallocatestatuseffectonspecialcast.heal.always.minordebuff.newest","Als dit personage de speciale vaardigheid gebruikt, brengt het het nieuwste zuiverbare statuseffect van zichzelf over naar het doelwit. Als de speciale vaardigheid een vijand niet tot doelwit kan nemen, wordt in plaats daarvan een willekeurige vijand gekozen. Als dit personage geen zuiverbare statuseffecten heeft, wordt er {HEALTH}% gezondheid hersteld."
 "herocard.passive_skill.description.receivedeffectreplacement.minordebuff","[#!]{REPLACEMENTCHANCE}%[#] kans op het vervangen van inkomende negatieve effecten door overeenkomende positieve effecten."
 "herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage","Dit personage loopt minder schade op van troepen met het sterkere element.
@@ -5974,16 +5978,34 @@ De [#!]volgelingkern[#] wordt geactiveerd als de [#!]speciale vaardigheid[#] van
 
 In gevechten met meerdere golven, wordt dit effect aan het begin van iedere golf vernieuwd."
 "herocard.passive_skill.description.redirectlethaldamage.enemies.single.battle","De eerste keer dat dit personage fatale schade zou lijden, stuurt het {REDIRECTDAMAGEMULTIPLIER}% van die schade door naar een willekeurige vijand. (Resterende activeringen: [#!]{ACTIVATIONSLEFT}[#])"
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled","De eerste keer dat dit personage fatale schade zou lijden, stuurt het in plaats daarvan {REDIRECTDAMAGEMULTIPLIER}% van die schade door naar de aanvaller.
+
+Wordt niet geactiveerd als dit personage het enige lid van het team is in het gevecht.
+
+In gevechten met meerdere golven, wordt dit effect aan het begin van iedere golf vernieuwd."
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled.battle","De eerste keer dat dit personage fatale schade zou lijden, stuurt het in plaats daarvan {REDIRECTDAMAGEMULTIPLIER}% van die schade door naar de aanvaller. (Nog [#!]{ACTIVATIONSLEFT}[#] activeringen)
+Wordt niet geactiveerd als dit personage het enige lid van het team is in het gevecht."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single","De eerste keer dat dit personage fatale schade zou lijden, stuurt het die schade door naar een willekeurige vijand.
 
 In gevechten met meerdere golven, wordt dit effect aan het begin van iedere golf vernieuwd."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.battle","De eerste keer dat dit personage fatale schade zou lijden, stuurt het die schade door naar een willekeurige vijand. (Resterende activeringen: [#!]{ACTIVATIONSLEFT}[#])"
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","De eerste keer dat dit personage fatale schade zou lijden door normale aanvallen of speciale vaardigheden, stuurt het in plaats daarvan maximaal {REDIRECTDAMAGELIMIT} schade terug naar de aanvaller. (Resterende activeringen: [#!]{ACTIVATIONSLEFT}[#])"
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","De eerste keer dat dit personage fatale schade zou lijden door normale aanvallen of speciale vaardigheden, stuurt het in plaats daarvan maximaal {REDIRECTDAMAGELIMIT} schade terug naar de aanvaller. (Resterende activeringen: [#!]{ACTIVATIONSLEFT}[#])"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","De eerste keer dat dit personage fatale schade zou lijden door normale aanvallen of speciale vaardigheden, stuurt het in plaats daarvan maximaal {REDIRECTDAMAGELIMIT} schade terug naar een willekeurige vijand."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","De eerste keer dat dit personage fatale schade zou lijden door normale aanvallen of speciale vaardigheden, stuurt het in plaats daarvan maximaal {REDIRECTDAMAGELIMIT} schade terug naar een willekeurige vijand. (Nog [#!]{ACTIVATIONSLEFT}[#] activeringen)"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled","De eerste keer dat dit personage fatale schade zou lijden door normale aanvallen of speciale vaardigheden, stuurt het in plaats daarvan maximaal {REDIRECTDAMAGELIMIT} schade terug naar de aanvaller.
+Wordt niet geactiveerd als dit personage het enige lid van het team is in het gevecht."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled.battle","De eerste keer dat dit personage fatale schade zou lijden door normale aanvallen of speciale vaardigheden, stuurt het in plaats daarvan maximaal {REDIRECTDAMAGELIMIT} schade terug naar de aanvaller. (Nog [#!]{ACTIVATIONSLEFT}[#] activeringen)
+Wordt niet geactiveerd als dit personage het enige lid van het team is in het gevecht."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","De eerste keer dat dit personage fatale schade zou lijden door normale aanvallen of speciale vaardigheden, stuurt het in plaats daarvan maximaal {REDIRECTDAMAGELIMIT} schade terug naar de aanvaller.
 
 In gevechten met meerdere golven, wordt dit effect aan het begin van iedere golf vernieuwd."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit.battle","De eerste keer dat dit personage fatale schade zou lijden door normale aanvallen of speciale vaardigheden, stuurt het in plaats daarvan maximaal {REDIRECTDAMAGELIMIT} schade terug naar de aanvaller. (Resterende activeringen: [#!]{ACTIVATIONSLEFT}[#])"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled","De eerste keer dat dit personage fatale schade zou lijden, stuurt het die schade in plaats daarvan door naar de aanvaller.
+
+Wordt niet geactiveerd als dit personage het enige lid van het team is in het gevecht.
+
+In gevechten met meerdere golven, wordt dit effect aan het begin van iedere golf vernieuwd."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled.battle","De eerste keer dat dit personage fatale schade zou lijden, stuurt het die schade in plaats daarvan door naar de aanvaller. (Nog [#!]{ACTIVATIONSLEFT}[#] activeringen)
+Wordt niet geactiveerd als dit personage het enige lid van het team is in het gevecht."
 "herocard.passive_skill.description.reduceinsanityperturn","Aan het begin van elke beurt wordt de huidige [#!]waanzin[#] van dit personage met [#!]{REDUCTION}[#] verlaagd."
 "herocard.passive_skill.description.reflectresistedstatuseffect.all.enemies","Eventuele statusaandoeningen waartegen dit personage met passieve vaardigheden weerstand biedt, worden teruggekaatst naar alle vijanden."
 "herocard.passive_skill.description.reflectstatuseffect.with_chance","[#!]{CHANCE}%[#] extra kans om statusaandoeningen terug te kaatsen naar de aanvaller."
@@ -6602,10 +6624,7 @@ Deze [#!]troepenvaardigheid[#] heeft voor de gehele duur van het gevecht invloed
 "herocard.passive_skill.title.received_strong_troop_damage_pve","Minder schade aan troepen"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage","Troepenmeesterschap"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage.increase.dragon","Sterke toename vuurbalschade"
-"herocard.passive_skill.title.redirectlethaldamage.enemies.single","Ontsnap aan de dood"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single","Ontsnap aan de dood"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Ontsnap aan de dood"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","Ontsnap aan de dood"
+"herocard.passive_skill.title.redirectlethaldamage","Ontsnap aan de dood"
 "herocard.passive_skill.title.reduceinsanityperturn","Waanzin verminderen"
 "herocard.passive_skill.title.reflectresistedstatuseffect","Legendarische reflector"
 "herocard.passive_skill.title.remove_growth_from_enemies","Wachtergroepering"
@@ -22892,7 +22911,7 @@ Je kunt alleen [#ffc3ff]LEGENDARISCHE[#] helden gebruiken voor een zielenwisseli
 "specials.name.blazing_venom","Vlammend gif"
 "specials.name.bleed_inducing_daggers","Bloedingsdolken"
 "specials.name.bleeding_edge","Bloedend mes"
-"specials.name.bleeding_edge_mayhem","Bloedend mes"
+"specials.name.bleeding_edge_mayhem","Baanbrekend"
 "specials.name.bleeding_hammer","Bloedende hamer"
 "specials.name.bleeding_hammer_mayhem","Bloedende hamer"
 "specials.name.bleeding_stab","Bloedlatende Steek"
@@ -23670,7 +23689,7 @@ Je kunt alleen [#ffc3ff]LEGENDARISCHE[#] helden gebruiken voor een zielenwisseli
 "specials.name.forged_in_fire","In vuur gesmeed"
 "specials.name.fortunate_slice","Fortuinlijke klap"
 "specials.name.four_leaf_fortune","Vier blaadjes-fortuin"
-"specials.name.four_leaf_fortune_mayhem","Vier blaadjes-fortuin"
+"specials.name.four_leaf_fortune_mayhem","Vierbladig fortuin"
 "specials.name.fox_fire_blessing","Vossenvuurzege"
 "specials.name.fracturing_cut","Brekende snede"
 "specials.name.fracturing_shards","Brekende scherven"
@@ -26798,12 +26817,12 @@ Omzetten naar:
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.evolving_seedling_parasite_with_delay.blocked_by.minion.extra","[*]De [#!]zaailingdemon[#] ontwikkelt zich tot een [#!]scheutdemon[#] na {EVOLVINGFAMILIAR1EVOLVETURNS} beurten.
 [*]De [#!]scheutdemon[#] ontwikkelt zich tot een [#!]bloesemmegademon[#] na {EVOLVINGFAMILIAR2EVOLVETURNS} beurten.
 
-[*] [#!]Zaailingdemon[#]: [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] aanvalskracht, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] gezondheid
-[*] [#!]Scheutdemon[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] aanvalskracht, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] gezondheid
-[*] [#!]Bloesemmegademon[#]: [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] aanvalskracht, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] gezondheid
+[*] [#!]Zaailingdemon[#]: [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK}%[#] aanvalskracht, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}%[#] gezondheid.
+[*] [#!]Scheutdemon[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK}%[#] aanvalskracht, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}%[#] gezondheid.
+[*] [#!]Bloesemmegademon[#]: [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}%[#] aanvalskracht, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}%[#] gezondheid.
 
 [*]Een demon brengt het doelwit elke beurt schade toe. Een demon verdwijnt na genezing te hebben geabsorbeerd. De vereiste hoeveelheid genezing hangt af van de maximale gezondheid van het doelwit.
-[*]Elke keer dat demonen gezondheid absorberen, wordt hun evolutie vertraagd met {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} beurt.
+[*]Elke keer dat demonen genezing absorberen, wordt hun evolutie vertraagd met {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} beurt.
 [*]Demonen kunnen niet evolueren tot megademonen als dezelfde held volgelingen heeft."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.evolving_seedling_parasite_with_delay.extra","[*]De [#!]zaailingdemon[#] ontwikkelt zich tot een [#!]scheutdemon[#] na {EVOLVINGFAMILIAR1EVOLVETURNS} beurten.
 [*]De [#!]scheutdemon[#] ontwikkelt zich tot een [#!]bloesemmegademon[#] na {EVOLVINGFAMILIAR2EVOLVETURNS} beurten.
@@ -27411,6 +27430,14 @@ Als het slijm niet binnen {CHANGEDAPPEARANCETURNS} beurten wordt verslagen, word
 [#!]Levendig fortuindans[#]
 {STATUSEFFECTS}
 [*][#!]Fortuindansen[#] zijn cumulatief met andere danseffecten."
+"specials.v2.statuseffect.minor.abyss.sides.enemies.dispelincreasesactivations","Vijanden aan de randen van de vijandelijke formatie nemen {TURNS} beurten lang de vorm van een afgrondgeest aan.
+[*] Als afgrondgeest lijdt doelwitten {DAMAGEPERTURN} schade per beurt. Dit effect is [#!]hardnekkig[#]."
+"specials.v2.statuseffect.minor.abyss.single.enemies.dispelincreasesactivations","Het doelwit neemt {TURNS} beurten lang de vorm van een afgrondgeest aan. Dit effect is [#!]hardnekkig[#].
+[*] Als afgrondgeest lijdt het doelwit {DAMAGEPERTURN} schade per beurt."
+"specials.v2.statuseffect.minor.abyss.single.enemies.onremoval.damage.all.allies.expiration.add_insanity_emilie.dispelincreasesactivations","Het doelwit neemt {TURNS} beurten lang de vorm van een afgrondgeest aan. Dit effect is [#!]hardnekkig[#].
+[*] Terwijl het in afgrondgeestvorm is, lijdt het doelwit {DAMAGEPERTURN} schade per beurt.
+[*] Als de afgrondgeestvorm verloopt:
+[*] brengt {FIXEDPOWER} schade toe aan alle bondgenoten en geeft ze allemaal {STATUSEFFECT1INSANITYTOADD} [#!]waanzin[#]."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies","Alle vijanden krijgen {ACCURACY}% trefzekerheid gedurende {TURNS} beurten."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies.dispelincreasesactivations","Alle vijanden krijgen {ACCURACY}% trefzekerheid gedurende {TURNS} beurten. Dit effect is [#!]hardnekkig[#]."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies.resetonheal","Alle vijanden krijgen {TURNS} beurten lang {ACCURACY}% trefzekerheid. De effectduur wordt gereset als het doelwit wordt genezen."
@@ -27825,6 +27852,12 @@ Als het slijm niet binnen {CHANGEDAPPEARANCETURNS} beurten wordt verslagen, word
 [*][#!]Verslindend slijm:[#] verwijdert alle verwijderbare oppeppers en groeieffecten, lijdt {BASEDAMAGEPERTURN} schade per beurt en {DAMAGEPERTURNPEREFFECT} schade per verwijderd effect."
 "specials.v2.statuseffect.minor.devouringgoo.single.enemies.effects.minorbuff.positivebasestatmodifier","Het doelwit krijgt {TURNS} beurten lang het statuseffect verslindend slijm.
 [*][#!]Verslindend slijm[#]: verwijdert alle verwijderbare oppeppers en groeieffecten, lijdt {BASEDAMAGEPERTURN} schade per beurt en {DAMAGEPERTURNPEREFFECT} schade per verwijderd effect."
+"specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.add_insanity_salvatore.dispelincreasesactivations","De spreukspeker neemt {TURNS} beurten lang de vorm aan van een krankzinnige gevaarlijke geest. Dit effect is [#!]hardnekkig[#].
+[*] In de vorm van een krankzinnige gevaarlijke geest brengt de spreukspreker automatisch {POWER1}% schade toe en geeft elke beurt een willekeurige vijand {STATUSEFFECT1INSANITYTOADD} [#!]waanzin[#].
+[*]In de vorm van een krankzinnig gevaarlijke geest kan de spreukspreker schade oplopen van vijanden met een sterker element."
+"specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.dispelincreasesactivations","De spreukspreker neemt {TURNS} beurten lang de vorm van een gevaarlijke geest aan. Dit effect is [#!]hardnekkig[#].
+[*] In de vorm van een gevaarlijke geest richt de spreukspreker elke beurt automatisch {POWER1}% schade aan een willekeurige vijand aan.
+[*] In de vorm van een gevaarlijke geest kan de spreukspreker schade aan van vijanden die sterk zijn tegen het element van de spreukspreker."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff","Zuivert {TURNS} beurten lang aan het eind van elke beurt statuseaandoeningen van alle bondgenoten."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.bypassremoveeffects","Zuivert veilig {TURNS} beurten lang aan het eind van elke beurt statuseaandoeningen van alle bondgenoten."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.customremovalcount","Zuivert {TURNS} beurten lang aan het eind van elke beurt 1 statuseaandoening van alle bondgenoten."
@@ -27906,6 +27939,8 @@ Als het slijm niet binnen {CHANGEDAPPEARANCETURNS} beurten wordt verslagen, word
 "specials.v2.statuseffect.minor.elementswapovertime.allexceptcaster.allies","{TURNS} beurten lang worden alle bondgenoten behalve de spreukspreker getroffen door [#!]elementflux[#]. Hun element verandert elke beurt willekeurig."
 "specials.v2.statuseffect.minor.elementswapovertime.damage_to_green.all.enemies","{TURNS} beurten lang worden alle vijanden getroffen door [#!]elementflux[#]. Hun element verandert elke beurt willekeurig en ze brengen {DAMAGEPERTURN} schade toe telkens wanneer hun element verandert in [##elementgreen]natuur[#]."
 "specials.v2.statuseffect.minor.elementswapovertime.damage_to_yellow.all.enemies","{TURNS} beurten lang worden alle vijanden getroffen door [#!]elementflux[#]. Hun element verandert elke beurt willekeurig en ze brengen {DAMAGEPERTURN} schade toe telkens wanneer hun element verandert in [##elementyellow]heilig[#]."
+"specials.v2.statuseffect.minor.ethereal.single.allies.dispelincreasesactivations","De spreukspreker neemt {TURNS} beurten lang de geestesvorm aan.
+[*] In geestesvorm krijgt de spreukspreker {ATTACK}% aanvalskracht. Dit effect is [#!]hardnekkig[#]."
 "specials.v2.statuseffect.minor.explodingberserk.single.allies","De spreukspreker krijgt {TURNS} beurten lang {ATTACK}% aanvalskracht, en {CHANGE}% extra elke keer dat deze of bondgenoten worden geraakt, tot maximaal {MAXMODIFIER}% aanvalskracht. Wanneer het effect afloopt, lopen alle vijanden {DAMAGE} schade op. Elke keer dat de spreukspreker of een bondgenoot wordt geraakt gedurende dit effect, wordt de schade met {ADDITIONALDAMAGEPERHIT} verhoogd, tot een maximum van {MAXDAMAGE} schade."
 "specials.v2.statuseffect.minor.extradamageagainstboostedhealth.all.allies.troop.npcnormalattack.specialskill.statuseffectskill","Alle normale aanvallen en speciale vaardigheden van bondgenoten brengen {TURNS} beurten lang {DAMAGEMULTIPLIER}% schade aan bij doelwitten met gebooste gezondheid."
 "specials.v2.statuseffect.minor.fearstatuseffectskill.all.enemies.on.allyspecial.damage.random.allies","Alle vijanden worden {TURNS} beurten lang overmand door [#!]angst[#]."
@@ -27979,6 +28014,14 @@ Als het slijm niet binnen {CHANGEDAPPEARANCETURNS} beurten wordt verslagen, word
 "specials.v2.statuseffect.minor.frost.single.enemies.contagious","Het doelwit lijdt {DAMAGE} vorstschade gedurende {TURNS} beurten. Dit effect verspreidt zich naar vijanden in de buurt."
 "specials.v2.statuseffect.minor.frost.single.enemies.contagious.noturns","Het doelwit loopt per beurt [#!]blijvende[#] {DAMAGE} vorstschade op. Dit effect verspreidt zich naar vijanden in de buurt."
 "specials.v2.statuseffect.minor.gamble.all.allies","Alle bondgenoten krijgen {TURNS} beurten lang {ATTACK}% aanvalskracht met {ACCURACY}% trefzekerheid."
+"specials.v2.statuseffect.minor.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies.dispelincreasesactivations","De spreukspreker krijgt {TURNS} beurten lang geestesvorm. Dit effect is [#!]hardnekkig[#].
+[*] Wanneer de geestesvorm verloopt:
+[*] Alle bondgenoten krijgen {REMOVALEFFECT1STATUSEFFECT1TURNS} beurten lang {REMOVALEFFECT1STATUSEFFECT1CRIT}% kans op kritieke aanval. Dit effect kan niet ongedaan gemaakt worden."
+"specials.v2.statuseffect.minor.ghost.single.allies.onremoval.revival.randomdead.allies.expiration.hp_recovery_sable.all.allies.dispel_ailments.all.allies.dispelincreasesactivations","De spreukspreker neemt {TURNS} beurten lang de geestesvorm aan. Dit effect is [#!]hardnekkig[#].
+[*] Wanneer de geestvom verloopt:
+[*] De spreukspreker brengt één willekeurige, verslagen bondgenoot terug met {REMOVALEFFECT1POWER}% gezondheid.
+[*] Alle bondgenoten krijgen over {REMOVALEFFECT1STATUSEFFECT1TURNS} beurten {REMOVALEFFECT1STATUSEFFECT1TOTAL} gezondheid.
+[*] Zuivert {REMOVALEFFECT1STATUSEFFECT2TURNS} beurten lang statusaandoeningen van alle bondgenoten aan het eind van iedere beurt."
 "specials.v2.statuseffect.minor.giftbomb.single.enemies.neartotargetminor.allies.death.expiration","Het doelwit krijgt een cadeaubom. Na {TURNS} beurten ontploft de cadeaubom en brengt {DAMAGE} schade toe aan het doelwit en {MINORDAMAGE} schade aan doelwitten in de buurt. De cadeaubom explodeert ook als het doelwit is verslagen."
 "specials.v2.statuseffect.minor.giftbomb.single.enemies.onremoval.damage.neartotarget.allies.death.expiration","Het doelwit krijgt een cadeaubom. Na {TURNS} beurten ontploft de cadeaubom en brengt {DAMAGE} schade toe aan het doelwit en vijanden in de buurt. De cadeaubom explodeert ook als het doelwit is verslagen."
 "specials.v2.statuseffect.minor.grapple.single.enemies","Grijpt het doelwit vast. In de houdgreep is de normale aanvalskracht van het doelwit teruggebracht naar 1 en het doelwit lijdt {DAMAGE} schade gedurende {TURNS} beurten."
@@ -28468,6 +28511,7 @@ Als het slijm niet binnen {CHANGEDAPPEARANCETURNS} beurten wordt verslagen, word
 "specials.v2.statuseffect.minor.stackingattackmodifier.all.allies.effect_per_eaten_familiar.parasite.bigparasite","[#!]Cumulatief (max. {MAXSTACK}):[#] alle bondgenoten krijgen {ATTACK}% extra aanval voor elke vernietigde demon."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies","[#!]Cumulatief (max. {MAXSTACK}):[#] de spreukspreker krijgt {ATTACK}% aanvalskracht."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.effect_per_eaten_familiar.minion.follower.bigminion","[#!]Cumulatief (max. {MAXSTACK}):[#] de spreukspreker krijgt {ATTACK}% extra aanval voor elke vernietigde volgeling."
+"specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.withbasestackcount","[#!]Cumulatief +{BASESTACKCOUNT} (max. {MAXSTACK}):[#] de spreukspreker krijgt {ATTACK}% aanvalskracht."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.enemies.chain_strike","[#!]Cumulatief (max. {MAXSTACK}):[#] elke treffer geeft het doelwit {ATTACK}% aanvalskracht."
 "specials.v2.statuseffect.minor.stackingattackmodifieragainstweakerelement.single.allies","[#!]Cumulatief (max. {MAXSTACK}):[#] de spreukspreker krijgt {ATTACK}% aanvalskracht tegen het zwakkere element."
 "specials.v2.statuseffect.minor.stackingcritmodifier.all.allies","[#!]Cumulatief (Max: {MAXSTACK}):[#] alle bondgenoten krijgen {CRIT}% kritieke kans."
@@ -28487,6 +28531,7 @@ Als het slijm niet binnen {CHANGEDAPPEARANCETURNS} beurten wordt verslagen, word
 "specials.v2.statuseffect.minor.stackingicebound.all.enemies.effect_per_kill.minion.follower","[#!]Cumulatief (max. {MAXSTACK}):[#] alle vijanden ontvangen aan het eind van elke beurt {DAMAGE} ijsschade per verslagen vijand of vijandelijke volgeling."
 "specials.v2.statuseffect.minor.stackingicebound.neartotarget.enemies","[#!]Cumulatief (max: {MAXSTACK}):[#] het doelwit en vijanden in de buurt lijden {DAMAGE} vorstschade aan het eind van elke beurt."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies","[#!]Cumulatief (max. {MAXSTACK}):[#] alle bondgenoten recupereren {MANAREGEN}% mana."
+"specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies.withbasestackcount","[#!]Cumulatief +{BASESTACKCOUNT} (max. {MAXSTACK}):[#] alle bondgenoten recupereren {MANAREGEN}% mana."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies","[#!]Cumulatief (max. {MAXSTACK}):[#] alle vijanden krijgen {MANAREGEN}% manarecuperatie."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies.effect_per_eaten_familiar.minion.follower","[#!]Cumulatief (max. {MAXSTACK}):[#] alle vijanden krijgen {MANAREGEN}% manarecuperatie per vernietigde volgeling."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies.effect_per_kill.minion.follower","[#!]Cumulatief (max. {MAXSTACK}):[#] alle vijanden recupereren {MANAREGEN}% mana per verslagen vijand of vijandelijke volgeling."
@@ -28495,6 +28540,7 @@ Als het slijm niet binnen {CHANGEDAPPEARANCETURNS} beurten wordt verslagen, word
 "specials.v2.statuseffect.minor.stackingminionattackmodifier.all.allies","[#!]Cumulatief (max. {MAXSTACK}):[#] alle bondgenoten krijgen {ATTACK}% aanvalskracht voor hun volgelingen."
 "specials.v2.statuseffect.minor.stackingminionmaxhealthmodifier.all.allies","[#!]Cumulatief (max. {MAXSTACK}):[#] alle bondgenoten krijgen {MAXHEALTH}% geërfde HP voor nieuwe volgelingen die ze aanroepen."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease","[#!]Cumulatief (max. {MAXSTACK}):[#] alle schade die alle bondgenoten oplopen wordt verminderd met {DAMAGEMODIFIER}%."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease.withbasestackcount","[#!]Cumulatief +{BASESTACKCOUNT} (max. {MAXSTACK}):[#] alle schade die alle bondgenoten oplopen wordt verminderd met {DAMAGEMODIFIER}%."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies","[#!]Cumulatief (max. {MAXSTACK}):[#] alle schade die alle vijanden oplopen, wordt verhoogd met {DAMAGEMODIFIER}%."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies.withbasestackcount","[#!]Cumulatief +{BASESTACKCOUNT} (max. {MAXSTACK}):[#] alle schade die alle vijanden oplopen, wordt verhoogd met {DAMAGEMODIFIER}%."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.lessthanhalfhpleft.enemies","[#!]Cumulatief (max.: {MAXSTACK}):[#] vijanden met minder dan 50% resterende gezondheid lijden {DAMAGEMODIFIER}% schade."
@@ -28506,6 +28552,7 @@ Als het slijm niet binnen {CHANGEDAPPEARANCETURNS} beurten wordt verslagen, word
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.allies.decrease","[#!]Cumulatief (max. {MAXSTACK}):[#] alle schade die de spreukspreker oploopt, wordt verminderd met {DAMAGEMODIFIER}%."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies","[#!]Cumulatief (max. {MAXSTACK}):[#] Alle schade die het doelwit lijdt, wordt verhoogd met {DAMAGEMODIFIER}%."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.chain_strike","[#!]Cumulatief (max. {MAXSTACK}):[#] iedere treffer vergroot alle schade die het doelwit lijdt met {DAMAGEMODIFIER}%"
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.withbasestackcount.chain_strike","[#!]Cumulatief +{BASESTACKCOUNT} (max. {MAXSTACK}):[#] iedere treffer vergroot alle schade die het doelwit lijdt met {DAMAGEMODIFIER}%"
 "specials.v2.statuseffect.minor.statuseffectgeneratorstatuseffectskill.allexceptcaster.allies.on.ownturnstart.basic_attack_bluecat.mana_regen_bluecat.dispelincreasesactivations","[#!]Bron van oppeppers:[#] de volgende effecten worden aan het begin van iedere beurt toegepast op een willekeurige bondgenoot, behalve de spreukspreker:
 [*]{STATUSEFFECT1ATTACK}% aanval gedurende {STATUSEFFECT1TURNS} beurten.
 [*]{STATUSEFFECT2MANAREGEN}% manarecuperatie gedurende {STATUSEFFECT2TURNS} beurten.
@@ -28599,6 +28646,7 @@ Als het slijm niet binnen {CHANGEDAPPEARANCETURNS} beurten wordt verslagen, word
 "specials.v2.statuseffect.minor.toxin.sides.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","Alle vijanden aan de randen van de vijandelijke formatie lijden {TURNS} beurten lang {DAMAGE} [#!]toxineschade[#]. Doelwitten met meer gezondheid, volgelingen of een megavolgeling, lopen meer schade op."
 "specials.v2.statuseffect.minor.toxin.single.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","Het doelwit lijdt {TURNS} beurten lang {DAMAGE} [#!]toxineschade[#]. Doelwitten met meer gezondheid, volgelingen of een megavolgeling, lopen meer schade op."
 "specials.v2.statuseffect.minor.transcendentalframe.single.allies","De spreukspreker neemt {TURNS} beurten lang de geestesvorm aan."
+"specials.v2.statuseffect.minor.transcendentalframe.single.allies.dispelincreasesactivations","De spreukspreker neemt {TURNS} beurten lang de geestesvorm aan. Dit effect is [#!]hardnekkig[#]."
 "specials.v2.statuseffect.minor.underwater.all.enemies","Alle vijanden lijden {DAMAGE} waterschade over {TURNS} beurten."
 "specials.v2.statuseffect.minor.underwater.all.enemies.absorb_healing.to.single","Aan alle vijanden wordt gedurende {TURNS} beurten {DAMAGE} waterschade toegebracht. De spreukspeker absorbeert {ABSORBHEALING}% van de toegebrachte waterschade als gezondheid."
 "specials.v2.statuseffect.minor.underwater.neartotarget.enemies","Het doelwit en vijanden in de buurt lijden {DAMAGE} waterschade gedurende {TURNS} beurten."

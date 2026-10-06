@@ -23477,7 +23477,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple_thunderbolt_2_1",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23501,7 +23500,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple_thunderbolt_2_2",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23526,7 +23524,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple_thunderbolt_2_3",
         "dollarValue": 50,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -26661,7 +26658,6 @@
         "id": "com.smallgiantgames.empires.summoning_bonanza_15",
         "dollarValue": 15,
         "zyngaStoreDollarValueOverride": 14,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -35998,7 +35994,6 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic3_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -59001,5 +58996,5 @@
       }
     ]
   },
-  "productsConfigId": 2202304329
+  "productsConfigId": 224193320
 }

@@ -4303,6 +4303,10 @@ Aloitetaanko matka tällä ryhmällä?"
 "familiar.statuseffect.minor.dispelimmunity.single.allies.noturns.reef_shark_sharpoon.summon","Haikäskyläinen estää tilaefektitehosteiden häivyttämisen tai varastamisen."
 "familiar.statuseffect.minor.dispelimmunity.single.allies.noturns.shark_mega_minion_haikala.summon","Hai-megakäskyläinen estää tilaefektitehosteiden häivyttämisen tai varastamisen."
 "familiar.statuseffect.minor.dispelimmunity.single.allies.while.single.allies.familiaralive.spotted_boar_mega_minion.spotted_boar_mega_minion.summon","Kun täplävillisika-megakäskyläinen kutsutaan, se antaa omistajalleen immuniteetin tilaefektien häivyttämistä vastaan, joka kestää niin kauan kuin omistajalla on täplävillisika-megakäskyläinen. Vaikutusta ei voi häivyttää."
+"familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie.deathbydamage.eatenbycharacter","Kun [#!]täysi poisto[#] on loitsittu, hyökkääjä muuttuu Pöllövalhallan haamuksi {TURNS} vuoron ajaksi. Tämä vaikutus on [#!]sitkeä.[#]
+[*] Pöllövalhallan haamun muodossa kohde saa {DAMAGEPERTURN} vauriota joka vuorolla."
+"familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.owlkyrie_mayhem.deathbydamage.eatenbycharacter","Kun [#!]täysi poisto[#] on loitsittu, hyökkääjä muuttuu Pöllövalhallan haamuksi {TURNS} vuoron ajaksi. Tämä vaikutus on [#!]sitkeä.[#]
+[*] Pöllövalhallan haamun muodossa kohde saa {DAMAGEPERTURN} vauriota joka vuorolla."
 "familiar.statuseffect.minor.poison.single.enemies.contagious.sword_guard_mega_minion.turn","Miekkavartija-megakäskyläisen iskun kohde kärsii {DAMAGE} myrkkyvauriota {TURNS} vuoron aikana. Vaikutus leviää lähellä oleviin vihollisiin."
 "familiar.statuseffect.minor.receiveddamagemodifier.single.enemies.bull.turn","Kohde, johon härkäkäskyläinen osuu, kärsii {DAMAGEREDUCTION} % enemmän vauriota {TURNS} vuoron ajan."
 "familiar.statuseffect.minor.receiveddamagemodifier.single.enemies.butterfly.turn","{DAMAGEREDUCTION} %:n lisäys kaikkeen saatuun vaurioon {TURNS} vuoron ajan."
@@ -4360,8 +4364,8 @@ Ominaisuuksien muokkauksen rajat.
 "familiareffects.parasite.evolve.evolve_seedling_to_sapling.evolving_sapling_parasite.blooming_big_parasite_mayhem.blocked_by.minion.extra","[*][#!]Siementaimiriiviö[#] kehittyy [#!]taimiriiviöksi[#] {EVOLVINGFAMILIAR1EVOLVETURNS} vuoron jälkeen.
 [*][#!]Taimiriiviö[#] kehittyy [#!]kukkivaksi megariiviöksi[#] {EVOLVINGFAMILIAR2EVOLVETURNS} vuoron jälkeen.
 
-[*] [#!]Siementaimiriiviö[#]: [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] hyökkäystä, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] terveyttä
-[*] [#!]Taimiriiviö[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] hyökkäystä, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] terveyttä
+[*] [#!]Siementaimiriiviö[#]: [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] hyökkäystä, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] terveyttä.
+[*] [#!]Taimiriiviö[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] hyökkäystä, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] terveyttä.
 [*] [#!]Kukkiva megariiviö[#]: [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] hyökkäystä, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] terveyttä.
 
 [*]Riiviö vaurioittaa kohdettaan joka vuorolla. Riiviö katoaa imettyään parannusta. Tarvittavan parannuksen määrä riippuu kohteen maksimiterveydestä.
@@ -4369,16 +4373,16 @@ Ominaisuuksien muokkauksen rajat.
 "familiareffects.parasite.evolve.evolve_seedling_to_sapling.evolving_sapling_parasite.blooming_big_parasite_mayhem.extra","[*][#!]Siementaimiriiviö[#] kehittyy [#!]taimiriiviöksi[#] {EVOLVINGFAMILIAR1EVOLVETURNS} vuoron jälkeen.
 [*][#!]Taimiriiviö[#] kehittyy [#!]kukkivaksi megariiviöksi[#] {EVOLVINGFAMILIAR2EVOLVETURNS} vuoron jälkeen.
 
-[*] [#!]Siementaimiriiviö[#]: [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] hyökkäystä, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] terveyttä
-[*] [#!]Taimiriiviö[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] hyökkäystä, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] terveyttä
+[*] [#!]Siementaimiriiviö[#]: [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] hyökkäystä, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] terveyttä.
+[*] [#!]Taimiriiviö[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] hyökkäystä, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] terveyttä.
 [*] [#!]Kukkiva megariiviö[#]: [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] hyökkäystä, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] terveyttä.
 
 [*]Riiviö vaurioittaa kohdettaan joka vuorolla. Riiviö katoaa imettyään parannusta. Tarvittavan parannuksen määrä riippuu kohteen maksimiterveydestä."
 "familiareffects.parasite.evolve.evolve_seedling_to_sapling_with_delay_on_damage.evolving_sapling_parasite_with_delay.blooming_big_parasite.blocked_by.minion.extra","[*][#!]Siementaimiriiviö[#] kehittyy [#!]taimiriiviöksi[#] {EVOLVINGFAMILIAR1EVOLVETURNS} vuoron jälkeen.
 [*][#!]Taimiriiviö[#] kehittyy [#!]kukkivaksi megariiviöksi[#] {EVOLVINGFAMILIAR2EVOLVETURNS} vuoron jälkeen.
 
-[*] [#!]Siementaimiriiviö[#]: [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] hyökkäystä, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] terveyttä
-[*] [#!]Taimiriiviö[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] hyökkäystä, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] terveyttä
+[*] [#!]Siementaimiriiviö[#]: [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] hyökkäystä, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] terveyttä.
+[*] [#!]Taimiriiviö[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] hyökkäystä, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] terveyttä.
 [*] [#!]Kukkiva megariiviö[#]: [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] hyökkäystä, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] terveyttä.
 
 [*]Riiviö vaurioittaa kohdettaan joka vuorolla. Riiviö katoaa imettyään parannusta. Tarvittavan parannuksen määrä riippuu kohteen maksimiterveydestä.
@@ -4387,8 +4391,8 @@ Ominaisuuksien muokkauksen rajat.
 "familiareffects.parasite.evolve.evolve_seedling_to_sapling_with_delay_on_damage.evolving_sapling_parasite_with_delay.blooming_big_parasite.extra","[*][#!]Siementaimiriiviö[#] kehittyy [#!]taimiriiviöksi[#] {EVOLVINGFAMILIAR1EVOLVETURNS} vuoron jälkeen.
 [*][#!]Taimiriiviö[#] kehittyy [#!]kukkivaksi megariiviöksi[#] {EVOLVINGFAMILIAR2EVOLVETURNS} vuoron jälkeen.
 
-[*] [#!]Siementaimiriiviö[#]: [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] hyökkäystä, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] terveyttä
-[*] [#!]Taimiriiviö[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] hyökkäystä, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] terveyttä
+[*] [#!]Siementaimiriiviö[#]: [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] hyökkäystä, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] terveyttä.
+[*] [#!]Taimiriiviö[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] hyökkäystä, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] terveyttä.
 [*] [#!]Kukkiva megariiviö[#]: [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] hyökkäystä, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] terveyttä.
 
 [*]Riiviö vaurioittaa kohdettaan joka vuorolla. Riiviö katoaa imettyään parannusta. Tarvittavan parannuksen määrä riippuu kohteen maksimiterveydestä.
@@ -5993,16 +5997,34 @@ Lisäksi vaivat ja negatiiviset kasaumat voivat vaurioittaa vain niistä suoraan
 
 Jos taistelussa on useita aaltoja, tämä vaikutus nollautuu jokaisen aallon alussa."
 "herocard.passive_skill.description.redirectlethaldamage.enemies.single.battle","Kun tämä hahmo kärsisi ensimmäisen kerran kuolettavan vaurion, se ohjaakin {REDIRECTDAMAGEMULTIPLIER} % kyseisestä vauriosta satunnaiselle viholliselle sen sijaan. (Aktivointeja jäljellä: [#!]{ACTIVATIONSLEFT}[#])"
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled","Kun tämä hahmo kärsisi ensimmäisen kerran kuolettavan vaurion, se ohjaakin {REDIRECTDAMAGEMULTIPLIER} % kyseisestä vauriosta hyökkääjälle sen sijaan.
+
+Vaikutus ei aktivoidu, jos tämä hahmo on ryhmänsä ainoa jäsen taistelussa.
+
+Jos taistelussa on useita aaltoja, tämä vaikutus nollautuu jokaisen aallon alussa."
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled.battle","Kun tämä hahmo kärsisi ensimmäisen kerran kuolettavan vaurion, se ohjaakin {REDIRECTDAMAGEMULTIPLIER} % kyseisestä vauriosta hyökkääjälle sen sijaan.(Aktivointeja jäljellä: [#!]{ACTIVATIONSLEFT}[#])
+Vaikutus ei aktivoidu, jos tämä hahmo on ryhmänsä ainoa jäsen taistelussa."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single","Kun tämä hahmo kärsii ensimmäisen kerran kuolettavan vaurion, kyseinen vaurio ohjataan satunnaiseen viholliseen.
 
 Jos taistelussa on useita aaltoja, tämä vaikutus nollautuu jokaisen aallon alussa."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.battle","Kun tämä hahmo kärsii ensimmäisen kerran kuolettavan vaurion, kyseinen vaurio ohjataan satunnaiseen viholliseen. (Aktivointeja jäljellä: [#!]{ACTIVATIONSLEFT}[#])"
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Kun tämä hahmo kärsisi ensimmäisen kerran kuolettavan vaurion normaaleista hyökkäyksistä tai erikoistaidoista, se ohjaakin jopa {REDIRECTDAMAGELIMIT} vauriota hyökkääjälle sen sijaan. (Aktivointeja jäljellä: [#!]{ACTIVATIONSLEFT}[#])"
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","Kun tämä hahmo kärsisi ensimmäisen kerran kuolettavan vaurion normaaleista hyökkäyksistä tai erikoistaidoista, se ohjaakin jopa {REDIRECTDAMAGELIMIT} vauriota hyökkääjälle sen sijaan. (Aktivointeja jäljellä: [#!]{ACTIVATIONSLEFT}[#])"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Kun tämä hahmo kärsisi ensimmäisen kerran kuolettavan vaurion normaaleista hyökkäyksistä tai erikoistaidoista, se ohjaakin jopa {REDIRECTDAMAGELIMIT} vauriota satunnaiselle viholliselle."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","Kun tämä hahmo kärsisi ensimmäisen kerran kuolettavan vaurion normaaleista hyökkäyksistä tai erikoistaidoista, se ohjaakin jopa {REDIRECTDAMAGELIMIT} vauriota satunnaiselle viholliselle sen sijaan. (Aktivointeja jäljellä: [#!]{ACTIVATIONSLEFT}[#])"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled","Kun tämä hahmo kärsisi ensimmäisen kerran kuolettavan vaurion normaaleista hyökkäyksistä tai erikoistaidoista, se ohjaakin jopa {REDIRECTDAMAGELIMIT} vauriota hyökkääjälle sen sijaan.
+Vaikutus ei aktivoidu, jos tämä hahmo on ryhmänsä ainoa jäsen taistelussa."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled.battle","Kun tämä hahmo kärsisi ensimmäisen kerran kuolettavan vaurion normaaleista hyökkäyksistä tai erikoistaidoista, se ohjaakin jopa {REDIRECTDAMAGELIMIT} vauriota hyökkääjälle sen sijaan. (Aktivointeja jäljellä: [#!]{ACTIVATIONSLEFT}[#])
+Vaikutus ei aktivoidu, jos tämä hahmo on ryhmänsä ainoa jäsen taistelussa."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","Kun tämä hahmo kärsisi ensimmäisen kerran kuolettavan vaurion normaaleista hyökkäyksistä tai erikoistaidoista, se ohjaakin jopa {REDIRECTDAMAGELIMIT} vauriota hyökkääjälle sen sijaan.
 
 Jos taistelussa on useita aaltoja, tämä vaikutus nollautuu jokaisen aallon alussa."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit.battle","Kun tämä hahmo kärsisi ensimmäisen kerran kuolettavan vaurion normaaleista hyökkäyksistä tai erikoistaidoista, se ohjaakin jopa {REDIRECTDAMAGELIMIT} vauriota hyökkääjälle sen sijaan. (Aktivointeja jäljellä: [#!]{ACTIVATIONSLEFT}[#])"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled","Kun tämä hahmo kärsisi ensimmäisen kerran kuolettavan vaurion, se ohjaakin kyseisen vaurion hyökkääjälle sen sijaan.
+
+Vaikutus ei aktivoidu, jos tämä hahmo on ryhmänsä ainoa jäsen taistelussa.
+
+Jos taistelussa on useita aaltoja, tämä vaikutus nollautuu jokaisen aallon alussa."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled.battle","Kun tämä hahmo kärsisi ensimmäisen kerran kuolettavan vaurion, se ohjaakin kyseisen vaurion hyökkääjälle sen sijaan.(Aktivointeja jäljellä: [#!]{ACTIVATIONSLEFT}[#])
+Vaikutus ei aktivoidu, jos tämä hahmo on ryhmänsä ainoa jäsen taistelussa."
 "herocard.passive_skill.description.reduceinsanityperturn","Tämän hahmon nykyinen [#!]hulluus[#] laskee [#!]{REDUCTION}[#] pisteellä jokaisen vuoron alussa."
 "herocard.passive_skill.description.reflectresistedstatuseffect.all.enemies","Kaikki vaivat, joita tämä hahmo vastustaa passiivisilla taidoilla, heijastuvat kaikkiin vihollisiin."
 "herocard.passive_skill.description.reflectstatuseffect.with_chance","[#!]{CHANCE} %:n[#] lisämahdollisuus heijastaa vaivat takaisin hyökkääjälle."
@@ -6622,10 +6644,7 @@ Laudalla olevat [##elementyellow]pyhät[#] kilvet vahvistuvat ja antavat [#!]{MO
 "herocard.passive_skill.title.received_strong_troop_damage_pve","Joukkojen vaurion vähennys"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage","Joukkojen mestari"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage.increase.dragon","Tulipallon vaurion voimakas kasvu"
-"herocard.passive_skill.title.redirectlethaldamage.enemies.single","Huijaa kuolemaa"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single","Huijaa kuolemaa"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Huijaa kuolemaa"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","Huijaa kuolemaa"
+"herocard.passive_skill.title.redirectlethaldamage","Huijaa kuolemaa"
 "herocard.passive_skill.title.reduceinsanityperturn","Laskee hulluutta"
 "herocard.passive_skill.title.reflectresistedstatuseffect","Legendaarinen heijastus"
 "herocard.passive_skill.title.remove_growth_from_enemies","Vartijoiden kokoonkutsu"
@@ -27437,6 +27456,14 @@ Jos limaa ei kukisteta {CHANGEDAPPEARANCETURNS} vuoron aikana, se syntyy uudelle
 [#!]Eloisa onnentanssi[#]
 {STATUSEFFECTS}
 [*][#!]Onnentanssit[#] kasautuvat muiden tanssitilaefektien kanssa."
+"specials.v2.statuseffect.minor.abyss.sides.enemies.dispelincreasesactivations","Vihollisryhmän laidoilla olevat viholliset muuttuvat syvyyksien haamuiksi {TURNS} vuoron ajaksi.
+[*] Syvyyksien haamun muodossa kohteet saavat {DAMAGEPERTURN} vauriota joka vuorolla. Tämä vaikutus on [#!]sitkeä[#]."
+"specials.v2.statuseffect.minor.abyss.single.enemies.dispelincreasesactivations","Kohde muuttuu syvyyksien haamuksi {TURNS} vuoron ajaksi. Tämä vaikutus on [#!]sitkeä.[#]
+[*] Syvyyksien haamun muodossa kohde saa {DAMAGEPERTURN} vauriota joka vuorolla."
+"specials.v2.statuseffect.minor.abyss.single.enemies.onremoval.damage.all.allies.expiration.add_insanity_emilie.dispelincreasesactivations","Kohde muuttuu syvyyksien haamuksi {TURNS} vuoron ajaksi. Tämä vaikutus on [#!]sitkeä.[#]
+[*] Syvyyksien haamun muodossa kohde saa {DAMAGEPERTURN} vauriota joka vuorolla.
+[*] Kun syvyyksien haamun muoto päättyy:
+[*] tuottaa {FIXEDPOWER} vauriota kaikille liittolaisille ja aiheuttaa heille {STATUSEFFECT1INSANITYTOADD} [#!]hulluutta[#]."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies","Kaikki viholliset saavat {ACCURACY} % tarkkuutta {TURNS} vuoron ajaksi."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies.dispelincreasesactivations","Kaikki viholliset saavat {ACCURACY} % tarkkuutta {TURNS} vuoron ajaksi. Tämä vaikutus on [#!]sitkeä[#]."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies.resetonheal","Kaikki viholliset saavat {ACCURACY} % tarkkuutta {TURNS} vuoron ajaksi. Efektin kestolaskuri alkaa alusta, jos kohde parannetaan."
@@ -27851,6 +27878,12 @@ Jos limaa ei kukisteta {CHANGEDAPPEARANCETURNS} vuoron aikana, se syntyy uudelle
 [*][#!]Ahmijamönjä:[#] Poistaa kaikki häivytettävät tehosteet ja kasvuefektit, tuottaa {BASEDAMAGEPERTURN} vauriota joka vuorolla sekä {DAMAGEPERTURNPEREFFECT} vauriota jokaista poistettua efektiä kohti."
 "specials.v2.statuseffect.minor.devouringgoo.single.enemies.effects.minorbuff.positivebasestatmodifier","Kohdevihollinen saa ahmijamönjävaivan {TURNS} vuoron ajaksi.
 [*][#!]Ahmijamönjä:[#] Poistaa kaikki häivytettävät tehosteet ja kasvuefektit, tuottaa {BASEDAMAGEPERTURN} vauriota joka vuorolla sekä {DAMAGEPERTURNPEREFFECT} vauriota jokaista poistettua efektiä kohti."
+"specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.add_insanity_salvatore.dispelincreasesactivations","Loitsija muuttuu seonneeksi hirvittäväksi haamuksi {TURNS} vuoron ajaksi. Tämä vaikutus on [#!]sitkeä.[#]
+[*] Seonneen hirvittävän haamun muodossa loitsija tuottaa automaattisesti {POWER1} % vauriota ja aiheuttaa {STATUSEFFECT1INSANITYTOADD} [#!]hulluutta[#] satunnaiselle viholliselle joka vuorolla.
+[*] Seonneen hirvittävän haamun muodossa olevaa loitsijaa voivat vaurioittaa vain sellaiset viholliset, joiden elementti on vahva heitä vastaan."
+"specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.dispelincreasesactivations","Loitsija muuttuu hirvittäväksi haamuksi {TURNS} vuoron ajaksi. Tämä vaikutus on [#!]sitkeä.[#]
+[*] Hirvittävän haamun muodossa oleva loitsija aiheuttaa joka vuorolla satunnaiselle viholliselle automaattisesti {POWER1} % vauriota.
+[*] Hirvittävän haamun muodossa olevaa loitsijaa voivat vaurioittaa vain sellaiset viholliset, joiden elementti on vahva loitsijaa vastaan."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff","Puhdistaa kaikilta liittolaisilta vaivat jokaisen vuoron lopussa {TURNS} vuoron ajan."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.bypassremoveeffects","Puhdistaa turvallisesti kaikilta liittolaisilta vaivat jokaisen vuoron lopussa {TURNS} vuoron ajan."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.customremovalcount","Puhdistaa kaikilta liittolaisilta 1 vaivan jokaisen vuoron lopussa {TURNS} vuoron ajan."
@@ -27932,6 +27965,8 @@ Jos limaa ei kukisteta {CHANGEDAPPEARANCETURNS} vuoron aikana, se syntyy uudelle
 "specials.v2.statuseffect.minor.elementswapovertime.allexceptcaster.allies","Kaikki liittolaiset loitsijaa lukuun ottamatta kärsivät [#!]elementaalivirtauksesta[#] {TURNS} vuoron ajan. Niiden elementti vaihtuu satunnaisesti joka vuorolla."
 "specials.v2.statuseffect.minor.elementswapovertime.damage_to_green.all.enemies","Kaikki viholliset kärsivät [#!]elementaalivirtauksesta[#] {TURNS} vuoron ajan. Niiden elementti vaihtuu satunnaisesti joka vuorolla tuottaen {DAMAGEPERTURN} vauriota aina kun niiden elementti vaihtuu [##elementgreen]luonnoksi[#]."
 "specials.v2.statuseffect.minor.elementswapovertime.damage_to_yellow.all.enemies","Kaikki viholliset kärsivät [#!]elementaalivirtauksesta[#] {TURNS} vuoron ajan. Niiden elementti vaihtuu satunnaisesti joka vuorolla tuottaen {DAMAGEPERTURN} vauriota aina kun niiden elementti vaihtuu [##elementyellow]pyhäksi[#]."
+"specials.v2.statuseffect.minor.ethereal.single.allies.dispelincreasesactivations","Loitsija muuttuu haamuksi {TURNS} vuoron ajaksi.
+[*] Haamun muodossa loitsija saa {ATTACK} % hyökkäystä. Tämä vaikutus on [#!]sitkeä[#]."
 "specials.v2.statuseffect.minor.explodingberserk.single.allies","Loitsija saa {ATTACK} % hyökkäystä ja {CHANGE} %:n lisäyksen aina, kun häneen tai hänen liittolaisiinsa osutaan {TURNS} vuoron aikana, yhteensä enintään {MAXMODIFIER} % hyökkäystä. Kun vaikutus loppuu, kaikki viholliset saavat {DAMAGE} vauriota. Kaikki efektin voimassaolon aikana loitsijaan tai hänen liittolaisiinsa osuneet osumat lisäävät vauriota {ADDITIONALDAMAGEPERHIT}. Vaurio voi olla enintään {MAXDAMAGE}."
 "specials.v2.statuseffect.minor.extradamageagainstboostedhealth.all.allies.troop.npcnormalattack.specialskill.statuseffectskill","Kaikkien liittolaisten normaalit hyökkäykset ja erikoistaidot tuottavat {TURNS} vuoron ajan {DAMAGEMULTIPLIER} % vauriota kohteille, joiden terveyttä on tehostettu."
 "specials.v2.statuseffect.minor.fearstatuseffectskill.all.enemies.on.allyspecial.damage.random.allies","Kaikki viholliset [#!]pelkäävät[#] {TURNS} vuoron ajan."
@@ -28005,6 +28040,14 @@ Jos limaa ei kukisteta {CHANGEDAPPEARANCETURNS} vuoron aikana, se syntyy uudelle
 "specials.v2.statuseffect.minor.frost.single.enemies.contagious","Kohde kärsii {DAMAGE} jäävauriota {TURNS} vuoron aikana. Vaikutus leviää lähellä oleviin vihollisiin."
 "specials.v2.statuseffect.minor.frost.single.enemies.contagious.noturns","Kohde kärsii {DAMAGE} pistettä [#!]pysyvää[#] jäävauriota joka vuorolla. Vaikutus leviää lähellä oleviin vihollisiin."
 "specials.v2.statuseffect.minor.gamble.all.allies","Kaikki liittolaiset saavat {ATTACK} % hyökkäystä {ACCURACY} %:n tarkkuudella {TURNS} vuoron ajaksi."
+"specials.v2.statuseffect.minor.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies.dispelincreasesactivations","Loitsija muuttuu haamuksi {TURNS} vuoron ajaksi. Tämä vaikutus on [#!]sitkeä.[#]
+[*] Kun haamuna oleminen päättyy:
+[*] Kaikki liittolaiset saavat {REMOVALEFFECT1STATUSEFFECT1CRIT} % kriittisiä iskuja {REMOVALEFFECT1STATUSEFFECT1TURNS} vuoron ajaksi. Vaikutusta ei voi häivyttää."
+"specials.v2.statuseffect.minor.ghost.single.allies.onremoval.revival.randomdead.allies.expiration.hp_recovery_sable.all.allies.dispel_ailments.all.allies.dispelincreasesactivations","Loitsija muuttuu haamuksi {TURNS} vuoron ajaksi. Tämä vaikutus on [#!]sitkeä.[#]
+[*] Kun haamumuoto päättyy:
+[*] Loitsija elvyttää yhden satunnaisen kukistuneen liittolaisen {REMOVALEFFECT1POWER} %:n terveyteen.
+[*] Kaikki liittolaiset saavat {REMOVALEFFECT1STATUSEFFECT1TOTAL} terveyttä {REMOVALEFFECT1STATUSEFFECT1TURNS} vuoron ajan.
+[*] Puhdistaa vaivat kaikilta liittolaisilta jokaisen vuoron lopussa {REMOVALEFFECT1STATUSEFFECT2TURNS} vuoron ajan."
 "specials.v2.statuseffect.minor.giftbomb.single.enemies.neartotargetminor.allies.death.expiration","Kohde saa lahjapommin. Lahjapommi räjähtää {TURNS} vuoron jälkeen tehden {DAMAGE} vauriota kohteelle ja {MINORDAMAGE} vauriota lähellä oleville kohteille. Lahjapommi räjähtää myös silloin, jos kohde kukistuu."
 "specials.v2.statuseffect.minor.giftbomb.single.enemies.onremoval.damage.neartotarget.allies.death.expiration","Kohde saa lahjapommin. Lahjapommi räjähtää {TURNS} vuoron jälkeen tehden {DAMAGE} vauriota kohteelle ja lähellä oleville vihollisille. Lahjapommi räjähtää myös silloin, jos kohde kukistuu."
 "specials.v2.statuseffect.minor.grapple.single.enemies","Nappaa kohteen. Napatun kohteen normaali hyökkäys laskee 1:een ja kohde kärsii {DAMAGE} vauriota {TURNS} vuoron aikana."
@@ -28494,6 +28537,7 @@ Jos limaa ei kukisteta {CHANGEDAPPEARANCETURNS} vuoron aikana, se syntyy uudelle
 "specials.v2.statuseffect.minor.stackingattackmodifier.all.allies.effect_per_eaten_familiar.parasite.bigparasite","[#!]Kasauma (maksimi: {MAXSTACK}):[#] Kaikki liittolaiset saavat {ATTACK} % hyökkäystä jokaisesta tuhotusta riiviöstä."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies","[#!]Kasauma (maksimi: {MAXSTACK}):[#] Loitsija saa {ATTACK} % hyökkäystä."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.effect_per_eaten_familiar.minion.follower.bigminion","[#!]Kasauma (maksimi: {MAXSTACK}):[#] Loitsija saa {ATTACK} % hyökkäystä jokaisesta tuhotusta käskyläisestä."
+"specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.withbasestackcount","[#!]Kasauma +{BASESTACKCOUNT} (maksimi: {MAXSTACK}):[#] Loitsija saa {ATTACK} % hyökkäystä."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.enemies.chain_strike","[#!]Kasauma (maksimi: {MAXSTACK}):[#] Kohde saa jokaisesta iskusta {ATTACK} % hyökkäystä."
 "specials.v2.statuseffect.minor.stackingattackmodifieragainstweakerelement.single.allies","[#!]Kasauma (maksimi: {MAXSTACK}):[#] Loitsija saa {ATTACK} % hyökkäystä heikointa elementtiä vastaan."
 "specials.v2.statuseffect.minor.stackingcritmodifier.all.allies","[#!]Kasauma (maksimi: {MAXSTACK}):[#] Kaikki liittolaiset saavat {CRIT} % kriittisiä iskuja."
@@ -28513,6 +28557,7 @@ Jos limaa ei kukisteta {CHANGEDAPPEARANCETURNS} vuoron aikana, se syntyy uudelle
 "specials.v2.statuseffect.minor.stackingicebound.all.enemies.effect_per_kill.minion.follower","[#!]Kasauma (maksimi: {MAXSTACK}):[#] Kaikki viholliset saavat joka vuoron jälkeen {DAMAGE} jäävauriota jokaisesta kukistetusta vihollisesta tai vihollisen käskyläisestä."
 "specials.v2.statuseffect.minor.stackingicebound.neartotarget.enemies","[#!]Kasauma (maksimi: {MAXSTACK}):[#] Kohde ja lähellä olevat viholliset saavat joka vuoron jälkeen {DAMAGE} jäävauriota."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies","[#!]Kasauma (maksimi: {MAXSTACK}):[#] Kaikki liittolaiset saavat {MANAREGEN} % manatuotantoa."
+"specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies.withbasestackcount","[#!]Kasauma +{BASESTACKCOUNT} (maksimi: {MAXSTACK}):[#] Kaikki liittolaiset saavat {MANAREGEN} % manatuotantoa."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies","[#!]Kasauma (maksimi: {MAXSTACK}):[#] Kaikki viholliset saavat {MANAREGEN} % manatuotantoa."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies.effect_per_eaten_familiar.minion.follower","[#!]Kasauma (maksimi: {MAXSTACK}):[#] Kaikki viholliset saavat {MANAREGEN} % manatuotantoa jokaisesta tuhotusta käskyläisestä."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies.effect_per_kill.minion.follower","[#!]Kasauma (maksimi: {MAXSTACK}):[#] Kaikki viholliset saavat {MANAREGEN} % manatuotantoa jokaisesta kukistetusta vihollisesta tai vihollisen käskyläisestä."
@@ -28521,6 +28566,7 @@ Jos limaa ei kukisteta {CHANGEDAPPEARANCETURNS} vuoron aikana, se syntyy uudelle
 "specials.v2.statuseffect.minor.stackingminionattackmodifier.all.allies","[#!]Kasauma (maksimi: {MAXSTACK}):[#] Kaikki liittolaiset saavat {ATTACK} % hyökkäystä käskyläisilleen."
 "specials.v2.statuseffect.minor.stackingminionmaxhealthmodifier.all.allies","[#!]Kasauma (maksimi: {MAXSTACK}):[#] Kaikki liittolaiset saavat {MAXHEALTH} % perittyä terveyttä uusista kutsumistaan käskyläisistä."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease","[#!]Kasauma (maksimi: {MAXSTACK}):[#] Kaikki liittolaisten kärsimä vaurio laskee {DAMAGEMODIFIER} %"
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease.withbasestackcount","[#!]Kasauma +{BASESTACKCOUNT} (maksimi: {MAXSTACK}):[#] Kaikki liittolaisten kärsimä vaurio laskee {DAMAGEMODIFIER} %"
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies","[#!]Kasauma (maksimi: {MAXSTACK}):[#] Kaikki vihollisten kärsimä vaurio kasvaa {DAMAGEMODIFIER} %"
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies.withbasestackcount","[#!]Kasauma +{BASESTACKCOUNT} (maksimi: {MAXSTACK}):[#] Kaikki vihollisten kärsimä vaurio kasvaa {DAMAGEMODIFIER} %."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.lessthanhalfhpleft.enemies","[#!]Kasauma (maksimi: {MAXSTACK}):[#] Viholliset, joilla on alle 50 % terveyttä jäljellä, kärsivät {DAMAGEMODIFIER} % vauriota."
@@ -28532,6 +28578,7 @@ Jos limaa ei kukisteta {CHANGEDAPPEARANCETURNS} vuoron aikana, se syntyy uudelle
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.allies.decrease","[#!]Kasauma (maksimi: {MAXSTACK}):[#] Kaikki loitsijan kärsimä vaurio laskee {DAMAGEMODIFIER} %"
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies","[#!]Kasauma (maksimi: {MAXSTACK}):[#] Kaikki kohteen kärsimä vaurio kasvaa {DAMAGEMODIFIER} %."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.chain_strike","[#!]Kasauma (maksimi: {MAXSTACK}):[#] Jokainen osuma nostaa kaikkea kohteen kärsimää vauriota {DAMAGEMODIFIER} %"
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.withbasestackcount.chain_strike","[#!]Kasauma +{BASESTACKCOUNT} (maksimi: {MAXSTACK}):[#] Jokainen osuma nostaa kaikkea kohteen kärsimää vauriota {DAMAGEMODIFIER} %"
 "specials.v2.statuseffect.minor.statuseffectgeneratorstatuseffectskill.allexceptcaster.allies.on.ownturnstart.basic_attack_bluecat.mana_regen_bluecat.dispelincreasesactivations","[#!]Tehosteiden lähde:[#] Seuraavat efektit loitsitaan satunnaiselle liittolaiselle loitsijaa lukuun ottamatta jokaisen vuoron alussa:
 [*]{STATUSEFFECT1ATTACK} % hyökkäystä {STATUSEFFECT1TURNS} vuoron ajaksi.
 [*]{STATUSEFFECT2MANAREGEN} % manatuotantoa {STATUSEFFECT2TURNS} vuoron ajaksi.
@@ -28624,6 +28671,7 @@ Jos limaa ei kukisteta {CHANGEDAPPEARANCETURNS} vuoron aikana, se syntyy uudelle
 "specials.v2.statuseffect.minor.toxin.sides.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","Vihollismuodostelman laidoilla olevat viholliset kärsivät {DAMAGE} [#!]toksiinivauriota[#] {TURNS} vuoron aikana. Vaurio kasvaa, jos kohteella on tehostettua terveyttä, käskyläisiä tai megakäskyläinen."
 "specials.v2.statuseffect.minor.toxin.single.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","Kohde kärsii {DAMAGE} [#!]toksiini[#]vauriota {TURNS} vuoron aikana. Vaurio kasvaa, jos kohteella on tehostettua terveyttä, käskyläisiä tai megakäskyläinen."
 "specials.v2.statuseffect.minor.transcendentalframe.single.allies","Loitsija muuttuu haamuksi {TURNS} vuoron ajaksi."
+"specials.v2.statuseffect.minor.transcendentalframe.single.allies.dispelincreasesactivations","Loitsija muuttuu haamuksi {TURNS} vuoron ajaksi. Tämä vaikutus on [#!]sitkeä[#]."
 "specials.v2.statuseffect.minor.underwater.all.enemies","Kaikki viholliset kärsivät {DAMAGE} vesivauriota {TURNS} vuoron aikana."
 "specials.v2.statuseffect.minor.underwater.all.enemies.absorb_healing.to.single","Kaikki viholliset kärsivät {DAMAGE} vesivauriota {TURNS} vuoron aikana. Loitsija imee {ABSORBHEALING} % tuotetusta vesivauriosta terveytenä."
 "specials.v2.statuseffect.minor.underwater.neartotarget.enemies","Kohde ja lähellä olevat viholliset kärsivät {DAMAGE} vesivauriota {TURNS} vuoron aikana."

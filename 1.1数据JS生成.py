@@ -12,24 +12,18 @@ from tqdm import tqdm
 
 # --- 文本标准化函数 ---
 def normalize_for_hero_name(text):
-    """专用于英雄名称的规范化，会移除空格和部分标点。"""
     if not isinstance(text, str): return ""
     text = unicodedata.normalize('NFKD', text).encode('ascii', 'ignore').decode('utf-8')
     text = re.sub(r"[\s.'´\[\]-]", "", text)
     return text.lower()
 
 def normalize_for_generic_lookup(text):
-    """通用值的规范化，移除空格和部分标点。"""
     if not isinstance(text, str): return ""
     text = unicodedata.normalize('NFKD', text).encode('ascii', 'ignore').decode('utf-8')
     text = re.sub(r"[\s.'´\[\]-]", "", text)
     return text.lower()
 
 def format_skill_description(description_str):
-    """
-    根据复杂的嵌套规则格式化长技能描述字符串。
-    仅当字符串同时包含 ':' 和 '*' 时才执行格式化。
-    """
     if not isinstance(description_str, str) or not description_str or ':' not in description_str or '*' not in description_str:
         return [description_str]
 
@@ -44,12 +38,9 @@ def format_skill_description(description_str):
         for part in parts[1:]:
             part = part.strip()
             if not part: continue
-            
             line = "* " + part
-            
             last_period_index = line.rfind('.')
             last_colon_index = line.rfind(':')
-
             if last_colon_index > last_period_index and last_period_index != -1:
                 actual_bullet = line[:last_period_index + 1].strip()
                 sub_heading = line[last_period_index + 1:].strip()
@@ -58,16 +49,13 @@ def format_skill_description(description_str):
                     final_lines.append(sub_heading)
             else:
                 final_lines.append(line)
-                
     return final_lines
 
 # --- 内置拼写纠正字典 ---
-# 在此添加YML文件中的错误英雄名及其正确的名字
 hero_name_corrections = {
     "Ascension Mimic Blue": "Ascension Mimic Ice",
 }
 
-# --- family修正字典 ---
 family_corrections = {
     "zodiac_dragon": "zodiac",
     "zodiac_ox": "zodiac",
@@ -82,7 +70,6 @@ family_corrections = {
     "ghosts": "ghost",
     "sunbayshark": "shark",
     "harpies": "harpy",
-    
 }
 
 typo_corrections = {
@@ -102,7 +89,6 @@ typo_corrections = {
     "Strike of Thousand Howls": "Strike of a Thousand Howls", "Judgement of Sun": "Judgment of Sun",
     "Ruler of the Seas": "Ruler of Seas","Essense of Queen Nitocris":"Essence of Queen Nitocris","Forged fom Gold":"Forged from Gold","Mending Stiches":"Mending Stitches"
 }
-# --- 字典键修正 (Key Correction) ---
 key_corrections = {'Kalø': 'Kalo'}
 
 # --- 配置 ---
@@ -115,13 +101,12 @@ OUTPUT_JS_FILE_TC = 'heroes_data_tc.js'
 OUTPUT_JS_FILE_EN = 'heroes_data_en.js'
 EXTRA_HEROES_JSON_FILE = 'extra_heroes.json'
 
-# --- 属性计算参数 (来自 计算英雄满级属性.py) ---
 RARITY_PARAMS = {
-    5: {"m1": 4, "m2": 265, "lb1": 20, "lb2": 40},  # 5星
-    4: {"m1": 5, "m2": 225, "lb1": 23, "lb2": 46},  # 4星
-    3: {"m1": 6, "m2": 123, "lb1": 29, "lb2": 58},  # 3星
-    2: {"m1": 7, "m2": 93, "lb1": 0, "lb2": 0},    # 2星
-    1: {"m1": 8, "m2": 31, "lb1": 0, "lb2": 0}     # 1星
+    5: {"m1": 4, "m2": 265, "lb1": 20, "lb2": 40},
+    4: {"m1": 5, "m2": 225, "lb1": 23, "lb2": 46},
+    3: {"m1": 6, "m2": 123, "lb1": 29, "lb2": 58},
+    2: {"m1": 7, "m2": 93, "lb1": 0, "lb2": 0},
+    1: {"m1": 8, "m2": 31, "lb1": 0, "lb2": 0}
 }
 
 # --- 全局变量 ---
@@ -129,19 +114,19 @@ LANGUAGES = ['cn', 'tc', 'en']
 translations = {}
 hero_map_processed = {}
 hero_keys_sorted = []
-heroes_extra_lookup = {}
+heroes_extra_lookup = {}          # name_key -> [entry, ...]
+heroes_extra_by_heroid = {}       # heroId   -> entry
 heroes_extra_cn_lookup = {}
 appearance_map_cn = {"costume": "C1", "costume1": "C1", "costume2": "C2", "costume3": "C3", "toon": "卡通", "glass": "玻璃", "stylish": "英姿"}
 appearance_map_tc = {"costume": "C1", "costume1": "C1", "costume2": "C2", "costume3": "C3", "toon": "公仔", "glass": "玻璃", "stylish": "有型"}
 appearance_map_en = {"costume": "C1", "costume1": "C1", "costume2": "C2", "costume3": "C3", "toon": "Toon", "glass": "Glass", "stylish": "Stylish"}
 
 SKILL_CATEGORY_ORDER = ["基础技能", "特殊效果", "增益效果", "负面效果"]
-# --- 官方技能名（按语言，TXT）---
 SKILL_NAME_TXT_DIR = r'./dict_gen/官方语言字典生成/generated_txt'
 skill_name_by_lang = {}
 
 SIMPLE_DICT_CONFIG = {
-    'hero_names': 'heroes_name_dict', 
+    'hero_names': 'heroes_name_dict',
     'heroes_name_fancy': 'heroes_name_fancy_dict',
     'aether_powers': 'aether_power_dict',
     'skill_types_cn': 'skill_types_cn_dict',
@@ -149,15 +134,12 @@ SIMPLE_DICT_CONFIG = {
 BASE_DICT_FILE_STEM = 'base_values_dict'
 
 IGNORABLE_SUFFIXES = {'dark', 'holy', 'ice', 'nature', 'fire', 'red'}
-# 新增全局变量
 HERO_NAME_TO_ID_MAP = {}
 HERO_ID_TO_FANCY_MAP = {}
 
 def load_hero_name_mappings():
-    """从txt文件加载英雄名称到ID和fancy name的映射"""
     global HERO_NAME_TO_ID_MAP, HERO_ID_TO_FANCY_MAP
-    
-    # 加载英雄名称到ID的映射
+
     heroes_name_en_file = './dict_gen/官方语言字典生成/generated_txt/heroes_name_en.txt'
     if os.path.exists(heroes_name_en_file):
         with open(heroes_name_en_file, 'r', encoding='utf-8') as f:
@@ -167,14 +149,12 @@ def load_hero_name_mappings():
                     key, value = line.split(',', 1)
                     key = key.strip().strip('"')
                     value = value.strip().strip('"')
-                    # key格式: "heroes.name.institute_wilcox"
-                    hero_id = key.split('.')[-1]  # 提取institute_wilcox
-                    HERO_NAME_TO_ID_MAP[value] = hero_id  # Wilcox -> institute_wilcox
+                    hero_id = key.split('.')[-1]
+                    HERO_NAME_TO_ID_MAP[value] = hero_id
         print(f"✅ 已加载 {len(HERO_NAME_TO_ID_MAP)} 条英雄名称到ID的映射")
     else:
         print(f"❌ 未找到英雄名称映射文件: {heroes_name_en_file}")
-    
-    # 加载英雄ID到fancy name的映射
+
     heroes_name_fancy_en_file = './dict_gen/官方语言字典生成/generated_txt/heroes_name_fancy_en.txt'
     if os.path.exists(heroes_name_fancy_en_file):
         with open(heroes_name_fancy_en_file, 'r', encoding='utf-8') as f:
@@ -184,16 +164,14 @@ def load_hero_name_mappings():
                     key, value = line.split(',', 1)
                     key = key.strip().strip('"')
                     value = value.strip().strip('"')
-                    # key格式: "heroes.name_fancy.institute_wilcox"
-                    hero_id = key.split('.')[-1]  # 提取institute_wilcox
-                    HERO_ID_TO_FANCY_MAP[hero_id] = value  # institute_wilcox -> Hotshot Physicist
+                    hero_id = key.split('.')[-1]
+                    HERO_ID_TO_FANCY_MAP[hero_id] = value
         print(f"✅ 已加载 {len(HERO_ID_TO_FANCY_MAP)} 条英雄ID到fancy name的映射")
     else:
         print(f"❌ 未找到英雄fancy名称映射文件: {heroes_name_fancy_en_file}")
 
-# --- 新增：百分比解析函数 ---
+# --- 百分比解析 ---
 def parse_percentage(val):
-    """将 '5%' 转换为 0.05，如果无效则返回 0.0"""
     if not isinstance(val, str) or '%' not in val:
         return 0.0
     try:
@@ -201,58 +179,45 @@ def parse_percentage(val):
     except:
         return 0.0
 
-# --- 属性计算函数 (修改版：支持 bonuses) ---
+# --- 属性计算（两步整数截断，匹配游戏内） ---
 def calculate_base_stats(base_attack, base_defense, base_health, rarity, bonuses=None):
-    """
-    计算基础加成后的属性（Max Level不含LB），并应用加成（如果有）。
-    bonuses 格式: {'attack': 0.05, 'defense': 0.05, ...}
-    """
     if bonuses is None: bonuses = {}
     params = RARITY_PARAMS.get(rarity, {"m1": 0, "m2": 0, "lb1": 0, "lb2": 0})
     m1, m2 = params["m1"], params["m2"]
-    
+    growth_permille = 1000 + m1 * m2
+
     def calc_attribute(base_value, bonus_pct):
-        # 1. 基础成长计算
-        val = base_value + (base_value * m1 / 1000 * m2)
-        # 2. 应用百分比加成 (Base * (1 + Bonus))
-        final_val = val * (1 + bonus_pct)
-        return int(final_val)
-    
+        bonus_permille = int(round(bonus_pct * 1000))
+        stat80 = base_value * growth_permille // 1000
+        return stat80 * (1000 + bonus_permille) // 1000
+
     return {
-        "attack": calc_attribute(base_attack, bonuses.get('attack', 0)),
+        "attack":  calc_attribute(base_attack,  bonuses.get('attack', 0)),
         "defense": calc_attribute(base_defense, bonuses.get('defense', 0)),
-        "health": calc_attribute(base_health, bonuses.get('health', 0))
+        "health":  calc_attribute(base_health,  bonuses.get('health', 0)),
     }
 
 def calculate_lb_stats(base_attack, base_defense, base_health, rarity, level, bonuses=None):
-    """
-    计算LB属性，并应用加成（如果有）。
-    level: 2 for LB1, 3 for LB2
-    """
     if bonuses is None: bonuses = {}
     params = RARITY_PARAMS.get(rarity, {"m1": 0, "m2": 0, "lb1": 0, "lb2": 0})
     m1, m2, lb1_val, lb2_val = params["m1"], params["m2"], params["lb1"], params["lb2"]
-    
-    def calc_attribute(base_value, bonus_pct):
-        # 第一步：基础加成计算
-        val = base_value + (base_value * m1 / 1000 * m2)
-        # 第二步：LB1加成
-        if level >= 2:
-            val += (base_value * lb1_val / 1000 * 8)
-        # 第三步：LB2加成
-        if level >= 3:
-            val += (base_value * lb2_val / 1000 * 8)
-        
-        # 第四步：应用百分比加成
-        final_val = val * (1 + bonus_pct)
-        return int(final_val)
-    
-    return {
-        "attack": calc_attribute(base_attack, bonuses.get('attack', 0)),
-        "defense": calc_attribute(base_defense, bonuses.get('defense', 0)),
-        "health": calc_attribute(base_health, bonuses.get('health', 0))
-    }
+    growth_permille = 1000 + m1 * m2
 
+    def calc_attribute(base_value, bonus_pct):
+        bonus_permille = int(round(bonus_pct * 1000))
+        stat80 = base_value * growth_permille // 1000
+        lb_bonus = 0
+        if level >= 2:
+            lb_bonus += base_value * lb1_val * 8 // 1000
+        if level >= 3:
+            lb_bonus += base_value * lb2_val * 8 // 1000
+        return (stat80 + lb_bonus) * (1000 + bonus_permille) // 1000
+
+    return {
+        "attack":  calc_attribute(base_attack,  bonuses.get('attack', 0)),
+        "defense": calc_attribute(base_defense, bonuses.get('defense', 0)),
+        "health":  calc_attribute(base_health,  bonuses.get('health', 0)),
+    }
 
 # --- 功能函数 ---
 def setup_logging():
@@ -282,7 +247,6 @@ def clean_string_for_output(text):
 def calculate_power(attack, defense, hp, star):
     if not all(isinstance(i, (int, float)) for i in [attack, defense, hp, star]): return 0
     star_power_map = {1: 0, 2: 10, 3: 30, 4: 50, 5: 90}
-    # 注意：这里的 attack/defense/hp 应该是包含加成后的最终值，计算出的Power才准确
     power = (0.35 * attack) + (0.28 * defense) + (0.14 * hp) + (5 * 7) + star_power_map.get(star, 0)
     return math.floor(power)
 
@@ -294,55 +258,34 @@ def strip_ignorable_suffix(name):
     return name
 
 def load_skill_name_txt_dict():
-    """
-    加载官方技能名：
-    skill_name_cn.txt / skill_name_tc.txt / skill_name_en.txt
-    """
     global skill_name_by_lang
     skill_name_by_lang = {}
 
     for lang in LANGUAGES:
         skill_name_by_lang[lang] = {}
         path = os.path.join(SKILL_NAME_TXT_DIR, f"skill_name_{lang}.txt")
-
         if not os.path.exists(path):
             logging.warning(f"[skill] 未找到技能字典: {path}")
             continue
-
         with open(path, "r", encoding="utf-8") as f:
             for line in f:
                 line = line.strip()
                 if not line or "," not in line:
                     continue
-
-                # "specials.name.xxx","Skill Name"
                 key, val = line.split(",", 1)
                 key = key.strip().strip('"')
                 val = val.strip().strip('"')
-
                 skill_name_by_lang[lang][key] = val
+        logging.info(f"[skill] 已加载 {lang} 技能 {len(skill_name_by_lang[lang])} 条")
 
-        logging.info(
-            f"[skill] 已加载 {lang} 技能 {len(skill_name_by_lang[lang])} 条"
-        )
-        
 def get_skill_name(special_id, lang):
-    """
-    唯一技能获取方式：
-    specialId + lang → 官方技能名
-    """
     if not special_id:
         return ""
-
     key = f"specials.name.{special_id}"
     skill = skill_name_by_lang.get(lang, {}).get(key)
-
     if not skill:
-        logging.getLogger("failures").warning(
-            f"[skill][{lang}] 缺失技能名: {key}"
-        )
+        logging.getLogger("failures").warning(f"[skill][{lang}] 缺失技能名: {key}")
         return ""
-
     return skill
 
 def load_all_dictionaries(dictionary_base_dir):
@@ -375,7 +318,7 @@ def load_all_dictionaries(dictionary_base_dir):
                     if key not in translations: translations[key] = {lang: {} for lang in LANGUAGES}
                     translations[key][lang] = value_dict
             except Exception as e: logging.error(f"加载基础数据文件 '{filepath}' 时出错: {e}")
-            
+
     print("正在创建宽容匹配字典...")
     for key in list(translations.keys()):
         if key.endswith('_tolerant'): continue
@@ -421,14 +364,10 @@ def translate_name(name_en):
                 base_name_trans = f"{cn_base} ({cleaned_english_name})".strip() if cn_base else cleaned_english_name
             translated_suffix = ""
             if suffix_part:
-                if lang == 'en':
-                    current_map = appearance_map_en
-                elif lang == 'cn':
-                    current_map = appearance_map_cn
-                elif lang == 'tc':
-                    current_map = appearance_map_tc
-                else:
-                    current_map = appearance_map_en   # 或其他默认值
+                if lang == 'en': current_map = appearance_map_en
+                elif lang == 'cn': current_map = appearance_map_cn
+                elif lang == 'tc': current_map = appearance_map_tc
+                else: current_map = appearance_map_en
                 normalized_suffix_part = suffix_part.lower().replace(" ", "")
                 translated_suffix = current_map.get(normalized_suffix_part, suffix_part)
             final_names[lang] = f"{base_name_trans} {translated_suffix}".strip() if translated_suffix else base_name_trans
@@ -451,7 +390,6 @@ def translate_single_value(value, dict_key):
     if not found_any:
         logging.getLogger('failures').warning(f"翻译缺失: 字典='{dict_key}', 值='{value}' (规范化为: '{normalized_value}')")
     return translations_out
-
 
 def translate_list(items_list, dict_key):
     if not isinstance(items_list, list): return {lang: items_list for lang in LANGUAGES}
@@ -479,8 +417,16 @@ def flatten_list(nested_list):
         elif item is not None: flat_list.append(item)
     return flat_list
 
+# =====================================================================
+# heroes_data_extra.js 加载 + 严格三条件匹配
+# =====================================================================
 def load_heroes_data_extra():
-    global heroes_extra_lookup
+    """
+    加载 heroes_data_extra.js：
+      - heroes_extra_lookup   : name_key -> [entry, ...]
+      - heroes_extra_by_heroid: heroId   -> entry
+    """
+    global heroes_extra_lookup, heroes_extra_by_heroid
     if not os.path.exists(HEROES_DATA_EXTRA_FILE):
         logging.warning(f"警告: 额外数据文件未找到: {HEROES_DATA_EXTRA_FILE}")
         return
@@ -489,16 +435,105 @@ def load_heroes_data_extra():
             js_content = f.read()
         match = re.search(r'=\s*(\[[\s\S]*?\])\s*;', js_content)
         if not match:
-            logging.error(f"在 '{HEROES_DATA_EXTRA_FILE}' 中找不到 'window.allHeroesExtra =' 或类似的数组结构。")
+            logging.error(f"在 '{HEROES_DATA_EXTRA_FILE}' 中找不到数组结构。")
             return
-        json_str = match.group(1)
-        json_str = re.sub(r',\s*([\]}])', r'\1', json_str) 
+        json_str = re.sub(r',\s*([\]}])', r'\1', match.group(1))
         data = json.loads(json_str)
+
+        heroes_extra_lookup = {}
+        heroes_extra_by_heroid = {}
+
         for entry in data:
             if name_raw := entry.get('name'):
-                lookup_name = name_raw
-                heroes_extra_lookup[normalize_for_hero_name(lookup_name)] = entry
-    except Exception as e: logging.error(f"处理 '{HEROES_DATA_EXTRA_FILE}' 时发生未知错误: {e}", exc_info=True)
+                key = normalize_for_hero_name(name_raw)
+                heroes_extra_lookup.setdefault(key, []).append(entry)
+            hid = entry.get('heroId')
+            if hid:
+                heroes_extra_by_heroid[hid] = entry
+
+        # 加载期提示同 key 多条目
+        for k, lst in heroes_extra_lookup.items():
+            if len(lst) > 1:
+                infos = [
+                    (e.get('name'), e.get('element'), e.get('class'), e.get('heroId'))
+                    for e in lst
+                ]
+                msg = f"ℹ️ heroes_data_extra 同 key 多条目: '{k}' → {infos}"
+                print(msg)
+                logging.info(msg)
+    except Exception as e:
+        logging.error(f"处理 '{HEROES_DATA_EXTRA_FILE}' 时发生未知错误: {e}", exc_info=True)
+
+
+def lookup_hero_extra(name_raw, color=None, class_hint=None):
+    """
+    ★ 严格三条件匹配 ★
+
+    匹配规则：
+      1) name（规范化后）相等；
+      2) entry['element'] 与 color 相等（不区分大小写）；
+      3) entry['class']   与 class_hint 相等（规范化后比较）。
+
+    三个条件必须同时满足才算命中。任一条件不满足，或出现多条满足，
+    都会记 warning 并返回 {}。
+
+    参数:
+      name_raw   : 英雄名（heroes_data_extra 里的 name 写法）
+      color      : 颜色（'blue'/'green'/'purple'/'red'/'yellow' 或 'Fire' 等）
+      class_hint : 职业（'Paladin'/'Sorcerer'/...）
+
+    返回: 命中的 entry 或 {}。
+    """
+    if not name_raw:
+        return {}
+
+    key = normalize_for_hero_name(name_raw)
+    candidates = heroes_extra_lookup.get(key, [])
+    if not candidates:
+        return {}
+
+    if color is None or class_hint is None:
+        logging.getLogger('failures').warning(
+            f"⚠️ 三条件匹配需同时提供 color 和 class，"
+            f"当前 color='{color}', class='{class_hint}', name='{name_raw}' → 返回空"
+        )
+        return {}
+
+    color_norm = str(color).strip().lower()
+    cls_norm = normalize_for_generic_lookup(str(class_hint))
+
+    filtered = []
+    for c in candidates:
+        if str(c.get('element', '')).strip().lower() != color_norm:
+            continue
+        if normalize_for_generic_lookup(str(c.get('class', ''))) != cls_norm:
+            continue
+        filtered.append(c)
+
+    if not filtered:
+        logging.getLogger('failures').warning(
+            f"⚠️ 三条件匹配失败: name='{name_raw}', color='{color}', class='{class_hint}' "
+            f"候选={[(c.get('name'), c.get('element'), c.get('class')) for c in candidates]}"
+        )
+        return {}
+    if len(filtered) > 1:
+        logging.getLogger('failures').warning(
+            f"⚠️ 三条件仍多候选: name='{name_raw}', color='{color}', class='{class_hint}' → "
+            f"{[(c.get('name'), c.get('heroId')) for c in filtered]}"
+        )
+    return filtered[0]
+
+
+def get_class_hint_from_hero_id(hero_id_hint):
+    """从 heroId 反查 class（用于主流程给 lookup_hero_extra 提供 class_hint）。
+       若 heroId 不存在或没有 class 字段，返回 None。"""
+    if not hero_id_hint:
+        return None
+    entry = heroes_extra_by_heroid.get(hero_id_hint)
+    if entry and entry.get('class'):
+        return entry.get('class')
+    return None
+
 
 def load_heroes_data_extra_cn():
     global heroes_extra_cn_lookup
@@ -520,10 +555,7 @@ def load_heroes_data_extra_cn():
             if processed_name.endswith(s):
                 suffix_in, base_name = s, processed_name[:-len(s)]
                 break
-        base_name_normalized = normalize_for_hero_name(base_name)
-        suffix_out = ""
-        if not suffix_out:
-            suffix_out = stats_suffix_map.get(suffix_in, "")
+        suffix_out = stats_suffix_map.get(suffix_in, "")
         corrected_name = f"{base_name}{suffix_out}".strip() if not suffix_out.startswith(' ') else f"{base_name}{suffix_out}"
         normalized_key = normalize_for_hero_name(corrected_name)
         temp_lookup[normalized_key] = entry
@@ -531,36 +563,19 @@ def load_heroes_data_extra_cn():
     logging.info(f"成功加载并规范化 {len(heroes_extra_cn_lookup)} 条中文额外数据。")
 
 def fix_name_brackets(heroes_data):
-    """
-    修复名字中的括号问题，将右括号外的部分移动到括号内
-    但只针对特定的元素名称：'dark', 'holy', 'ice', 'nature', 'fire', 'red'
-    例如："纹章拟态兽 (Emblem Mimic) Ice" -> "纹章拟态兽 (Emblem Mimic Ice)"
-    """
     target_elements = {'dark', 'holy', 'ice', 'nature', 'fire', 'red'}
-    
     for hero in heroes_data:
         name = hero.get('name', '')
         if '(' in name and ')' in name:
-            # 找到右括号的位置
             right_bracket_pos = name.find(')')
-            # 如果右括号后面还有内容
             if right_bracket_pos < len(name) - 1:
-                # 获取括号内的内容
                 bracket_content_start = name.find('(')
                 bracket_content = name[bracket_content_start + 1:right_bracket_pos]
-                
-                # 获取右括号后的内容
                 after_bracket = name[right_bracket_pos + 1:].strip()
-                
-                # 只有当括号后的内容是指定的元素时才进行处理
                 if after_bracket and after_bracket.lower() in target_elements:
-                    # 获取括号前的内容
                     before_bracket = name[:bracket_content_start].strip()
-                    
-                    # 重新组合：前部分 + 括号后内容 + 括号内容
                     fixed_name = f"{before_bracket} ({bracket_content} {after_bracket})".strip()
                     hero['name'] = fixed_name
-    
     return heroes_data
 
 def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_path_tc, output_path_en):
@@ -579,7 +594,7 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                 for filename in os.listdir(star_path):
                     if filename.endswith('.yml') and 'costume' not in filename.lower():
                         hero_files_to_process.append({'filepath': os.path.join(star_path, filename), 'color': color, 'star': star})
-    
+
     print(f"扫描完成，共找到 {len(hero_files_to_process)} 个英雄文件。开始处理...")
     for hero_info in tqdm(hero_files_to_process, desc="处理英雄进度"):
         try:
@@ -587,23 +602,30 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
             with open(filepath, 'r', encoding='utf-8') as f:
                 hero_data = yaml.safe_load(f.read().replace('\t', '    '))
             if not hero_data or 'name' not in hero_data: continue
-            
+
             hero_name_raw = hero_data.get('name')
-            
+
             corrected_name = hero_name_corrections.get(hero_name_raw, hero_name_raw)
             if corrected_name != hero_name_raw:
                 logging.info(f"YML英雄名已纠正: '{hero_name_raw}' -> '{corrected_name}' (文件: {os.path.basename(filepath)})")
                 hero_name_raw = corrected_name
-            
+
             processed_hero_names.add(normalize_for_hero_name(hero_name_raw))
-            
-            # --- 从 heroes_data_extra.js 获取 family 并应用修正 ---
-            extra = heroes_extra_lookup.get(normalize_for_hero_name(hero_name_raw), {})
+
+            # ---- 三条件匹配：color 来自 YML 目录；class_hint 优先 YML，其次 heroId 反查 ----
+            hero_id_hint = HERO_NAME_TO_ID_MAP.get(hero_name_raw)
+            class_hint = hero_data.get('class') or get_class_hint_from_hero_id(hero_id_hint)
+
+            extra = lookup_hero_extra(
+                hero_name_raw,
+                color=current_color,
+                class_hint=class_hint,
+            )
             hero_family = extra.get('family', '')
-            hero_family = family_corrections.get(hero_family, hero_family) # <--- 应用修正
-            
+            hero_family = family_corrections.get(hero_family, hero_family)
+
             source_to_translate = hero_data.get('source')
-            
+
             if hero_family == 'slime': source_to_translate = 'superelemental'
             elif hero_family == 'opera': source_to_translate = 'opera'
             elif hero_family == 'mimic': source_to_translate = 'mimic'
@@ -633,14 +655,13 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
             elif hero_family in ['ronin']: source_to_translate = 'ninja'
             elif hero_family in ['harpy']: source_to_translate = 'harvest'
 
-            # --- 修改: 检测到缺失时，保存名字、颜色和星级 ---
-            if not extra: 
+            if not extra:
                 missing_extra_info.append({
                     "name": hero_name_raw,
                     "color": current_color,
                     "star": current_star
                 })
-            
+
             name_trans = translate_name(hero_name_raw)
             fancy_name_trans = translate_single_value(extra.get('fancy name', ''), 'heroes_name_fancy')
             aether_power_trans = translate_single_value(extra.get('AetherPower', ''), 'aether_powers')
@@ -656,31 +677,27 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                 formatted_effects.extend(format_skill_description(effect))
 
             common_data = {
-                'Release date': extra.get('Release date', ''), 
+                'Release date': extra.get('Release date', ''),
                 'specialId': extra.get('specialId', ''),
                 'passiveSkills': extra.get('passiveSkills', ''),
                 'heroId': extra.get('heroId', ''),
-                'star': current_star, 
-                'power': hero_data.get('power'), 
-                'attack': hero_data.get('attack'), 
-                'defense': hero_data.get('defense'), 
-                'health': hero_data.get('health'), 
-                'effects': formatted_effects, 
-                'passives': flatten_list(hero_data.get('passives', [])), 
+                'star': current_star,
+                'power': hero_data.get('power'),
+                'attack': hero_data.get('attack'),
+                'defense': hero_data.get('defense'),
+                'health': hero_data.get('health'),
+                'effects': formatted_effects,
+                'passives': flatten_list(hero_data.get('passives', [])),
                 'family': hero_family,
-                'costume_id': 0, 
+                'costume_id': 0,
                 'originalIndex': extra.get('heroId', ''),
             }
             lb_data = {}
 
-            # --- 本地计算属性逻辑 ---
-            # 尝试从 extra 数据中获取基础原始属性值
             base_attack_raw = extra.get('baseAttack', 0)
             base_defense_raw = extra.get('baseDefense', 0)
             base_health_raw = extra.get('baseHealth', 0)
 
-            # --- 原版英雄通常没有attackBonus，但为了代码健壮性，这里检查一下 ---
-            # 如果没有，默认为 0.0
             main_bonuses = {
                 'attack': parse_percentage(extra.get('attackBonus')),
                 'defense': parse_percentage(extra.get('defenseBonus')),
@@ -688,32 +705,22 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
             }
 
             if base_attack_raw > 0:
-                # 1. 计算基础加成后的属性 (Max Level)
                 base_stats = calculate_base_stats(base_attack_raw, base_defense_raw, base_health_raw, current_star, bonuses=main_bonuses)
                 common_data['attack'] = base_stats['attack']
                 common_data['defense'] = base_stats['defense']
                 common_data['health'] = base_stats['health']
                 common_data['power'] = calculate_power(base_stats['attack'], base_stats['defense'], base_stats['health'], current_star)
 
-                # 2. 计算 LB 属性 (LB1 & LB2)
-                # LB1 (level=2)
                 lb1_calc = calculate_lb_stats(base_attack_raw, base_defense_raw, base_health_raw, current_star, 2, bonuses=main_bonuses)
                 lb_data['lb1'] = {
-                    'attack': lb1_calc['attack'],
-                    'defense': lb1_calc['defense'],
-                    'health': lb1_calc['health'],
+                    'attack': lb1_calc['attack'], 'defense': lb1_calc['defense'], 'health': lb1_calc['health'],
                     'power': calculate_power(lb1_calc['attack'], lb1_calc['defense'], lb1_calc['health'], current_star)
                 }
-
-                # LB2 (level=3)
                 lb2_calc = calculate_lb_stats(base_attack_raw, base_defense_raw, base_health_raw, current_star, 3, bonuses=main_bonuses)
                 lb_data['lb2'] = {
-                    'attack': lb2_calc['attack'],
-                    'defense': lb2_calc['defense'],
-                    'health': lb2_calc['health'],
+                    'attack': lb2_calc['attack'], 'defense': lb2_calc['defense'], 'health': lb2_calc['health'],
                     'power': calculate_power(lb2_calc['attack'], lb2_calc['defense'], lb2_calc['health'], current_star)
                 }
-            # --------------------------------------------------
 
             cn_skill_info_for_hero = []
             cn_lookup_key = normalize_for_hero_name(strip_ignorable_suffix(hero_name_raw))
@@ -737,7 +744,7 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                 hero_entry = {
                     'name': name_trans[lang], 'fancy_name': fancy_name_trans[lang], 'AetherPower': aether_power_trans[lang],
                     'color': color_trans[lang], 'class': class_trans[lang], 'speed': speed_trans[lang],
-                    'skill': get_skill_name(extra.get('specialId'),lang), 
+                    'skill': get_skill_name(extra.get('specialId'),lang),
                     'source': source_trans[lang], **common_data, **lb_data
                 }
                 if cn_skill_info_for_hero:
@@ -752,29 +759,37 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                     costume_data = hero_data[key]
                     yml_suffix = costume_data.get('design', key)
                     if yml_suffix == "costume": yml_suffix = "costume1"
-                    
-                    base_name_normalized = normalize_for_hero_name(hero_name_raw)
-                    final_suffix = yml_suffix 
+
+                    final_suffix = yml_suffix
                     if yml_suffix == 'costume3': final_suffix = 'toon'
                     elif yml_suffix == 'costume4': final_suffix = 'glass'
                     elif yml_suffix == 'costume5': final_suffix = 'stylish'
 
                     costume_id = int(re.match(r'costume(\d*)', key).group(1) or 1)
                     yml_costume_full_name = f"{hero_name_raw} {final_suffix}".strip()
-                    
-                    extra_c = heroes_extra_lookup.get(normalize_for_hero_name(yml_costume_full_name), {})
-                    # --- 为皮肤英雄获取 family 并应用修正 ---
+
+                    # 皮肤的三条件：name(带后缀) + color + class
+                    costume_hero_id_hint = None
+                    if hero_id_hint:
+                        costume_hero_id_hint = f"{hero_id_hint}_costume_{final_suffix}"
+                    costume_class_hint = costume_data.get('class') or get_class_hint_from_hero_id(costume_hero_id_hint)
+
+                    extra_c = lookup_hero_extra(
+                        yml_costume_full_name,
+                        color=current_color,
+                        class_hint=costume_class_hint,
+                    )
+
                     costume_family = extra_c.get('family', hero_family)
-                    costume_family = family_corrections.get(costume_family, costume_family) # <--- 应用修正
-                    
-                    # --- 修改: 检测到缺失时，保存名字、颜色和星级 ---
+                    costume_family = family_corrections.get(costume_family, costume_family)
+
                     if not extra_c:
                         missing_extra_info.append({
                             "name": yml_costume_full_name,
                             "color": current_color,
                             "star": current_star
                         })
-                    
+
                     name_trans_c = translate_name(yml_costume_full_name)
                     fancy_name_trans_c = translate_single_value(extra_c.get('fancy name', ''), 'heroes_name_fancy')
                     aether_power_trans_c = translate_single_value(extra_c.get('AetherPower', ''), 'aether_powers')
@@ -787,34 +802,31 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                     formatted_effects_c = []
                     for effect in raw_effects_c:
                         formatted_effects_c.extend(format_skill_description(effect))
-                    
+
                     common_data_c = {
-                        'Release date': extra_c.get('Release date', ''), 
+                        'Release date': extra_c.get('Release date', ''),
                         'specialId': extra_c.get('specialId_costume', ''),
                         'parent_specialId': extra_c.get('specialId', ''),
                         'passiveSkills': extra_c.get('passiveSkills', ''),
                         'costumeBonusPassiveSkillIds': extra_c.get('costumeBonusPassiveSkillIds', ''),
                         'heroId': extra_c.get('heroId', ''),
-                        'star': current_star, 
-                        'power': costume_data.get('power'), 
-                        'attack': costume_data.get('attack'), 
-                        'defense': costume_data.get('defense'), 
-                        'health': costume_data.get('health'), 
-                        'effects': formatted_effects_c, 
-                        'passives': flatten_list(costume_data.get('passives', [])), 
+                        'star': current_star,
+                        'power': costume_data.get('power'),
+                        'attack': costume_data.get('attack'),
+                        'defense': costume_data.get('defense'),
+                        'health': costume_data.get('health'),
+                        'effects': formatted_effects_c,
+                        'passives': flatten_list(costume_data.get('passives', [])),
                         'family': costume_family,
-                        'costume_id': costume_id, 
+                        'costume_id': costume_id,
                         'originalIndex': extra_c.get('heroId', '')
                     }
                     lb_data_c = {}
-                    
-                    # --- 本地计算属性逻辑 (皮肤) ---
-                    # 尝试从 extra_c 数据中获取基础原始属性值
+
                     base_attack_raw_c = extra_c.get('baseAttack', 0)
                     base_defense_raw_c = extra_c.get('baseDefense', 0)
                     base_health_raw_c = extra_c.get('baseHealth', 0)
-                    
-                    # --- 提取服装 Bonus ---
+
                     costume_bonuses = {
                         'attack': parse_percentage(extra_c.get('attackBonus')),
                         'defense': parse_percentage(extra_c.get('defenseBonus')),
@@ -822,39 +834,29 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                     }
 
                     if base_attack_raw_c > 0:
-                        # 1. 计算基础加成后的属性 (Max Level) - 传入 bonuses
                         base_stats_c = calculate_base_stats(base_attack_raw_c, base_defense_raw_c, base_health_raw_c, current_star, bonuses=costume_bonuses)
                         common_data_c['attack'] = base_stats_c['attack']
                         common_data_c['defense'] = base_stats_c['defense']
                         common_data_c['health'] = base_stats_c['health']
                         common_data_c['power'] = calculate_power(base_stats_c['attack'], base_stats_c['defense'], base_stats_c['health'], current_star)
 
-                        # 2. 计算 LB 属性 (LB1 & LB2) - 传入 bonuses
-                        # LB1 (level=2)
                         lb1_calc_c = calculate_lb_stats(base_attack_raw_c, base_defense_raw_c, base_health_raw_c, current_star, 2, bonuses=costume_bonuses)
                         lb_data_c['lb1'] = {
-                            'attack': lb1_calc_c['attack'],
-                            'defense': lb1_calc_c['defense'],
-                            'health': lb1_calc_c['health'],
+                            'attack': lb1_calc_c['attack'], 'defense': lb1_calc_c['defense'], 'health': lb1_calc_c['health'],
                             'power': calculate_power(lb1_calc_c['attack'], lb1_calc_c['defense'], lb1_calc_c['health'], current_star)
                         }
-
-                        # LB2 (level=3)
                         lb2_calc_c = calculate_lb_stats(base_attack_raw_c, base_defense_raw_c, base_health_raw_c, current_star, 3, bonuses=costume_bonuses)
                         lb_data_c['lb2'] = {
-                            'attack': lb2_calc_c['attack'],
-                            'defense': lb2_calc_c['defense'],
-                            'health': lb2_calc_c['health'],
+                            'attack': lb2_calc_c['attack'], 'defense': lb2_calc_c['defense'], 'health': lb2_calc_c['health'],
                             'power': calculate_power(lb2_calc_c['attack'], lb2_calc_c['defense'], lb2_calc_c['health'], current_star)
                         }
-                    # --------------------------------------------------
 
                     cn_skill_info_for_costume = []
                     cn_lookup_key_c = normalize_for_hero_name(yml_costume_full_name)
                     cn_extra_data_c = heroes_extra_cn_lookup.get(cn_lookup_key_c, {})
                     if not cn_extra_data_c and current_star not in [1, 2]:
                          missing_cn_skill_info.append(yml_costume_full_name)
-                    
+
                     for cn_category in SKILL_CATEGORY_ORDER:
                         if cn_category in cn_extra_data_c:
                             cn_values_raw = cn_extra_data_c[cn_category]
@@ -882,7 +884,7 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                     original_index_counter += 1
         except Exception as e:
             logging.error(f"处理文件 '{os.path.basename(filepath)}' 时发生严重错误: {e}", exc_info=True)
-            
+
     print(f"\n正在从 {EXTRA_HEROES_JSON_FILE} 加载并处理附加英雄数据...")
     extra_heroes_list = []
     if os.path.exists(EXTRA_HEROES_JSON_FILE):
@@ -904,43 +906,40 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                 print(f"\n提示: 检测到重复英雄 '{hero_name_raw}'。将跳过添加。")
                 logging.warning(f"检测到重复英雄 '{hero_name_raw}'，该英雄已存在于YML数据中，将跳过从 {EXTRA_HEROES_JSON_FILE} 添加。")
                 continue
-            
+
             current_star = hero_data.get('star', 0)
-            
-            # --- 为附加英雄获取 family 并应用修正 ---
+
             hero_family_extra = hero_data.get('family', '')
-            hero_family_extra = family_corrections.get(hero_family_extra, hero_family_extra) # <--- 应用修正
-            
+            hero_family_extra = family_corrections.get(hero_family_extra, hero_family_extra)
+
             name_trans = translate_name(hero_name_raw)
             fancy_name_trans = translate_single_value(hero_data.get('fancy_name', ''), 'heroes_name_fancy')
             aether_power_trans = translate_single_value(hero_data.get('AetherPower', ''), 'aether_powers')
             color_trans = translate_single_value(hero_data.get('color', ''), 'base_values')
-            class_trans = translate_single_value(extra.get('class', ''), 'base_values')
-            speed_trans = translate_single_value(extra.get('speed', ''), 'base_values')
+            class_trans = translate_single_value(hero_data.get('class', ''), 'base_values')
+            speed_trans = translate_single_value(hero_data.get('speed', ''), 'base_values')
             source_trans = translate_single_value(hero_data.get('source', ''), 'source_values')
-            
+
             raw_effects_extra = hero_data.get('effects', [])
             formatted_effects_extra = []
             for effect in raw_effects_extra:
                 formatted_effects_extra.extend(format_skill_description(effect))
-            
+
             common_data = {
-                'Release date': hero_data.get('Release date', ''), 
+                'Release date': hero_data.get('Release date', ''),
                 'specialId': hero_data.get('specialId', ''),
                 'heroId': hero_data.get('heroId', ''),
-                'star': current_star, 
-                'power': hero_data.get('power'), 
-                'attack': hero_data.get('attack'), 
-                'defense': hero_data.get('defense'), 
-                'health': hero_data.get('health'), 
-                'effects': formatted_effects_extra, 
-                'passives': hero_data.get('passives', []), 
-                'family': hero_family_extra, 
-                'costume_id': hero_data.get('costume_id', 0), 
+                'star': current_star,
+                'power': hero_data.get('power'),
+                'attack': hero_data.get('attack'),
+                'defense': hero_data.get('defense'),
+                'health': hero_data.get('health'),
+                'effects': formatted_effects_extra,
+                'passives': hero_data.get('passives', []),
+                'family': hero_family_extra,
+                'costume_id': hero_data.get('costume_id', 0),
                 'originalIndex': hero_data.get('heroId', '')
             }
-            # 如果附加数据本身已经有了lb1/lb2，则直接使用，否则可考虑在这里添加同样的计算逻辑
-            # 目前保持原逻辑读取JSON中的值
             lb_data = {'lb1': hero_data.get('lb1'), 'lb2': hero_data.get('lb2')}
             lb_data = {k: v for k, v in lb_data.items() if v is not None}
 
@@ -966,7 +965,7 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                 hero_entry = {
                     'name': name_trans[lang], 'fancy_name': fancy_name_trans[lang], 'AetherPower': aether_power_trans[lang],
                     'color': color_trans[lang], 'class': class_trans[lang], 'speed': speed_trans[lang],
-                    'skill': get_skill_name(hero_data.get('specialId'),lang), 
+                    'skill': get_skill_name(hero_data.get('specialId'),lang),
                     'source': source_trans[lang], **common_data, **lb_data
                 }
                 if cn_skill_info_for_extra_hero:
@@ -977,12 +976,11 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
             original_index_counter += 1
         except Exception as e:
             logging.error(f"处理来自JSON的英雄 '{hero_data.get('name', 'N/A')}' 时发生错误: {e}", exc_info=True)
-    
-    # 在写入文件之前添加修复括号的步骤
+
     print("正在修复名字中的括号问题...")
     for lang in LANGUAGES:
         all_hero_data[lang] = fix_name_brackets(all_hero_data[lang])
-    
+
     output_map = {'cn': output_path_cn, 'tc': output_path_tc, 'en': output_path_en}
     lang_names = {'cn': '简体中文', 'tc': '繁体中文', 'en': '英文原文'}
     print("\n开始写入独立的JS文件...")
@@ -996,62 +994,43 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
     return missing_extra_info, missing_cn_skill_info
 
 def append_missing_heroes_to_extra_data(missing_heroes_list, file_path):
-    """当检测到有英雄缺少额外数据时，自动生成包含完整信息的条目"""
     if not missing_heroes_list:
         logging.info("没有在 heroes_data_extra.js 中检测到缺失的英雄数据。")
         return
 
     logging.info(f"检测到 {len(missing_heroes_list)} 个缺失的英雄数据，准备自动追加到 '{file_path}'...")
-    
-    # 加载 extra_heroes.json 数据用于匹配
+
     extra_heroes_data = []
     if os.path.exists(EXTRA_HEROES_JSON_FILE):
         try:
             with open(EXTRA_HEROES_JSON_FILE, 'r', encoding='utf-8') as f:
                 extra_heroes_data = json.load(f)
             logging.info(f"成功加载 {len(extra_heroes_data)} 条 extra_heroes.json 数据")
-            
-            # 打印所有 extra_heroes.json 中的英雄名称用于调试
-            logging.info("extra_heroes.json 中的英雄名称:")
-            for hero in extra_heroes_data:
-                logging.info(f"  - {hero.get('name')}")
         except Exception as e:
             logging.error(f"加载 '{EXTRA_HEROES_JSON_FILE}' 时出错: {e}")
-    
-    # 创建名称映射字典（规范化名称 -> 完整条目）
+
     extra_heroes_map = {}
     for hero in extra_heroes_data:
         name = hero.get("name", "")
         if name:
-            # 创建多种可能的规范化键名
             normalized_name = normalize_for_hero_name(name)
             extra_heroes_map[normalized_name] = hero
-            
-            # 添加 costume 格式转换的键名
             if " C" in name:
-                # 将 "Porthos C1" 转换为 "Porthos costume1"
                 costume_name = name.replace(" C1", " costume1")
                 costume_name = name.replace(" C2", " costume2")
+                costume_name = name.replace(" C3", " costume3")
                 costume_normalized = normalize_for_hero_name(costume_name)
                 extra_heroes_map[costume_normalized] = hero
-                logging.info(f"添加映射: {name} -> {costume_name} (规范化: {costume_normalized})")
-    
-    # 打印所有映射键用于调试
-    logging.info("extra_heroes_map 中的键:")
-    for key in extra_heroes_map.keys():
-        logging.info(f"  - '{key}'")
-    
+
     existing_data = []
     existing_names = set()
     try:
         if os.path.exists(file_path):
             with open(file_path, 'r', encoding='utf-8') as f:
                 js_content = f.read()
-            
             match = re.search(r'=\s*(\[[\s\S]*?\])\s*;', js_content)
             if match:
-                json_str = match.group(1)
-                json_str = re.sub(r',\s*([\]}])', r'\1', json_str)
+                json_str = re.sub(r',\s*([\]}])', r'\1', match.group(1))
                 existing_data = json.loads(json_str)
                 existing_names = {normalize_for_hero_name(entry.get('name', '')) for entry in existing_data if entry.get('name')}
             else:
@@ -1062,56 +1041,29 @@ def append_missing_heroes_to_extra_data(missing_heroes_list, file_path):
 
     blank_entries = []
     processed_names_this_run = set()
-    
+
     for hero_info in missing_heroes_list:
         name = hero_info.get("name")
-        if not name:
-            continue
-            
+        if not name: continue
         normalized_name = normalize_for_hero_name(name)
-        logging.info(f"处理英雄: '{name}' (规范化: '{normalized_name}')")
-        
-        # 检查是否已存在或已处理
         if normalized_name in existing_names or normalized_name in processed_names_this_run:
-            logging.info(f"英雄 '{name}' 已存在或已处理，跳过")
             continue
-        
         processed_names_this_run.add(normalized_name)
-        
-        # 首先尝试从 extra_heroes.json 中匹配
-        matched_hero = None
-        
-        # 尝试直接匹配
+
         matched_hero = extra_heroes_map.get(normalized_name)
-        if matched_hero:
-            logging.info(f"直接匹配成功: '{name}' -> '{matched_hero.get('name')}'")
-        
-        # 如果直接匹配失败，尝试 costume 格式转换匹配
+        if not matched_hero and "costume" in name.lower():
+            c_name = name.replace("costume", "C").replace("costume1", "C1").replace("costume2", "C2").replace("costume3", "C3")
+            matched_hero = extra_heroes_map.get(normalize_for_hero_name(c_name))
         if not matched_hero:
-            # 处理 costume 格式：将 "costume1" 转换为 "C1" 格式
-            if "costume" in name.lower():
-                # 将 "Porthos costume1" 转换为 "Porthos C1"
-                c_name = name.replace("costume", "C").replace("costume1", "C1").replace("costume2", "C2").replace("costume3", "C3")
-                c_normalized = normalize_for_hero_name(c_name)
-                matched_hero = extra_heroes_map.get(c_normalized)
-                if matched_hero:
-                    logging.info(f"通过格式转换匹配成功: '{name}' -> '{c_name}'")
-        
-        # 如果还没有匹配，尝试更宽松的匹配
-        if not matched_hero:
-            # 尝试移除所有空格和特殊字符后的匹配
             simplified_name = re.sub(r'[^a-zA-Z0-9]', '', name).lower()
             for key, hero_entry in extra_heroes_map.items():
-                simplified_key = re.sub(r'[^a-zA-Z0-9]', '', key).lower()
-                if simplified_name == simplified_key:
+                if re.sub(r'[^a-zA-Z0-9]', '', key).lower() == simplified_name:
                     matched_hero = hero_entry
-                    logging.info(f"通过简化匹配成功: '{name}' -> '{hero_entry.get('name')}'")
                     break
-        
+
         if matched_hero:
-            # 使用 extra_heroes.json 中的完整信息
-            new_entry = {
-                "name": name,  # 保持原始名称格式
+            blank_entries.append({
+                "name": name,
                 "fancy name": matched_hero.get("fancy_name", ""),
                 "element": hero_info.get("color", "").capitalize(),
                 "rarity": hero_info.get("star", 0),
@@ -1119,125 +1071,63 @@ def append_missing_heroes_to_extra_data(missing_heroes_list, file_path):
                 "AetherPower": "",
                 "heroId": matched_hero.get("heroId", ""),
                 "family": matched_hero.get("family", ""),
-            }
-            blank_entries.append(new_entry)
-            logging.info(f"从 extra_heroes.json 成功匹配英雄: '{name}' -> fancy_name: '{matched_hero.get('fancy_name', '')}'")
+            })
         else:
-            # 如果没有匹配到，使用原来的映射方式
             hero_id = HERO_NAME_TO_ID_MAP.get(name)
             fancy_name = HERO_ID_TO_FANCY_MAP.get(hero_id) if hero_id else ""
-            
-            if not hero_id:
-                logging.warning(f"未找到英雄 '{name}' 的ID映射，使用默认处理")
-                hero_id = ""
-            
-            if not fancy_name:
-                logging.warning(f"未找到英雄ID '{hero_id}' 的fancy name映射")
-                fancy_name = ""
-            
             blank_entries.append({
                 "name": name,
-                "fancy name": fancy_name,
+                "fancy name": fancy_name or "",
                 "element": hero_info.get("color", "").capitalize(),
                 "rarity": hero_info.get("star", 0),
                 "Release date": "",
                 "AetherPower": "",
-                "heroId": hero_id
+                "heroId": hero_id or ""
             })
-            logging.info(f"使用默认方式添加英雄: '{name}'")
 
     if not blank_entries:
-        logging.info(f"文件 '{file_path}' 已包含所有检测到的缺失英雄，无需更新。")
         return
 
     updated_data = existing_data + blank_entries
-    
     try:
         with open(file_path, 'w', encoding='utf-8') as f:
-            json_string = json.dumps(updated_data, indent=4, ensure_ascii=False)
-            f.write(f"window.allHeroesExtra = {json_string};")
+            f.write(f"window.allHeroesExtra = {json.dumps(updated_data, indent=4, ensure_ascii=False)};")
         print(f"成功！已将 {len(blank_entries)} 个新的完整英雄条目追加到 '{file_path}'。")
         logging.info(f"成功！已将 {len(blank_entries)} 个新的完整英雄条目追加到 '{file_path}'。")
-        
-        # 成功添加后，从 extra_heroes.json 中移除已处理的条目
         remove_processed_heroes_from_extra(blank_entries)
-        
     except Exception as e:
         logging.error(f"写入更新后的数据到 '{file_path}' 时失败: {e}")
 
 def remove_processed_heroes_from_extra(processed_entries):
-    """从 extra_heroes.json 中移除已成功处理的英雄"""
     if not processed_entries or not os.path.exists(EXTRA_HEROES_JSON_FILE):
         return
-        
     try:
         with open(EXTRA_HEROES_JSON_FILE, 'r', encoding='utf-8') as f:
             extra_heroes = json.load(f)
-        
-        # 创建已处理英雄的名称集合（规范化用于匹配）
         processed_names = set()
         for entry in processed_entries:
             name = entry.get("name", "")
             if name:
-                # 创建多种可能的规范化名称用于匹配
-                normalized_name = normalize_for_hero_name(name)
-                processed_names.add(normalized_name)
-                
-                # 添加 costume 格式转换的匹配
+                processed_names.add(normalize_for_hero_name(name))
                 if "costume" in name.lower():
-                    # 将 "Porthos costume1" 转换为 "Porthos C1"
                     c_name = name.replace("costume", "C").replace("costume1", "C1").replace("costume2", "C2").replace("costume3", "C3")
                     processed_names.add(normalize_for_hero_name(c_name))
-        
-        # 过滤掉已处理的英雄
-        original_count = len(extra_heroes)
         extra_heroes_updated = []
-        
         for hero in extra_heroes:
             hero_name = hero.get("name", "")
-            hero_normalized = normalize_for_hero_name(hero_name)
-            
-            if hero_normalized not in processed_names:
-                # 检查 costume 格式转换
-                if " C" in hero_name:
-                    c_name = hero_name.replace(" C", " costume")
-                    c_normalized = normalize_for_hero_name(c_name)
-                    if c_normalized not in processed_names:
-                        extra_heroes_updated.append(hero)
-                    else:
-                        logging.info(f"移除已处理的英雄 (通过转换匹配): {hero_name}")
-                else:
-                    extra_heroes_updated.append(hero)
-            else:
-                logging.info(f"移除已处理的英雄: {hero_name}")
-        
-        removed_count = original_count - len(extra_heroes_updated)
+            if normalize_for_hero_name(hero_name) not in processed_names:
+                extra_heroes_updated.append(hero)
+        removed_count = len(extra_heroes) - len(extra_heroes_updated)
         if removed_count > 0:
             with open(EXTRA_HEROES_JSON_FILE, 'w', encoding='utf-8') as f:
                 json.dump(extra_heroes_updated, f, ensure_ascii=False, indent=4)
             print(f"✅ 已从 {EXTRA_HEROES_JSON_FILE} 中移除 {removed_count} 个已处理的英雄条目")
-            logging.info(f"✅ 已从 {EXTRA_HEROES_JSON_FILE} 中移除 {removed_count} 个已处理的英雄条目")
-            
-            # 打印被移除的英雄名称
-            print("被移除的英雄:")
-            for entry in processed_entries:
-                print(f"  - {entry.get('name')}")
-        else:
-            print("ℹ️ 没有需要从 extra_heroes.json 中移除的英雄条目")
-            
     except Exception as e:
         logging.error(f"从 {EXTRA_HEROES_JSON_FILE} 移除已处理英雄时出错: {e}")
 
 def normalize_cn_key(name: str) -> str:
-    """
-    将英雄全名转换为 CN 技能文件的 key 格式，同时执行 Unicode 规范化。
-    例如：'Porthos costume1' -> 'Porthos C'，'Éclair C2' -> 'Eclair C2'
-    """
-    if not isinstance(name, str):
-        return ""
-    # 1. Unicode 规范化（去掉变音符号）
+    if not isinstance(name, str): return ""
     name = unicodedata.normalize('NFKD', name).encode('ascii', 'ignore').decode('utf-8')
-    # 2. 按原逻辑进行后缀映射
     parts = name.split()
     if len(parts) > 1 and parts[-1].lower() in {"costume", "costume1", "costume2", "costume3", "toon", "glass", "stylish"}:
         base = " ".join(parts[:-1])
@@ -1251,86 +1141,56 @@ def normalize_cn_key(name: str) -> str:
     return name
 
 def append_missing_heroes_to_cn_skill_data(missing_names_list, file_path):
-    """
-    检测缺失中文技能分类数据的英雄，并将其以空白格式追加到指定的JSON文件中。
-    同时将文件中所有键进行 Unicode 规范化，并处理键冲突（合并列表）。
-    """
-    if not missing_names_list:
-        return
-
-    logging.info(f"检测到 {len(missing_names_list)} 个英雄可能在 '{file_path}' 中缺少条目。正在检查并准备追加...")
-
+    if not missing_names_list: return
     existing_data = {}
     if os.path.exists(file_path) and os.path.getsize(file_path) > 0:
         try:
             with open(file_path, 'r', encoding='utf-8') as f:
                 loaded_json = json.load(f)
             if not isinstance(loaded_json, dict):
-                error_msg = f"文件 '{file_path}' 内容格式不正确，应为一个JSON对象(字典)。"
-                logging.critical(error_msg)
-                print(f"\n严重错误: {error_msg}")
+                logging.critical(f"文件 '{file_path}' 内容格式不正确。")
                 return
             existing_data = loaded_json
         except json.JSONDecodeError as e:
-            error_msg = f"文件 '{file_path}' 格式错误，不是有效的JSON: {e}"
-            logging.critical(error_msg)
-            print(f"\n严重错误: {error_msg}")
+            logging.critical(f"文件 '{file_path}' 格式错误: {e}")
             return
-
-    # 对现有键进行规范化，并合并可能冲突的键
     normalized_existing = {}
     for key, value in existing_data.items():
         new_key = normalize_cn_key(key)
         if new_key in normalized_existing:
-            # 合并两个字典的值（四个分类列表合并去重）
             old_value = normalized_existing[new_key]
             for cat in ["基础技能", "特殊效果", "增益效果", "负面效果"]:
                 old_list = old_value.get(cat, [])
                 new_list = value.get(cat, [])
                 if old_list and new_list:
-                    # 合并并去重（保持顺序）
-                    combined = list(dict.fromkeys(old_list + new_list))
-                    old_value[cat] = combined
+                    old_value[cat] = list(dict.fromkeys(old_list + new_list))
                 elif new_list and not old_list:
                     old_value[cat] = new_list
-                # 否则保留原列表
             normalized_existing[new_key] = old_value
         else:
             normalized_existing[new_key] = value
-
-    # 追加缺失的英雄
     new_entries_count = 0
-    for hero_name_full in sorted(list(set(missing_names_list))):
+    for hero_name_full in sorted(set(missing_names_list)):
         output_key = normalize_cn_key(hero_name_full)
         if output_key not in normalized_existing:
             normalized_existing[output_key] = {
-                "基础技能": [],
-                "特殊效果": [],
-                "增益效果": [],
-                "负面效果": []
+                "基础技能": [], "特殊效果": [], "增益效果": [], "负面效果": []
             }
             new_entries_count += 1
-            logging.info(f"准备为 '{hero_name_full}' 添加新条目，键名为 '{output_key}'。")
-
-    # 如果新增了条目或者键有变化（通过比较长度或内容），则保存
-    keys_changed = len(normalized_existing) != len(existing_data) or set(normalized_existing.keys()) != set(existing_data.keys())
+    keys_changed = set(normalized_existing.keys()) != set(existing_data.keys())
     if new_entries_count > 0 or keys_changed:
         try:
             sorted_data = dict(sorted(normalized_existing.items()))
             with open(file_path, 'w', encoding='utf-8') as f:
                 json.dump(sorted_data, f, ensure_ascii=False, indent=4)
-            print(f"成功！已将 {new_entries_count} 个新的空白英雄条目追加到 '{file_path}'，并规范化了所有现有键。")
-            logging.info(f"成功！已将 {new_entries_count} 个新的空白英雄条目追加到 '{file_path}'，并规范化了所有现有键。")
+            print(f"成功！追加 {new_entries_count} 条空白英雄条目到 '{file_path}'。")
         except Exception as e:
             logging.error(f"写入更新后的数据到 '{file_path}' 时失败: {e}")
-    else:
-        logging.info(f"无需向 '{file_path}' 追加新条目，文件已是最新。")
 
 # ===================== 配置区域 =====================
-MAX_AUTO_RERUN = 2  # 最大重试次数（包括第一次运行）
+MAX_AUTO_RERUN = 2
 
 def run_update_hero_base_info():
-    """运行1.0更新英雄基础信息.py，使用--auto参数跳过交互"""
     try:
         subprocess.check_call([sys.executable, "1.0更新英雄基础信息.py", "--auto"])
         return True
@@ -1339,119 +1199,81 @@ def run_update_hero_base_info():
         return False
 
 def load_heroes_data_extra_json():
-    """从heroes_data_extra.js加载数据"""
     with open(HEROES_DATA_EXTRA_FILE, "r", encoding="utf-8") as f:
         js = f.read()
     m = re.search(r'=\s*(\[[\s\S]*?\])\s*;', js)
-    if not m:
-        return []
+    if not m: return []
     return json.loads(re.sub(r',\s*([\]}])', r'\1', m.group(1)))
 
 def auto_clean_extra_heroes(extra_heroes_path):
-    """清理extra_heroes.json，移除已处理的英雄"""
-    if not os.path.exists(extra_heroes_path):
-        return
-    
+    if not os.path.exists(extra_heroes_path): return
     with open(extra_heroes_path, encoding="utf-8") as f:
         extra = json.load(f)
-
     updated = load_heroes_data_extra_json()
     hero_ids = {h.get("heroId") for h in updated if h.get("heroId")}
-
     cleaned = [h for h in extra if h.get("heroId") not in hero_ids]
-
     if len(cleaned) != len(extra):
         with open(extra_heroes_path, "w", encoding="utf-8") as f:
             json.dump(cleaned, f, ensure_ascii=False, indent=4)
         print(f"✅ 已清理 {len(extra) - len(cleaned)} 个已处理的英雄条目")
 
 def run_single_generation():
-    """单次运行生成流程"""
-    # 重新加载数据
     load_heroes_data_extra()
     load_heroes_data_extra_cn()
-    
-    # 生成JS文件
-    missing_extra, missing_cn_info = generate_js_data_with_translation(
-        HEROES_DATA_DIR, 
-        OUTPUT_JS_FILE_CN, 
-        OUTPUT_JS_FILE_TC, 
-        OUTPUT_JS_FILE_EN
+    return generate_js_data_with_translation(
+        HEROES_DATA_DIR, OUTPUT_JS_FILE_CN, OUTPUT_JS_FILE_TC, OUTPUT_JS_FILE_EN
     )
-    
-    return missing_extra, missing_cn_info
 
 def main():
-    """主函数，包含重试逻辑"""
     setup_logging()
-    
-    # 新增：加载英雄名称映射
     load_hero_name_mappings()
-    
-    # 初始加载数据
     load_heroes_data_extra()
-    load_heroes_data_extra_cn() 
-    load_all_dictionaries(DICTIONARY_DIR) 
+    load_heroes_data_extra_cn()
+    load_all_dictionaries(DICTIONARY_DIR)
     load_skill_name_txt_dict()
 
     rerun_count = 0
     need_rerun = False
-    
+
     while rerun_count < MAX_AUTO_RERUN:
         print(f"\n=== 第 {rerun_count + 1} 次运行 ===")
-        
         if rerun_count > 0:
-            # 重新加载数据（对于重试运行）
             load_heroes_data_extra()
             load_heroes_data_extra_cn()
-        
-        # 生成JS数据
+
         missing_extra, missing_cn_info = generate_js_data_with_translation(
-            HEROES_DATA_DIR, 
-            OUTPUT_JS_FILE_CN, 
-            OUTPUT_JS_FILE_TC, 
-            OUTPUT_JS_FILE_EN
+            HEROES_DATA_DIR, OUTPUT_JS_FILE_CN, OUTPUT_JS_FILE_TC, OUTPUT_JS_FILE_EN
         )
-        
+
         failure_log_path = os.path.join('logs', 'translation_failures.log')
         if os.path.exists(failure_log_path) and os.path.getsize(failure_log_path) > 0:
-            print(f"\n警告: 检测到翻译失败。详情请查看日志文件: {failure_log_path}")
-        
-        # 处理缺失数据
+            print(f"\n警告: 检测到匹配/翻译失败。详情请查看: {failure_log_path}")
+
         if missing_extra:
-            logging.warning("\n--- 以下英雄未找到 heroes_data_extra.js 中的额外数据 ---")
+            logging.warning("\n--- 以下英雄未通过三条件匹配 ---")
             for info in missing_extra:
                 logging.warning(f"缺失额外数据的英雄: {info}")
-            
-            # 自动追加缺失英雄
             append_missing_heroes_to_extra_data(missing_extra, HEROES_DATA_EXTRA_FILE)
             need_rerun = True
-        
+
         if missing_cn_info:
-            logging.warning(f"\n--- 发现 {len(set(missing_cn_info))} 个3-5星英雄在 {HEROES_DATA_EXTRA_CN_FILE} 中缺少数据 ---")
+            logging.warning(f"\n--- {len(set(missing_cn_info))} 个3-5星英雄在 {HEROES_DATA_EXTRA_CN_FILE} 中缺少数据 ---")
             append_missing_heroes_to_cn_skill_data(missing_cn_info, HEROES_DATA_EXTRA_CN_FILE)
             need_rerun = True
-        
-        # 检查是否需要重试
+
         if not need_rerun or rerun_count >= MAX_AUTO_RERUN - 1:
             break
-            
-        # 执行修复流程
+
         print("\n--- 检测到新添加的英雄，开始自动修复流程 ---")
-        
-        # 运行1.0更新脚本
         print("第1步：运行 1.0更新英雄基础信息.py...")
         if not run_update_hero_base_info():
             print("❌ 修复流程中断")
             break
-            
-        # 清理extra_heroes.json
         print("第2步：清理 extra_heroes.json...")
         auto_clean_extra_heroes(EXTRA_HEROES_JSON_FILE)
-        
         rerun_count += 1
-        need_rerun = False  # 重置标志
-    
+        need_rerun = False
+
     print("🎉 自动化流程完成！")
 
 if __name__ == '__main__':
@@ -1460,6 +1282,5 @@ if __name__ == '__main__':
         print(f"错误: 英雄数据目录不存在: '{HEROES_DATA_DIR}'")
         input("\n按任意键退出...")
         sys.exit(1)
-    
     main()
     input("\n按任意键退出...")

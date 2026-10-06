@@ -7158,37 +7158,7 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. This effect is Stu
 
 总重复组数: 236
 
---- 未匹配的英文条目 ---
-- [specials.v2.statuseffect.minor.abyss.sides.enemies.dispelincreasesactivations] Enemies on the edges of the enemy formation shift into Abyss Ghost form for {TURNS} turns.
- While in Abyss Ghost form the targets receive {DAMAGEPERTURN} damage each turn. This effect is Stubborn.
-- [specials.v2.statuseffect.minor.abyss.single.enemies.dispelincreasesactivations] The target shifts into Abyss Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Abyss Ghost form the target receives {DAMAGEPERTURN} damage each turn.
-- [specials.v2.statuseffect.minor.abyss.single.enemies.onremoval.damage.all.allies.expiration.add_insanity_emilie.dispelincreasesactivations] The target shifts into Abyss Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Abyss Ghost form the target receives {DAMAGEPERTURN} damage each turn.
- When the Abyss Ghost form expires:
- Deals {FIXEDPOWER} damage to all allies and inflicts {STATUSEFFECT1INSANITYTOADD} Insanity on them.
-- [specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.add_insanity_salvatore.dispelincreasesactivations] The caster shifts into Deranged Dire Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Deranged Dire Ghost form, the caster automatically deals {POWER1}% damage and inflicts {STATUSEFFECT1INSANITYTOADD} Insanity on a random enemy each turn.
- While in Deranged Dire Ghost form, the caster can take damage from enemies whose element is strong against them.
-- [specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.dispelincreasesactivations] The caster shifts into Dire Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Dire Ghost form the caster automatically deals {POWER1}% damage against a random enemy each turn.
- While in Dire Ghost form the caster can take damage from enemies whose element is strong against the caster.
-- [specials.v2.statuseffect.minor.ethereal.single.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns.
- While in Ghost form the caster gains {ATTACK}% attack. This effect is Stubborn.
-- [specials.v2.statuseffect.minor.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
- When the Ghost form expires:
- All allies get {REMOVALEFFECT1STATUSEFFECT1CRIT}% critical chance for {REMOVALEFFECT1STATUSEFFECT1TURNS} turns. This effect is undispellable.
-- [specials.v2.statuseffect.minor.ghost.single.allies.onremoval.revival.randomdead.allies.expiration.hp_recovery_sable.all.allies.dispel_ailments.all.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
- When the Ghost form expires:
- The caster revives one random defeated ally with {REMOVALEFFECT1POWER}% HP. 
- All allies gain {REMOVALEFFECT1STATUSEFFECT1TOTAL} health over {REMOVALEFFECT1STATUSEFFECT1TURNS} turns.
- Cleanses status ailments from all allies at the end of each turn for {REMOVALEFFECT1STATUSEFFECT2TURNS} turns.
-- [specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): The caster gets {ATTACK}% attack.
-- [specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): All allies get {MANAREGEN}% mana generation.
-- [specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): All damage all allies receive is reduced by {DAMAGEMODIFIER}%.
-- [specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.withbasestackcount.chain_strike] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): Each hit increases all damage the target receives by {DAMAGEMODIFIER}%
-- [specials.v2.statuseffect.minor.transcendentalframe.single.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
-总数: 13
+--- 无未匹配英文条目 ---
 
 --- 未使用的Arabic翻译 ---
 - [specials.v2.bigminion.white_boar_mega_minion_c1.single] تستدعي تابع خنزير أبيض ضخم بنسبة {FAMILIARHEALTHPERCENT}% من نقاط الصحة و{FAMILIARATTACK}% من الهجوم الموروث من الملقي.
@@ -9236,37 +9206,7 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. This effect is Stu
 
 总重复组数: 236
 
---- 未匹配的英文条目 ---
-- [specials.v2.statuseffect.minor.abyss.sides.enemies.dispelincreasesactivations] Enemies on the edges of the enemy formation shift into Abyss Ghost form for {TURNS} turns.
- While in Abyss Ghost form the targets receive {DAMAGEPERTURN} damage each turn. This effect is Stubborn.
-- [specials.v2.statuseffect.minor.abyss.single.enemies.dispelincreasesactivations] The target shifts into Abyss Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Abyss Ghost form the target receives {DAMAGEPERTURN} damage each turn.
-- [specials.v2.statuseffect.minor.abyss.single.enemies.onremoval.damage.all.allies.expiration.add_insanity_emilie.dispelincreasesactivations] The target shifts into Abyss Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Abyss Ghost form the target receives {DAMAGEPERTURN} damage each turn.
- When the Abyss Ghost form expires:
- Deals {FIXEDPOWER} damage to all allies and inflicts {STATUSEFFECT1INSANITYTOADD} Insanity on them.
-- [specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.add_insanity_salvatore.dispelincreasesactivations] The caster shifts into Deranged Dire Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Deranged Dire Ghost form, the caster automatically deals {POWER1}% damage and inflicts {STATUSEFFECT1INSANITYTOADD} Insanity on a random enemy each turn.
- While in Deranged Dire Ghost form, the caster can take damage from enemies whose element is strong against them.
-- [specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.dispelincreasesactivations] The caster shifts into Dire Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Dire Ghost form the caster automatically deals {POWER1}% damage against a random enemy each turn.
- While in Dire Ghost form the caster can take damage from enemies whose element is strong against the caster.
-- [specials.v2.statuseffect.minor.ethereal.single.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns.
- While in Ghost form the caster gains {ATTACK}% attack. This effect is Stubborn.
-- [specials.v2.statuseffect.minor.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
- When the Ghost form expires:
- All allies get {REMOVALEFFECT1STATUSEFFECT1CRIT}% critical chance for {REMOVALEFFECT1STATUSEFFECT1TURNS} turns. This effect is undispellable.
-- [specials.v2.statuseffect.minor.ghost.single.allies.onremoval.revival.randomdead.allies.expiration.hp_recovery_sable.all.allies.dispel_ailments.all.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
- When the Ghost form expires:
- The caster revives one random defeated ally with {REMOVALEFFECT1POWER}% HP. 
- All allies gain {REMOVALEFFECT1STATUSEFFECT1TOTAL} health over {REMOVALEFFECT1STATUSEFFECT1TURNS} turns.
- Cleanses status ailments from all allies at the end of each turn for {REMOVALEFFECT1STATUSEFFECT2TURNS} turns.
-- [specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): The caster gets {ATTACK}% attack.
-- [specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): All allies get {MANAREGEN}% mana generation.
-- [specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): All damage all allies receive is reduced by {DAMAGEMODIFIER}%.
-- [specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.withbasestackcount.chain_strike] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): Each hit increases all damage the target receives by {DAMAGEMODIFIER}%
-- [specials.v2.statuseffect.minor.transcendentalframe.single.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
-总数: 13
+--- 无未匹配英文条目 ---
 
 --- 未使用的ChineseSimplified翻译 ---
 - [specials.v2.bigminion.white_boar_mega_minion_c1.single] 召唤一个白野猪超级小兵，其可从施法者处继承{FAMILIARHEALTHPERCENT}%生命和{FAMILIARATTACK}%攻击力。
@@ -11333,37 +11273,7 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. This effect is Stu
 
 总重复组数: 236
 
---- 未匹配的英文条目 ---
-- [specials.v2.statuseffect.minor.abyss.sides.enemies.dispelincreasesactivations] Enemies on the edges of the enemy formation shift into Abyss Ghost form for {TURNS} turns.
- While in Abyss Ghost form the targets receive {DAMAGEPERTURN} damage each turn. This effect is Stubborn.
-- [specials.v2.statuseffect.minor.abyss.single.enemies.dispelincreasesactivations] The target shifts into Abyss Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Abyss Ghost form the target receives {DAMAGEPERTURN} damage each turn.
-- [specials.v2.statuseffect.minor.abyss.single.enemies.onremoval.damage.all.allies.expiration.add_insanity_emilie.dispelincreasesactivations] The target shifts into Abyss Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Abyss Ghost form the target receives {DAMAGEPERTURN} damage each turn.
- When the Abyss Ghost form expires:
- Deals {FIXEDPOWER} damage to all allies and inflicts {STATUSEFFECT1INSANITYTOADD} Insanity on them.
-- [specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.add_insanity_salvatore.dispelincreasesactivations] The caster shifts into Deranged Dire Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Deranged Dire Ghost form, the caster automatically deals {POWER1}% damage and inflicts {STATUSEFFECT1INSANITYTOADD} Insanity on a random enemy each turn.
- While in Deranged Dire Ghost form, the caster can take damage from enemies whose element is strong against them.
-- [specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.dispelincreasesactivations] The caster shifts into Dire Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Dire Ghost form the caster automatically deals {POWER1}% damage against a random enemy each turn.
- While in Dire Ghost form the caster can take damage from enemies whose element is strong against the caster.
-- [specials.v2.statuseffect.minor.ethereal.single.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns.
- While in Ghost form the caster gains {ATTACK}% attack. This effect is Stubborn.
-- [specials.v2.statuseffect.minor.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
- When the Ghost form expires:
- All allies get {REMOVALEFFECT1STATUSEFFECT1CRIT}% critical chance for {REMOVALEFFECT1STATUSEFFECT1TURNS} turns. This effect is undispellable.
-- [specials.v2.statuseffect.minor.ghost.single.allies.onremoval.revival.randomdead.allies.expiration.hp_recovery_sable.all.allies.dispel_ailments.all.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
- When the Ghost form expires:
- The caster revives one random defeated ally with {REMOVALEFFECT1POWER}% HP. 
- All allies gain {REMOVALEFFECT1STATUSEFFECT1TOTAL} health over {REMOVALEFFECT1STATUSEFFECT1TURNS} turns.
- Cleanses status ailments from all allies at the end of each turn for {REMOVALEFFECT1STATUSEFFECT2TURNS} turns.
-- [specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): The caster gets {ATTACK}% attack.
-- [specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): All allies get {MANAREGEN}% mana generation.
-- [specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): All damage all allies receive is reduced by {DAMAGEMODIFIER}%.
-- [specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.withbasestackcount.chain_strike] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): Each hit increases all damage the target receives by {DAMAGEMODIFIER}%
-- [specials.v2.statuseffect.minor.transcendentalframe.single.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
-总数: 13
+--- 无未匹配英文条目 ---
 
 --- 未使用的ChineseTraditional翻译 ---
 - [specials.v2.bigminion.white_boar_mega_minion_c1.single] 召喚一個白野豬超級小兵，其可從施法者繼承{FAMILIARHEALTHPERCENT}%生命與{FAMILIARATTACK}%攻擊。
@@ -13429,37 +13339,7 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. This effect is Stu
 
 总重复组数: 236
 
---- 未匹配的英文条目 ---
-- [specials.v2.statuseffect.minor.abyss.sides.enemies.dispelincreasesactivations] Enemies on the edges of the enemy formation shift into Abyss Ghost form for {TURNS} turns.
- While in Abyss Ghost form the targets receive {DAMAGEPERTURN} damage each turn. This effect is Stubborn.
-- [specials.v2.statuseffect.minor.abyss.single.enemies.dispelincreasesactivations] The target shifts into Abyss Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Abyss Ghost form the target receives {DAMAGEPERTURN} damage each turn.
-- [specials.v2.statuseffect.minor.abyss.single.enemies.onremoval.damage.all.allies.expiration.add_insanity_emilie.dispelincreasesactivations] The target shifts into Abyss Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Abyss Ghost form the target receives {DAMAGEPERTURN} damage each turn.
- When the Abyss Ghost form expires:
- Deals {FIXEDPOWER} damage to all allies and inflicts {STATUSEFFECT1INSANITYTOADD} Insanity on them.
-- [specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.add_insanity_salvatore.dispelincreasesactivations] The caster shifts into Deranged Dire Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Deranged Dire Ghost form, the caster automatically deals {POWER1}% damage and inflicts {STATUSEFFECT1INSANITYTOADD} Insanity on a random enemy each turn.
- While in Deranged Dire Ghost form, the caster can take damage from enemies whose element is strong against them.
-- [specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.dispelincreasesactivations] The caster shifts into Dire Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Dire Ghost form the caster automatically deals {POWER1}% damage against a random enemy each turn.
- While in Dire Ghost form the caster can take damage from enemies whose element is strong against the caster.
-- [specials.v2.statuseffect.minor.ethereal.single.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns.
- While in Ghost form the caster gains {ATTACK}% attack. This effect is Stubborn.
-- [specials.v2.statuseffect.minor.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
- When the Ghost form expires:
- All allies get {REMOVALEFFECT1STATUSEFFECT1CRIT}% critical chance for {REMOVALEFFECT1STATUSEFFECT1TURNS} turns. This effect is undispellable.
-- [specials.v2.statuseffect.minor.ghost.single.allies.onremoval.revival.randomdead.allies.expiration.hp_recovery_sable.all.allies.dispel_ailments.all.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
- When the Ghost form expires:
- The caster revives one random defeated ally with {REMOVALEFFECT1POWER}% HP. 
- All allies gain {REMOVALEFFECT1STATUSEFFECT1TOTAL} health over {REMOVALEFFECT1STATUSEFFECT1TURNS} turns.
- Cleanses status ailments from all allies at the end of each turn for {REMOVALEFFECT1STATUSEFFECT2TURNS} turns.
-- [specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): The caster gets {ATTACK}% attack.
-- [specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): All allies get {MANAREGEN}% mana generation.
-- [specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): All damage all allies receive is reduced by {DAMAGEMODIFIER}%.
-- [specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.withbasestackcount.chain_strike] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): Each hit increases all damage the target receives by {DAMAGEMODIFIER}%
-- [specials.v2.statuseffect.minor.transcendentalframe.single.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
-总数: 13
+--- 无未匹配英文条目 ---
 
 --- 未使用的Danish翻译 ---
 - [specials.v2.bigminion.white_boar_mega_minion_c1.single] Hidkalder hvid vildsvin-kæmpehåndlanger med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angreb, nedarvet fra kasteren.
@@ -15525,37 +15405,7 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. This effect is Stu
 
 总重复组数: 236
 
---- 未匹配的英文条目 ---
-- [specials.v2.statuseffect.minor.abyss.sides.enemies.dispelincreasesactivations] Enemies on the edges of the enemy formation shift into Abyss Ghost form for {TURNS} turns.
- While in Abyss Ghost form the targets receive {DAMAGEPERTURN} damage each turn. This effect is Stubborn.
-- [specials.v2.statuseffect.minor.abyss.single.enemies.dispelincreasesactivations] The target shifts into Abyss Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Abyss Ghost form the target receives {DAMAGEPERTURN} damage each turn.
-- [specials.v2.statuseffect.minor.abyss.single.enemies.onremoval.damage.all.allies.expiration.add_insanity_emilie.dispelincreasesactivations] The target shifts into Abyss Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Abyss Ghost form the target receives {DAMAGEPERTURN} damage each turn.
- When the Abyss Ghost form expires:
- Deals {FIXEDPOWER} damage to all allies and inflicts {STATUSEFFECT1INSANITYTOADD} Insanity on them.
-- [specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.add_insanity_salvatore.dispelincreasesactivations] The caster shifts into Deranged Dire Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Deranged Dire Ghost form, the caster automatically deals {POWER1}% damage and inflicts {STATUSEFFECT1INSANITYTOADD} Insanity on a random enemy each turn.
- While in Deranged Dire Ghost form, the caster can take damage from enemies whose element is strong against them.
-- [specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.dispelincreasesactivations] The caster shifts into Dire Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Dire Ghost form the caster automatically deals {POWER1}% damage against a random enemy each turn.
- While in Dire Ghost form the caster can take damage from enemies whose element is strong against the caster.
-- [specials.v2.statuseffect.minor.ethereal.single.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns.
- While in Ghost form the caster gains {ATTACK}% attack. This effect is Stubborn.
-- [specials.v2.statuseffect.minor.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
- When the Ghost form expires:
- All allies get {REMOVALEFFECT1STATUSEFFECT1CRIT}% critical chance for {REMOVALEFFECT1STATUSEFFECT1TURNS} turns. This effect is undispellable.
-- [specials.v2.statuseffect.minor.ghost.single.allies.onremoval.revival.randomdead.allies.expiration.hp_recovery_sable.all.allies.dispel_ailments.all.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
- When the Ghost form expires:
- The caster revives one random defeated ally with {REMOVALEFFECT1POWER}% HP. 
- All allies gain {REMOVALEFFECT1STATUSEFFECT1TOTAL} health over {REMOVALEFFECT1STATUSEFFECT1TURNS} turns.
- Cleanses status ailments from all allies at the end of each turn for {REMOVALEFFECT1STATUSEFFECT2TURNS} turns.
-- [specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): The caster gets {ATTACK}% attack.
-- [specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): All allies get {MANAREGEN}% mana generation.
-- [specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): All damage all allies receive is reduced by {DAMAGEMODIFIER}%.
-- [specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.withbasestackcount.chain_strike] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): Each hit increases all damage the target receives by {DAMAGEMODIFIER}%
-- [specials.v2.statuseffect.minor.transcendentalframe.single.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
-总数: 13
+--- 无未匹配英文条目 ---
 
 --- 未使用的Dutch翻译 ---
 - [specials.v2.bigminion.white_boar_mega_minion_c1.single] Roept een wit everzwijn-megavolgeling aan die {FAMILIARHEALTHPERCENT}% van de gezondheid en {FAMILIARATTACK}% van de aanvalskracht erft van de spreukspreker.
@@ -15811,12 +15661,12 @@ Vijanden met volgelingen of megavolgelingen krijgen {STATUSEFFECT1TURNS} beurten
 - [specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.evolving_seedling_parasite_with_delay.blocked_by.minion.extra] De zaailingdemon ontwikkelt zich tot een scheutdemon na {EVOLVINGFAMILIAR1EVOLVETURNS} beurten.
 De scheutdemon ontwikkelt zich tot een bloesemmegademon na {EVOLVINGFAMILIAR2EVOLVETURNS} beurten.
 
- Zaailingdemon: {EVOLVINGFAMILIAR1FAMILIARATTACK}% aanvalskracht, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% gezondheid
- Scheutdemon: {EVOLVINGFAMILIAR2FAMILIARATTACK}% aanvalskracht, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% gezondheid
- Bloesemmegademon: {EVOLVINGFAMILIAR3FAMILIARATTACK}% aanvalskracht, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% gezondheid
+ Zaailingdemon: {EVOLVINGFAMILIAR1FAMILIARATTACK}% aanvalskracht, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT}% gezondheid.
+ Scheutdemon: {EVOLVINGFAMILIAR2FAMILIARATTACK}% aanvalskracht, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT}% gezondheid.
+ Bloesemmegademon: {EVOLVINGFAMILIAR3FAMILIARATTACK}% aanvalskracht, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}% gezondheid.
 
 Een demon brengt het doelwit elke beurt schade toe. Een demon verdwijnt na genezing te hebben geabsorbeerd. De vereiste hoeveelheid genezing hangt af van de maximale gezondheid van het doelwit.
-Elke keer dat demonen gezondheid absorberen, wordt hun evolutie vertraagd met {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} beurt.
+Elke keer dat demonen genezing absorberen, wordt hun evolutie vertraagd met {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} beurt.
 Demonen kunnen niet evolueren tot megademonen als dezelfde held volgelingen heeft.
 - [specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra] De zaailingdemon ontwikkelt zich tot een scheutdemon na {EVOLVINGFAMILIAR1EVOLVETURNS} beurten.
 De scheutdemon ontwikkelt zich tot een bloesemmegademon na {EVOLVINGFAMILIAR2EVOLVETURNS} beurten.
@@ -19691,37 +19541,7 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. This effect is Stu
 
 总重复组数: 236
 
---- 未匹配的英文条目 ---
-- [specials.v2.statuseffect.minor.abyss.sides.enemies.dispelincreasesactivations] Enemies on the edges of the enemy formation shift into Abyss Ghost form for {TURNS} turns.
- While in Abyss Ghost form the targets receive {DAMAGEPERTURN} damage each turn. This effect is Stubborn.
-- [specials.v2.statuseffect.minor.abyss.single.enemies.dispelincreasesactivations] The target shifts into Abyss Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Abyss Ghost form the target receives {DAMAGEPERTURN} damage each turn.
-- [specials.v2.statuseffect.minor.abyss.single.enemies.onremoval.damage.all.allies.expiration.add_insanity_emilie.dispelincreasesactivations] The target shifts into Abyss Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Abyss Ghost form the target receives {DAMAGEPERTURN} damage each turn.
- When the Abyss Ghost form expires:
- Deals {FIXEDPOWER} damage to all allies and inflicts {STATUSEFFECT1INSANITYTOADD} Insanity on them.
-- [specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.add_insanity_salvatore.dispelincreasesactivations] The caster shifts into Deranged Dire Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Deranged Dire Ghost form, the caster automatically deals {POWER1}% damage and inflicts {STATUSEFFECT1INSANITYTOADD} Insanity on a random enemy each turn.
- While in Deranged Dire Ghost form, the caster can take damage from enemies whose element is strong against them.
-- [specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.dispelincreasesactivations] The caster shifts into Dire Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Dire Ghost form the caster automatically deals {POWER1}% damage against a random enemy each turn.
- While in Dire Ghost form the caster can take damage from enemies whose element is strong against the caster.
-- [specials.v2.statuseffect.minor.ethereal.single.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns.
- While in Ghost form the caster gains {ATTACK}% attack. This effect is Stubborn.
-- [specials.v2.statuseffect.minor.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
- When the Ghost form expires:
- All allies get {REMOVALEFFECT1STATUSEFFECT1CRIT}% critical chance for {REMOVALEFFECT1STATUSEFFECT1TURNS} turns. This effect is undispellable.
-- [specials.v2.statuseffect.minor.ghost.single.allies.onremoval.revival.randomdead.allies.expiration.hp_recovery_sable.all.allies.dispel_ailments.all.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
- When the Ghost form expires:
- The caster revives one random defeated ally with {REMOVALEFFECT1POWER}% HP. 
- All allies gain {REMOVALEFFECT1STATUSEFFECT1TOTAL} health over {REMOVALEFFECT1STATUSEFFECT1TURNS} turns.
- Cleanses status ailments from all allies at the end of each turn for {REMOVALEFFECT1STATUSEFFECT2TURNS} turns.
-- [specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): The caster gets {ATTACK}% attack.
-- [specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): All allies get {MANAREGEN}% mana generation.
-- [specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): All damage all allies receive is reduced by {DAMAGEMODIFIER}%.
-- [specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.withbasestackcount.chain_strike] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): Each hit increases all damage the target receives by {DAMAGEMODIFIER}%
-- [specials.v2.statuseffect.minor.transcendentalframe.single.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
-总数: 13
+--- 无未匹配英文条目 ---
 
 --- 未使用的Finnish翻译 ---
 - [specials.v2.bigminion.white_boar_mega_minion_c1.single] Kutsuu valkoinen villisika -megakäskyläisen, joka perii loitsijalta {FAMILIARHEALTHPERCENT} % terveyttä ja {FAMILIARATTACK} % hyökkäystä.
@@ -21788,37 +21608,7 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. This effect is Stu
 
 总重复组数: 236
 
---- 未匹配的英文条目 ---
-- [specials.v2.statuseffect.minor.abyss.sides.enemies.dispelincreasesactivations] Enemies on the edges of the enemy formation shift into Abyss Ghost form for {TURNS} turns.
- While in Abyss Ghost form the targets receive {DAMAGEPERTURN} damage each turn. This effect is Stubborn.
-- [specials.v2.statuseffect.minor.abyss.single.enemies.dispelincreasesactivations] The target shifts into Abyss Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Abyss Ghost form the target receives {DAMAGEPERTURN} damage each turn.
-- [specials.v2.statuseffect.minor.abyss.single.enemies.onremoval.damage.all.allies.expiration.add_insanity_emilie.dispelincreasesactivations] The target shifts into Abyss Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Abyss Ghost form the target receives {DAMAGEPERTURN} damage each turn.
- When the Abyss Ghost form expires:
- Deals {FIXEDPOWER} damage to all allies and inflicts {STATUSEFFECT1INSANITYTOADD} Insanity on them.
-- [specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.add_insanity_salvatore.dispelincreasesactivations] The caster shifts into Deranged Dire Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Deranged Dire Ghost form, the caster automatically deals {POWER1}% damage and inflicts {STATUSEFFECT1INSANITYTOADD} Insanity on a random enemy each turn.
- While in Deranged Dire Ghost form, the caster can take damage from enemies whose element is strong against them.
-- [specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.dispelincreasesactivations] The caster shifts into Dire Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Dire Ghost form the caster automatically deals {POWER1}% damage against a random enemy each turn.
- While in Dire Ghost form the caster can take damage from enemies whose element is strong against the caster.
-- [specials.v2.statuseffect.minor.ethereal.single.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns.
- While in Ghost form the caster gains {ATTACK}% attack. This effect is Stubborn.
-- [specials.v2.statuseffect.minor.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
- When the Ghost form expires:
- All allies get {REMOVALEFFECT1STATUSEFFECT1CRIT}% critical chance for {REMOVALEFFECT1STATUSEFFECT1TURNS} turns. This effect is undispellable.
-- [specials.v2.statuseffect.minor.ghost.single.allies.onremoval.revival.randomdead.allies.expiration.hp_recovery_sable.all.allies.dispel_ailments.all.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
- When the Ghost form expires:
- The caster revives one random defeated ally with {REMOVALEFFECT1POWER}% HP. 
- All allies gain {REMOVALEFFECT1STATUSEFFECT1TOTAL} health over {REMOVALEFFECT1STATUSEFFECT1TURNS} turns.
- Cleanses status ailments from all allies at the end of each turn for {REMOVALEFFECT1STATUSEFFECT2TURNS} turns.
-- [specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): The caster gets {ATTACK}% attack.
-- [specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): All allies get {MANAREGEN}% mana generation.
-- [specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): All damage all allies receive is reduced by {DAMAGEMODIFIER}%.
-- [specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.withbasestackcount.chain_strike] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): Each hit increases all damage the target receives by {DAMAGEMODIFIER}%
-- [specials.v2.statuseffect.minor.transcendentalframe.single.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
-总数: 13
+--- 无未匹配英文条目 ---
 
 --- 未使用的French翻译 ---
 - [specials.v2.bigminion.white_boar_mega_minion_c1.single] Invoque un sbire méga sanglier blanc avec {FAMILIARHEALTHPERCENT} % de PV et {FAMILIARATTACK} % d'attaque hérités du lanceur.
@@ -23884,37 +23674,7 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. This effect is Stu
 
 总重复组数: 236
 
---- 未匹配的英文条目 ---
-- [specials.v2.statuseffect.minor.abyss.sides.enemies.dispelincreasesactivations] Enemies on the edges of the enemy formation shift into Abyss Ghost form for {TURNS} turns.
- While in Abyss Ghost form the targets receive {DAMAGEPERTURN} damage each turn. This effect is Stubborn.
-- [specials.v2.statuseffect.minor.abyss.single.enemies.dispelincreasesactivations] The target shifts into Abyss Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Abyss Ghost form the target receives {DAMAGEPERTURN} damage each turn.
-- [specials.v2.statuseffect.minor.abyss.single.enemies.onremoval.damage.all.allies.expiration.add_insanity_emilie.dispelincreasesactivations] The target shifts into Abyss Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Abyss Ghost form the target receives {DAMAGEPERTURN} damage each turn.
- When the Abyss Ghost form expires:
- Deals {FIXEDPOWER} damage to all allies and inflicts {STATUSEFFECT1INSANITYTOADD} Insanity on them.
-- [specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.add_insanity_salvatore.dispelincreasesactivations] The caster shifts into Deranged Dire Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Deranged Dire Ghost form, the caster automatically deals {POWER1}% damage and inflicts {STATUSEFFECT1INSANITYTOADD} Insanity on a random enemy each turn.
- While in Deranged Dire Ghost form, the caster can take damage from enemies whose element is strong against them.
-- [specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.dispelincreasesactivations] The caster shifts into Dire Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Dire Ghost form the caster automatically deals {POWER1}% damage against a random enemy each turn.
- While in Dire Ghost form the caster can take damage from enemies whose element is strong against the caster.
-- [specials.v2.statuseffect.minor.ethereal.single.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns.
- While in Ghost form the caster gains {ATTACK}% attack. This effect is Stubborn.
-- [specials.v2.statuseffect.minor.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
- When the Ghost form expires:
- All allies get {REMOVALEFFECT1STATUSEFFECT1CRIT}% critical chance for {REMOVALEFFECT1STATUSEFFECT1TURNS} turns. This effect is undispellable.
-- [specials.v2.statuseffect.minor.ghost.single.allies.onremoval.revival.randomdead.allies.expiration.hp_recovery_sable.all.allies.dispel_ailments.all.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
- When the Ghost form expires:
- The caster revives one random defeated ally with {REMOVALEFFECT1POWER}% HP. 
- All allies gain {REMOVALEFFECT1STATUSEFFECT1TOTAL} health over {REMOVALEFFECT1STATUSEFFECT1TURNS} turns.
- Cleanses status ailments from all allies at the end of each turn for {REMOVALEFFECT1STATUSEFFECT2TURNS} turns.
-- [specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): The caster gets {ATTACK}% attack.
-- [specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): All allies get {MANAREGEN}% mana generation.
-- [specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): All damage all allies receive is reduced by {DAMAGEMODIFIER}%.
-- [specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.withbasestackcount.chain_strike] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): Each hit increases all damage the target receives by {DAMAGEMODIFIER}%
-- [specials.v2.statuseffect.minor.transcendentalframe.single.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
-总数: 13
+--- 无未匹配英文条目 ---
 
 --- 未使用的German翻译 ---
 - [specials.v2.bigminion.white_boar_mega_minion_c1.single] Beschwört einen weißen Mega-Wildschwein-Lakaien mit {FAMILIARHEALTHPERCENT} % LP und {FAMILIARATTACK} % Angriff des Wirkers.
@@ -24169,8 +23929,8 @@ Gegner mit Lakaien oder Mega-Lakaien erhalten {STATUSEFFECT1DEFENSE} % Verteidi
 - [specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.evolving_seedling_parasite_with_delay.blocked_by.minion.extra] Der Setzling-Feind entwickelt sich nach {EVOLVINGFAMILIAR1EVOLVETURNS} Runden zu einem Spross-Feind.
 Der Spross-Feind entwickelt sich nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden zu einem Mega-Blütenfeind.
 
- Setzling-Feind: {EVOLVINGFAMILIAR1FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % Gesundheit.
- Spross-Feind: {EVOLVINGFAMILIAR2FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % Gesundheit.
+ Setzling-Feind: {EVOLVINGFAMILIAR1FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % Leben.
+ Spross-Feind: {EVOLVINGFAMILIAR2FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % Leben.
  Mega-Blütenfeind: {EVOLVINGFAMILIAR3FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % Leben.
 
 Ein Feind fügt seinem Ziel jede Runde Schaden zu. Ein Feind verschwindet, nachdem er Heilung absorbiert hat. Die erforderliche Heilungsmenge hängt vom max. Leben des Ziels ab.
@@ -25980,37 +25740,7 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. This effect is Stu
 
 总重复组数: 236
 
---- 未匹配的英文条目 ---
-- [specials.v2.statuseffect.minor.abyss.sides.enemies.dispelincreasesactivations] Enemies on the edges of the enemy formation shift into Abyss Ghost form for {TURNS} turns.
- While in Abyss Ghost form the targets receive {DAMAGEPERTURN} damage each turn. This effect is Stubborn.
-- [specials.v2.statuseffect.minor.abyss.single.enemies.dispelincreasesactivations] The target shifts into Abyss Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Abyss Ghost form the target receives {DAMAGEPERTURN} damage each turn.
-- [specials.v2.statuseffect.minor.abyss.single.enemies.onremoval.damage.all.allies.expiration.add_insanity_emilie.dispelincreasesactivations] The target shifts into Abyss Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Abyss Ghost form the target receives {DAMAGEPERTURN} damage each turn.
- When the Abyss Ghost form expires:
- Deals {FIXEDPOWER} damage to all allies and inflicts {STATUSEFFECT1INSANITYTOADD} Insanity on them.
-- [specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.add_insanity_salvatore.dispelincreasesactivations] The caster shifts into Deranged Dire Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Deranged Dire Ghost form, the caster automatically deals {POWER1}% damage and inflicts {STATUSEFFECT1INSANITYTOADD} Insanity on a random enemy each turn.
- While in Deranged Dire Ghost form, the caster can take damage from enemies whose element is strong against them.
-- [specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.dispelincreasesactivations] The caster shifts into Dire Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Dire Ghost form the caster automatically deals {POWER1}% damage against a random enemy each turn.
- While in Dire Ghost form the caster can take damage from enemies whose element is strong against the caster.
-- [specials.v2.statuseffect.minor.ethereal.single.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns.
- While in Ghost form the caster gains {ATTACK}% attack. This effect is Stubborn.
-- [specials.v2.statuseffect.minor.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
- When the Ghost form expires:
- All allies get {REMOVALEFFECT1STATUSEFFECT1CRIT}% critical chance for {REMOVALEFFECT1STATUSEFFECT1TURNS} turns. This effect is undispellable.
-- [specials.v2.statuseffect.minor.ghost.single.allies.onremoval.revival.randomdead.allies.expiration.hp_recovery_sable.all.allies.dispel_ailments.all.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
- When the Ghost form expires:
- The caster revives one random defeated ally with {REMOVALEFFECT1POWER}% HP. 
- All allies gain {REMOVALEFFECT1STATUSEFFECT1TOTAL} health over {REMOVALEFFECT1STATUSEFFECT1TURNS} turns.
- Cleanses status ailments from all allies at the end of each turn for {REMOVALEFFECT1STATUSEFFECT2TURNS} turns.
-- [specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): The caster gets {ATTACK}% attack.
-- [specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): All allies get {MANAREGEN}% mana generation.
-- [specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): All damage all allies receive is reduced by {DAMAGEMODIFIER}%.
-- [specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.withbasestackcount.chain_strike] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): Each hit increases all damage the target receives by {DAMAGEMODIFIER}%
-- [specials.v2.statuseffect.minor.transcendentalframe.single.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
-总数: 13
+--- 无未匹配英文条目 ---
 
 --- 未使用的Indonesian翻译 ---
 - [specials.v2.bigminion.white_boar_mega_minion_c1.single] Memanggil Antek Mega Celeng Putih dengan {FAMILIARHEALTHPERCENT}% HP dan {FAMILIARATTACK}% serangan yang diwarisi dari perapal.
@@ -28076,37 +27806,7 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. This effect is Stu
 
 总重复组数: 236
 
---- 未匹配的英文条目 ---
-- [specials.v2.statuseffect.minor.abyss.sides.enemies.dispelincreasesactivations] Enemies on the edges of the enemy formation shift into Abyss Ghost form for {TURNS} turns.
- While in Abyss Ghost form the targets receive {DAMAGEPERTURN} damage each turn. This effect is Stubborn.
-- [specials.v2.statuseffect.minor.abyss.single.enemies.dispelincreasesactivations] The target shifts into Abyss Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Abyss Ghost form the target receives {DAMAGEPERTURN} damage each turn.
-- [specials.v2.statuseffect.minor.abyss.single.enemies.onremoval.damage.all.allies.expiration.add_insanity_emilie.dispelincreasesactivations] The target shifts into Abyss Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Abyss Ghost form the target receives {DAMAGEPERTURN} damage each turn.
- When the Abyss Ghost form expires:
- Deals {FIXEDPOWER} damage to all allies and inflicts {STATUSEFFECT1INSANITYTOADD} Insanity on them.
-- [specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.add_insanity_salvatore.dispelincreasesactivations] The caster shifts into Deranged Dire Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Deranged Dire Ghost form, the caster automatically deals {POWER1}% damage and inflicts {STATUSEFFECT1INSANITYTOADD} Insanity on a random enemy each turn.
- While in Deranged Dire Ghost form, the caster can take damage from enemies whose element is strong against them.
-- [specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.dispelincreasesactivations] The caster shifts into Dire Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Dire Ghost form the caster automatically deals {POWER1}% damage against a random enemy each turn.
- While in Dire Ghost form the caster can take damage from enemies whose element is strong against the caster.
-- [specials.v2.statuseffect.minor.ethereal.single.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns.
- While in Ghost form the caster gains {ATTACK}% attack. This effect is Stubborn.
-- [specials.v2.statuseffect.minor.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
- When the Ghost form expires:
- All allies get {REMOVALEFFECT1STATUSEFFECT1CRIT}% critical chance for {REMOVALEFFECT1STATUSEFFECT1TURNS} turns. This effect is undispellable.
-- [specials.v2.statuseffect.minor.ghost.single.allies.onremoval.revival.randomdead.allies.expiration.hp_recovery_sable.all.allies.dispel_ailments.all.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
- When the Ghost form expires:
- The caster revives one random defeated ally with {REMOVALEFFECT1POWER}% HP. 
- All allies gain {REMOVALEFFECT1STATUSEFFECT1TOTAL} health over {REMOVALEFFECT1STATUSEFFECT1TURNS} turns.
- Cleanses status ailments from all allies at the end of each turn for {REMOVALEFFECT1STATUSEFFECT2TURNS} turns.
-- [specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): The caster gets {ATTACK}% attack.
-- [specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): All allies get {MANAREGEN}% mana generation.
-- [specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): All damage all allies receive is reduced by {DAMAGEMODIFIER}%.
-- [specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.withbasestackcount.chain_strike] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): Each hit increases all damage the target receives by {DAMAGEMODIFIER}%
-- [specials.v2.statuseffect.minor.transcendentalframe.single.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
-总数: 13
+--- 无未匹配英文条目 ---
 
 --- 未使用的Italian翻译 ---
 - [specials.v2.bigminion.white_boar_mega_minion_c1.single] Chiama un servitore Mega cinghiale bianco con il {FAMILIARHEALTHPERCENT}% di HP e il {FAMILIARATTACK}% di Attacco ereditati dall'evocatore.
@@ -30173,37 +29873,7 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. This effect is Stu
 
 总重复组数: 236
 
---- 未匹配的英文条目 ---
-- [specials.v2.statuseffect.minor.abyss.sides.enemies.dispelincreasesactivations] Enemies on the edges of the enemy formation shift into Abyss Ghost form for {TURNS} turns.
- While in Abyss Ghost form the targets receive {DAMAGEPERTURN} damage each turn. This effect is Stubborn.
-- [specials.v2.statuseffect.minor.abyss.single.enemies.dispelincreasesactivations] The target shifts into Abyss Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Abyss Ghost form the target receives {DAMAGEPERTURN} damage each turn.
-- [specials.v2.statuseffect.minor.abyss.single.enemies.onremoval.damage.all.allies.expiration.add_insanity_emilie.dispelincreasesactivations] The target shifts into Abyss Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Abyss Ghost form the target receives {DAMAGEPERTURN} damage each turn.
- When the Abyss Ghost form expires:
- Deals {FIXEDPOWER} damage to all allies and inflicts {STATUSEFFECT1INSANITYTOADD} Insanity on them.
-- [specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.add_insanity_salvatore.dispelincreasesactivations] The caster shifts into Deranged Dire Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Deranged Dire Ghost form, the caster automatically deals {POWER1}% damage and inflicts {STATUSEFFECT1INSANITYTOADD} Insanity on a random enemy each turn.
- While in Deranged Dire Ghost form, the caster can take damage from enemies whose element is strong against them.
-- [specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.dispelincreasesactivations] The caster shifts into Dire Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Dire Ghost form the caster automatically deals {POWER1}% damage against a random enemy each turn.
- While in Dire Ghost form the caster can take damage from enemies whose element is strong against the caster.
-- [specials.v2.statuseffect.minor.ethereal.single.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns.
- While in Ghost form the caster gains {ATTACK}% attack. This effect is Stubborn.
-- [specials.v2.statuseffect.minor.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
- When the Ghost form expires:
- All allies get {REMOVALEFFECT1STATUSEFFECT1CRIT}% critical chance for {REMOVALEFFECT1STATUSEFFECT1TURNS} turns. This effect is undispellable.
-- [specials.v2.statuseffect.minor.ghost.single.allies.onremoval.revival.randomdead.allies.expiration.hp_recovery_sable.all.allies.dispel_ailments.all.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
- When the Ghost form expires:
- The caster revives one random defeated ally with {REMOVALEFFECT1POWER}% HP. 
- All allies gain {REMOVALEFFECT1STATUSEFFECT1TOTAL} health over {REMOVALEFFECT1STATUSEFFECT1TURNS} turns.
- Cleanses status ailments from all allies at the end of each turn for {REMOVALEFFECT1STATUSEFFECT2TURNS} turns.
-- [specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): The caster gets {ATTACK}% attack.
-- [specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): All allies get {MANAREGEN}% mana generation.
-- [specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): All damage all allies receive is reduced by {DAMAGEMODIFIER}%.
-- [specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.withbasestackcount.chain_strike] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): Each hit increases all damage the target receives by {DAMAGEMODIFIER}%
-- [specials.v2.statuseffect.minor.transcendentalframe.single.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
-总数: 13
+--- 无未匹配英文条目 ---
 
 --- 未使用的Japanese翻译 ---
 - [specials.v2.bigminion.white_boar_mega_minion_c1.single] 術者のHPの{FAMILIARHEALTHPERCENT}%と攻撃力の{FAMILIARATTACK}%を持つホワイトボアのメガミニオンをサモンする。
@@ -32270,37 +31940,7 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. This effect is Stu
 
 总重复组数: 236
 
---- 未匹配的英文条目 ---
-- [specials.v2.statuseffect.minor.abyss.sides.enemies.dispelincreasesactivations] Enemies on the edges of the enemy formation shift into Abyss Ghost form for {TURNS} turns.
- While in Abyss Ghost form the targets receive {DAMAGEPERTURN} damage each turn. This effect is Stubborn.
-- [specials.v2.statuseffect.minor.abyss.single.enemies.dispelincreasesactivations] The target shifts into Abyss Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Abyss Ghost form the target receives {DAMAGEPERTURN} damage each turn.
-- [specials.v2.statuseffect.minor.abyss.single.enemies.onremoval.damage.all.allies.expiration.add_insanity_emilie.dispelincreasesactivations] The target shifts into Abyss Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Abyss Ghost form the target receives {DAMAGEPERTURN} damage each turn.
- When the Abyss Ghost form expires:
- Deals {FIXEDPOWER} damage to all allies and inflicts {STATUSEFFECT1INSANITYTOADD} Insanity on them.
-- [specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.add_insanity_salvatore.dispelincreasesactivations] The caster shifts into Deranged Dire Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Deranged Dire Ghost form, the caster automatically deals {POWER1}% damage and inflicts {STATUSEFFECT1INSANITYTOADD} Insanity on a random enemy each turn.
- While in Deranged Dire Ghost form, the caster can take damage from enemies whose element is strong against them.
-- [specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.dispelincreasesactivations] The caster shifts into Dire Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Dire Ghost form the caster automatically deals {POWER1}% damage against a random enemy each turn.
- While in Dire Ghost form the caster can take damage from enemies whose element is strong against the caster.
-- [specials.v2.statuseffect.minor.ethereal.single.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns.
- While in Ghost form the caster gains {ATTACK}% attack. This effect is Stubborn.
-- [specials.v2.statuseffect.minor.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
- When the Ghost form expires:
- All allies get {REMOVALEFFECT1STATUSEFFECT1CRIT}% critical chance for {REMOVALEFFECT1STATUSEFFECT1TURNS} turns. This effect is undispellable.
-- [specials.v2.statuseffect.minor.ghost.single.allies.onremoval.revival.randomdead.allies.expiration.hp_recovery_sable.all.allies.dispel_ailments.all.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
- When the Ghost form expires:
- The caster revives one random defeated ally with {REMOVALEFFECT1POWER}% HP. 
- All allies gain {REMOVALEFFECT1STATUSEFFECT1TOTAL} health over {REMOVALEFFECT1STATUSEFFECT1TURNS} turns.
- Cleanses status ailments from all allies at the end of each turn for {REMOVALEFFECT1STATUSEFFECT2TURNS} turns.
-- [specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): The caster gets {ATTACK}% attack.
-- [specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): All allies get {MANAREGEN}% mana generation.
-- [specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): All damage all allies receive is reduced by {DAMAGEMODIFIER}%.
-- [specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.withbasestackcount.chain_strike] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): Each hit increases all damage the target receives by {DAMAGEMODIFIER}%
-- [specials.v2.statuseffect.minor.transcendentalframe.single.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
-总数: 13
+--- 无未匹配英文条目 ---
 
 --- 未使用的Korean翻译 ---
 - [specials.v2.bigminion.white_boar_mega_minion_c1.single] 시전자 HP의 {FAMILIARHEALTHPERCENT}%와 공격력의 {FAMILIARATTACK}%를 지닌 하얀 멧돼지 메가 하수인을 소환해 줍니다.
@@ -34367,37 +34007,7 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. This effect is Stu
 
 总重复组数: 236
 
---- 未匹配的英文条目 ---
-- [specials.v2.statuseffect.minor.abyss.sides.enemies.dispelincreasesactivations] Enemies on the edges of the enemy formation shift into Abyss Ghost form for {TURNS} turns.
- While in Abyss Ghost form the targets receive {DAMAGEPERTURN} damage each turn. This effect is Stubborn.
-- [specials.v2.statuseffect.minor.abyss.single.enemies.dispelincreasesactivations] The target shifts into Abyss Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Abyss Ghost form the target receives {DAMAGEPERTURN} damage each turn.
-- [specials.v2.statuseffect.minor.abyss.single.enemies.onremoval.damage.all.allies.expiration.add_insanity_emilie.dispelincreasesactivations] The target shifts into Abyss Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Abyss Ghost form the target receives {DAMAGEPERTURN} damage each turn.
- When the Abyss Ghost form expires:
- Deals {FIXEDPOWER} damage to all allies and inflicts {STATUSEFFECT1INSANITYTOADD} Insanity on them.
-- [specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.add_insanity_salvatore.dispelincreasesactivations] The caster shifts into Deranged Dire Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Deranged Dire Ghost form, the caster automatically deals {POWER1}% damage and inflicts {STATUSEFFECT1INSANITYTOADD} Insanity on a random enemy each turn.
- While in Deranged Dire Ghost form, the caster can take damage from enemies whose element is strong against them.
-- [specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.dispelincreasesactivations] The caster shifts into Dire Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Dire Ghost form the caster automatically deals {POWER1}% damage against a random enemy each turn.
- While in Dire Ghost form the caster can take damage from enemies whose element is strong against the caster.
-- [specials.v2.statuseffect.minor.ethereal.single.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns.
- While in Ghost form the caster gains {ATTACK}% attack. This effect is Stubborn.
-- [specials.v2.statuseffect.minor.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
- When the Ghost form expires:
- All allies get {REMOVALEFFECT1STATUSEFFECT1CRIT}% critical chance for {REMOVALEFFECT1STATUSEFFECT1TURNS} turns. This effect is undispellable.
-- [specials.v2.statuseffect.minor.ghost.single.allies.onremoval.revival.randomdead.allies.expiration.hp_recovery_sable.all.allies.dispel_ailments.all.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
- When the Ghost form expires:
- The caster revives one random defeated ally with {REMOVALEFFECT1POWER}% HP. 
- All allies gain {REMOVALEFFECT1STATUSEFFECT1TOTAL} health over {REMOVALEFFECT1STATUSEFFECT1TURNS} turns.
- Cleanses status ailments from all allies at the end of each turn for {REMOVALEFFECT1STATUSEFFECT2TURNS} turns.
-- [specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): The caster gets {ATTACK}% attack.
-- [specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): All allies get {MANAREGEN}% mana generation.
-- [specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): All damage all allies receive is reduced by {DAMAGEMODIFIER}%.
-- [specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.withbasestackcount.chain_strike] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): Each hit increases all damage the target receives by {DAMAGEMODIFIER}%
-- [specials.v2.statuseffect.minor.transcendentalframe.single.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
-总数: 13
+--- 无未匹配英文条目 ---
 
 --- 未使用的Norwegian翻译 ---
 - [specials.v2.bigminion.white_boar_mega_minion_c1.single] Påkaller en hvit villsvin-megaundersått med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angrep nedarvet fra brukeren.
@@ -36463,37 +36073,7 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. This effect is Stu
 
 总重复组数: 236
 
---- 未匹配的英文条目 ---
-- [specials.v2.statuseffect.minor.abyss.sides.enemies.dispelincreasesactivations] Enemies on the edges of the enemy formation shift into Abyss Ghost form for {TURNS} turns.
- While in Abyss Ghost form the targets receive {DAMAGEPERTURN} damage each turn. This effect is Stubborn.
-- [specials.v2.statuseffect.minor.abyss.single.enemies.dispelincreasesactivations] The target shifts into Abyss Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Abyss Ghost form the target receives {DAMAGEPERTURN} damage each turn.
-- [specials.v2.statuseffect.minor.abyss.single.enemies.onremoval.damage.all.allies.expiration.add_insanity_emilie.dispelincreasesactivations] The target shifts into Abyss Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Abyss Ghost form the target receives {DAMAGEPERTURN} damage each turn.
- When the Abyss Ghost form expires:
- Deals {FIXEDPOWER} damage to all allies and inflicts {STATUSEFFECT1INSANITYTOADD} Insanity on them.
-- [specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.add_insanity_salvatore.dispelincreasesactivations] The caster shifts into Deranged Dire Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Deranged Dire Ghost form, the caster automatically deals {POWER1}% damage and inflicts {STATUSEFFECT1INSANITYTOADD} Insanity on a random enemy each turn.
- While in Deranged Dire Ghost form, the caster can take damage from enemies whose element is strong against them.
-- [specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.dispelincreasesactivations] The caster shifts into Dire Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Dire Ghost form the caster automatically deals {POWER1}% damage against a random enemy each turn.
- While in Dire Ghost form the caster can take damage from enemies whose element is strong against the caster.
-- [specials.v2.statuseffect.minor.ethereal.single.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns.
- While in Ghost form the caster gains {ATTACK}% attack. This effect is Stubborn.
-- [specials.v2.statuseffect.minor.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
- When the Ghost form expires:
- All allies get {REMOVALEFFECT1STATUSEFFECT1CRIT}% critical chance for {REMOVALEFFECT1STATUSEFFECT1TURNS} turns. This effect is undispellable.
-- [specials.v2.statuseffect.minor.ghost.single.allies.onremoval.revival.randomdead.allies.expiration.hp_recovery_sable.all.allies.dispel_ailments.all.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
- When the Ghost form expires:
- The caster revives one random defeated ally with {REMOVALEFFECT1POWER}% HP. 
- All allies gain {REMOVALEFFECT1STATUSEFFECT1TOTAL} health over {REMOVALEFFECT1STATUSEFFECT1TURNS} turns.
- Cleanses status ailments from all allies at the end of each turn for {REMOVALEFFECT1STATUSEFFECT2TURNS} turns.
-- [specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): The caster gets {ATTACK}% attack.
-- [specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): All allies get {MANAREGEN}% mana generation.
-- [specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): All damage all allies receive is reduced by {DAMAGEMODIFIER}%.
-- [specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.withbasestackcount.chain_strike] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): Each hit increases all damage the target receives by {DAMAGEMODIFIER}%
-- [specials.v2.statuseffect.minor.transcendentalframe.single.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
-总数: 13
+--- 无未匹配英文条目 ---
 
 --- 未使用的Polish翻译 ---
 - [specials.v2.bigminion.white_boar_mega_minion_c1.single] Wzywa mega pomocnika białego dzika z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku przejętymi od rzucającego.
@@ -38560,37 +38140,7 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. This effect is Stu
 
 总重复组数: 236
 
---- 未匹配的英文条目 ---
-- [specials.v2.statuseffect.minor.abyss.sides.enemies.dispelincreasesactivations] Enemies on the edges of the enemy formation shift into Abyss Ghost form for {TURNS} turns.
- While in Abyss Ghost form the targets receive {DAMAGEPERTURN} damage each turn. This effect is Stubborn.
-- [specials.v2.statuseffect.minor.abyss.single.enemies.dispelincreasesactivations] The target shifts into Abyss Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Abyss Ghost form the target receives {DAMAGEPERTURN} damage each turn.
-- [specials.v2.statuseffect.minor.abyss.single.enemies.onremoval.damage.all.allies.expiration.add_insanity_emilie.dispelincreasesactivations] The target shifts into Abyss Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Abyss Ghost form the target receives {DAMAGEPERTURN} damage each turn.
- When the Abyss Ghost form expires:
- Deals {FIXEDPOWER} damage to all allies and inflicts {STATUSEFFECT1INSANITYTOADD} Insanity on them.
-- [specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.add_insanity_salvatore.dispelincreasesactivations] The caster shifts into Deranged Dire Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Deranged Dire Ghost form, the caster automatically deals {POWER1}% damage and inflicts {STATUSEFFECT1INSANITYTOADD} Insanity on a random enemy each turn.
- While in Deranged Dire Ghost form, the caster can take damage from enemies whose element is strong against them.
-- [specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.dispelincreasesactivations] The caster shifts into Dire Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Dire Ghost form the caster automatically deals {POWER1}% damage against a random enemy each turn.
- While in Dire Ghost form the caster can take damage from enemies whose element is strong against the caster.
-- [specials.v2.statuseffect.minor.ethereal.single.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns.
- While in Ghost form the caster gains {ATTACK}% attack. This effect is Stubborn.
-- [specials.v2.statuseffect.minor.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
- When the Ghost form expires:
- All allies get {REMOVALEFFECT1STATUSEFFECT1CRIT}% critical chance for {REMOVALEFFECT1STATUSEFFECT1TURNS} turns. This effect is undispellable.
-- [specials.v2.statuseffect.minor.ghost.single.allies.onremoval.revival.randomdead.allies.expiration.hp_recovery_sable.all.allies.dispel_ailments.all.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
- When the Ghost form expires:
- The caster revives one random defeated ally with {REMOVALEFFECT1POWER}% HP. 
- All allies gain {REMOVALEFFECT1STATUSEFFECT1TOTAL} health over {REMOVALEFFECT1STATUSEFFECT1TURNS} turns.
- Cleanses status ailments from all allies at the end of each turn for {REMOVALEFFECT1STATUSEFFECT2TURNS} turns.
-- [specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): The caster gets {ATTACK}% attack.
-- [specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): All allies get {MANAREGEN}% mana generation.
-- [specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): All damage all allies receive is reduced by {DAMAGEMODIFIER}%.
-- [specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.withbasestackcount.chain_strike] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): Each hit increases all damage the target receives by {DAMAGEMODIFIER}%
-- [specials.v2.statuseffect.minor.transcendentalframe.single.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
-总数: 13
+--- 无未匹配英文条目 ---
 
 --- 未使用的Portuguese翻译 ---
 - [specials.v2.bigminion.white_boar_mega_minion_c1.single] Convoca um mega-ajudante Javali Branco com {FAMILIARHEALTHPERCENT}% de PV e {FAMILIARATTACK}% de ataque herdados do invocador.
@@ -40657,37 +40207,7 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. This effect is Stu
 
 总重复组数: 236
 
---- 未匹配的英文条目 ---
-- [specials.v2.statuseffect.minor.abyss.sides.enemies.dispelincreasesactivations] Enemies on the edges of the enemy formation shift into Abyss Ghost form for {TURNS} turns.
- While in Abyss Ghost form the targets receive {DAMAGEPERTURN} damage each turn. This effect is Stubborn.
-- [specials.v2.statuseffect.minor.abyss.single.enemies.dispelincreasesactivations] The target shifts into Abyss Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Abyss Ghost form the target receives {DAMAGEPERTURN} damage each turn.
-- [specials.v2.statuseffect.minor.abyss.single.enemies.onremoval.damage.all.allies.expiration.add_insanity_emilie.dispelincreasesactivations] The target shifts into Abyss Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Abyss Ghost form the target receives {DAMAGEPERTURN} damage each turn.
- When the Abyss Ghost form expires:
- Deals {FIXEDPOWER} damage to all allies and inflicts {STATUSEFFECT1INSANITYTOADD} Insanity on them.
-- [specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.add_insanity_salvatore.dispelincreasesactivations] The caster shifts into Deranged Dire Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Deranged Dire Ghost form, the caster automatically deals {POWER1}% damage and inflicts {STATUSEFFECT1INSANITYTOADD} Insanity on a random enemy each turn.
- While in Deranged Dire Ghost form, the caster can take damage from enemies whose element is strong against them.
-- [specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.dispelincreasesactivations] The caster shifts into Dire Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Dire Ghost form the caster automatically deals {POWER1}% damage against a random enemy each turn.
- While in Dire Ghost form the caster can take damage from enemies whose element is strong against the caster.
-- [specials.v2.statuseffect.minor.ethereal.single.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns.
- While in Ghost form the caster gains {ATTACK}% attack. This effect is Stubborn.
-- [specials.v2.statuseffect.minor.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
- When the Ghost form expires:
- All allies get {REMOVALEFFECT1STATUSEFFECT1CRIT}% critical chance for {REMOVALEFFECT1STATUSEFFECT1TURNS} turns. This effect is undispellable.
-- [specials.v2.statuseffect.minor.ghost.single.allies.onremoval.revival.randomdead.allies.expiration.hp_recovery_sable.all.allies.dispel_ailments.all.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
- When the Ghost form expires:
- The caster revives one random defeated ally with {REMOVALEFFECT1POWER}% HP. 
- All allies gain {REMOVALEFFECT1STATUSEFFECT1TOTAL} health over {REMOVALEFFECT1STATUSEFFECT1TURNS} turns.
- Cleanses status ailments from all allies at the end of each turn for {REMOVALEFFECT1STATUSEFFECT2TURNS} turns.
-- [specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): The caster gets {ATTACK}% attack.
-- [specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): All allies get {MANAREGEN}% mana generation.
-- [specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): All damage all allies receive is reduced by {DAMAGEMODIFIER}%.
-- [specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.withbasestackcount.chain_strike] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): Each hit increases all damage the target receives by {DAMAGEMODIFIER}%
-- [specials.v2.statuseffect.minor.transcendentalframe.single.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
-总数: 13
+--- 无未匹配英文条目 ---
 
 --- 未使用的Russian翻译 ---
 - [specials.v2.bigminion.white_boar_mega_minion_c1.single] Призывает белого мегавепря с {FAMILIARHEALTHPERCENT} % здоровья и {FAMILIARATTACK} % атаки, получаемой от героя.
@@ -41119,7 +40639,7 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. This effect is Stu
 - [specials.v2.statuseffect.minor.statuseffectgeneratorstatuseffectskill.single.allies.on.ownturnstart.special_damage_power_modifier_wealhtheow.mana_regen_wealhtheow] Создание эффектов статуса: в начале каждого из следующих {MAXACTIVATIONCOUNT} х. этот герой дает случайному союзнику дополнительно {STATUSEFFECT1POWER} % к урону от особых навыков и {STATUSEFFECT2MANAREGEN} % к генерации маны на {STATUSEFFECT1TURNS} х. Эффект нельзя снять.
 - [specials.v2.statuseffect.minor.statuseffectgeneratorstatuseffectskill.single.allies.on.ownturnstart.special_damage_power_modifier_weland.mana_regen_weland] Создание эффектов статуса: в начале каждого из следующих {MAXACTIVATIONCOUNT} х. этот герой дает случайному союзнику дополнительно {STATUSEFFECT1POWER} % к урону от особых навыков и {STATUSEFFECT2MANAREGEN} % к генерации маны на {STATUSEFFECT1TURNS} х. Эффект нельзя снять.
 - [specials.v2.statuseffect.minor.statuseffectondodgedspecial.all.allies.stacking_defense_bastet_costume] Все союзники с вероятностью {DODGE} % уклоняются от особого навыка в течение {TURNS} х. Каждое уклонение приносит {DEFENSE} % защиты (вплоть до макс.: {MAXSTACK}).
-- [specials.v2.statuseffect.minor.statuseffectondodgedspecial.allexceptcaster.allies.stacking_attack_amelia_mayhem] Все союзники, кроме героя, с вероятностью {DODGE} % уклоняются от особых навыков в течение {TURNS} х. Каждое уклонение приносит {ATTACK} % атаки. Накапливается (макс.: {MAXSTACK}).
+- [specials.v2.statuseffect.minor.statuseffectondodgedspecial.allexceptcaster.allies.stacking_attack_amelia_mayhem] Все союзники, кроме героя, с вероятностью {DODGE} % уклоняются от особых навыков в течение {TURNS} х. Каждое уклонение приносит {ATTACK} % атаки. Накапливается (макс.: {MAXSTACK}).
 - [specials.v2.statuseffect.minor.statuseffectondodgedspecial.neartotarget.allies.stacking_defense_aqeela_costume] Герой и союзники поблизости с вероятностью {DODGE} % уклоняются от особого навыка в течение {TURNS} х. Каждое уклонение приносит {DEFENSE} % защиты. Накапливается (макс.: {MAXSTACK}).
 - [specials.v2.statuseffect.minor.statuseffectsonspecialcast.single.enemies.attackmodifier.defensemodifier.managenerationmodifier.chain_strike] Если задетые враги используют особые навыки в следующие {TURNS} х., они получают {ATTACK} % атаки, {DEFENSE} % защиты и {MANAREGEN} % генерации маны в течение {DURATIONFORSTATUSEFFECTS} х.
 - [specials.v2.statuseffect.minor.summonfamiliarperdodgedspecial.all.allies.sakura_fox_costume] Все союзники получают {DODGE} % шанс уклониться от особых навыков на протяжении {TURNS} ходов(а). При каждом уклонении призывается лиса сакуры.
@@ -42753,37 +42273,7 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. This effect is Stu
 
 总重复组数: 236
 
---- 未匹配的英文条目 ---
-- [specials.v2.statuseffect.minor.abyss.sides.enemies.dispelincreasesactivations] Enemies on the edges of the enemy formation shift into Abyss Ghost form for {TURNS} turns.
- While in Abyss Ghost form the targets receive {DAMAGEPERTURN} damage each turn. This effect is Stubborn.
-- [specials.v2.statuseffect.minor.abyss.single.enemies.dispelincreasesactivations] The target shifts into Abyss Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Abyss Ghost form the target receives {DAMAGEPERTURN} damage each turn.
-- [specials.v2.statuseffect.minor.abyss.single.enemies.onremoval.damage.all.allies.expiration.add_insanity_emilie.dispelincreasesactivations] The target shifts into Abyss Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Abyss Ghost form the target receives {DAMAGEPERTURN} damage each turn.
- When the Abyss Ghost form expires:
- Deals {FIXEDPOWER} damage to all allies and inflicts {STATUSEFFECT1INSANITYTOADD} Insanity on them.
-- [specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.add_insanity_salvatore.dispelincreasesactivations] The caster shifts into Deranged Dire Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Deranged Dire Ghost form, the caster automatically deals {POWER1}% damage and inflicts {STATUSEFFECT1INSANITYTOADD} Insanity on a random enemy each turn.
- While in Deranged Dire Ghost form, the caster can take damage from enemies whose element is strong against them.
-- [specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.dispelincreasesactivations] The caster shifts into Dire Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Dire Ghost form the caster automatically deals {POWER1}% damage against a random enemy each turn.
- While in Dire Ghost form the caster can take damage from enemies whose element is strong against the caster.
-- [specials.v2.statuseffect.minor.ethereal.single.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns.
- While in Ghost form the caster gains {ATTACK}% attack. This effect is Stubborn.
-- [specials.v2.statuseffect.minor.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
- When the Ghost form expires:
- All allies get {REMOVALEFFECT1STATUSEFFECT1CRIT}% critical chance for {REMOVALEFFECT1STATUSEFFECT1TURNS} turns. This effect is undispellable.
-- [specials.v2.statuseffect.minor.ghost.single.allies.onremoval.revival.randomdead.allies.expiration.hp_recovery_sable.all.allies.dispel_ailments.all.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
- When the Ghost form expires:
- The caster revives one random defeated ally with {REMOVALEFFECT1POWER}% HP. 
- All allies gain {REMOVALEFFECT1STATUSEFFECT1TOTAL} health over {REMOVALEFFECT1STATUSEFFECT1TURNS} turns.
- Cleanses status ailments from all allies at the end of each turn for {REMOVALEFFECT1STATUSEFFECT2TURNS} turns.
-- [specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): The caster gets {ATTACK}% attack.
-- [specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): All allies get {MANAREGEN}% mana generation.
-- [specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): All damage all allies receive is reduced by {DAMAGEMODIFIER}%.
-- [specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.withbasestackcount.chain_strike] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): Each hit increases all damage the target receives by {DAMAGEMODIFIER}%
-- [specials.v2.statuseffect.minor.transcendentalframe.single.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
-总数: 13
+--- 无未匹配英文条目 ---
 
 --- 未使用的Spanish翻译 ---
 - [specials.v2.bigminion.white_boar_mega_minion_c1.single] Invoca un megasecuaz jabalí blanco con un {FAMILIARHEALTHPERCENT} % de VIT y un {FAMILIARATTACK} % de ataque heredados del héroe.
@@ -43040,13 +42530,13 @@ Cada golpe de un secuaz polilla otorga al objetivo los siguientes estados altera
  El demonio retoño se convierte en megademonio flor pasados {EVOLVINGFAMILIAR2EVOLVETURNS} turnos.
 
  Demonio brote maldito:
-{EVOLVINGFAMILIAR1FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % de vitalidad
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % de vitalidad.
 
  Demonio retoño:
-{EVOLVINGFAMILIAR2FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % de vitalidad
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % de vitalidad.
 
  Megademonio flor:
-{EVOLVINGFAMILIAR3FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % de vitalidad
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % de vitalidad.
 
  El demonio inflige daño al objetivo en cada turno. Desaparece al absorber curación. La cantidad de curación depende de la vitalidad máxima del objetivo.
  La evolución de los demonios se retrasa {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno cada vez que absorben curación.
@@ -43055,13 +42545,13 @@ Cada golpe de un secuaz polilla otorga al objetivo los siguientes estados altera
  El demonio retoño se convierte en megademonio flor pasados {EVOLVINGFAMILIAR2EVOLVETURNS} turnos.
 
  Demonio brote maldito:
-{EVOLVINGFAMILIAR1FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % de vitalidad
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % de vitalidad.
 
  Demonio retoño:
-{EVOLVINGFAMILIAR2FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % de vitalidad
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % de vitalidad.
 
  Megademonio flor:
-{EVOLVINGFAMILIAR3FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % de vitalidad
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % de vitalidad.
 
  El demonio inflige daño al objetivo en cada turno. Desaparece al absorber curación. La cantidad de curación depende de la vitalidad máxima del objetivo.
  La evolución de los demonios se retrasa {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno cada vez que absorben curación.
@@ -44860,37 +44350,7 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. This effect is Stu
 
 总重复组数: 236
 
---- 未匹配的英文条目 ---
-- [specials.v2.statuseffect.minor.abyss.sides.enemies.dispelincreasesactivations] Enemies on the edges of the enemy formation shift into Abyss Ghost form for {TURNS} turns.
- While in Abyss Ghost form the targets receive {DAMAGEPERTURN} damage each turn. This effect is Stubborn.
-- [specials.v2.statuseffect.minor.abyss.single.enemies.dispelincreasesactivations] The target shifts into Abyss Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Abyss Ghost form the target receives {DAMAGEPERTURN} damage each turn.
-- [specials.v2.statuseffect.minor.abyss.single.enemies.onremoval.damage.all.allies.expiration.add_insanity_emilie.dispelincreasesactivations] The target shifts into Abyss Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Abyss Ghost form the target receives {DAMAGEPERTURN} damage each turn.
- When the Abyss Ghost form expires:
- Deals {FIXEDPOWER} damage to all allies and inflicts {STATUSEFFECT1INSANITYTOADD} Insanity on them.
-- [specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.add_insanity_salvatore.dispelincreasesactivations] The caster shifts into Deranged Dire Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Deranged Dire Ghost form, the caster automatically deals {POWER1}% damage and inflicts {STATUSEFFECT1INSANITYTOADD} Insanity on a random enemy each turn.
- While in Deranged Dire Ghost form, the caster can take damage from enemies whose element is strong against them.
-- [specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.dispelincreasesactivations] The caster shifts into Dire Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Dire Ghost form the caster automatically deals {POWER1}% damage against a random enemy each turn.
- While in Dire Ghost form the caster can take damage from enemies whose element is strong against the caster.
-- [specials.v2.statuseffect.minor.ethereal.single.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns.
- While in Ghost form the caster gains {ATTACK}% attack. This effect is Stubborn.
-- [specials.v2.statuseffect.minor.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
- When the Ghost form expires:
- All allies get {REMOVALEFFECT1STATUSEFFECT1CRIT}% critical chance for {REMOVALEFFECT1STATUSEFFECT1TURNS} turns. This effect is undispellable.
-- [specials.v2.statuseffect.minor.ghost.single.allies.onremoval.revival.randomdead.allies.expiration.hp_recovery_sable.all.allies.dispel_ailments.all.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
- When the Ghost form expires:
- The caster revives one random defeated ally with {REMOVALEFFECT1POWER}% HP. 
- All allies gain {REMOVALEFFECT1STATUSEFFECT1TOTAL} health over {REMOVALEFFECT1STATUSEFFECT1TURNS} turns.
- Cleanses status ailments from all allies at the end of each turn for {REMOVALEFFECT1STATUSEFFECT2TURNS} turns.
-- [specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): The caster gets {ATTACK}% attack.
-- [specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): All allies get {MANAREGEN}% mana generation.
-- [specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): All damage all allies receive is reduced by {DAMAGEMODIFIER}%.
-- [specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.withbasestackcount.chain_strike] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): Each hit increases all damage the target receives by {DAMAGEMODIFIER}%
-- [specials.v2.statuseffect.minor.transcendentalframe.single.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
-总数: 13
+--- 无未匹配英文条目 ---
 
 --- 未使用的Swedish翻译 ---
 - [specials.v2.bigminion.white_boar_mega_minion_c1.single] Åkallar en vit megavildsvin-undersåte med {FAMILIARHEALTHPERCENT} % hälsa och {FAMILIARATTACK} % attack som ärvs från anfallaren.
@@ -46967,37 +46427,7 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. This effect is Stu
 
 总重复组数: 236
 
---- 未匹配的英文条目 ---
-- [specials.v2.statuseffect.minor.abyss.sides.enemies.dispelincreasesactivations] Enemies on the edges of the enemy formation shift into Abyss Ghost form for {TURNS} turns.
- While in Abyss Ghost form the targets receive {DAMAGEPERTURN} damage each turn. This effect is Stubborn.
-- [specials.v2.statuseffect.minor.abyss.single.enemies.dispelincreasesactivations] The target shifts into Abyss Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Abyss Ghost form the target receives {DAMAGEPERTURN} damage each turn.
-- [specials.v2.statuseffect.minor.abyss.single.enemies.onremoval.damage.all.allies.expiration.add_insanity_emilie.dispelincreasesactivations] The target shifts into Abyss Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Abyss Ghost form the target receives {DAMAGEPERTURN} damage each turn.
- When the Abyss Ghost form expires:
- Deals {FIXEDPOWER} damage to all allies and inflicts {STATUSEFFECT1INSANITYTOADD} Insanity on them.
-- [specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.add_insanity_salvatore.dispelincreasesactivations] The caster shifts into Deranged Dire Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Deranged Dire Ghost form, the caster automatically deals {POWER1}% damage and inflicts {STATUSEFFECT1INSANITYTOADD} Insanity on a random enemy each turn.
- While in Deranged Dire Ghost form, the caster can take damage from enemies whose element is strong against them.
-- [specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.dispelincreasesactivations] The caster shifts into Dire Ghost form for {TURNS} turns. This effect is Stubborn.
- While in Dire Ghost form the caster automatically deals {POWER1}% damage against a random enemy each turn.
- While in Dire Ghost form the caster can take damage from enemies whose element is strong against the caster.
-- [specials.v2.statuseffect.minor.ethereal.single.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns.
- While in Ghost form the caster gains {ATTACK}% attack. This effect is Stubborn.
-- [specials.v2.statuseffect.minor.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
- When the Ghost form expires:
- All allies get {REMOVALEFFECT1STATUSEFFECT1CRIT}% critical chance for {REMOVALEFFECT1STATUSEFFECT1TURNS} turns. This effect is undispellable.
-- [specials.v2.statuseffect.minor.ghost.single.allies.onremoval.revival.randomdead.allies.expiration.hp_recovery_sable.all.allies.dispel_ailments.all.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
- When the Ghost form expires:
- The caster revives one random defeated ally with {REMOVALEFFECT1POWER}% HP. 
- All allies gain {REMOVALEFFECT1STATUSEFFECT1TOTAL} health over {REMOVALEFFECT1STATUSEFFECT1TURNS} turns.
- Cleanses status ailments from all allies at the end of each turn for {REMOVALEFFECT1STATUSEFFECT2TURNS} turns.
-- [specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): The caster gets {ATTACK}% attack.
-- [specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): All allies get {MANAREGEN}% mana generation.
-- [specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease.withbasestackcount] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): All damage all allies receive is reduced by {DAMAGEMODIFIER}%.
-- [specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.withbasestackcount.chain_strike] Stack +{BASESTACKCOUNT} (Max: {MAXSTACK}): Each hit increases all damage the target receives by {DAMAGEMODIFIER}%
-- [specials.v2.statuseffect.minor.transcendentalframe.single.allies.dispelincreasesactivations] The caster shifts into Ghost form for {TURNS} turns. This effect is Stubborn.
-总数: 13
+--- 无未匹配英文条目 ---
 
 --- 未使用的Turkish翻译 ---
 - [specials.v2.bigminion.white_boar_mega_minion_c1.single] Eylemciden devralınan %{FAMILIARHEALTHPERCENT} SP ve %{FAMILIARATTACK} saldırıya sahip bir Beyaz Domuz Mega Hizmetkârı çağırır.
@@ -48118,27 +47548,7 @@ Blossom Mega Fiend:
 
 总重复组数: 73
 
---- 未匹配的英文条目 ---
-- [herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled] The first time this character would receive fatal damage, they instead redirect {REDIRECTDAMAGEMULTIPLIER}% of that damage to the attacker.
-
-Does not activate if this character is the only member of their team in battle.
-
-In battles with multiple waves, the effect is refreshed at the beginning of each wave.
-- [herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled.battle] The first time this character would receive fatal damage, they instead redirect {REDIRECTDAMAGEMULTIPLIER}% of that damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled] The first time this character would receive fatal damage from normal attacks or Special Skills, they instead redirect up to {REDIRECTDAMAGELIMIT} damage to the attacker.
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled.battle] The first time this character would receive fatal damage from normal attacks or Special Skills, they instead redirect up to {REDIRECTDAMAGELIMIT} damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled] The first time this character would receive fatal damage, they instead redirect that damage to the attacker.
-
-Does not activate if this character is the only member of their team in battle.
-
-In battles with multiple waves, the effect is refreshed at the beginning of each wave.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled.battle] The first time this character would receive fatal damage, they instead redirect that damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.title.redirectlethaldamage] Cheat Death
-总数: 7
+--- 无未匹配英文条目 ---
 
 --- 未使用的Arabic翻译 ---
 - [herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.minion.bigminion] يتم إلحاق {DAMAGEPERTURN} من الضرر بجميع أتباع الأعداء، وأتباعهم الضخام في بداية كل جولة.
@@ -48289,10 +47699,6 @@ Does not activate if this character is the only member of their team in battle.
 - [herocard.passive_skill.title.league_received_damage_modifier_against_non_featured_family] ميزة الدوري
 - [herocard.passive_skill.title.ransack.from.single.enemies.to.single.allies] فرصة اللص
 - [herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage] براعة القوات
-- [herocard.passive_skill.title.redirectlethaldamage.enemies.single] خداع الموت
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single] خداع الموت
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit] خداع الموت
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit] خداع الموت
 - [herocard.passive_skill.title.remove_wither_from_allies] تجمّع الحراس
 - [herocard.passive_skill.title.resist.burn.with_effect.healthboost.addmana] مقاومة الاحتراق المعززة
 - [herocard.passive_skill.title.resist.defensemodifiers.alldebuffs] مقاومة أمراض الدفاع
@@ -48349,7 +47755,7 @@ Does not activate if this character is the only member of their team in battle.
 - [herocard.passive_skill.title.titan_resist_16] عملاق
 - [herocard.passive_skill.title.titan_resist_17] عملاق
 - [herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier] تحويل التعزيزات
-总数: 128
+总数: 124
 
 
 === passive_skill (ChineseSimplified) 翻译分析调试信息 ===
@@ -49026,27 +48432,7 @@ Blossom Mega Fiend:
 
 总重复组数: 73
 
---- 未匹配的英文条目 ---
-- [herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled] The first time this character would receive fatal damage, they instead redirect {REDIRECTDAMAGEMULTIPLIER}% of that damage to the attacker.
-
-Does not activate if this character is the only member of their team in battle.
-
-In battles with multiple waves, the effect is refreshed at the beginning of each wave.
-- [herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled.battle] The first time this character would receive fatal damage, they instead redirect {REDIRECTDAMAGEMULTIPLIER}% of that damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled] The first time this character would receive fatal damage from normal attacks or Special Skills, they instead redirect up to {REDIRECTDAMAGELIMIT} damage to the attacker.
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled.battle] The first time this character would receive fatal damage from normal attacks or Special Skills, they instead redirect up to {REDIRECTDAMAGELIMIT} damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled] The first time this character would receive fatal damage, they instead redirect that damage to the attacker.
-
-Does not activate if this character is the only member of their team in battle.
-
-In battles with multiple waves, the effect is refreshed at the beginning of each wave.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled.battle] The first time this character would receive fatal damage, they instead redirect that damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.title.redirectlethaldamage] Cheat Death
-总数: 7
+--- 无未匹配英文条目 ---
 
 --- 未使用的ChineseSimplified翻译 ---
 - [herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.minion.bigminion] 每回合开始时对所有敌方小兵和超级小兵造成{DAMAGEPERTURN}点伤害。
@@ -49209,10 +48595,6 @@ Does not activate if this character is the only member of their team in battle.
 - [herocard.passive_skill.title.league_received_damage_modifier_against_non_featured_family] 锦标赛优势
 - [herocard.passive_skill.title.ransack.from.single.enemies.to.single.allies] 盗贼的良机
 - [herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage] 队伍大师
-- [herocard.passive_skill.title.redirectlethaldamage.enemies.single] 死里逃生
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single] 死里逃生
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit] 死里逃生
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit] 死里逃生
 - [herocard.passive_skill.title.remove_wither_from_allies] 守卫集结
 - [herocard.passive_skill.title.resist.burn.with_effect.healthboost.addmana] 强化抵抗燃烧
 - [herocard.passive_skill.title.resist.defensemodifiers.alldebuffs] 抵抗防御异常
@@ -49269,7 +48651,7 @@ Does not activate if this character is the only member of their team in battle.
 - [herocard.passive_skill.title.titan_resist_16] 泰坦
 - [herocard.passive_skill.title.titan_resist_17] 泰坦
 - [herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier] 转换增益
-总数: 128
+总数: 124
 
 
 === passive_skill (ChineseTraditional) 翻译分析调试信息 ===
@@ -49946,27 +49328,7 @@ Blossom Mega Fiend:
 
 总重复组数: 73
 
---- 未匹配的英文条目 ---
-- [herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled] The first time this character would receive fatal damage, they instead redirect {REDIRECTDAMAGEMULTIPLIER}% of that damage to the attacker.
-
-Does not activate if this character is the only member of their team in battle.
-
-In battles with multiple waves, the effect is refreshed at the beginning of each wave.
-- [herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled.battle] The first time this character would receive fatal damage, they instead redirect {REDIRECTDAMAGEMULTIPLIER}% of that damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled] The first time this character would receive fatal damage from normal attacks or Special Skills, they instead redirect up to {REDIRECTDAMAGELIMIT} damage to the attacker.
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled.battle] The first time this character would receive fatal damage from normal attacks or Special Skills, they instead redirect up to {REDIRECTDAMAGELIMIT} damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled] The first time this character would receive fatal damage, they instead redirect that damage to the attacker.
-
-Does not activate if this character is the only member of their team in battle.
-
-In battles with multiple waves, the effect is refreshed at the beginning of each wave.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled.battle] The first time this character would receive fatal damage, they instead redirect that damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.title.redirectlethaldamage] Cheat Death
-总数: 7
+--- 无未匹配英文条目 ---
 
 --- 未使用的ChineseTraditional翻译 ---
 - [herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.minion.bigminion] 每回合開始時，對所有敵方小兵和超級小兵造成{DAMAGEPERTURN}點傷害。
@@ -50125,10 +49487,6 @@ Does not activate if this character is the only member of their team in battle.
 - [herocard.passive_skill.title.league_received_damage_modifier_against_non_featured_family] 聯盟優勢
 - [herocard.passive_skill.title.ransack.from.single.enemies.to.single.allies] 小偷的機會
 - [herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage] 部隊精通
-- [herocard.passive_skill.title.redirectlethaldamage.enemies.single] 死裡逃生
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single] 死裡逃生
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit] 死裡逃生
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit] 死裡逃生
 - [herocard.passive_skill.title.remove_wither_from_allies] 守衛集結
 - [herocard.passive_skill.title.resist.burn.with_effect.healthboost.addmana] 賦能抵禦燃燒
 - [herocard.passive_skill.title.resist.defensemodifiers.alldebuffs] 抵禦防禦異常
@@ -50185,7 +49543,7 @@ Does not activate if this character is the only member of their team in battle.
 - [herocard.passive_skill.title.titan_resist_16] 泰坦
 - [herocard.passive_skill.title.titan_resist_17] 泰坦
 - [herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier] 轉化增益
-总数: 128
+总数: 124
 
 
 === passive_skill (Danish) 翻译分析调试信息 ===
@@ -50862,27 +50220,7 @@ Blossom Mega Fiend:
 
 总重复组数: 73
 
---- 未匹配的英文条目 ---
-- [herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled] The first time this character would receive fatal damage, they instead redirect {REDIRECTDAMAGEMULTIPLIER}% of that damage to the attacker.
-
-Does not activate if this character is the only member of their team in battle.
-
-In battles with multiple waves, the effect is refreshed at the beginning of each wave.
-- [herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled.battle] The first time this character would receive fatal damage, they instead redirect {REDIRECTDAMAGEMULTIPLIER}% of that damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled] The first time this character would receive fatal damage from normal attacks or Special Skills, they instead redirect up to {REDIRECTDAMAGELIMIT} damage to the attacker.
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled.battle] The first time this character would receive fatal damage from normal attacks or Special Skills, they instead redirect up to {REDIRECTDAMAGELIMIT} damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled] The first time this character would receive fatal damage, they instead redirect that damage to the attacker.
-
-Does not activate if this character is the only member of their team in battle.
-
-In battles with multiple waves, the effect is refreshed at the beginning of each wave.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled.battle] The first time this character would receive fatal damage, they instead redirect that damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.title.redirectlethaldamage] Cheat Death
-总数: 7
+--- 无未匹配英文条目 ---
 
 --- 未使用的Danish翻译 ---
 - [herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.minion.bigminion] Forvolder {DAMAGEPERTURN} skade mod alle modstanderens håndlangere og kæmpehåndlangere i begyndelsen af hver runde.
@@ -51043,10 +50381,6 @@ Blomstrende megadjævel:
 - [herocard.passive_skill.title.league_received_damage_modifier_against_non_featured_family] Ligafordel
 - [herocard.passive_skill.title.ransack.from.single.enemies.to.single.allies] Tyvens mulighed
 - [herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage] Troppeekspert
-- [herocard.passive_skill.title.redirectlethaldamage.enemies.single] Snyd døden
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single] Snyd døden
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit] Snyd døden
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit] Snyd døden
 - [herocard.passive_skill.title.remove_wither_from_allies] Vagtsamling
 - [herocard.passive_skill.title.resist.burn.with_effect.healthboost.addmana] Styrket brandmodstand
 - [herocard.passive_skill.title.resist.defensemodifiers.alldebuffs] Modstå påvirkning af forsvar
@@ -51103,7 +50437,7 @@ Blomstrende megadjævel:
 - [herocard.passive_skill.title.titan_resist_16] Titan
 - [herocard.passive_skill.title.titan_resist_17] Titan
 - [herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier] Forvandl buffere
-总数: 128
+总数: 124
 
 
 === passive_skill (Dutch) 翻译分析调试信息 ===
@@ -51780,27 +51114,7 @@ Blossom Mega Fiend:
 
 总重复组数: 73
 
---- 未匹配的英文条目 ---
-- [herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled] The first time this character would receive fatal damage, they instead redirect {REDIRECTDAMAGEMULTIPLIER}% of that damage to the attacker.
-
-Does not activate if this character is the only member of their team in battle.
-
-In battles with multiple waves, the effect is refreshed at the beginning of each wave.
-- [herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled.battle] The first time this character would receive fatal damage, they instead redirect {REDIRECTDAMAGEMULTIPLIER}% of that damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled] The first time this character would receive fatal damage from normal attacks or Special Skills, they instead redirect up to {REDIRECTDAMAGELIMIT} damage to the attacker.
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled.battle] The first time this character would receive fatal damage from normal attacks or Special Skills, they instead redirect up to {REDIRECTDAMAGELIMIT} damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled] The first time this character would receive fatal damage, they instead redirect that damage to the attacker.
-
-Does not activate if this character is the only member of their team in battle.
-
-In battles with multiple waves, the effect is refreshed at the beginning of each wave.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled.battle] The first time this character would receive fatal damage, they instead redirect that damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.title.redirectlethaldamage] Cheat Death
-总数: 7
+--- 无未匹配英文条目 ---
 
 --- 未使用的Dutch翻译 ---
 - [herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.minion.bigminion] Brengt aan het begin van iedere beurt {DAMAGEPERTURN} schade toe aan alle volgelingen en megavolgelingen.
@@ -51815,9 +51129,9 @@ Does not activate if this character is the only member of their team in battle.
 - [herocard.passive_skill.description.healonheal.can_stack.heal] Dit personage ontvangt {POWER}% gezondheid telkens als de gezondheid ervan wordt hersteld.
 - [herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill.passiveskill.family.statuseffect.realm] Vermindert de hoeveelheid mana die verhoogd wordt door speciale vaardigheden, passieve vaardigheden, familiebonussen en statuseffecten met {MODIFIER}%. Het effect is van toepassing op alle vijanden in het gevecht.
 - [herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition] {MODIFIER}% manarecuperatie.
-- [herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest.randomenemytarget] Wanneer dit personage zijn of haar speciale vaardigheid toepast, heeft hij of zij een kans van {CHANCE}% om de 
-nieuwste verwijderbare oppepper te stelen van een willekeurige vijanden met oppeppers of 
-brengt {DAMAGE}% schade toe aan alle vijanden als er geen oppeppers gestolen kunnen worden.
+- [herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest.randomenemytarget] Wanneer dit personage de speciale vaardigheid toepast, is er een kans van {CHANCE}% om de 
+nieuwste verwijderbare oppepper te stelen van een willekeurige vijand met oppeppers of 
+{DAMAGE}% schade toe te brengen aan alle vijanden als er geen oppeppers gestolen kunnen worden.
 - [herocard.passive_skill.description.resist.alldefensemodifiersincludingwither.allstatuseffects] Dit personage wordt niet beïnvloed door effecten die verdediging vergroten of verkleinen.
 
 Dit geldt ook voor statuseffectoppeppers en -aandoeningen, positieve en negatieve stapelingen en verwelkings- en groeieffecten.
@@ -51957,10 +51271,6 @@ Bloesemmegademon:
 - [herocard.passive_skill.title.league_received_damage_modifier_against_non_featured_family] Competitievoordeel
 - [herocard.passive_skill.title.ransack.from.single.enemies.to.single.allies] Kans voor een dief
 - [herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage] Troepenmeesterschap
-- [herocard.passive_skill.title.redirectlethaldamage.enemies.single] Ontsnap aan de dood
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single] Ontsnap aan de dood
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit] Ontsnap aan de dood
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit] Ontsnap aan de dood
 - [herocard.passive_skill.title.remove_wither_from_allies] Wachtergroepering
 - [herocard.passive_skill.title.resist.burn.with_effect.healthboost.addmana] Versterkte weerstand tegen brandwonden
 - [herocard.passive_skill.title.resist.defensemodifiers.alldebuffs] Verdedigingskwalen weerstaan
@@ -52017,7 +51327,7 @@ Bloesemmegademon:
 - [herocard.passive_skill.title.titan_resist_16] Titanen
 - [herocard.passive_skill.title.titan_resist_17] Titanen
 - [herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier] Omgezette oppeppers
-总数: 128
+总数: 124
 
 
 === passive_skill (English) 翻译分析调试信息 ===
@@ -53584,27 +52894,7 @@ Blossom Mega Fiend:
 
 总重复组数: 73
 
---- 未匹配的英文条目 ---
-- [herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled] The first time this character would receive fatal damage, they instead redirect {REDIRECTDAMAGEMULTIPLIER}% of that damage to the attacker.
-
-Does not activate if this character is the only member of their team in battle.
-
-In battles with multiple waves, the effect is refreshed at the beginning of each wave.
-- [herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled.battle] The first time this character would receive fatal damage, they instead redirect {REDIRECTDAMAGEMULTIPLIER}% of that damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled] The first time this character would receive fatal damage from normal attacks or Special Skills, they instead redirect up to {REDIRECTDAMAGELIMIT} damage to the attacker.
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled.battle] The first time this character would receive fatal damage from normal attacks or Special Skills, they instead redirect up to {REDIRECTDAMAGELIMIT} damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled] The first time this character would receive fatal damage, they instead redirect that damage to the attacker.
-
-Does not activate if this character is the only member of their team in battle.
-
-In battles with multiple waves, the effect is refreshed at the beginning of each wave.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled.battle] The first time this character would receive fatal damage, they instead redirect that damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.title.redirectlethaldamage] Cheat Death
-总数: 7
+--- 无未匹配英文条目 ---
 
 --- 未使用的Finnish翻译 ---
 - [herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.minion.bigminion] Tuottaa {DAMAGEPERTURN} vauriota kaikille vihollisen käskyläisille ja megakäskyläisille jokaisen vuoron alussa.
@@ -53761,10 +53051,6 @@ Kukkiva megariiviö:
 - [herocard.passive_skill.title.league_received_damage_modifier_against_non_featured_family] Liigaetu
 - [herocard.passive_skill.title.ransack.from.single.enemies.to.single.allies] Varkaan tilaisuus
 - [herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage] Joukkojen mestari
-- [herocard.passive_skill.title.redirectlethaldamage.enemies.single] Huijaa kuolemaa
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single] Huijaa kuolemaa
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit] Huijaa kuolemaa
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit] Huijaa kuolemaa
 - [herocard.passive_skill.title.remove_wither_from_allies] Vartijoiden kokoonkutsu
 - [herocard.passive_skill.title.resist.burn.with_effect.healthboost.addmana] Voimakas palamisen vastustus
 - [herocard.passive_skill.title.resist.defensemodifiers.alldebuffs] Puolustusvaivojen vastustus
@@ -53821,7 +53107,7 @@ Kukkiva megariiviö:
 - [herocard.passive_skill.title.titan_resist_16] Titaani
 - [herocard.passive_skill.title.titan_resist_17] Titaani
 - [herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier] Tehosteiden muuttaminen
-总数: 128
+总数: 124
 
 
 === passive_skill (French) 翻译分析调试信息 ===
@@ -54498,27 +53784,7 @@ Blossom Mega Fiend:
 
 总重复组数: 73
 
---- 未匹配的英文条目 ---
-- [herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled] The first time this character would receive fatal damage, they instead redirect {REDIRECTDAMAGEMULTIPLIER}% of that damage to the attacker.
-
-Does not activate if this character is the only member of their team in battle.
-
-In battles with multiple waves, the effect is refreshed at the beginning of each wave.
-- [herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled.battle] The first time this character would receive fatal damage, they instead redirect {REDIRECTDAMAGEMULTIPLIER}% of that damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled] The first time this character would receive fatal damage from normal attacks or Special Skills, they instead redirect up to {REDIRECTDAMAGELIMIT} damage to the attacker.
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled.battle] The first time this character would receive fatal damage from normal attacks or Special Skills, they instead redirect up to {REDIRECTDAMAGELIMIT} damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled] The first time this character would receive fatal damage, they instead redirect that damage to the attacker.
-
-Does not activate if this character is the only member of their team in battle.
-
-In battles with multiple waves, the effect is refreshed at the beginning of each wave.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled.battle] The first time this character would receive fatal damage, they instead redirect that damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.title.redirectlethaldamage] Cheat Death
-总数: 7
+--- 无未匹配英文条目 ---
 
 --- 未使用的French翻译 ---
 - [herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.minion.bigminion] Inflige {DAMAGEPERTURN} points de dégâts à tous les sbires et méga sbires ennemis au début de chaque tour.
@@ -54675,10 +53941,6 @@ Méga démon florissant :
 - [herocard.passive_skill.title.league_received_damage_modifier_against_non_featured_family] Désavantage de ligue
 - [herocard.passive_skill.title.ransack.from.single.enemies.to.single.allies] Opportunité du voleur
 - [herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage] Maîtrise des troupes
-- [herocard.passive_skill.title.redirectlethaldamage.enemies.single] Trompe-la-mort
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single] Trompe-la-mort
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit] Trompe-la-mort
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit] Trompe-la-mort
 - [herocard.passive_skill.title.remove_wither_from_allies] Ralliement de la garde
 - [herocard.passive_skill.title.resist.burn.with_effect.healthboost.addmana] Résistance à la brûlure surpuissante
 - [herocard.passive_skill.title.resist.defensemodifiers.alldebuffs] Résistance aux effets négatifs de défense
@@ -54735,7 +53997,7 @@ Méga démon florissant :
 - [herocard.passive_skill.title.titan_resist_16] Titan
 - [herocard.passive_skill.title.titan_resist_17] Titan
 - [herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier] Transformation des bonus
-总数: 128
+总数: 124
 
 
 === passive_skill (German) 翻译分析调试信息 ===
@@ -55412,27 +54674,7 @@ Blossom Mega Fiend:
 
 总重复组数: 73
 
---- 未匹配的英文条目 ---
-- [herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled] The first time this character would receive fatal damage, they instead redirect {REDIRECTDAMAGEMULTIPLIER}% of that damage to the attacker.
-
-Does not activate if this character is the only member of their team in battle.
-
-In battles with multiple waves, the effect is refreshed at the beginning of each wave.
-- [herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled.battle] The first time this character would receive fatal damage, they instead redirect {REDIRECTDAMAGEMULTIPLIER}% of that damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled] The first time this character would receive fatal damage from normal attacks or Special Skills, they instead redirect up to {REDIRECTDAMAGELIMIT} damage to the attacker.
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled.battle] The first time this character would receive fatal damage from normal attacks or Special Skills, they instead redirect up to {REDIRECTDAMAGELIMIT} damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled] The first time this character would receive fatal damage, they instead redirect that damage to the attacker.
-
-Does not activate if this character is the only member of their team in battle.
-
-In battles with multiple waves, the effect is refreshed at the beginning of each wave.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled.battle] The first time this character would receive fatal damage, they instead redirect that damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.title.redirectlethaldamage] Cheat Death
-总数: 7
+--- 无未匹配英文条目 ---
 
 --- 未使用的German翻译 ---
 - [herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.minion.bigminion] Verursacht {DAMAGEPERTURN} Schaden an allen gegnerischen Lakaien und Mega-Lakaien zu Beginn einer Runde.
@@ -55475,7 +54717,7 @@ Blüten-Mega-Feind:
 {EVOLVINGFAMILIAR3FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % Leben.
 - [herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_epic_mayhem.enemies.blocked_by.minion] Beschwört in jedem Zug einen Setzling-Feind zu einem zufälligen Gegner.
 Der Setzling-Feind entwickelt sich nach {EVOLVINGFAMILIAR1EVOLVETURNS} Runden zu einem Spross-Feind.
- Der Spross-Feind entwickelt sich nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden zu einem Mega-Blütenfeind.
+Der Spross-Feind entwickelt sich nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden zu einem Mega-Blütenfeind.
 Feinde können sich nicht zu Mega-Feinden entwickeln, wenn sich Lakaien auf demselben Helden befinden.
 
 Setzling-Feind: 
@@ -55500,7 +54742,7 @@ Blüten-Mega-Feind:
 {EVOLVINGFAMILIAR3FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % Leben.
 - [herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_rare_mayhem.enemies.blocked_by.minion] Beschwört in jedem Zug einen Setzling-Feind zu einem zufälligen Gegner.
 Der Setzling-Feind entwickelt sich nach {EVOLVINGFAMILIAR1EVOLVETURNS} Runden zu einem Spross-Feind.
- Der Spross-Feind entwickelt sich nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden zu einem Mega-Blütenfeind.
+Der Spross-Feind entwickelt sich nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden zu einem Mega-Blütenfeind.
 Feinde können sich nicht zu Mega-Feinden entwickeln, wenn sich Lakaien auf demselben Helden befinden.
 
 Setzling-Feind: 
@@ -55539,7 +54781,7 @@ Blüten-Mega-Feind:
 {EVOLVINGFAMILIAR3FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % Leben.
 - [herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn.blocked_by.minion] Beschwört in jedem Zug einen Setzling-Feind zu einem zufälligen Gegner.
 Der Setzling-Feind entwickelt sich nach {EVOLVINGFAMILIAR1EVOLVETURNS} Runden zu einem Spross-Feind.
- Der Spross-Feind entwickelt sich nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden zu einem Mega-Blütenfeind.
+Der Spross-Feind entwickelt sich nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden zu einem Mega-Blütenfeind.
 Feinde können sich nicht zu Mega-Feinden entwickeln, wenn sich Lakaien auf demselben Helden befinden.
 
 Setzling-Feind: 
@@ -55589,10 +54831,6 @@ Mega-Blütenfeind:
 - [herocard.passive_skill.title.league_received_damage_modifier_against_non_featured_family] Liga-Vorteil
 - [herocard.passive_skill.title.ransack.from.single.enemies.to.single.allies] Diebische Gelegenheit
 - [herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage] Truppenmeisterung
-- [herocard.passive_skill.title.redirectlethaldamage.enemies.single] Dem Tod ein Schnippchen schlagen
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single] Dem Tod ein Schnippchen schlagen
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit] Dem Tod ein Schnippchen schlagen
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit] Dem Tod ein Schnippchen schlagen
 - [herocard.passive_skill.title.remove_wither_from_allies] Wächterangriff
 - [herocard.passive_skill.title.resist.burn.with_effect.healthboost.addmana] Verstärkter
 Verbrennungswiderstand
@@ -55652,7 +54890,7 @@ statuseffekten
 - [herocard.passive_skill.title.titan_resist_16] Titan
 - [herocard.passive_skill.title.titan_resist_17] Titan
 - [herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier] Boni verwandeln
-总数: 128
+总数: 124
 
 
 === passive_skill (Indonesian) 翻译分析调试信息 ===
@@ -56329,27 +55567,7 @@ Blossom Mega Fiend:
 
 总重复组数: 73
 
---- 未匹配的英文条目 ---
-- [herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled] The first time this character would receive fatal damage, they instead redirect {REDIRECTDAMAGEMULTIPLIER}% of that damage to the attacker.
-
-Does not activate if this character is the only member of their team in battle.
-
-In battles with multiple waves, the effect is refreshed at the beginning of each wave.
-- [herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled.battle] The first time this character would receive fatal damage, they instead redirect {REDIRECTDAMAGEMULTIPLIER}% of that damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled] The first time this character would receive fatal damage from normal attacks or Special Skills, they instead redirect up to {REDIRECTDAMAGELIMIT} damage to the attacker.
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled.battle] The first time this character would receive fatal damage from normal attacks or Special Skills, they instead redirect up to {REDIRECTDAMAGELIMIT} damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled] The first time this character would receive fatal damage, they instead redirect that damage to the attacker.
-
-Does not activate if this character is the only member of their team in battle.
-
-In battles with multiple waves, the effect is refreshed at the beginning of each wave.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled.battle] The first time this character would receive fatal damage, they instead redirect that damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.title.redirectlethaldamage] Cheat Death
-总数: 7
+--- 无未匹配英文条目 ---
 
 --- 未使用的Indonesian翻译 ---
 - [herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.minion.bigminion] Menimbulkan {DAMAGEPERTURN} kerusakan ke semua Antek dan Antek Mega musuh di awal tiap giliran.
@@ -56506,10 +55724,6 @@ serangan {EVOLVINGFAMILIAR3FAMILIARATTACK}%, kesehatan {EVOLVINGFAMILIAR3FAMILIA
 - [herocard.passive_skill.title.league_received_damage_modifier_against_non_featured_family] Kerugian Liga
 - [herocard.passive_skill.title.ransack.from.single.enemies.to.single.allies] Kesempatan Pencuri
 - [herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage] Penguasaan Pasukan
-- [herocard.passive_skill.title.redirectlethaldamage.enemies.single] Menipu Kematian
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single] Menipu Kematian
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit] Menipu Kematian
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit] Menipu Kematian
 - [herocard.passive_skill.title.remove_wither_from_allies] Reli Penjaga
 - [herocard.passive_skill.title.resist.burn.with_effect.healthboost.addmana] Tampik Pembakaran yang Diberdayakan
 - [herocard.passive_skill.title.resist.defensemodifiers.alldebuffs] Tampik Pelemahan Pertahanan
@@ -56566,7 +55780,7 @@ serangan {EVOLVINGFAMILIAR3FAMILIARATTACK}%, kesehatan {EVOLVINGFAMILIAR3FAMILIA
 - [herocard.passive_skill.title.titan_resist_16] Titan
 - [herocard.passive_skill.title.titan_resist_17] Titan
 - [herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier] Genjotan Transformasi
-总数: 128
+总数: 124
 
 
 === passive_skill (Italian) 翻译分析调试信息 ===
@@ -57243,27 +56457,7 @@ Blossom Mega Fiend:
 
 总重复组数: 73
 
---- 未匹配的英文条目 ---
-- [herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled] The first time this character would receive fatal damage, they instead redirect {REDIRECTDAMAGEMULTIPLIER}% of that damage to the attacker.
-
-Does not activate if this character is the only member of their team in battle.
-
-In battles with multiple waves, the effect is refreshed at the beginning of each wave.
-- [herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled.battle] The first time this character would receive fatal damage, they instead redirect {REDIRECTDAMAGEMULTIPLIER}% of that damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled] The first time this character would receive fatal damage from normal attacks or Special Skills, they instead redirect up to {REDIRECTDAMAGELIMIT} damage to the attacker.
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled.battle] The first time this character would receive fatal damage from normal attacks or Special Skills, they instead redirect up to {REDIRECTDAMAGELIMIT} damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled] The first time this character would receive fatal damage, they instead redirect that damage to the attacker.
-
-Does not activate if this character is the only member of their team in battle.
-
-In battles with multiple waves, the effect is refreshed at the beginning of each wave.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled.battle] The first time this character would receive fatal damage, they instead redirect that damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.title.redirectlethaldamage] Cheat Death
-总数: 7
+--- 无未匹配英文条目 ---
 
 --- 未使用的Italian翻译 ---
 - [herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.minion.bigminion] Infligge {DAMAGEPERTURN} danni a tutti i servitori e servitori Mega nemici all'inizio di ogni turno.
@@ -57420,10 +56614,6 @@ Demone Mega Fiore:
 - [herocard.passive_skill.title.league_received_damage_modifier_against_non_featured_family] Vantaggio di lega
 - [herocard.passive_skill.title.ransack.from.single.enemies.to.single.allies] Occasione del ladro
 - [herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage] Maestria delle truppe
-- [herocard.passive_skill.title.redirectlethaldamage.enemies.single] Ingannare la morte
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single] Ingannare la morte
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit] Ingannare la morte
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit] Ingannare la morte
 - [herocard.passive_skill.title.remove_wither_from_allies] Raduno delle guardie
 - [herocard.passive_skill.title.resist.burn.with_effect.healthboost.addmana] Aumento resistenza a Ustione
 - [herocard.passive_skill.title.resist.defensemodifiers.alldebuffs] Resisti a disturbi della Difesa
@@ -57480,7 +56670,7 @@ Demone Mega Fiore:
 - [herocard.passive_skill.title.titan_resist_16] Titano
 - [herocard.passive_skill.title.titan_resist_17] Titano
 - [herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier] Trasforma magie benefiche
-总数: 128
+总数: 124
 
 
 === passive_skill (Japanese) 翻译分析调试信息 ===
@@ -58157,27 +57347,7 @@ Blossom Mega Fiend:
 
 总重复组数: 73
 
---- 未匹配的英文条目 ---
-- [herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled] The first time this character would receive fatal damage, they instead redirect {REDIRECTDAMAGEMULTIPLIER}% of that damage to the attacker.
-
-Does not activate if this character is the only member of their team in battle.
-
-In battles with multiple waves, the effect is refreshed at the beginning of each wave.
-- [herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled.battle] The first time this character would receive fatal damage, they instead redirect {REDIRECTDAMAGEMULTIPLIER}% of that damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled] The first time this character would receive fatal damage from normal attacks or Special Skills, they instead redirect up to {REDIRECTDAMAGELIMIT} damage to the attacker.
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled.battle] The first time this character would receive fatal damage from normal attacks or Special Skills, they instead redirect up to {REDIRECTDAMAGELIMIT} damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled] The first time this character would receive fatal damage, they instead redirect that damage to the attacker.
-
-Does not activate if this character is the only member of their team in battle.
-
-In battles with multiple waves, the effect is refreshed at the beginning of each wave.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled.battle] The first time this character would receive fatal damage, they instead redirect that damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.title.redirectlethaldamage] Cheat Death
-总数: 7
+--- 无未匹配英文条目 ---
 
 --- 未使用的Japanese翻译 ---
 - [herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.minion.bigminion] 各ターン開始時に、{DAMAGEPERTURN}ダメージを敵の全てのミニオンとメガミニオンに与える。
@@ -58334,10 +57504,6 @@ Does not activate if this character is the only member of their team in battle.
 - [herocard.passive_skill.title.league_received_damage_modifier_against_non_featured_family] 有利リーグ
 - [herocard.passive_skill.title.ransack.from.single.enemies.to.single.allies] 盗人の好機
 - [herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage] 兵団の達人
-- [herocard.passive_skill.title.redirectlethaldamage.enemies.single] 九死に一生
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single] 九死に一生
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit] 九死に一生
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit] 九死に一生
 - [herocard.passive_skill.title.remove_wither_from_allies] ガードラリー
 - [herocard.passive_skill.title.resist.burn.with_effect.healthboost.addmana] 強化燃焼抵抗
 - [herocard.passive_skill.title.resist.defensemodifiers.alldebuffs] 防御力異常耐性
@@ -58394,7 +57560,7 @@ Does not activate if this character is the only member of their team in battle.
 - [herocard.passive_skill.title.titan_resist_16] タイタン
 - [herocard.passive_skill.title.titan_resist_17] タイタン
 - [herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier] バフ変化
-总数: 128
+总数: 124
 
 
 === passive_skill (Korean) 翻译分析调试信息 ===
@@ -59071,27 +58237,7 @@ Blossom Mega Fiend:
 
 总重复组数: 73
 
---- 未匹配的英文条目 ---
-- [herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled] The first time this character would receive fatal damage, they instead redirect {REDIRECTDAMAGEMULTIPLIER}% of that damage to the attacker.
-
-Does not activate if this character is the only member of their team in battle.
-
-In battles with multiple waves, the effect is refreshed at the beginning of each wave.
-- [herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled.battle] The first time this character would receive fatal damage, they instead redirect {REDIRECTDAMAGEMULTIPLIER}% of that damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled] The first time this character would receive fatal damage from normal attacks or Special Skills, they instead redirect up to {REDIRECTDAMAGELIMIT} damage to the attacker.
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled.battle] The first time this character would receive fatal damage from normal attacks or Special Skills, they instead redirect up to {REDIRECTDAMAGELIMIT} damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled] The first time this character would receive fatal damage, they instead redirect that damage to the attacker.
-
-Does not activate if this character is the only member of their team in battle.
-
-In battles with multiple waves, the effect is refreshed at the beginning of each wave.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled.battle] The first time this character would receive fatal damage, they instead redirect that damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.title.redirectlethaldamage] Cheat Death
-总数: 7
+--- 无未匹配英文条目 ---
 
 --- 未使用的Korean翻译 ---
 - [herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.minion.bigminion] 턴을 시작할 때마다 모든 하수인과 메가 하수인에 {DAMAGEPERTURN}만큼 피해를 줍니다.
@@ -59248,10 +58394,6 @@ Does not activate if this character is the only member of their team in battle.
 - [herocard.passive_skill.title.league_received_damage_modifier_against_non_featured_family] 리그 이익
 - [herocard.passive_skill.title.ransack.from.single.enemies.to.single.allies] 도둑의 기회
 - [herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage] 부대 숙련도
-- [herocard.passive_skill.title.redirectlethaldamage.enemies.single] 죽음 속이기
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single] 죽음 속이기
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit] 죽음 속이기
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit] 죽음 속이기
 - [herocard.passive_skill.title.remove_wither_from_allies] 경비병 집결
 - [herocard.passive_skill.title.resist.burn.with_effect.healthboost.addmana] 강화된 화상 저항
 - [herocard.passive_skill.title.resist.defensemodifiers.alldebuffs] 방어력 감소 저항
@@ -59308,7 +58450,7 @@ Does not activate if this character is the only member of their team in battle.
 - [herocard.passive_skill.title.titan_resist_16] 타이탄
 - [herocard.passive_skill.title.titan_resist_17] 타이탄
 - [herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier] 버프 변환
-总数: 128
+总数: 124
 
 
 === passive_skill (Norwegian) 翻译分析调试信息 ===
@@ -59985,27 +59127,7 @@ Blossom Mega Fiend:
 
 总重复组数: 73
 
---- 未匹配的英文条目 ---
-- [herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled] The first time this character would receive fatal damage, they instead redirect {REDIRECTDAMAGEMULTIPLIER}% of that damage to the attacker.
-
-Does not activate if this character is the only member of their team in battle.
-
-In battles with multiple waves, the effect is refreshed at the beginning of each wave.
-- [herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled.battle] The first time this character would receive fatal damage, they instead redirect {REDIRECTDAMAGEMULTIPLIER}% of that damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled] The first time this character would receive fatal damage from normal attacks or Special Skills, they instead redirect up to {REDIRECTDAMAGELIMIT} damage to the attacker.
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled.battle] The first time this character would receive fatal damage from normal attacks or Special Skills, they instead redirect up to {REDIRECTDAMAGELIMIT} damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled] The first time this character would receive fatal damage, they instead redirect that damage to the attacker.
-
-Does not activate if this character is the only member of their team in battle.
-
-In battles with multiple waves, the effect is refreshed at the beginning of each wave.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled.battle] The first time this character would receive fatal damage, they instead redirect that damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.title.redirectlethaldamage] Cheat Death
-总数: 7
+--- 无未匹配英文条目 ---
 
 --- 未使用的Norwegian翻译 ---
 - [herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.minion.bigminion] Påfører {DAMAGEPERTURN} skade mot alle fiendtlige undersåtter og megaundersåtter ved starten av hver runde.
@@ -60162,10 +59284,6 @@ Blomst-megadjevel:
 - [herocard.passive_skill.title.league_received_damage_modifier_against_non_featured_family] Ligafordel
 - [herocard.passive_skill.title.ransack.from.single.enemies.to.single.allies] Tyvs mulighet
 - [herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage] Troppmestring
-- [herocard.passive_skill.title.redirectlethaldamage.enemies.single] Lure døden
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single] Lure døden
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit] Lure døden
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit] Lure døden
 - [herocard.passive_skill.title.remove_wither_from_allies] Voktersamling
 - [herocard.passive_skill.title.resist.burn.with_effect.healthboost.addmana] Styrket motstand mot ild
 - [herocard.passive_skill.title.resist.defensemodifiers.alldebuffs] Motstå forsvarslidelser
@@ -60222,7 +59340,7 @@ Blomst-megadjevel:
 - [herocard.passive_skill.title.titan_resist_16] Titan
 - [herocard.passive_skill.title.titan_resist_17] Titan
 - [herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier] Transformer økninger
-总数: 128
+总数: 124
 
 
 === passive_skill (Polish) 翻译分析调试信息 ===
@@ -60899,27 +60017,7 @@ Blossom Mega Fiend:
 
 总重复组数: 73
 
---- 未匹配的英文条目 ---
-- [herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled] The first time this character would receive fatal damage, they instead redirect {REDIRECTDAMAGEMULTIPLIER}% of that damage to the attacker.
-
-Does not activate if this character is the only member of their team in battle.
-
-In battles with multiple waves, the effect is refreshed at the beginning of each wave.
-- [herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled.battle] The first time this character would receive fatal damage, they instead redirect {REDIRECTDAMAGEMULTIPLIER}% of that damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled] The first time this character would receive fatal damage from normal attacks or Special Skills, they instead redirect up to {REDIRECTDAMAGELIMIT} damage to the attacker.
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled.battle] The first time this character would receive fatal damage from normal attacks or Special Skills, they instead redirect up to {REDIRECTDAMAGELIMIT} damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled] The first time this character would receive fatal damage, they instead redirect that damage to the attacker.
-
-Does not activate if this character is the only member of their team in battle.
-
-In battles with multiple waves, the effect is refreshed at the beginning of each wave.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled.battle] The first time this character would receive fatal damage, they instead redirect that damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.title.redirectlethaldamage] Cheat Death
-总数: 7
+--- 无未匹配英文条目 ---
 
 --- 未使用的Polish翻译 ---
 - [herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.minion.bigminion] Zadaje {DAMAGEPERTURN} pkt. obrażeń wszystkim wrogim pomocnikom i mega pomocnikom na początku każdej tury.
@@ -60936,7 +60034,7 @@ Does not activate if this character is the only member of their team in battle.
 - [herocard.passive_skill.description.managenerationmodifier.troop.specialskill.statuseffect.familiar.passiveskill.realm.family.npcturnmanaaddition] {MODIFIER}% regeneracji many.
 - [herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest.randomenemytarget] Po rzuceniu swojej umiejętności specjalnej ta postać zyskuje {CHANCE}% szans na
 kradzież losowemu wrogowi ze wzmocnieniami ostatniego odwoływalnego wzmocnienia, lub
-zadanie  {DAMAGE}% obrażeń wszystkim wrogom, jeśli nie ma wzmocnień, które da się ukraść.
+zadanie {DAMAGE}% obrażeń wszystkim wrogom, jeśli nie ma wzmocnień, które da się ukraść.
 - [herocard.passive_skill.description.resist.alldefensemodifiersincludingwither.allstatuseffects] Na tę postać nie wpływają efekty zmniejszające bądź zwiększające obronę.
 
 Obejmuje to wzmocnienia i dolegliwości ze statusu, pozytywne i negatywne kumulacje oraz efekty wzrostu i suszy.
@@ -61076,10 +60174,6 @@ Kwitnący mega potwór:
 - [herocard.passive_skill.title.league_received_damage_modifier_against_non_featured_family] Korzyść ligi
 - [herocard.passive_skill.title.ransack.from.single.enemies.to.single.allies] Złodziejska okazja
 - [herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage] Mistrzostwo oddziału
-- [herocard.passive_skill.title.redirectlethaldamage.enemies.single] Oszukanie śmierci
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single] Oszukanie śmierci
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit] Oszukanie śmierci
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit] Oszukanie śmierci
 - [herocard.passive_skill.title.remove_wither_from_allies] Zwarcie szyków
 - [herocard.passive_skill.title.resist.burn.with_effect.healthboost.addmana] Wzmocniona odporność na oparzenia
 - [herocard.passive_skill.title.resist.defensemodifiers.alldebuffs] Odporność na dolegliwości obronne
@@ -61136,7 +60230,7 @@ Kwitnący mega potwór:
 - [herocard.passive_skill.title.titan_resist_16] Tytan
 - [herocard.passive_skill.title.titan_resist_17] Tytan
 - [herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier] Przemiana wzmocnień
-总数: 128
+总数: 124
 
 
 === passive_skill (Portuguese) 翻译分析调试信息 ===
@@ -61813,27 +60907,7 @@ Blossom Mega Fiend:
 
 总重复组数: 73
 
---- 未匹配的英文条目 ---
-- [herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled] The first time this character would receive fatal damage, they instead redirect {REDIRECTDAMAGEMULTIPLIER}% of that damage to the attacker.
-
-Does not activate if this character is the only member of their team in battle.
-
-In battles with multiple waves, the effect is refreshed at the beginning of each wave.
-- [herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled.battle] The first time this character would receive fatal damage, they instead redirect {REDIRECTDAMAGEMULTIPLIER}% of that damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled] The first time this character would receive fatal damage from normal attacks or Special Skills, they instead redirect up to {REDIRECTDAMAGELIMIT} damage to the attacker.
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled.battle] The first time this character would receive fatal damage from normal attacks or Special Skills, they instead redirect up to {REDIRECTDAMAGELIMIT} damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled] The first time this character would receive fatal damage, they instead redirect that damage to the attacker.
-
-Does not activate if this character is the only member of their team in battle.
-
-In battles with multiple waves, the effect is refreshed at the beginning of each wave.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled.battle] The first time this character would receive fatal damage, they instead redirect that damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.title.redirectlethaldamage] Cheat Death
-总数: 7
+--- 无未匹配英文条目 ---
 
 --- 未使用的Portuguese翻译 ---
 - [herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.minion.bigminion] Causa {DAMAGEPERTURN} de dano a todos os ajudantes e mega-ajudantes inimigos no início de cada turno.
@@ -61992,10 +61066,6 @@ Megademônio Florescência:
 - [herocard.passive_skill.title.league_received_damage_modifier_against_non_featured_family] Vantagem na Liga
 - [herocard.passive_skill.title.ransack.from.single.enemies.to.single.allies] Oportunidade de Ladrão
 - [herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage] Domínio de Tropa
-- [herocard.passive_skill.title.redirectlethaldamage.enemies.single] Vencer a Morte
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single] Vencer a Morte
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit] Vencer a Morte
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit] Vencer a Morte
 - [herocard.passive_skill.title.remove_wither_from_allies] Reunião de Guardas
 - [herocard.passive_skill.title.resist.burn.with_effect.healthboost.addmana] Resistência reforçada a queimadura
 - [herocard.passive_skill.title.resist.defensemodifiers.alldebuffs] Resistência a males de defesa
@@ -62052,7 +61122,7 @@ Megademônio Florescência:
 - [herocard.passive_skill.title.titan_resist_16] Titã
 - [herocard.passive_skill.title.titan_resist_17] Titã
 - [herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier] Transformação de Reforços
-总数: 128
+总数: 124
 
 
 === passive_skill (Russian) 翻译分析调试信息 ===
@@ -62729,27 +61799,7 @@ Blossom Mega Fiend:
 
 总重复组数: 73
 
---- 未匹配的英文条目 ---
-- [herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled] The first time this character would receive fatal damage, they instead redirect {REDIRECTDAMAGEMULTIPLIER}% of that damage to the attacker.
-
-Does not activate if this character is the only member of their team in battle.
-
-In battles with multiple waves, the effect is refreshed at the beginning of each wave.
-- [herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled.battle] The first time this character would receive fatal damage, they instead redirect {REDIRECTDAMAGEMULTIPLIER}% of that damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled] The first time this character would receive fatal damage from normal attacks or Special Skills, they instead redirect up to {REDIRECTDAMAGELIMIT} damage to the attacker.
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled.battle] The first time this character would receive fatal damage from normal attacks or Special Skills, they instead redirect up to {REDIRECTDAMAGELIMIT} damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled] The first time this character would receive fatal damage, they instead redirect that damage to the attacker.
-
-Does not activate if this character is the only member of their team in battle.
-
-In battles with multiple waves, the effect is refreshed at the beginning of each wave.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled.battle] The first time this character would receive fatal damage, they instead redirect that damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.title.redirectlethaldamage] Cheat Death
-总数: 7
+--- 无未匹配英文条目 ---
 
 --- 未使用的Russian翻译 ---
 - [herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.minion.bigminion] Наносит {DAMAGEPERTURN} урона всем вражеским прислужникам и мегаприслужникам в начале каждого хода.
@@ -62902,10 +61952,6 @@ Does not activate if this character is the only member of their team in battle.
 - [herocard.passive_skill.title.league_received_damage_modifier_against_non_featured_family] Преимущество лиги
 - [herocard.passive_skill.title.ransack.from.single.enemies.to.single.allies] Шанс вора
 - [herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage] Мастерство: отряды
-- [herocard.passive_skill.title.redirectlethaldamage.enemies.single] Обман смерти
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single] Обман смерти
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit] Обман смерти
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit] Обман смерти
 - [herocard.passive_skill.title.remove_wither_from_allies] Приведение в порядок стражем
 - [herocard.passive_skill.title.resist.burn.with_effect.healthboost.addmana] Усиленное сопротивление ожогам
 - [herocard.passive_skill.title.resist.defensemodifiers.alldebuffs] Сопротивление недугам защиты
@@ -62962,7 +62008,7 @@ Does not activate if this character is the only member of their team in battle.
 - [herocard.passive_skill.title.titan_resist_16] Титан
 - [herocard.passive_skill.title.titan_resist_17] Титан
 - [herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier] Превращение усилений
-总数: 128
+总数: 124
 
 
 === passive_skill (Spanish) 翻译分析调试信息 ===
@@ -63639,27 +62685,7 @@ Blossom Mega Fiend:
 
 总重复组数: 73
 
---- 未匹配的英文条目 ---
-- [herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled] The first time this character would receive fatal damage, they instead redirect {REDIRECTDAMAGEMULTIPLIER}% of that damage to the attacker.
-
-Does not activate if this character is the only member of their team in battle.
-
-In battles with multiple waves, the effect is refreshed at the beginning of each wave.
-- [herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled.battle] The first time this character would receive fatal damage, they instead redirect {REDIRECTDAMAGEMULTIPLIER}% of that damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled] The first time this character would receive fatal damage from normal attacks or Special Skills, they instead redirect up to {REDIRECTDAMAGELIMIT} damage to the attacker.
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled.battle] The first time this character would receive fatal damage from normal attacks or Special Skills, they instead redirect up to {REDIRECTDAMAGELIMIT} damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled] The first time this character would receive fatal damage, they instead redirect that damage to the attacker.
-
-Does not activate if this character is the only member of their team in battle.
-
-In battles with multiple waves, the effect is refreshed at the beginning of each wave.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled.battle] The first time this character would receive fatal damage, they instead redirect that damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.title.redirectlethaldamage] Cheat Death
-总数: 7
+--- 无未匹配英文条目 ---
 
 --- 未使用的Spanish翻译 ---
 - [herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.minion.bigminion] Inflige {DAMAGEPERTURN} de daño a todos los secuaces y megasecuaces enemigos al comienzo de cada turno.
@@ -63816,10 +62842,6 @@ Megademonio flor:
 - [herocard.passive_skill.title.league_received_damage_modifier_against_non_featured_family] Ventaja en liga
 - [herocard.passive_skill.title.ransack.from.single.enemies.to.single.allies] Oportunidad de robar
 - [herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage] Maestría con tropas
-- [herocard.passive_skill.title.redirectlethaldamage.enemies.single] Engaño a la muerte
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single] Engaño a la muerte
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit] Engaño a la muerte
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit] Engaño a la muerte
 - [herocard.passive_skill.title.remove_wither_from_allies] Arenga protectora
 - [herocard.passive_skill.title.resist.burn.with_effect.healthboost.addmana] Resistencia fortalecida contra Quemadura
 - [herocard.passive_skill.title.resist.defensemodifiers.alldebuffs] Resiste las alteraciones de defensa
@@ -63876,7 +62898,7 @@ Megademonio flor:
 - [herocard.passive_skill.title.titan_resist_16] Titán
 - [herocard.passive_skill.title.titan_resist_17] Titán
 - [herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier] Transformar bendiciones
-总数: 128
+总数: 124
 
 
 === passive_skill (Swedish) 翻译分析调试信息 ===
@@ -64553,27 +63575,7 @@ Blossom Mega Fiend:
 
 总重复组数: 73
 
---- 未匹配的英文条目 ---
-- [herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled] The first time this character would receive fatal damage, they instead redirect {REDIRECTDAMAGEMULTIPLIER}% of that damage to the attacker.
-
-Does not activate if this character is the only member of their team in battle.
-
-In battles with multiple waves, the effect is refreshed at the beginning of each wave.
-- [herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled.battle] The first time this character would receive fatal damage, they instead redirect {REDIRECTDAMAGEMULTIPLIER}% of that damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled] The first time this character would receive fatal damage from normal attacks or Special Skills, they instead redirect up to {REDIRECTDAMAGELIMIT} damage to the attacker.
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled.battle] The first time this character would receive fatal damage from normal attacks or Special Skills, they instead redirect up to {REDIRECTDAMAGELIMIT} damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled] The first time this character would receive fatal damage, they instead redirect that damage to the attacker.
-
-Does not activate if this character is the only member of their team in battle.
-
-In battles with multiple waves, the effect is refreshed at the beginning of each wave.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled.battle] The first time this character would receive fatal damage, they instead redirect that damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.title.redirectlethaldamage] Cheat Death
-总数: 7
+--- 无未匹配英文条目 ---
 
 --- 未使用的Swedish翻译 ---
 - [herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.minion.bigminion] Gör {DAMAGEPERTURN} skada på alla fienders undersåtar och megaundersåtar i början av varje runda.
@@ -64730,10 +63732,6 @@ Blomstermegaodjuret:
 - [herocard.passive_skill.title.league_received_damage_modifier_against_non_featured_family] Ligafördel
 - [herocard.passive_skill.title.ransack.from.single.enemies.to.single.allies] Tjuvsinne
 - [herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage] Truppbemästring
-- [herocard.passive_skill.title.redirectlethaldamage.enemies.single] Lura döden
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single] Lura döden
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit] Lura döden
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit] Lura döden
 - [herocard.passive_skill.title.remove_wither_from_allies] Vaktsamling
 - [herocard.passive_skill.title.resist.burn.with_effect.healthboost.addmana] Stärkt eldmotstånd
 - [herocard.passive_skill.title.resist.defensemodifiers.alldebuffs] Motstå negativa försvarseffekter
@@ -64790,7 +63788,7 @@ Blomstermegaodjuret:
 - [herocard.passive_skill.title.titan_resist_16] Titan
 - [herocard.passive_skill.title.titan_resist_17] Titan
 - [herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier] Förvandla bonusar
-总数: 128
+总数: 124
 
 
 === passive_skill (Turkish) 翻译分析调试信息 ===
@@ -65467,27 +64465,7 @@ Blossom Mega Fiend:
 
 总重复组数: 73
 
---- 未匹配的英文条目 ---
-- [herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled] The first time this character would receive fatal damage, they instead redirect {REDIRECTDAMAGEMULTIPLIER}% of that damage to the attacker.
-
-Does not activate if this character is the only member of their team in battle.
-
-In battles with multiple waves, the effect is refreshed at the beginning of each wave.
-- [herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled.battle] The first time this character would receive fatal damage, they instead redirect {REDIRECTDAMAGEMULTIPLIER}% of that damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled] The first time this character would receive fatal damage from normal attacks or Special Skills, they instead redirect up to {REDIRECTDAMAGELIMIT} damage to the attacker.
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled.battle] The first time this character would receive fatal damage from normal attacks or Special Skills, they instead redirect up to {REDIRECTDAMAGELIMIT} damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled] The first time this character would receive fatal damage, they instead redirect that damage to the attacker.
-
-Does not activate if this character is the only member of their team in battle.
-
-In battles with multiple waves, the effect is refreshed at the beginning of each wave.
-- [herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled.battle] The first time this character would receive fatal damage, they instead redirect that damage to the attacker. (Activations left: {ACTIVATIONSLEFT})
-Does not activate if this character is the only member of their team in battle.
-- [herocard.passive_skill.title.redirectlethaldamage] Cheat Death
-总数: 7
+--- 无未匹配英文条目 ---
 
 --- 未使用的Turkish翻译 ---
 - [herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.minion.bigminion] Her turun başında tüm düşman Hizmetkarlara ve Mega Hizmetkarlara {DAMAGEPERTURN} hasar verir.
@@ -65644,10 +64622,6 @@ Filiz Canavarı:
 - [herocard.passive_skill.title.league_received_damage_modifier_against_non_featured_family] Lig Avantajı
 - [herocard.passive_skill.title.ransack.from.single.enemies.to.single.allies] Hırsızın Fırsatı
 - [herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage] Birlik Ustalığı
-- [herocard.passive_skill.title.redirectlethaldamage.enemies.single] Ölümü Atlat
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single] Ölümü Atlat
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit] Ölümü Atlat
-- [herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit] Ölümü Atlat
 - [herocard.passive_skill.title.remove_wither_from_allies] Muhafız Seferberliği
 - [herocard.passive_skill.title.resist.burn.with_effect.healthboost.addmana] Güçlü Yakma Direnci
 - [herocard.passive_skill.title.resist.defensemodifiers.alldebuffs] Savunma Engellerine Karşı Direnç
@@ -65704,7 +64678,7 @@ Filiz Canavarı:
 - [herocard.passive_skill.title.titan_resist_16] Titan
 - [herocard.passive_skill.title.titan_resist_17] Titan
 - [herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier] Buff'ları Dönüştür
-总数: 128
+总数: 124
 
 
 === skill_name (Arabic) 翻译分析调试信息 ===
@@ -68605,7 +67579,7 @@ Filiz Canavarı:
 - [specials.name.buried_vengeance_weaker] 尘封之仇
 - [specials.name.burning_ashes2] 炙热余烬
 - [specials.name.cannonball_slam_mayhem] 炮弹猛击
-- [specials.name.ceremonial_katar_mayhem] 仪式卡塔尔
+- [specials.name.ceremonial_katar_mayhem] 仪式拳刃
 - [specials.name.channeler_of_the_cats_mayhem] 猫之通灵者
 - [specials.name.cherry_pudding_served_mayhem] 樱桃布丁上桌了！
 - [specials.name.claws_of_the_night_ultimate_boss] 暗夜利爪
@@ -70411,7 +69385,7 @@ Filiz Canavarı:
 - [specials.name.plummeting_arrow_mayhem] 墜落之箭
 - [specials.name.poison_bite_dragon_pve] 劇毒撕咬
 - [specials.name.poison_bolt_zidane] 劇毒弩箭
-- [specials.name.postal_pulverizer_mayhem] 樁柱粉碎
+- [specials.name.postal_pulverizer_mayhem] 郵政粉碎機
 - [specials.name.potions_of_covetous_desire_pve] 貪慾藥水
 - [specials.name.precious_pets_pve_advanced] 珍貴寵物
 - [specials.name.precious_pets_pve_normal] 珍貴寵物
@@ -70461,7 +69435,7 @@ Filiz Canavarı:
 - [specials.name.soul_guardian_mayhem] 靈魂守護者
 - [specials.name.sparking_star_slash_mayhem] 耀星斬擊
 - [specials.name.spell_of_camaraderie_mayhem] 友誼之咒
-- [specials.name.spirit_of_spring_mayhem] 春之巫師
+- [specials.name.spirit_of_spring_mayhem] 春之精靈
 - [specials.name.spiritual_stance_mayhem] 精神姿態
 - [specials.name.splintering_shot2] 分裂射擊
 - [specials.name.spreading_traps] 散播陷阱
@@ -71803,7 +70777,7 @@ Filiz Canavarı:
 - [specials.name.astral_madness_unleashed_mayhem] Astralvanvid sluppet løs
 - [specials.name.astral_orb_mayhem] Astralkugle
 - [specials.name.astral_reckoning_mayhem] Astralt opgør
-- [specials.name.bakers_baguettes_mayhem] Bageren flute
+- [specials.name.bakers_baguettes_mayhem] Bagerens flutes
 - [specials.name.ballad_of_the_purple_swan] Den mørke svanes sang
 - [specials.name.beautiful_petals_mayhem] Smukke blade
 - [specials.name.binding_contract_mayhem] Bindende kontrakt
@@ -72100,7 +71074,7 @@ Filiz Canavarı:
 - [specials.name.tail_sting_deadly] Halestik
 - [specials.name.tangy_torture_mayhem] Tangy-tortur
 - [specials.name.target_practice_mayhem] Målskydning
-- [specials.name.teargas_roulette_mayhem] Teargas Roulette
+- [specials.name.teargas_roulette_mayhem] Tåregas Roulette
 - [specials.name.terrycloth_shakeoff_mayhem] Frottéagtig afskrækkelse
 - [specials.name.testudo_roll_deadly] Skildpadderulning
 - [specials.name.the_eagles_blessing_mayhem] Ørnens velsignelse
@@ -73420,7 +72394,7 @@ Filiz Canavarı:
 - [specials.name.bitter_wilting_mayhem] Bittere verwelking
 - [specials.name.blade_of_betrayal_mayhem] Blad van verraad
 - [specials.name.blazing_matchstick_mayhem] Vlammend lucifershoutje
-- [specials.name.bleeding_edge_mayhem] Bloedend mes
+- [specials.name.bleeding_edge_mayhem] Baanbrekend
 - [specials.name.bleeding_hammer_mayhem] Bloedende hamer
 - [specials.name.blessed_blade_pve] Gezegende zwaarden
 - [specials.name.blinding_flash_s4] Verblindende flits
@@ -73531,7 +72505,7 @@ Filiz Canavarı:
 - [specials.name.flurry_of_slashes_deadly] Slagenstorm
 - [specials.name.fog_of_the_vitrails] Mist van de vitrails
 - [specials.name.for_queen_and_hollow_mayhem] Voor Koningin en Holte
-- [specials.name.four_leaf_fortune_mayhem] Vier blaadjes-fortuin
+- [specials.name.four_leaf_fortune_mayhem] Vierbladig fortuin
 - [specials.name.freezing_crystal] Vrieskristal
 - [specials.name.frenzied_rend_mayhem] Razende verscheuring
 - [specials.name.from_shadows_pve] Uit de schaduwen
@@ -84865,7 +83839,7 @@ Filiz Canavarı:
 - [specials.name.mana_immolation_mayhem] マナの生贄
 - [specials.name.mana_immolation_soul_seeker_mayhem] 魂の生贄
 - [specials.name.marc] 狂った突き刺し
-- [specials.name.midnight_magic_mayhem] 夕闇の魔法
+- [specials.name.midnight_magic_mayhem] 真夜中の魔法
 - [specials.name.might_of_the_ice_giants_final] 氷巨人の剛力
 - [specials.name.mimic_bite_burn] 腐食バイト
 - [specials.name.mimic_special2] ずる賢いモンスター
@@ -86316,7 +85290,7 @@ Filiz Canavarı:
 - [specials.name.burning_ashes2] 불타는 재
 - [specials.name.cannonball_slam_mayhem] 캐논볼 슬램
 - [specials.name.ceremonial_katar_mayhem] 의식용 카타르
-- [specials.name.channeler_of_the_cats_mayhem] 고양이의 수호자
+- [specials.name.channeler_of_the_cats_mayhem] 고양이의 매개자
 - [specials.name.cherry_pudding_served_mayhem] 체리 푸딩 대령이요!
 - [specials.name.claws_of_the_night_ultimate_boss] 밤의 발톱
 - [specials.name.cleansing_determination_pve] 의지의 정화
@@ -89620,7 +88594,7 @@ Filiz Canavarı:
 - [specials.name.exquisite_victuals_pve_normal] Wyśmienite potrawy
 - [specials.name.eye_see_you_mayhem] Widzę cię!
 - [specials.name.farmhands_fury_mayhem] Furia parobka
-- [specials.name.fiery_performance_mayhem] Dziki występ
+- [specials.name.fiery_performance_mayhem] Ognisty występ
 - [specials.name.fireball_single] Kula ognia
 - [specials.name.fires_of_ragnarok_final] Ognie Ragnarok
 - [specials.name.firewall_mayhem] Ściana ognia
@@ -89781,7 +88755,7 @@ Filiz Canavarı:
 - [specials.name.soul_guardian_mayhem] Duchowy strażnik
 - [specials.name.sparking_star_slash_mayhem] Błyszczące gwiezdne cięcie
 - [specials.name.spell_of_camaraderie_mayhem] Zaklęcie braterstwa
-- [specials.name.spirit_of_spring_mayhem] Duch źródła
+- [specials.name.spirit_of_spring_mayhem] Duch wiosny
 - [specials.name.spiritual_stance_mayhem] Postawa duchowa
 - [specials.name.splintering_shot2] Rozłupujący strzał
 - [specials.name.spreading_traps] Rozprzestrzeniające się pułapki
@@ -92888,7 +91862,7 @@ Filiz Canavarı:
 - [specials.name.healing_gift_kabeiroi] Бездумное исцеление
 - [specials.name.herbal_remedies_mayhem] Целебные травы
 - [specials.name.heroic_noble_deadly] Бросок трезубца
-- [specials.name.hot_and_spicy_mayhem] Жаркий и пикантный
+- [specials.name.hot_and_spicy_mayhem] Жарко и пикантно
 - [specials.name.ignited_defiance_mayhem] Пылающее неповиновение
 - [specials.name.ill_bring_you_back_mayhem] Я тебя верну
 - [specials.name.immortal_annihilator_deadly] Бессмертный истребитель
@@ -93051,7 +92025,7 @@ Filiz Canavarı:
 - [specials.name.tricksters_buff_danzaburo_cute] Бутылка
 - [specials.name.tricksters_damage_danzaburo_cute] Мечи
 - [specials.name.tumbling_dragon2] Падающий дракон
-- [specials.name.twilight_of_ruin_mayhem] Полночные руины
+- [specials.name.twilight_of_ruin_mayhem] Сумерки разрушения
 - [specials.name.two_sword_technique_mayhem] Техника двух мечей
 - [specials.name.unchained_jaws_ultimate_boss] Неудержимые челюсти
 - [specials.name.undying_incantation_mayhem] Бессмертное заклинание
@@ -96221,7 +95195,7 @@ Filiz Canavarı:
 - [specials.name.soul_guardian_mayhem] Själaväktare
 - [specials.name.sparking_star_slash_mayhem] Strålande stjärnhugg
 - [specials.name.spell_of_camaraderie_mayhem] Kamratskapens besvärjelse
-- [specials.name.spirit_of_spring_mayhem] Vårande
+- [specials.name.spirit_of_spring_mayhem] Vårens ande
 - [specials.name.spiritual_stance_mayhem] Andlig ställning
 - [specials.name.splintering_shot2] Splittrande skott
 - [specials.name.spreading_traps] Spridande fällor

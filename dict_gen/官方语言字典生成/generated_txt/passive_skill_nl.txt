@@ -260,12 +260,12 @@ Plunderen:
 Steelt {DAMAGE} gezondheid.
 Steelt veilig een willekeurig groeieffect, positief cumulatief effect of statuseffectoppepper van de vijand. Dit is inclusief niet-verwijderbare oppeppers en danseffecten.
 Veilig stelen omzeilt secundaire effecten zoals schade na verwijdering uit verwijderde oppeppers. Effecten zoals passieve vaardigheden en familie-effecten kunnen nog steeds actief zijn."
-"herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest","Wanneer dit personage zijn of haar speciale vaardigheid toepast, heeft hij of zij een kans van {CHANCE}% om de 
-nieuwste verwijderbare oppepper te stelen van een willekeurige vijanden met oppeppers of 
-brengt {DAMAGE}% schade toe aan alle vijanden als er geen oppeppers gestolen kunnen worden."
-"herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest.randomenemytarget","Wanneer dit personage zijn of haar speciale vaardigheid toepast, heeft hij of zij een kans van {CHANCE}% om de 
-nieuwste verwijderbare oppepper te stelen van een willekeurige vijanden met oppeppers of 
-brengt {DAMAGE}% schade toe aan alle vijanden als er geen oppeppers gestolen kunnen worden."
+"herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest","Wanneer dit personage de speciale vaardigheid toepast, is er een kans van {CHANCE}% om de 
+nieuwste verwijderbare oppepper te stelen van een willekeurige vijand met oppeppers of 
+{DAMAGE}% schade toe te brengen aan alle vijanden als er geen oppeppers gestolen kunnen worden."
+"herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest.randomenemytarget","Wanneer dit personage de speciale vaardigheid toepast, is er een kans van {CHANCE}% om de 
+nieuwste verwijderbare oppepper te stelen van een willekeurige vijand met oppeppers of 
+{DAMAGE}% schade toe te brengen aan alle vijanden als er geen oppeppers gestolen kunnen worden."
 "herocard.passive_skill.description.reallocatestatuseffectonspecialcast.heal.always.minordebuff.newest","Als dit personage de speciale vaardigheid gebruikt, brengt het het nieuwste zuiverbare statuseffect van zichzelf over naar het doelwit. Als de speciale vaardigheid een vijand niet tot doelwit kan nemen, wordt in plaats daarvan een willekeurige vijand gekozen. Als dit personage geen zuiverbare statuseffecten heeft, wordt er {HEALTH}% gezondheid hersteld."
 "herocard.passive_skill.description.receivedeffectreplacement.minordebuff","{REPLACEMENTCHANCE}% kans op het vervangen van inkomende negatieve effecten door overeenkomende positieve effecten."
 "herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage","Dit personage loopt minder schade op van troepen met het sterkere element.
@@ -277,16 +277,34 @@ Opgelopen schade: -{MODIFIER}%"
 
 In gevechten met meerdere golven, wordt dit effect aan het begin van iedere golf vernieuwd."
 "herocard.passive_skill.description.redirectlethaldamage.enemies.single.battle","De eerste keer dat dit personage fatale schade zou lijden, stuurt het {REDIRECTDAMAGEMULTIPLIER}% van die schade door naar een willekeurige vijand. (Resterende activeringen: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled","De eerste keer dat dit personage fatale schade zou lijden, stuurt het in plaats daarvan {REDIRECTDAMAGEMULTIPLIER}% van die schade door naar de aanvaller.
+
+Wordt niet geactiveerd als dit personage het enige lid van het team is in het gevecht.
+
+In gevechten met meerdere golven, wordt dit effect aan het begin van iedere golf vernieuwd."
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled.battle","De eerste keer dat dit personage fatale schade zou lijden, stuurt het in plaats daarvan {REDIRECTDAMAGEMULTIPLIER}% van die schade door naar de aanvaller. (Nog {ACTIVATIONSLEFT} activeringen)
+Wordt niet geactiveerd als dit personage het enige lid van het team is in het gevecht."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single","De eerste keer dat dit personage fatale schade zou lijden, stuurt het die schade door naar een willekeurige vijand.
 
 In gevechten met meerdere golven, wordt dit effect aan het begin van iedere golf vernieuwd."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.battle","De eerste keer dat dit personage fatale schade zou lijden, stuurt het die schade door naar een willekeurige vijand. (Resterende activeringen: {ACTIVATIONSLEFT})"
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","De eerste keer dat dit personage fatale schade zou lijden door normale aanvallen of speciale vaardigheden, stuurt het in plaats daarvan maximaal {REDIRECTDAMAGELIMIT} schade terug naar de aanvaller. (Resterende activeringen: {ACTIVATIONSLEFT})"
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","De eerste keer dat dit personage fatale schade zou lijden door normale aanvallen of speciale vaardigheden, stuurt het in plaats daarvan maximaal {REDIRECTDAMAGELIMIT} schade terug naar de aanvaller. (Resterende activeringen: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","De eerste keer dat dit personage fatale schade zou lijden door normale aanvallen of speciale vaardigheden, stuurt het in plaats daarvan maximaal {REDIRECTDAMAGELIMIT} schade terug naar een willekeurige vijand."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","De eerste keer dat dit personage fatale schade zou lijden door normale aanvallen of speciale vaardigheden, stuurt het in plaats daarvan maximaal {REDIRECTDAMAGELIMIT} schade terug naar een willekeurige vijand. (Nog {ACTIVATIONSLEFT} activeringen)"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled","De eerste keer dat dit personage fatale schade zou lijden door normale aanvallen of speciale vaardigheden, stuurt het in plaats daarvan maximaal {REDIRECTDAMAGELIMIT} schade terug naar de aanvaller.
+Wordt niet geactiveerd als dit personage het enige lid van het team is in het gevecht."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled.battle","De eerste keer dat dit personage fatale schade zou lijden door normale aanvallen of speciale vaardigheden, stuurt het in plaats daarvan maximaal {REDIRECTDAMAGELIMIT} schade terug naar de aanvaller. (Nog {ACTIVATIONSLEFT} activeringen)
+Wordt niet geactiveerd als dit personage het enige lid van het team is in het gevecht."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","De eerste keer dat dit personage fatale schade zou lijden door normale aanvallen of speciale vaardigheden, stuurt het in plaats daarvan maximaal {REDIRECTDAMAGELIMIT} schade terug naar de aanvaller.
 
 In gevechten met meerdere golven, wordt dit effect aan het begin van iedere golf vernieuwd."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit.battle","De eerste keer dat dit personage fatale schade zou lijden door normale aanvallen of speciale vaardigheden, stuurt het in plaats daarvan maximaal {REDIRECTDAMAGELIMIT} schade terug naar de aanvaller. (Resterende activeringen: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled","De eerste keer dat dit personage fatale schade zou lijden, stuurt het die schade in plaats daarvan door naar de aanvaller.
+
+Wordt niet geactiveerd als dit personage het enige lid van het team is in het gevecht.
+
+In gevechten met meerdere golven, wordt dit effect aan het begin van iedere golf vernieuwd."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled.battle","De eerste keer dat dit personage fatale schade zou lijden, stuurt het die schade in plaats daarvan door naar de aanvaller. (Nog {ACTIVATIONSLEFT} activeringen)
+Wordt niet geactiveerd als dit personage het enige lid van het team is in het gevecht."
 "herocard.passive_skill.description.reduceinsanityperturn","Aan het begin van elke beurt wordt de huidige waanzin van dit personage met {REDUCTION} verlaagd."
 "herocard.passive_skill.description.reflectresistedstatuseffect.all.enemies","Eventuele statusaandoeningen waartegen dit personage met passieve vaardigheden weerstand biedt, worden teruggekaatst naar alle vijanden."
 "herocard.passive_skill.description.reflectstatuseffect.with_chance","{CHANCE}% extra kans om statusaandoeningen terug te kaatsen naar de aanvaller."
@@ -905,10 +923,7 @@ Heilige schilden op het speelveld worden versterkt en leveren {MODIFIER}% meer m
 "herocard.passive_skill.title.received_strong_troop_damage_pve","Minder schade aan troepen"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage","Troepenmeesterschap"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage.increase.dragon","Sterke toename vuurbalschade"
-"herocard.passive_skill.title.redirectlethaldamage.enemies.single","Ontsnap aan de dood"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single","Ontsnap aan de dood"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Ontsnap aan de dood"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","Ontsnap aan de dood"
+"herocard.passive_skill.title.redirectlethaldamage","Ontsnap aan de dood"
 "herocard.passive_skill.title.reduceinsanityperturn","Waanzin verminderen"
 "herocard.passive_skill.title.reflectresistedstatuseffect","Legendarische reflector"
 "herocard.passive_skill.title.remove_growth_from_enemies","Wachtergroepering"

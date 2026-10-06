@@ -224,7 +224,7 @@
 "specials.v2.minion.larva.neartotarget","為施法者以及周遭盟友召喚一個幼蟲小兵，並從施法者繼承{FAMILIARHEALTHPERCENT}%生命。小兵在每個回合結束時為主人恢復{FAMILIARHEAL}%的生命。"
 "specials.v2.minion.larva_costume_hulda.all","為每個盟友召喚一個幼蟲小兵，並從施法者繼承{FAMILIARHEALTHPERCENT}%生命。小兵在每個回合結束時為主人恢復{FAMILIARHEAL}%的生命。"
 "specials.v2.minion.lava_droplet.single.fixedhealth.multiplepercharacter","召喚{FAMILIARAMOUNT}個熔岩滴小兵，其可從施法者繼承{FIXEDHEALTH}點生命與{FAMILIARATTACK}%攻擊。"
-"specials.v2.minion.leadria_spring_minion.all","為所有盟友召喚一個春之巫師小兵，其可從施法者繼承{FAMILIARHEALTHPERCENT}%生命。"
+"specials.v2.minion.leadria_spring_minion.all","為所有盟友召喚一個春之精靈小兵，其可從施法者繼承{FAMILIARHEALTHPERCENT}%生命。"
 "specials.v2.minion.living_fire.all","為所有盟友召喚一個火牆小兵，可繼承施法者{FAMILIARHEALTHPERCENT}%的生命值。"
 "specials.v2.minion.living_fire.explode","火牆小兵被摧毀時，會對進攻敵人造成{FAMILIARFIXEDEXPLOSIONDAMAGE}點傷害。"
 "specials.v2.minion.loyal_hound_minion.single","為施法者召喚一個忠誠獵犬小兵，其可從施法者繼承{FAMILIARHEALTHPERCENT}%生命和{FAMILIARATTACK}%攻擊力。"
@@ -1883,6 +1883,14 @@
 活力鴻運舞蹈
 {STATUSEFFECTS}
 鴻運舞蹈可與其他舞蹈效果疊加。"
+"specials.v2.statuseffect.minor.abyss.sides.enemies.dispelincreasesactivations","敵方陣型邊緣的敵人轉變為深淵幽靈型態，持續{TURNS}個回合。
+目標變為深淵幽靈型態時，目標每回合會受到{DAMAGEPERTURN}點傷害。此效果為頑固。"
+"specials.v2.statuseffect.minor.abyss.single.enemies.dispelincreasesactivations","目標轉變為深淵幽靈型態，持續{TURNS}個回合。此效果為頑固。
+目標變為深淵幽靈型態時，目標每回合會受到{DAMAGEPERTURN}點傷害。"
+"specials.v2.statuseffect.minor.abyss.single.enemies.onremoval.damage.all.allies.expiration.add_insanity_emilie.dispelincreasesactivations","目標轉變為深淵幽靈型態，持續{TURNS}個回合。此效果為頑固。
+目標變為深淵幽靈型態時，其每回合會受到{DAMAGEPERTURN}點傷害。
+深淵幽靈型態失效後：
+ 對所有盟友造成{FIXEDPOWER}傷害，並對其造成{STATUSEFFECT1INSANITYTOADD}點瘋狂。"
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies","所有敵人獲得{ACCURACY}%精準度，持續{TURNS}個回合。"
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies.dispelincreasesactivations","所有敵人獲得{ACCURACY}%精準度，持續{TURNS}個回合。此效果為頑固。"
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies.resetonheal","所有敵人精準度變為{ACCURACY}%，持續{TURNS}個回合。如果目標受到治癒，效果持續時間會重設。"
@@ -2297,6 +2305,12 @@
 吞噬黏液： 移除所有可驅散的增益和成長效果，每回合造成{BASEDAMAGEPERTURN}點傷害，並且每移除一個效果就會受到{DAMAGEPERTURNPEREFFECT}點傷害。"
 "specials.v2.statuseffect.minor.devouringgoo.single.enemies.effects.minorbuff.positivebasestatmodifier","目標敵人會獲得吞噬黏液狀態異常，持續{TURNS}個回合。
 吞噬黏液：移除所有可驅散的增益和成長效果，每回合造成{BASEDAMAGEPERTURN}點傷害，並且每移除一個效果就會受到{DAMAGEPERTURNPEREFFECT}點傷害。"
+"specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.add_insanity_salvatore.dispelincreasesactivations","施法者轉變為瘋狂恐怖幽靈形態，持續{TURNS}個回合。此效果為頑固。
+在變為瘋狂恐怖幽靈形態時，施法者每回合自動對隨機敵人造成{POWER1}%傷害，並造成 {STATUSEFFECT1INSANITYTOADD}瘋狂。
+在變為瘋狂恐怖幽靈形態時，施法者可以承受相衝元素敵人的傷害。"
+"specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.dispelincreasesactivations","施法者變為恐怖幽靈形態，持續{TURNS}個回合。此效果為頑固。
+在變為恐怖幽靈形態時，施法者每回合會自動對隨機敵人造成{POWER1}%傷害。
+在變為恐怖幽靈形態時，施法者可以承受相衝元素敵人的傷害。"
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff","每個回合結束時淨化所有盟友的狀態異常，持續{TURNS}個回合。"
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.bypassremoveeffects","每個回合結束時安全淨化所有盟友的狀態異常，持續{TURNS}個回合。"
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.customremovalcount","每個回合結束時淨化所有盟友的1項狀態異常，持續{TURNS}個回合。"
@@ -2378,6 +2392,8 @@
 "specials.v2.statuseffect.minor.elementswapovertime.allexceptcaster.allies","除了施法者以外，所有盟友都會受到元素亂流影響，持續{TURNS}回合。其元素每回合會隨機改變。"
 "specials.v2.statuseffect.minor.elementswapovertime.damage_to_green.all.enemies","所有敵人受到元素亂流影響，持續{TURNS}回合。其元素每回合隨機改變，每當其元素變成自然時，造成{DAMAGEPERTURN}點傷害。"
 "specials.v2.statuseffect.minor.elementswapovertime.damage_to_yellow.all.enemies","所有敵人受到元素亂流影響，持續{TURNS}回合。其元素每回合隨機改變，每當其元素變成神聖時，造成{DAMAGEPERTURN}點傷害。"
+"specials.v2.statuseffect.minor.ethereal.single.allies.dispelincreasesactivations","施法者轉變為幽靈型態，持續{TURNS}個回合。
+在變為幽靈型態時，施法者獲得 {ATTACK}%攻擊。此效果為頑固。"
 "specials.v2.statuseffect.minor.explodingberserk.single.allies","施法者獲得{ATTACK}%攻擊，並且每次施法者或任何盟友受到攻擊，便額外提高{CHANGE}%，持續{TURNS}回合，最高{MAXMODIFIER}%攻擊。在效果結束時，所有敵人受到{DAMAGE}傷害。在持續期間，每當施法者或盟友受到攻擊，該傷害提高{ADDITIONALDAMAGEPERHIT}，最高{MAXDAMAGE}。"
 "specials.v2.statuseffect.minor.extradamageagainstboostedhealth.all.allies.troop.npcnormalattack.specialskill.statuseffectskill","所有盟友的普通攻擊與特殊技能對有生命值加成的目標造成{DAMAGEMULTIPLIER}%傷害，持續{TURNS}個回合。"
 "specials.v2.statuseffect.minor.fearstatuseffectskill.all.enemies.on.allyspecial.damage.random.allies","所有敵人屈服於恐懼，持續{TURNS}回合。"
@@ -2451,6 +2467,14 @@
 "specials.v2.statuseffect.minor.frost.single.enemies.contagious","目標在{TURNS}個回合內受到{DAMAGE}點冰霜傷害。此效果會擴散至附近的敵人。"
 "specials.v2.statuseffect.minor.frost.single.enemies.contagious.noturns","目標每回合內持續受到{DAMAGE}點冰霜傷害。此效果會擴散至附近的敵人。"
 "specials.v2.statuseffect.minor.gamble.all.allies","所有盟友攻擊力提高{ATTACK}%，精準度提高{ACCURACY}%，持續{TURNS}個回合。"
+"specials.v2.statuseffect.minor.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies.dispelincreasesactivations","施法者轉變為幽靈型態，持續{TURNS}個回合。此效果為頑固。
+ 當幽靈形態期間結束時：
+ 所有盟友獲得{REMOVALEFFECT1STATUSEFFECT1CRIT}%暴擊率，持續{REMOVALEFFECT1STATUSEFFECT1TURNS}回合。此效果無法驅散。"
+"specials.v2.statuseffect.minor.ghost.single.allies.onremoval.revival.randomdead.allies.expiration.hp_recovery_sable.all.allies.dispel_ailments.all.allies.dispelincreasesactivations","施法者轉為幽靈形態，持續{TURNS}回合。此效果為頑固。
+當幽靈形態結束時：
+施法者隨機復活一個遭到擊敗的盟友，其具有{REMOVALEFFECT1POWER}%生命。
+所有盟友在{REMOVALEFFECT1STATUSEFFECT1TURNS}個回合內獲得{REMOVALEFFECT1STATUSEFFECT1TOTAL}點生命。
+每個回合結束時淨化所有盟友的狀態異常，持續{REMOVALEFFECT1STATUSEFFECT2TURNS}個回合。"
 "specials.v2.statuseffect.minor.giftbomb.single.enemies.neartotargetminor.allies.death.expiration","目標收到禮物炸彈。{TURNS}個回合後禮物炸彈會爆炸並對目標造成{DAMAGE}傷害，並對附近目標造成{MINORDAMAGE}傷害。目標被擊敗時，禮物炸彈也會爆炸。"
 "specials.v2.statuseffect.minor.giftbomb.single.enemies.onremoval.damage.neartotarget.allies.death.expiration","目標獲得禮物炸彈。{TURNS}個回合後，禮物炸彈會爆炸，並對目標和附近的敵人造成{DAMAGE}傷害。目標被擊敗時，禮物炸彈也會爆炸。"
 "specials.v2.statuseffect.minor.grapple.single.enemies","抓握目標。被抓握時，目標的普通攻擊降低至1點，且目標在{TURNS}個回合內受到{DAMAGE}點傷害。"
@@ -2940,6 +2964,7 @@
 "specials.v2.statuseffect.minor.stackingattackmodifier.all.allies.effect_per_eaten_familiar.parasite.bigparasite","疊加（上限：{MAXSTACK}）：每摧毀一名惡魔，所有盟友獲得額外{ATTACK}%攻擊。"
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies","疊加（上限：{MAXSTACK}）：施法者獲得{ATTACK}%攻擊。"
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.effect_per_eaten_familiar.minion.follower.bigminion","疊加（上限：{MAXSTACK}）：每摧毀一名小兵，施法者獲得額外{ATTACK}%攻擊。"
+"specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.withbasestackcount","疊加+{BASESTACKCOUNT}（上限：{MAXSTACK}）：施法者獲得{ATTACK}%攻擊。"
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.enemies.chain_strike","疊加（上限：{MAXSTACK}）：每次擊中時使目標獲得{ATTACK}%攻擊。"
 "specials.v2.statuseffect.minor.stackingattackmodifieragainstweakerelement.single.allies","疊加（上限：{MAXSTACK}）：施法者對弱點元素獲得{ATTACK}%攻擊。"
 "specials.v2.statuseffect.minor.stackingcritmodifier.all.allies","疊加上限({MAXSTACK})：所有盟友獲得{CRIT}%暴擊率。"
@@ -2959,6 +2984,7 @@
 "specials.v2.statuseffect.minor.stackingicebound.all.enemies.effect_per_kill.minion.follower","疊加（上限：{MAXSTACK}）：每個回合結束時，每個落敗的敵人或敵方小兵，都會讓所有敵人受到{DAMAGE}點冰霜傷害。"
 "specials.v2.statuseffect.minor.stackingicebound.neartotarget.enemies","疊加（上限：{MAXSTACK}）：每個回合結束時，都會讓目標和附近敵人受到{DAMAGE}冰霜傷害。"
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies","疊加(上限：{MAXSTACK})：所有盟友獲得{MANAREGEN}%法力產出。"
+"specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies.withbasestackcount","疊加+{BASESTACKCOUNT}（上限：{MAXSTACK}）：所有盟友獲得{MANAREGEN}%法力產出。"
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies","疊加(上限：{MAXSTACK})：所有敵人獲得{MANAREGEN}%法力產出。"
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies.effect_per_eaten_familiar.minion.follower","疊加（上限：{MAXSTACK}）：每個被摧毀的小兵，都會讓所有敵人獲得{MANAREGEN}%法力產出。"
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies.effect_per_kill.minion.follower","疊加（上限：{MAXSTACK}）：每個落敗的敵人或敵方小兵，都會讓所有敵人獲得{MANAREGEN}%法力產出。"
@@ -2967,6 +2993,7 @@
 "specials.v2.statuseffect.minor.stackingminionattackmodifier.all.allies","疊加（上限：{MAXSTACK}）：所有盟友因小兵而獲得{ATTACK}%攻擊。"
 "specials.v2.statuseffect.minor.stackingminionmaxhealthmodifier.all.allies","疊加（上限：{MAXSTACK}）：所有盟友因自身所召喚小兵而獲得{MAXHEALTH}%繼承生命值。"
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease","疊加（最大值：{MAXSTACK}）：所有盟友受到的所有傷害減少{DAMAGEMODIFIER}%。"
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease.withbasestackcount","疊加+{BASESTACKCOUNT}（上限：{MAXSTACK}）：所有盟友受到的所有傷害減少{DAMAGEMODIFIER}%。"
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies","疊加（最大值：{MAXSTACK}）：所有敵人受到的所有傷害增加{DAMAGEMODIFIER}%。"
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies.withbasestackcount","疊加+{BASESTACKCOUNT}（最大值：{MAXSTACK}）：所有敵人受到的所有傷害增加{DAMAGEMODIFIER}%。"
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.lessthanhalfhpleft.enemies","疊加（最大值：{MAXSTACK}）：剩餘生命低於50%的敵人獲得{DAMAGEMODIFIER}%傷害。"
@@ -2978,6 +3005,7 @@
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.allies.decrease","疊加（最大值：{MAXSTACK}）：施法者受到的所有傷害減少{DAMAGEMODIFIER}%。"
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies","疊加(最大值：{MAXSTACK})：目標受到的所有傷害增加{DAMAGEMODIFIER}%。"
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.chain_strike","疊加（最大值：{MAXSTACK}）：每次擊中都會使目標受到的所有傷害增加{DAMAGEMODIFIER}%"
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.withbasestackcount.chain_strike","疊加+{BASESTACKCOUNT}（上限：{MAXSTACK}）：每次擊中都會使目標受到的所有傷害增加{DAMAGEMODIFIER}%"
 "specials.v2.statuseffect.minor.statuseffectgeneratorstatuseffectskill.allexceptcaster.allies.on.ownturnstart.basic_attack_bluecat.mana_regen_bluecat.dispelincreasesactivations","增益來源：以下效果在每回合開始時對一名隨機盟友施放（施法者除外）：
 {STATUSEFFECT1ATTACK}%攻擊，持續{STATUSEFFECT1TURNS}個回合。
 {STATUSEFFECT2MANAREGEN}%法力產出，持續{STATUSEFFECT2TURNS}個回合。
@@ -3071,6 +3099,7 @@
 有加成生命值、小兵或一名超級小兵的目標會受到額外傷害。"
 "specials.v2.statuseffect.minor.toxin.single.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","在{TURNS}個回合內，目標受到{DAMAGE}點劇毒傷害。有加成生命值、小兵或一名超級小兵的目標會受到額外傷害。"
 "specials.v2.statuseffect.minor.transcendentalframe.single.allies","施法者轉變為幽靈型態，持續{TURNS}個回合。"
+"specials.v2.statuseffect.minor.transcendentalframe.single.allies.dispelincreasesactivations","施法者轉變為幽靈型態，持續{TURNS}個回合。此效果為頑固。"
 "specials.v2.statuseffect.minor.underwater.all.enemies","所有敵人在{TURNS}個回合內受到{DAMAGE}點水系傷害。"
 "specials.v2.statuseffect.minor.underwater.all.enemies.absorb_healing.to.single","所有敵人在{TURNS}個回合內受到{DAMAGE}點水系傷害。施法者能吸收已造成水系傷害的{ABSORBHEALING}%作為生命值。"
 "specials.v2.statuseffect.minor.underwater.neartotarget.enemies","目標與附近敵人在{TURNS}個回合內受到{DAMAGE}點水系傷害。"

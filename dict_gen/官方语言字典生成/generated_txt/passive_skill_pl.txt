@@ -264,10 +264,10 @@ Bezpiecznie kradnie wrogowi jeden losowy efekt wzrostu, pozytywną kumulację lu
 Bezpieczna kradzież pomija efekty drugorzędne, takie jak obrażenia nakładane przez usuwane wzmocnienia. Efekty zewnętrzne, takie jak umiejętności pasywne i efekty rodziny wciąż mogą zostać aktywowane."
 "herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest","Po rzuceniu swojej umiejętności specjalnej ta postać zyskuje {CHANCE}% szans na
 kradzież losowemu wrogowi ze wzmocnieniami ostatniego odwoływalnego wzmocnienia, lub
-zadanie  {DAMAGE}% obrażeń wszystkim wrogom, jeśli nie ma wzmocnień, które da się ukraść."
+zadanie {DAMAGE}% obrażeń wszystkim wrogom, jeśli nie ma wzmocnień, które da się ukraść."
 "herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest.randomenemytarget","Po rzuceniu swojej umiejętności specjalnej ta postać zyskuje {CHANCE}% szans na
 kradzież losowemu wrogowi ze wzmocnieniami ostatniego odwoływalnego wzmocnienia, lub
-zadanie  {DAMAGE}% obrażeń wszystkim wrogom, jeśli nie ma wzmocnień, które da się ukraść."
+zadanie {DAMAGE}% obrażeń wszystkim wrogom, jeśli nie ma wzmocnień, które da się ukraść."
 "herocard.passive_skill.description.reallocatestatuseffectonspecialcast.heal.always.minordebuff.newest","Po rzuceniu umiejętności specjalnej ta postać przenosi swoje najnowsze oczyszczalne dolegliwości ze statusu na cel. Jeśli umiejętności specjalnej nie można wycelować we wroga, dolegliwości ze statusu są nakładane na losowego przeciwnika. Jeśli ta postać nie ma na sobie żadnych oczyszczalnych dolegliwości ze statusu, regeneruje {HEALTH}% zdrowia."
 "herocard.passive_skill.description.receivedeffectreplacement.minordebuff","{REPLACEMENTCHANCE}% szans na zastąpienie negatywnych efektów odpowiadającymi im pozytywnymi efektami."
 "herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage","Ta postać otrzymuje mniej obrażeń od oddziałów silniejszego żywiołu.
@@ -279,16 +279,34 @@ Otrzymywane obrażenia: -{MODIFIER}%"
 
 W bitwach z wieloma falami efekt ten jest odświeżany na początku każdej fali."
 "herocard.passive_skill.description.redirectlethaldamage.enemies.single.battle","Za pierwszym razem, gdy ta postać ma otrzymać śmiertelne obrażenia, przekierowuje {REDIRECTDAMAGEMULTIPLIER}% tych obrażeń na losowego wroga. (Pozostała liczba aktywacji: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled","Gdy ta postać po raz pierwszy otrzyma śmiertelne obrażenia, zamiast tego przekieruje {REDIRECTDAMAGEMULTIPLIER}% tych obrażeń na atakującego.
+
+Nie aktywuje się, jeśli ta postać jest jedynym członkiem drużyny w walce.
+
+W bitwach z wieloma falami efekt odnawia się na początku każdej fali."
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled.battle","Gdy ta postać po raz pierwszy otrzyma śmiertelne obrażenia, zamiast tego przekieruje {REDIRECTDAMAGEMULTIPLIER}% tych obrażeń na atakującego. (Pozostałe aktywacje: {ACTIVATIONSLEFT})
+Nie aktywuje się, jeśli ta postać jest jedynym członkiem drużyny w walce."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single","Za pierwszym razem, gdy ta postać ma otrzymać śmiertelne obrażenia, przekierowuje je na losowego wroga.
 
 W bitwach z wieloma falami efekt ten jest odświeżany na początku każdej fali."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.battle","Za pierwszym razem, gdy ta postać ma otrzymać śmiertelne obrażenia, przekierowuje je na losowego wroga. (Pozostała liczba aktywacji: {ACTIVATIONSLEFT})"
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Gdy ta postać po raz pierwszy otrzyma śmiertelne obrażenia od zwykłych ataków lub zdolności specjalnych, zamiast tego odbija na atakującego do {REDIRECTDAMAGELIMIT} pkt. obrażeń. (Liczba pozostałych aktywacji: {ACTIVATIONSLEFT})"
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","Gdy ta postać po raz pierwszy otrzyma śmiertelne obrażenia od zwykłych ataków lub zdolności specjalnych, zamiast tego odbija na atakującego do {REDIRECTDAMAGELIMIT} pkt. obrażeń. (Liczba pozostałych aktywacji: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Gdy ta postać po raz pierwszy otrzyma śmiertelne obrażenia od zwykłych ataków lub umiejętności specjalnych, zamiast tego przekieruje maksymalnie do {REDIRECTDAMAGELIMIT} pkt. obrażeń na losowego wroga."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","Gdy ta postać po raz pierwszy otrzyma śmiertelne obrażenia od zwykłych ataków lub umiejętności specjalnych, zamiast tego przekieruje maksymalnie do {REDIRECTDAMAGELIMIT} pkt. obrażeń na losowego wroga. (Pozostałe aktywacje: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled","Gdy ta postać po raz pierwszy otrzyma śmiertelne obrażenia od zwykłych ataków lub umiejętności specjalnych, zamiast tego przekieruje maksymalnie do {REDIRECTDAMAGELIMIT} pkt.obrażeń na atakującego.
+Nie działa, jeśli ta postać jest jedynym członkiem drużyny w walce."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled.battle","Gdy ta postać po raz pierwszy otrzyma śmiertelne obrażenia od zwykłych ataków lub umiejętności specjalnych, zamiast tego przekieruje maksymalnie do {REDIRECTDAMAGELIMIT} obrażeń na atakującego. (Pozostałe aktywacje: {ACTIVATIONSLEFT})
+Nie aktywuje się, jeśli ta postać jest jedynym członkiem drużyny w walce."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","Gdy ta postać po raz pierwszy otrzyma śmiertelne obrażenia od zwykłych ataków lub zdolności specjalnych, zamiast tego odbija na atakującego maksymalnie {REDIRECTDAMAGELIMIT} pkt. obrażeń.
 
 W bitwach z wieloma falami efekt odnawia się na początku każdej fali."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit.battle","Gdy ta postać po raz pierwszy otrzyma śmiertelne obrażenia od zwykłych ataków lub zdolności specjalnych, zamiast tego odbija na atakującego do {REDIRECTDAMAGELIMIT} pkt. obrażeń. (Liczba pozostałych aktywacji: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled","Gdy ta postać po raz pierwszy otrzyma śmiertelne obrażenia, zamiast tego przekieruje te obrażenia na atakującego.
+
+Nie aktywuje się, jeśli ta postać jest jedynym członkiem drużyny w walce.
+
+W bitwach z wieloma falami efekt odnawia się na początku każdej fali."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled.battle","Gdy ta postać po raz pierwszy otrzyma śmiertelne obrażenia, zamiast tego przekieruje te obrażenia na atakującego. (Pozostałe aktywacje: {ACTIVATIONSLEFT})
+Nie aktywuje się, jeśli ta postać jest jedynym członkiem drużyny w walce."
 "herocard.passive_skill.description.reduceinsanityperturn","Na początku każdej tury bieżący obłęd tej postaci zostaje zmniejszony o {REDUCTION}."
 "herocard.passive_skill.description.reflectresistedstatuseffect.all.enemies","Dowolne dolegliwości ze statusu odpierane przez tę postać za pomocą umiejętności pasywnych są odbijane we wszystkich wrogów."
 "herocard.passive_skill.description.reflectstatuseffect.with_chance","{CHANCE}% dodatkowych szans na odbicie dolegliwości ze statusu do atakującego."
@@ -908,10 +926,7 @@ Ogniste tarcze na planszy zyskują wzmocnienie i dają o {MODIFIER}% więcej man
 "herocard.passive_skill.title.received_strong_troop_damage_pve","Zmniejszenie obrażeń oddziału"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage","Mistrzostwo oddziału"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage.increase.dragon","Silne wzmocnienie obrażeń kuli ognia"
-"herocard.passive_skill.title.redirectlethaldamage.enemies.single","Oszukanie śmierci"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single","Oszukanie śmierci"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Oszukanie śmierci"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","Oszukanie śmierci"
+"herocard.passive_skill.title.redirectlethaldamage","Oszukanie śmierci"
 "herocard.passive_skill.title.reduceinsanityperturn","Zmniejszenie obłędu"
 "herocard.passive_skill.title.reflectresistedstatuseffect","Legendarny odbijacz"
 "herocard.passive_skill.title.remove_growth_from_enemies","Zwarcie szyków"

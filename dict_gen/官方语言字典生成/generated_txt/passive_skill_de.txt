@@ -279,16 +279,34 @@ Erlittener Schaden: -{MODIFIER} %"
 
 In Kämpfen mit mehreren Wellen wird dieser Effekt zu Beginn jeder Welle zurückgesetzt."
 "herocard.passive_skill.description.redirectlethaldamage.enemies.single.battle","Wenn dieser Charakter zum ersten Mal tödlichen Schaden erleiden würde, werden {REDIRECTDAMAGEMULTIPLIER} % dieses Schadens stattdessen zu einem zufälligen Gegner weitergeleitet. (Verbleibende Aktivierungen: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled","Wenn dieser Charakter zum ersten Mal tödlichen Schaden erleiden würde, werden {REDIRECTDAMAGEMULTIPLIER} % dieses Schadens stattdessen zum Angreifer umgeleitet.
+
+Wird nicht aktiviert, wenn dieser Charakter das einzige Mitglied seines Teams im Kampf ist.
+
+In Kämpfen mit mehreren Wellen wird dieser Effekt zu Beginn jeder Welle zurückgesetzt."
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled.battle","Wenn dieser Charakter zum ersten Mal tödlichen Schaden erleiden würde, werden {REDIRECTDAMAGEMULTIPLIER} % dieses Schadens stattdessen zum Angreifer umgeleitet. (Verbleibende Aktivierungen: {ACTIVATIONSLEFT})
+Wird nicht aktiviert, wenn dieser Charakter das einzige Mitglied seines Teams im Kampf ist."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single","Wenn dieser Charakter zum ersten Mal tödlichen Schaden erleiden würde, wird dieser Schaden stattdessen zu einem zufälligen Gegner weitergeleitet.
 
 In Kämpfen mit mehreren Wellen wird dieser Effekt zu Beginn jeder Welle zurückgesetzt."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.battle","Wenn dieser Charakter zum ersten Mal tödlichen Schaden erleiden würde, wird dieser Schaden stattdessen zu einem zufälligen Gegner weitergeleitet. (Verbleibende Aktivierungen: {ACTIVATIONSLEFT})"
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Das erste Mal, wenn dieser Charakter durch normale Angriffe oder Spezialfähigkeiten tödlichen Schaden erleiden würde, leitet er stattdessen bis zu {REDIRECTDAMAGELIMIT} Schaden an den Angreifer weiter. (Verbleibende Aktivierungen: {ACTIVATIONSLEFT})"
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","Das erste Mal, wenn dieser Charakter durch normale Angriffe oder Spezialfähigkeiten tödlichen Schaden erleiden würde, leitet er stattdessen bis zu {REDIRECTDAMAGELIMIT} Schaden an den Angreifer weiter. (Verbleibende Aktivierungen: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Das erste Mal, wenn dieser Charakter durch normale Angriffe oder Spezialfähigkeiten tödlichen Schaden erleiden würde, leitet er stattdessen bis zu {REDIRECTDAMAGELIMIT} Schaden an einen zufälligen Gegner weiter."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","Das erste Mal, wenn dieser Charakter durch normale Angriffe oder Spezialfähigkeiten tödlichen Schaden erleiden würde, leitet er stattdessen bis zu {REDIRECTDAMAGELIMIT} Schaden an einen zufälligen Gegner weiter. (Verbleibende Aktivierungen: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled","Das erste Mal, wenn dieser Charakter durch normale Angriffe oder Spezialfähigkeiten tödlichen Schaden erleiden würde, leitet er stattdessen bis zu {REDIRECTDAMAGELIMIT} Schaden an den Angreifer weiter.
+Wird nicht aktiviert, wenn dieser Charakter das einzige Mitglied seines Teams im Kampf ist."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled.battle","Das erste Mal, wenn dieser Charakter durch normale Angriffe oder Spezialfähigkeiten tödlichen Schaden erleiden würde, leitet er stattdessen bis zu {REDIRECTDAMAGELIMIT} Schaden an den Angreifer weiter. (Verbleibende Aktivierungen: {ACTIVATIONSLEFT})
+Wird nicht aktiviert, wenn dieser Charakter das einzige Mitglied seines Teams im Kampf ist."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","Das erste Mal, wenn dieser Charakter durch normale Angriffe oder Spezialfähigkeiten tödlichen Schaden erleidet, leitet er stattdessen bis zu {REDIRECTDAMAGELIMIT} Schaden an den Angreifer weiter.
 
 In Kämpfen mit mehreren Wellen wird der Effekt zu Beginn jeder Welle erneuert."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit.battle","Das erste Mal, wenn dieser Charakter durch normale Angriffe oder Spezialfähigkeiten tödlichen Schaden erleiden würde, leitet er stattdessen bis zu {REDIRECTDAMAGELIMIT} Schaden an den Angreifer weiter. (Verbleibende Aktivierungen: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled","Wenn dieser Charakter zum ersten Mal tödlichen Schaden erleiden würde, wird dieser Schaden stattdessen zum Angreifer umgeleitet.
+
+Wird nicht aktiviert, wenn dieser Charakter das einzige Mitglied seines Teams im Kampf ist.
+
+In Kämpfen mit mehreren Wellen wird dieser Effekt zu Beginn jeder Welle zurückgesetzt."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled.battle","Wenn dieser Charakter zum ersten Mal tödlichen Schaden erleiden würde, wird dieser Schadens stattdessen zum Angreifer umgeleitet. (Verbleibende Aktivierungen: {ACTIVATIONSLEFT})
+Wird nicht aktiviert, wenn dieser Charakter das einzige Mitglied seines Teams im Kampf ist."
 "herocard.passive_skill.description.reduceinsanityperturn","Zu Beginn jedes Zugs wird der aktuelle Wahnsinn dieses Charakters um {REDUCTION} reduziert."
 "herocard.passive_skill.description.reflectresistedstatuseffect.all.enemies","Alle Statuseffekte, die dieser Charakter durch passive Fähigkeiten widersteht, werden auf alle Gegner reflektiert."
 "herocard.passive_skill.description.reflectstatuseffect.with_chance","{CHANCE} % zusätzliche Chance, negative Statusänderungen auf den Angreifer zurückzuwerfen."
@@ -492,7 +510,7 @@ Blüten-Mega-Feind:
 {EVOLVINGFAMILIAR3FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % Leben."
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite.enemies.blocked_by.minion","Beschwört in jedem Zug einen Setzling-Feind zu einem zufälligen Gegner.
 Der Setzling-Feind entwickelt sich nach {EVOLVINGFAMILIAR1EVOLVETURNS} Runden zu einem Spross-Feind.
- Der Spross-Feind entwickelt sich nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden zu einem Mega-Blütenfeind.
+Der Spross-Feind entwickelt sich nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden zu einem Mega-Blütenfeind.
 Feinde können sich nicht zu Mega-Feinden entwickeln, wenn sich Lakaien auf demselben Helden befinden.
 
 Setzling-Feind: 
@@ -529,7 +547,7 @@ Blüten-Mega-Feind:
 {EVOLVINGFAMILIAR3FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % Leben."
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_epic_mayhem.enemies.blocked_by.minion","Beschwört in jedem Zug einen Setzling-Feind zu einem zufälligen Gegner.
 Der Setzling-Feind entwickelt sich nach {EVOLVINGFAMILIAR1EVOLVETURNS} Runden zu einem Spross-Feind.
- Der Spross-Feind entwickelt sich nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden zu einem Mega-Blütenfeind.
+Der Spross-Feind entwickelt sich nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden zu einem Mega-Blütenfeind.
 Feinde können sich nicht zu Mega-Feinden entwickeln, wenn sich Lakaien auf demselben Helden befinden.
 
 Setzling-Feind: 
@@ -554,7 +572,7 @@ Blüten-Mega-Feind:
 {EVOLVINGFAMILIAR3FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % Leben."
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_rare_mayhem.enemies.blocked_by.minion","Beschwört in jedem Zug einen Setzling-Feind zu einem zufälligen Gegner.
 Der Setzling-Feind entwickelt sich nach {EVOLVINGFAMILIAR1EVOLVETURNS} Runden zu einem Spross-Feind.
- Der Spross-Feind entwickelt sich nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden zu einem Mega-Blütenfeind.
+Der Spross-Feind entwickelt sich nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden zu einem Mega-Blütenfeind.
 Feinde können sich nicht zu Mega-Feinden entwickeln, wenn sich Lakaien auf demselben Helden befinden.
 
 Setzling-Feind: 
@@ -620,7 +638,7 @@ Blüten-Mega-Feind:
 {EVOLVINGFAMILIAR3FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % Leben."
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn.blocked_by.minion","Beschwört in jedem Zug einen Setzling-Feind zu einem zufälligen Gegner.
 Der Setzling-Feind entwickelt sich nach {EVOLVINGFAMILIAR1EVOLVETURNS} Runden zu einem Spross-Feind.
- Der Spross-Feind entwickelt sich nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden zu einem Mega-Blütenfeind.
+Der Spross-Feind entwickelt sich nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden zu einem Mega-Blütenfeind.
 Feinde können sich nicht zu Mega-Feinden entwickeln, wenn sich Lakaien auf demselben Helden befinden.
 
 Setzling-Feind: 
@@ -646,7 +664,7 @@ Blüten-Mega-Feind:
 {EVOLVINGFAMILIAR3FAMILIARATTACK} % Angriff, {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % Leben."
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn.blocked_by.minion","Beschwört in jedem Zug einen Setzling-Feind zu einem zufälligen Gegner.
 Der Setzling-Feind entwickelt sich nach {EVOLVINGFAMILIAR1EVOLVETURNS} Runden zu einem Spross-Feind.
- Der Spross-Feind entwickelt sich nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden zu einem Mega-Blütenfeind.
+Der Spross-Feind entwickelt sich nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden zu einem Mega-Blütenfeind.
 Feinde können sich nicht zu Mega-Feinden entwickeln, wenn sich Lakaien auf demselben Helden befinden.
 
 Setzling-Feind: 
@@ -907,10 +925,7 @@ Lichtschilde auf dem Feld werden verstärkt und gewähren {MODIFIER} % mehr Man
 "herocard.passive_skill.title.received_strong_troop_damage_pve","Truppen-Schadensreduzierung"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage","Truppenmeisterung"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage.increase.dragon","Starke Erhöhung des Feuerballschadens"
-"herocard.passive_skill.title.redirectlethaldamage.enemies.single","Dem Tod ein Schnippchen schlagen"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single","Dem Tod ein Schnippchen schlagen"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Dem Tod ein Schnippchen schlagen"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","Dem Tod ein Schnippchen schlagen"
+"herocard.passive_skill.title.redirectlethaldamage","Dem Tod ein Schnippchen schlagen"
 "herocard.passive_skill.title.reduceinsanityperturn","Verringerter Wahnsinn"
 "herocard.passive_skill.title.reflectresistedstatuseffect","Legendärer Reflektor"
 "herocard.passive_skill.title.remove_growth_from_enemies","Wächterangriff"

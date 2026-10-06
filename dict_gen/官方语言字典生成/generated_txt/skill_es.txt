@@ -1246,13 +1246,13 @@ Efectos de transformación:
  El demonio retoño se convierte en megademonio flor pasados {EVOLVINGFAMILIAR2EVOLVETURNS} turnos.
 
  Demonio brote maldito:
-{EVOLVINGFAMILIAR1FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % de vitalidad
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % de vitalidad.
 
  Demonio retoño:
-{EVOLVINGFAMILIAR2FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % de vitalidad
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % de vitalidad.
 
  Megademonio flor:
-{EVOLVINGFAMILIAR3FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % de vitalidad
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % de vitalidad.
 
  El demonio inflige daño al objetivo en cada turno. Desaparece al absorber curación. La cantidad de curación depende de la vitalidad máxima del objetivo.
  La evolución de los demonios se retrasa {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno cada vez que absorben curación.Los demonios no pueden evolucionar a megademonios si hay secuaces en el mismo héroe."
@@ -1260,30 +1260,30 @@ Efectos de transformación:
  El demonio retoño evoluciona a megademonio flor tras {EVOLVINGFAMILIAR2EVOLVETURNS} turnos.
 
  Demonio brote maldito: Ataque de {EVOLVINGFAMILIAR1FAMILIARATTACK} %, vitalidad de {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %.
- Demonio retoño: Ataque de {EVOLVINGFAMILIAR2FAMILIARATTACK} %, vitalidad de {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %
- megademonio flor: ataque de {EVOLVINGFAMILIAR3FAMILIARATTACK} %, vitalidad de {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %
+ Demonio retoño: Ataque de {EVOLVINGFAMILIAR2FAMILIARATTACK} %, vitalidad de {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %.
+ Megademonio flor: Ataque de {EVOLVINGFAMILIAR3FAMILIARATTACK} %, vitalidad de {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %.
 
 El demonio daña a su objetivo cada turno. El demonio desaparece tras absorber curación. La cantidad de curación necesaria depende de la vitalidad máxima del objetivo.
  Los demonios no pueden evolucionar a megademonios si hay esbirros del mismo héroe."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.evolving_seedling_parasite.extra","El demonio brote maldito evoluciona a demonio retoño tras {EVOLVINGFAMILIAR1EVOLVETURNS} turnos.
  El demonio retoño evoluciona a megademonio flor tras {EVOLVINGFAMILIAR2EVOLVETURNS} turnos.
 
- Demonio brote maldito: Ataque de {EVOLVINGFAMILIAR1FAMILIARATTACK} % vitalidad de {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %.
- Demonio retoño: Ataque de {EVOLVINGFAMILIAR2FAMILIARATTACK} %, vitalidad de {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %
- megademonio flor: ataque de {EVOLVINGFAMILIAR3FAMILIARATTACK} %, vitalidad de {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %
+ Demonio brote maldito: Ataque de {EVOLVINGFAMILIAR1FAMILIARATTACK} %, vitalidad de {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %.
+ Demonio retoño: Ataque de {EVOLVINGFAMILIAR2FAMILIARATTACK} %, vitalidad de {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %.
+ Megademonio flor: Ataque de {EVOLVINGFAMILIAR3FAMILIARATTACK} %, vitalidad de {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %.
 
  El demonio daña a su objetivo cada turno. El demonio desaparece tras absorber curación. La cantidad de curación necesaria depende de la vitalidad máxima del objetivo."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.evolving_seedling_parasite_with_delay.blocked_by.minion.extra","El demonio brote maldito se convierte en demonio retoño pasados {EVOLVINGFAMILIAR1EVOLVETURNS} turnos.
  El demonio retoño se convierte en megademonio flor pasados {EVOLVINGFAMILIAR2EVOLVETURNS} turnos.
 
  Demonio brote maldito:
-{EVOLVINGFAMILIAR1FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % de vitalidad
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % de vitalidad.
 
  Demonio retoño:
-{EVOLVINGFAMILIAR2FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % de vitalidad
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % de vitalidad.
 
  Megademonio flor:
-{EVOLVINGFAMILIAR3FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % de vitalidad
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % de vitalidad.
 
  El demonio inflige daño al objetivo en cada turno. Desaparece al absorber curación. La cantidad de curación depende de la vitalidad máxima del objetivo.
  La evolución de los demonios se retrasa {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno cada vez que absorben curación.
@@ -1292,13 +1292,13 @@ El demonio daña a su objetivo cada turno. El demonio desaparece tras absorber c
  El demonio retoño se convierte en megademonio flor pasados {EVOLVINGFAMILIAR2EVOLVETURNS} turnos.
 
  Demonio brote maldito:
-{EVOLVINGFAMILIAR1FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % de vitalidad
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % de vitalidad.
 
  Demonio retoño:
-{EVOLVINGFAMILIAR2FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % de vitalidad
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % de vitalidad.
 
  Megademonio flor:
-{EVOLVINGFAMILIAR3FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % de vitalidad
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % de vitalidad.
 
  El demonio inflige daño al objetivo en cada turno. Desaparece al absorber curación. La cantidad de curación depende de la vitalidad máxima del objetivo.
  La evolución de los demonios se retrasa {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno cada vez que absorben curación."
@@ -1306,13 +1306,13 @@ El demonio daña a su objetivo cada turno. El demonio desaparece tras absorber c
  El demonio retoño se convierte en megademonio flor pasados {EVOLVINGFAMILIAR2EVOLVETURNS} turnos.
 
  Demonio brote maldito:
-{EVOLVINGFAMILIAR1FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % de vitalidad
+{EVOLVINGFAMILIAR1FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} % de vitalidad.
 
  Demonio retoño:
-{EVOLVINGFAMILIAR2FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % de vitalidad
+{EVOLVINGFAMILIAR2FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} % de vitalidad.
 
  Megademonio flor:
-{EVOLVINGFAMILIAR3FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % de vitalidad
+{EVOLVINGFAMILIAR3FAMILIARATTACK} % de ataque y {EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} % de vitalidad.
 
  El demonio inflige daño al objetivo en cada turno. Desaparece al absorber curación. La cantidad de curación depende de la vitalidad máxima del objetivo.
  La evolución de los demonios se retrasa {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} turno cada vez que absorben curación."
@@ -1904,6 +1904,14 @@ Danza de la fortuna vibrante
 Danza de la fortuna vibrante
 {STATUSEFFECTS}
  Las danzas de la fortuna se acumulan con otros efectos de danza."
+"specials.v2.statuseffect.minor.abyss.sides.enemies.dispelincreasesactivations","Los enemigos en los bordes de la formación enemiga pasan a la forma de fantasma abisal durante {TURNS} turnos.
+ Mientras están en la forma de fantasma abisal, los objetivos reciben {DAMAGEPERTURN} de daño cada turno. Este efecto es obstinado."
+"specials.v2.statuseffect.minor.abyss.single.enemies.dispelincreasesactivations","El objetivo cambia a la forma de fantasma del abismo durante {TURNS} turnos. Este efecto es obstinado.
+ El objetivo recibe {DAMAGEPERTURN} de daño cada turno mientras está en esta forma."
+"specials.v2.statuseffect.minor.abyss.single.enemies.onremoval.damage.all.allies.expiration.add_insanity_emilie.dispelincreasesactivations","El objetivo cambia a la forma de fantasma del abismo durante {TURNS} turnos. Este efecto es obstinado.
+ El objetivo recibe {DAMAGEPERTURN} de daño cada turno mientras está en esta forma.
+ Cuando la forma termina:
+ Inflige {FIXEDPOWER} de daño a todos los aliados y les aplica {STATUSEFFECT1INSANITYTOADD} de demencia."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies","Todos los enemigos obtienen un {ACCURACY} % de precisión durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies.dispelincreasesactivations","Todos los enemigos obtienen un {ACCURACY} % de precisión durante {TURNS} turnos. Este efecto es obstinado."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies.resetonheal","Todos los enemigos obtienen un {ACCURACY} % de precisión durante {TURNS} turnos. La duración del efecto se restablece si se cura al objetivo."
@@ -2318,6 +2326,12 @@ Danza de la fortuna vibrante
  Baba devoradora: Elimina todas las bendiciones descartables y efectos de crecimiento, inflige {BASEDAMAGEPERTURN} de daño por turno y {DAMAGEPERTURNPEREFFECT} de daño por cada efecto eliminado."
 "specials.v2.statuseffect.minor.devouringgoo.single.enemies.effects.minorbuff.positivebasestatmodifier","El objetivo enemigo recibe el estado alterado Baba devoradora durante {TURNS} turnos.
  Baba devoradora: Elimina todas las bendiciones descartables y efectos de crecimiento, inflige {BASEDAMAGEPERTURN} de daño por turno y {DAMAGEPERTURNPEREFFECT} de daño por cada efecto eliminado."
+"specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.add_insanity_salvatore.dispelincreasesactivations","El héroe cambia a forma de fantasma terrible enloquecido durante {TURNS} turnos. Este efecto es obstinado.
+ Mientras está en esta forma, el héroe inflige automáticamente un {POWER1} % de daño y {STATUSEFFECT1INSANITYTOADD} de demencia a un enemigo aleatorio cada turno.
+ Mientras está en esta forma, el héroe puede recibir daño de los enemigos cuyo elemento sea fuerte contra él."
+"specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.dispelincreasesactivations","El héroe cambia a forma de fantasma terrible durante {TURNS} turnos. Este efecto es obstinado.
+ Mientras está en esta forma, el héroe inflige automáticamente un {POWER1} % de daño contra un enemigo aleatorio cada turno.
+ Mientras está en esta forma, el héroe puede recibir daño de los enemigos cuyo elemento sea fuerte contra él."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff","Purifica los estados alterados de todos los aliados al final de cada turno durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.bypassremoveeffects","Purifica los estados alterados de todos los aliados de forma segura al final de cada turno durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.customremovalcount","Purifica 1 estado alterado de todos los aliados al final de cada turno durante {TURNS} turnos."
@@ -2399,6 +2413,8 @@ Danza de la fortuna vibrante
 "specials.v2.statuseffect.minor.elementswapovertime.allexceptcaster.allies","Durante {TURNS} turnos, todos los aliados excepto el héroe reciben flujo elemental. Su elemento cambia aleatoriamente cada turno."
 "specials.v2.statuseffect.minor.elementswapovertime.damage_to_green.all.enemies","Durante {TURNS} turnos, todos los enemigos sufren flujo elemental. Su elemento cambia aleatoriamente cada turno, lo que inflige un {DAMAGEPERTURN} de daño cuando su elemento cambia a naturaleza."
 "specials.v2.statuseffect.minor.elementswapovertime.damage_to_yellow.all.enemies","Durante {TURNS} turnos, todos los enemigos sufren flujo elemental. Su elemento cambia aleatoriamente cada turno, lo que inflige un {DAMAGEPERTURN} de daño cuando su elemento cambia a sagrado."
+"specials.v2.statuseffect.minor.ethereal.single.allies.dispelincreasesactivations","El héroe cambia a forma fantasma durante {TURNS} turnos.
+ Mientras está en esta forma, el héroe obtiene un {ATTACK} % de ataque. Este efecto es obstinado."
 "specials.v2.statuseffect.minor.explodingberserk.single.allies","El héroe recibe un {ATTACK} % de ataque y un aumento adicional del {CHANGE} % cada vez que lo golpeen a él o a cualquiera de sus aliados durante {TURNS} turnos hasta un {MAXMODIFIER} % de ataque. Cuando el efecto termina, todos los enemigos reciben {DAMAGE} de daño. Cada golpe al héroe o a sus aliados durante el efecto aumenta el daño en {ADDITIONALDAMAGEPERHIT} hasta un máximo de {MAXDAMAGE} de daño."
 "specials.v2.statuseffect.minor.extradamageagainstboostedhealth.all.allies.troop.npcnormalattack.specialskill.statuseffectskill","Los ataques normales y habilidades especiales de todos los aliados infligen un {DAMAGEMULTIPLIER} % de daño a los objetivos con vitalidad potenciada durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.fearstatuseffectskill.all.enemies.on.allyspecial.damage.random.allies","Todos los enemigos sucumben al miedo durante {TURNS} turnos."
@@ -2472,6 +2488,14 @@ Danza de la fortuna vibrante
 "specials.v2.statuseffect.minor.frost.single.enemies.contagious","El objetivo recibe {DAMAGE} de daño de escarcha durante {TURNS} turnos. El efecto se propaga a los enemigos cercanos."
 "specials.v2.statuseffect.minor.frost.single.enemies.contagious.noturns","El objetivo recibe {DAMAGE} de daño de escarcha duradero por turno. El efecto se propaga a los enemigos cercanos."
 "specials.v2.statuseffect.minor.gamble.all.allies","Todos los aliados reciben un {ATTACK} % de ataque con {ACCURACY} % de precisión durante {TURNS} turnos."
+"specials.v2.statuseffect.minor.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies.dispelincreasesactivations","El héroe cambia a forma fantasma durante {TURNS} turnos. Este efecto es obstinado.
+ Cuando la forma termina:
+ Todos los aliados obtienen un {REMOVALEFFECT1STATUSEFFECT1CRIT} % de probabilidad de crítico durante {REMOVALEFFECT1STATUSEFFECT1TURNS} turnos. Este efecto no se puede descartar."
+"specials.v2.statuseffect.minor.ghost.single.allies.onremoval.revival.randomdead.allies.expiration.hp_recovery_sable.all.allies.dispel_ailments.all.allies.dispelincreasesactivations","El héroe cambia a forma fantasma durante {TURNS} turnos. Este efecto es obstinado.
+ Cuando la forma termina:
+ El héroe revive a un aliado derrotado aleatorio con un {REMOVALEFFECT1POWER} % de VIT.
+ Todos los aliados obtienen {REMOVALEFFECT1STATUSEFFECT1TOTAL} de vitalidad durante {REMOVALEFFECT1STATUSEFFECT1TURNS} turnos.
+ Purifica los estados alterados de todos los aliados al final de cada turno durante {REMOVALEFFECT1STATUSEFFECT2TURNS} turnos."
 "specials.v2.statuseffect.minor.giftbomb.single.enemies.neartotargetminor.allies.death.expiration","El objetivo recibe un regalo bomba que explota pasados {TURNS} turnos e inflige {DAMAGE} de daño al objetivo y {MINORDAMAGE} de daño a los objetivos cercanos. El regalo bomba también explota cuando se derrota al objetivo."
 "specials.v2.statuseffect.minor.giftbomb.single.enemies.onremoval.damage.neartotarget.allies.death.expiration","El objetivo recibe un regalo bomba que explota pasados {TURNS} turnos e inflige {DAMAGE} de daño al objetivo y a los enemigos cercanos. El regalo bomba también explota cuando se derrota al objetivo."
 "specials.v2.statuseffect.minor.grapple.single.enemies","Agarra al objetivo. Mientras esté agarrado, el ataque normal del objetivo se reduce a 1 y recibe {DAMAGE} de daño durante {TURNS} turnos."
@@ -2961,6 +2985,7 @@ Si no se derrota a la viscosidad en {CHANGEDAPPEARANCETURNS} turnos, renacerá 
 "specials.v2.statuseffect.minor.stackingattackmodifier.all.allies.effect_per_eaten_familiar.parasite.bigparasite","Acumulación (máx.: {MAXSTACK}): Todos los aliados obtienen un {ATTACK} % de ataque adicional por cada demonio eliminado."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies","Acumulación (máx.: {MAXSTACK}): El héroe obtiene un {ATTACK} % de ataque."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.effect_per_eaten_familiar.minion.follower.bigminion","Acumulación (Máx.: {MAXSTACK}): El héroe obtiene un {ATTACK} % de ataque adicional por cada secuaz eliminado."
+"specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.withbasestackcount","Acumulación +{BASESTACKCOUNT} (máx.: {MAXSTACK}): El héroe obtiene un {ATTACK} % de ataque."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.enemies.chain_strike","Acumulación (máx.: {MAXSTACK}): Cada golpe otorga a su objetivo un {ATTACK} % de ataque."
 "specials.v2.statuseffect.minor.stackingattackmodifieragainstweakerelement.single.allies","Acumulación (máx.: {MAXSTACK}): El héroe obtiene un {ATTACK} % de ataque contra el elemento más débil."
 "specials.v2.statuseffect.minor.stackingcritmodifier.all.allies","Acumulación (máx.: {MAXSTACK}): Todos los aliados obtienen un {CRIT} % de probabilidad de crítico."
@@ -2980,6 +3005,7 @@ Si no se derrota a la viscosidad en {CHANGEDAPPEARANCETURNS} turnos, renacerá 
 "specials.v2.statuseffect.minor.stackingicebound.all.enemies.effect_per_kill.minion.follower","Acumulación (máx.: {MAXSTACK}): Todos los enemigos reciben {DAMAGE} de daño de escarcha por cada enemigo o secuaz enemigo derrotado al final de cada turno."
 "specials.v2.statuseffect.minor.stackingicebound.neartotarget.enemies","Acumulación (máx.: {MAXSTACK}): El objetivo y los enemigos cercanos reciben {DAMAGE} de daño de escarcha al final de cada turno."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies","Acumulación (máx.: {MAXSTACK}): Todos los aliados reciben un {MANAREGEN} % de regeneración de maná."
+"specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies.withbasestackcount","Acumulación +{BASESTACKCOUNT} (máx.: {MAXSTACK}): Todos los aliados reciben un {MANAREGEN} % de regeneración de maná."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies","Acumulación (máx.: {MAXSTACK}): Todos los enemigos reciben un {MANAREGEN} % de regeneración de maná."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies.effect_per_eaten_familiar.minion.follower","Acumulación (máx.: {MAXSTACK}): Todos los enemigos reciben un {MANAREGEN} % de regeneración de maná por cada secuaz destruido."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies.effect_per_kill.minion.follower","Acumulación (máx.: {MAXSTACK}): Todos los enemigos reciben un {MANAREGEN} % de regeneración de maná por cada enemigo o secuaz enemigo derrotado."
@@ -2988,6 +3014,7 @@ Si no se derrota a la viscosidad en {CHANGEDAPPEARANCETURNS} turnos, renacerá 
 "specials.v2.statuseffect.minor.stackingminionattackmodifier.all.allies","Acumulación (máx.: {MAXSTACK}): Todos los aliados obtienen un {ATTACK} % de ataque por sus secuaces."
 "specials.v2.statuseffect.minor.stackingminionmaxhealthmodifier.all.allies","Acumulación (máx.: {MAXSTACK}): Todos los aliados obtienen un {MAXHEALTH} % de VIT heredada por los nuevos secuaces que invoquen."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease","Acumulación (máx.: {MAXSTACK}): Todo el daño que reciben todos los aliados se reduce un {DAMAGEMODIFIER} %."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease.withbasestackcount","Acumulación +{BASESTACKCOUNT} (máx.: {MAXSTACK}): Todo el daño que reciben todos los aliados se reduce un {DAMAGEMODIFIER} %."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies","Acumulación (máx.: {MAXSTACK}): Todo el daño que reciben todos los enemigos aumenta un {DAMAGEMODIFIER} %."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies.withbasestackcount","Acumulación +{BASESTACKCOUNT} (máx.: {MAXSTACK}): Todo el daño que reciben todos los enemigos aumenta un {DAMAGEMODIFIER} %."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.lessthanhalfhpleft.enemies","Acumulación (máx.: {MAXSTACK}): Los enemigos con menos de un 50 % de vitalidad restante reciben un {DAMAGEMODIFIER} % de daño."
@@ -2999,6 +3026,7 @@ Si no se derrota a la viscosidad en {CHANGEDAPPEARANCETURNS} turnos, renacerá 
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.allies.decrease","Acumulación (máx.: {MAXSTACK}): Todo el daño que recibe el héroe se reduce un {DAMAGEMODIFIER} %."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies","Acumulación (máx.: {MAXSTACK}): Todo el daño que recibe el objetivo aumenta un {DAMAGEMODIFIER} %."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.chain_strike","Acumulación (máx.: {MAXSTACK}): Cada golpe aumenta un {DAMAGEMODIFIER} % todo el daño que recibe el objetivo."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.withbasestackcount.chain_strike","Acumulación +{BASESTACKCOUNT} (máx.: {MAXSTACK}): Cada golpe aumenta un {DAMAGEMODIFIER} % todo el daño que recibe el objetivo."
 "specials.v2.statuseffect.minor.statuseffectgeneratorstatuseffectskill.allexceptcaster.allies.on.ownturnstart.basic_attack_bluecat.mana_regen_bluecat.dispelincreasesactivations","Fuente de bendiciones: Se aplican los siguientes efectos a un aliado aleatorio, salvo al héroe, al comienzo de cada turno:
  {STATUSEFFECT1ATTACK} % de ataque durante {STATUSEFFECT1TURNS} turnos.
  {STATUSEFFECT2MANAREGEN} % de regeneración de maná durante {STATUSEFFECT2TURNS} turnos.
@@ -3091,6 +3119,7 @@ Si no se derrota a la viscosidad en {CHANGEDAPPEARANCETURNS} turnos, renacerá 
 "specials.v2.statuseffect.minor.toxin.sides.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","Los enemigos en los márgenes de la formación enemiga reciben {DAMAGE} de daño de toxina durante {TURNS} turnos. El daño aumenta contra objetivos con vitalidad potenciada, secuaces o un megasecuaz."
 "specials.v2.statuseffect.minor.toxin.single.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","El objetivo recibe {DAMAGE} de daño de toxina durante {TURNS} turnos. El daño aumenta contra objetivos con vitalidad potenciada, secuaces o un megasecuaz."
 "specials.v2.statuseffect.minor.transcendentalframe.single.allies","El héroe cambia a forma fantasma durante {TURNS} turnos."
+"specials.v2.statuseffect.minor.transcendentalframe.single.allies.dispelincreasesactivations","El héroe cambia a forma fantasma durante {TURNS} turnos. Este efecto es obstinado."
 "specials.v2.statuseffect.minor.underwater.all.enemies","Todos los enemigos reciben {DAMAGE} de daño de agua durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.underwater.all.enemies.absorb_healing.to.single","Todos los enemigos reciben {DAMAGE} de daño de agua durante {TURNS} turnos. El héroe absorbe un {ABSORBHEALING} % del daño de agua infligido como vitalidad."
 "specials.v2.statuseffect.minor.underwater.neartotarget.enemies","El objetivo y los enemigos cercanos reciben {DAMAGE} de daño de agua durante {TURNS} turnos."

@@ -279,16 +279,34 @@ Kerusakan yang diterima: -{MODIFIER}%"
 
 Dalam pertempuran dengan beberapa gelombang, efek ini akan disegarkan di awal setiap gelombang."
 "herocard.passive_skill.description.redirectlethaldamage.enemies.single.battle","Saat pertama kali karakter ini terancam menerima kerusakan fatal, dia mengalihkan {REDIRECTDAMAGEMULTIPLIER}% dari kerusakan itu ke satu musuh acak. (Sisa aktivasi: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled","Saat pertama kali karakter ini terancam menerima kerusakan fatal, dia mengalihkan {REDIRECTDAMAGEMULTIPLIER}% dari kerusakan itu ke penyerang.
+
+Tidak diaktifkan jika karakter ini adalah satu-satunya anggota timnya dalam pertempuran.
+
+Dalam pertempuran dengan beberapa gelombang, efek ini akan disegarkan di awal setiap gelombang."
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled.battle","Saat pertama kali karakter ini terancam menerima kerusakan fatal, dia mengalihkan {REDIRECTDAMAGEMULTIPLIER}% dari kerusakan itu ke penyerang. (Sisa aktivasi: {ACTIVATIONSLEFT})
+Tidak diaktifkan jika karakter ini adalah satu-satunya anggota timnya dalam pertempuran."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single","Pertama kali karakter ini menerima kerusakan fatal, kerusakan itu dialihkan ke musuh acak.
 
 Dalam pertempuran dengan beberapa gelombang, efeknya akan disegarkan di awal setiap gelombang."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.battle","Pertama kalinya karakter ini menerima kerusakan fatal, kerusakan itu dialihkan ke musuh acak. (Sisa aktivasi: {ACTIVATIONSLEFT})"
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Pertama kalinya karakter ini menerima kerusakan fatal dari serangan normal atau Keahlian Khusus, dia mengalihkan hingga {REDIRECTDAMAGELIMIT} kerusakan ke si penyerang. (Sisa aktivasi: {ACTIVATIONSLEFT})"
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","Pertama kalinya karakter ini menerima kerusakan fatal dari serangan normal atau Keahlian Khusus, dia mengalihkan hingga {REDIRECTDAMAGELIMIT} kerusakan ke si penyerang. (Sisa aktivasi: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Pertama kalinya karakter ini menerima kerusakan fatal dari serangan normal atau Keahlian Khusus, dia mengalihkan hingga {REDIRECTDAMAGELIMIT} kerusakan ke satu musuh acak."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","Pertama kalinya karakter ini menerima kerusakan fatal dari serangan normal atau Keahlian Khusus, dia mengalihkan hingga {REDIRECTDAMAGELIMIT} kerusakan ke satu musuh acak. (Sisa aktivasi: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled","Pertama kalinya karakter ini menerima kerusakan fatal dari serangan normal atau Keahlian Khusus, dia mengalihkan hingga {REDIRECTDAMAGELIMIT} kerusakan ke si penyerang.
+Tidak diaktifkan jika karakter ini adalah satu-satunya anggota timnya dalam pertempuran."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled.battle","Pertama kalinya karakter ini menerima kerusakan fatal dari serangan normal atau Keahlian Khusus, dia mengalihkan hingga {REDIRECTDAMAGELIMIT} kerusakan ke si penyerang. (Sisa aktivasi: {ACTIVATIONSLEFT})
+Tidak diaktifkan jika karakter ini adalah satu-satunya anggota timnya dalam pertempuran."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","Saat pertama kali karakter ini terancam menerima kerusakan fatal dari serangan normal atau Keahlian Khusus, dia mengalihkan hingga {REDIRECTDAMAGELIMIT} kerusakan ke si penyerang.
 
 Dalam pertempuran dengan beberapa gelombang, efek ini akan disegarkan di awal setiap gelombang."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit.battle","Pertama kalinya karakter ini menerima kerusakan fatal dari serangan normal atau Keahlian Khusus, dia mengalihkan hingga {REDIRECTDAMAGELIMIT} kerusakan ke si penyerang. (Sisa aktivasi: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled","Saat pertama kali karakter ini terancam menerima kerusakan fatal, dia mengalihkan kerusakan itu ke penyerang.
+
+Tidak diaktifkan jika karakter ini adalah satu-satunya anggota timnya dalam pertempuran.
+
+Dalam pertempuran dengan beberapa gelombang, efek ini akan disegarkan di awal setiap gelombang."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled.battle","Saat pertama kali karakter ini terancam menerima kerusakan fatal, dia mengalihkan kerusakan itu ke penyerang. (Sisa aktivasi: {ACTIVATIONSLEFT})
+Tidak diaktifkan jika karakter ini adalah satu-satunya anggota timnya dalam pertempuran."
 "herocard.passive_skill.description.reduceinsanityperturn","Di awal tiap giliran, Kegilaan saat ini karakter ini berkurang sebesar {REDUCTION}."
 "herocard.passive_skill.description.reflectresistedstatuseffect.all.enemies","Setiap status pelemahan yang ditampik karakter ini dengan Keahlian Pasif akan dipantulkan kepada semua musuh."
 "herocard.passive_skill.description.reflectstatuseffect.with_chance","Peluang ekstra {CHANCE}% untuk memantulkan status pelemahan kembali ke penyerang."
@@ -908,10 +926,7 @@ Perisai Suci pada papan diperkuat dan memberikan {MODIFIER}% lebih banyak mana s
 "herocard.passive_skill.title.received_strong_troop_damage_pve","Pengurangan Kerusakan Pasukan"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage","Penguasaan Pasukan"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage.increase.dragon","Kenaikan Kerusakan Bola Api Kuat"
-"herocard.passive_skill.title.redirectlethaldamage.enemies.single","Menipu Kematian"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single","Menipu Kematian"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Menipu Kematian"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","Menipu Kematian"
+"herocard.passive_skill.title.redirectlethaldamage","Menipu Kematian"
 "herocard.passive_skill.title.reduceinsanityperturn","Mengurangi Kegilaan"
 "herocard.passive_skill.title.reflectresistedstatuseffect","Pemantul Legendaris"
 "herocard.passive_skill.title.remove_growth_from_enemies","Reli Penjaga"

@@ -790,7 +790,7 @@ Trafienia krytyczne tą zdolnością specjalną:
 {EFFECTS}"
 "specials.v2.property.enablespecialcriticalhit.extra.with_pvpmaxhealthreduction","Trafienia krytyczne zmniejszają maksymalne zdrowie przeciwników w walkach PvP. Efekt ten jest silniejszy w przypadku wzmocnionego zdrowia."
 "specials.v2.property.enablespecialcriticalhit.extra.with_universalmaxhealthreduction","Trafienia krytyczne zmniejszają maksymalne zdrowie przeciwników. Efekt ten jest silniejszy w przypadku wzmocnionego zdrowia."
-"specials.v2.property.enablespecialcriticalhit.minchance.extra","Szansa na trafienie krytyczne zależy od ogólnych szans na trafienie krytyczne bohatera w chwili zadania obrażeń.Szansa wynosi zawsze co najmniej {MINCHANCE}%.
+"specials.v2.property.enablespecialcriticalhit.minchance.extra","Szansa na trafienie krytyczne zależy od ogólnych szans na trafienie krytyczne bohatera w chwili zadania obrażeń. Szansa wynosi zawsze co najmniej {MINCHANCE}%.
 
 Trafienia krytyczne tą zdolnością specjalną: 
 {EFFECTS}"
@@ -1885,6 +1885,14 @@ Energiczny taniec fortuny
 Energiczny taniec fortuny
 {STATUSEFFECTS}
  Tańce fortuny kumulują się z innymi efektami tańca."
+"specials.v2.statuseffect.minor.abyss.sides.enemies.dispelincreasesactivations","Cele na skrajach formacji wroga przeobrażają się w duchy otchłani na okres {TURNS} tur.
+ Pod tą postacią otrzymują {DAMAGEPERTURN} pkt. obrażeń z każdą turą. Ten efekt jest nieustępliwy."
+"specials.v2.statuseffect.minor.abyss.single.enemies.dispelincreasesactivations","Cel przeobraża się w ducha otchłani na okres {TURNS} tur. Ten efekt jest nieustępliwy.
+ Pod postacią ducha otłchani zadaje wrogowi {DAMAGEPERTURN} pkt. obrażeń w każdej turze."
+"specials.v2.statuseffect.minor.abyss.single.enemies.onremoval.damage.all.allies.expiration.add_insanity_emilie.dispelincreasesactivations","Cel przeobraża się w ducha otchłani na okres {TURNS} tur. Ten efekt jest nieustępliwy.
+ Pod postacią ducha otłchani zadaje wrogowi {DAMAGEPERTURN} pkt. obrażeń w każdej turze.
+ Gdy postać ducha otchłani dobiega końca:
+ Zadaje {FIXEDPOWER} pkt. obrażeń wszystkim sojusznikom i nakłada na nich {STATUSEFFECT1INSANITYTOADD} pkt. obłędu."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies","Wszyscy wrogowie otrzymują {ACCURACY}% do precyzji przez okres {TURNS} tur."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies.dispelincreasesactivations","Wszyscy wrogowie otrzymują {ACCURACY}% do precyzji przez okres {TURNS} tur. Ten efekt jest nieustępliwy."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies.resetonheal","Wszyscy wrogowie otrzymują {ACCURACY}% do precyzji przez {TURNS} tur(y). Czas trwania efektu zostanie zresetowany w razie wyleczenia celu."
@@ -2299,6 +2307,12 @@ Pożerająca maź: Usuwa wszystkie odwoływalne wzmocnienia i efekty wzrostu, za
 Pożerająca maź: Usuwa wszystkie odwoływalne wzmocnienia i efekty rozrostu, zadaje {BASEDAMAGEPERTURN} pkt. obrażeń co turę i {DAMAGEPERTURNPEREFFECT} pkt. obrażeń za każdy usunięty efekt."
 "specials.v2.statuseffect.minor.devouringgoo.single.enemies.effects.minorbuff.positivebasestatmodifier","Wróg obrany za cel otrzymuje dolegliwość ze statusu pożerająca maź na okres {TURNS} tur.
 Pożerająca maź: Usuwa wszystkie odwoływalne wzmocnienia i efekty rozrostu, zadaje {BASEDAMAGEPERTURN} pkt. obrażeń co turę i {DAMAGEPERTURNPEREFFECT} pkt. obrażeń za każdy usunięty efekt."
+"specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.add_insanity_salvatore.dispelincreasesactivations","Rzucający przeobraża się w strasznego obłąkanego ducha na okres {TURNS} tur. Ten efekt jest nieustępliwy.
+ Pod postacią obłąkanego ducha rzucający automatycznie zadaje {POWER1}% obrażeń i nakłada {STATUSEFFECT1INSANITYTOADD} pkt. obłędu na losowego wroga w każdej turze.
+ Pod tą postacią rzucający może otrzymywać obrażenia od wrogów, których żywioł jest silny przeciwko jego żywiołowi."
+"specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.dispelincreasesactivations","Bohater przeobraża się w strasznego ducha na okres {TURNS} tur. Ten efekt jest nieustępliwy.
+ Pod postacią strasznego ducha automatycznie zadaje {POWER1}% obrażeń przeciw losowemu wrogowi w każdej turze.
+ Pod tą postacią rzucający może otrzymywać obrażenia od wrogów, którzych żywioł jest silny przeciwko jego żywiołowi."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff","Na koniec każdej tury oczyszcza dolegliwości ze statusu wszystkich sojuszników przez {TURNS} tur(y)."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.bypassremoveeffects","Na koniec każdej tury bezpiecznie oczyszcza dolegliwości ze statusu wszystkich sojuszników przez {TURNS} tur(y)."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.customremovalcount","Na koniec każdej tury oczyszcza 1 dolegliwość ze statusu wszystkich sojuszników przez {TURNS} tur(y)."
@@ -2380,6 +2394,8 @@ Pożerająca maź: Usuwa wszystkie odwoływalne wzmocnienia i efekty rozrostu, z
 "specials.v2.statuseffect.minor.elementswapovertime.allexceptcaster.allies","Przez okres {TURNS} tur wszyscy sojusznicy, z wyjątkiem rzucającego, są dotknięci efektem przepływu żywiołów. Ich żywioł zmienia się losowo w każdej turze."
 "specials.v2.statuseffect.minor.elementswapovertime.damage_to_green.all.enemies","Przez okres {TURNS} tur wszyscy wrogowie są dotknięci efektem przepływu żywiołów. Ich żywioł zmienia się losowo w każdej turze, zadając {DAMAGEPERTURN} obrażeń za każdym razem, gdy ich żywioł zmieni się na naturę."
 "specials.v2.statuseffect.minor.elementswapovertime.damage_to_yellow.all.enemies","Przez okres {TURNS} tur wszyscy wrogowie są dotknięci efektem przepływu żywiołów. Ich żywioł zmienia się losowo w każdej turze, zadając {DAMAGEPERTURN} obrażeń za każdym razem, gdy ich żywioł zmieni się na światłość."
+"specials.v2.statuseffect.minor.ethereal.single.allies.dispelincreasesactivations","Bohater przeobraża się w ducha na okres {TURNS} tur.
+ Jako duch zyskuje {ATTACK}% do ataku. Ten efekt jest nieustępliwy."
 "specials.v2.statuseffect.minor.explodingberserk.single.allies","Rzucający otrzymuje {ATTACK}% do ataku i dodatkowo {CHANGE}% za każdym razem, gdy on lub dowolny sojusznik zostanie trafiony w ciągu {TURNS} tur. Atak może wzrosnąć maksymalnie do {MAXMODIFIER}%. Kiedy efekt się kończy, wszyscy wrogowie otrzymują {DAMAGE} pkt. obrażeń. Każde trafienie rzucającego lub sojusznika podczas trwania efektu zwiększa obrażenia o {ADDITIONALDAMAGEPERHIT} pkt. do maksymalnie {MAXDAMAGE} pkt. obrażeń."
 "specials.v2.statuseffect.minor.extradamageagainstboostedhealth.all.allies.troop.npcnormalattack.specialskill.statuseffectskill","Wszystkie normalne ataki i umiejętności specjalne sojuszników zadają {DAMAGEMULTIPLIER}% obrażeń przeciwko celom ze wzmocnionym zdrowiem przez okres {TURNS} tur."
 "specials.v2.statuseffect.minor.fearstatuseffectskill.all.enemies.on.allyspecial.damage.random.allies","Wszyscy wrogowie zostają przestraszeni na okres {TURNS} tur."
@@ -2452,6 +2468,14 @@ Każda moneta zadaje {POWER1}% obrażeń."
 "specials.v2.statuseffect.minor.frost.single.enemies.contagious","Cel otrzymuje {DAMAGE} pkt. obrażeń od mrozu przez okres {TURNS} tur. Efekt przenosi się na pobliskich wrogów."
 "specials.v2.statuseffect.minor.frost.single.enemies.contagious.noturns","Cel otrzymuje utrzymujące się obrażenia od mrozu równe {DAMAGE} pkt. na turę. Efekt przenosi się na pobliskich wrogów."
 "specials.v2.statuseffect.minor.gamble.all.allies","Wszyscy sojusznicy otrzymują {ATTACK}% do ataku i {ACCURACY}% do precyzji przez {TURNS} tur(y)."
+"specials.v2.statuseffect.minor.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies.dispelincreasesactivations","Rzucający przeobraża się w ducha na okres {TURNS} tur. Ten efekt jest nieustępliwy.
+ Gdy postać ducha dobiega końca:
+ Wszyscy sojusznicy zyskują {REMOVALEFFECT1STATUSEFFECT1CRIT}% szans na trafienie krytyczne na okres {REMOVALEFFECT1STATUSEFFECT1TURNS} tur. Odwołanie tego efektu nie jest możliwe."
+"specials.v2.statuseffect.minor.ghost.single.allies.onremoval.revival.randomdead.allies.expiration.hp_recovery_sable.all.allies.dispel_ailments.all.allies.dispelincreasesactivations","Rzucający przeobraża się w ducha na okres {TURNS} tur. Ten efekt jest nieustępliwy.
+ Gdy postać ducha dobiega końca:
+ Rzucający wskrzesza jednego losowego pokonanego sojusznika z {REMOVALEFFECT1POWER}% PŻ. 
+ Wszyscy sojusznicy zyskują {REMOVALEFFECT1STATUSEFFECT1TOTAL} pkt. zdrowia w ciągu {REMOVALEFFECT1STATUSEFFECT1TURNS} tur.
+ Na koniec każdej tury oczyszcza dolegliwości ze statusu wszystkich sojuszników przez okres {REMOVALEFFECT1STATUSEFFECT2TURNS} tur."
 "specials.v2.statuseffect.minor.giftbomb.single.enemies.neartotargetminor.allies.death.expiration","Cel otrzymuje bombę prezentową, która po {TURNS} turach wybucha, zadając {DAMAGE} pkt. obrażeń celowi oraz {MINORDAMAGE} pkt. obrażeń pobliskim celom. Bomba wybucha również, gdy cel zostanie pokonany."
 "specials.v2.statuseffect.minor.giftbomb.single.enemies.onremoval.damage.neartotarget.allies.death.expiration","Cel otrzymuje bombę prezentową, która po {TURNS} turach wybucha, zadając {DAMAGE} pkt. obrażeń celowi i pobliskim wrogom. Bomba wybucha również, gdy cel zostanie pokonany."
 "specials.v2.statuseffect.minor.grapple.single.enemies","Chwyta cel. Normalny atak chwyconego celu zostaje obniżony do 1 i otrzymuje on {DAMAGE} pkt. obrażeń w ciągu {TURNS} tur."
@@ -2935,6 +2959,7 @@ Po wskrzeszeniu wszyscy wrogowie otrzymują {STATUSEFFECT1ACCURACY}% do celnośc
 "specials.v2.statuseffect.minor.stackingattackmodifier.all.allies.effect_per_eaten_familiar.parasite.bigparasite","Kumulacja (maks.: {MAXSTACK}): Wszyscy sojusznicy otrzymują dodatkowe {ATTACK}% do ataku za każdego zniszczonego potwora."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies","Kumulacja (maks.: {MAXSTACK}): inicjator otrzymuje {ATTACK}% siły ataku."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.effect_per_eaten_familiar.minion.follower.bigminion","Kumulacja (maks.: {MAXSTACK}): Rzucający otrzymuje dodatkowe {ATTACK}% do ataku za każdego zniszczonego pomocnika."
+"specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.withbasestackcount","Kumulacja +{BASESTACKCOUNT} (maks.: {MAXSTACK}): inicjator otrzymuje {ATTACK}% siły ataku."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.enemies.chain_strike","Kumulacja (maks.: {MAXSTACK}): Każde trafienie daje celowi {ATTACK}% siły ataku."
 "specials.v2.statuseffect.minor.stackingattackmodifieragainstweakerelement.single.allies","Kumulacja (maks.: {MAXSTACK}): inicjator otrzymuje {ATTACK}% siły ataku przeciwko słabszemu żywiołowi."
 "specials.v2.statuseffect.minor.stackingcritmodifier.all.allies","Kumulacja (Maks.: {MAXSTACK}): Wszyscy sojusznicy zyskują {CRIT}% szans na trafienie krytyczne."
@@ -2954,6 +2979,7 @@ Po wskrzeszeniu wszyscy wrogowie otrzymują {STATUSEFFECT1ACCURACY}% do celnośc
 "specials.v2.statuseffect.minor.stackingicebound.all.enemies.effect_per_kill.minion.follower","Kumulacja (maks.: {MAXSTACK}): wszyscy wrogowie otrzymują {DAMAGE} pkt. obrażeń od szronu za każdego pokonanego wroga lub pomocnika wroga z końcem każdej tury."
 "specials.v2.statuseffect.minor.stackingicebound.neartotarget.enemies","Kumulacja (maks.: {MAXSTACK}): cel i pobliscy wrogowie otrzymują {DAMAGE} pkt. obrażeń od szronu z końcem każdej tury."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies","Kumulacja (maks.: {MAXSTACK}): wszyscy sojusznicy otrzymują {MANAREGEN}% regeneracji many."
+"specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies.withbasestackcount","Kumulacja +{BASESTACKCOUNT} (maks.: {MAXSTACK}): wszyscy sojusznicy otrzymują {MANAREGEN}% regeneracji many."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies","Kumulacja (maks.: {MAXSTACK}): wszyscy wrogowie otrzymują {MANAREGEN}% regeneracji many."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies.effect_per_eaten_familiar.minion.follower","Kumulacja (maks.: {MAXSTACK}): wszyscy wrogowie otrzymują {MANAREGEN}% regeneracji many za każdego zabitego pomocnika."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies.effect_per_kill.minion.follower","Kumulacja (maks.: {MAXSTACK}): wszyscy wrogowie otrzymują {MANAREGEN}% regeneracji many za każdego pokonanego wroga lub pomocnika wroga."
@@ -2962,6 +2988,7 @@ Po wskrzeszeniu wszyscy wrogowie otrzymują {STATUSEFFECT1ACCURACY}% do celnośc
 "specials.v2.statuseffect.minor.stackingminionattackmodifier.all.allies","Kumulacja (maks.: {MAXSTACK}): Wszyscy sojusznicy otrzymują {ATTACK}% do ataku za swoich pomocników."
 "specials.v2.statuseffect.minor.stackingminionmaxhealthmodifier.all.allies","Kumulacja (maks.: {MAXSTACK}): Wszyscy sojusznicy zyskują {MAXHEALTH}% przejętych PŻ za nowych wezwanych pomocników."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease","Kumulacja (maks.: {MAXSTACK}): Wszystkie obrażenia odnoszone przez wszystkich sojuszników są zredukowane o {DAMAGEMODIFIER}%."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease.withbasestackcount","Kumulacja +{BASESTACKCOUNT} (maks.: {MAXSTACK}): Wszystkie obrażenia odnoszone przez wszystkich sojuszników są zredukowane o {DAMAGEMODIFIER}%."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies","Kumulacja (Maks.: {MAXSTACK}): Wszystkie obrażenia odnoszone przez wszystkich wrogów są o {DAMAGEMODIFIER}% większe."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies.withbasestackcount","Kumulacja +{BASESTACKCOUNT} (Maks.: {MAXSTACK}): Wszystkie obrażenia odnoszone przez wszystkich wrogów są o {DAMAGEMODIFIER}% większe."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.lessthanhalfhpleft.enemies","Kumulacja (maks.: {MAXSTACK}): Wrogowie, którzy mają mniej niż 50% zdrowia, otrzymują {DAMAGEMODIFIER}% obrażeń."
@@ -2973,6 +3000,7 @@ Po wskrzeszeniu wszyscy wrogowie otrzymują {STATUSEFFECT1ACCURACY}% do celnośc
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.allies.decrease","Kumulacja (maks.: {MAXSTACK}): Wszystkie obrażenia odnoszone przez rzucającego są zmniejszone o {DAMAGEMODIFIER}%."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies","Kumulacja (Maks.: {MAXSTACK}): Wszystkie obrażenia odnoszone przez cel są o {DAMAGEMODIFIER}% większe."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.chain_strike","Kumulacja (Maks.: {MAXSTACK}): Każde trafienie zwiększa wszystkie obrażenia odnoszone przez cel o {DAMAGEMODIFIER}%"
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.withbasestackcount.chain_strike","Kumulacja +{BASESTACKCOUNT} (Maks.: {MAXSTACK}): Każde trafienie zwiększa wszystkie obrażenia odnoszone przez cel o {DAMAGEMODIFIER}%"
 "specials.v2.statuseffect.minor.statuseffectgeneratorstatuseffectskill.allexceptcaster.allies.on.ownturnstart.basic_attack_bluecat.mana_regen_bluecat.dispelincreasesactivations","Źródło wzmocnień: Na losowego sojusznika z wyjątkiem rzucającego co turę rzucane są następujące efekty:
 {STATUSEFFECT1ATTACK}% do ataku na okres {STATUSEFFECT1TURNS} tur.
 {STATUSEFFECT2MANAREGEN}% do regeneracji many na okres {STATUSEFFECT2TURNS} tur.
@@ -3065,6 +3093,7 @@ Każdy unik daje sojusznikom {MANAREGEN}% regeneracji many na {TURNS} tur(y)."
 "specials.v2.statuseffect.minor.toxin.sides.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","Wrogowie na skraju formacji przeciwnika otrzymują {DAMAGE} pkt. obrażeń od toksyn przez okres {TURNS} tur. Obrażenia są zwiększone przeciwko celom ze wzmocnionym zdrowiem, pomocnikami lub mega pomocnikiem."
 "specials.v2.statuseffect.minor.toxin.single.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","Cel otrzymuje {DAMAGE} pkt. obrażeń od toksyn w ciągu {TURNS} tur. Obrażenia są zwiększone przeciwko celom ze wzmocnionym zdrowiem, pomocnikami lub mega pomocnikiem."
 "specials.v2.statuseffect.minor.transcendentalframe.single.allies","Rzucający przeobraża się w ducha na okres {TURNS} tur."
+"specials.v2.statuseffect.minor.transcendentalframe.single.allies.dispelincreasesactivations","Rzucający przeobraża się w ducha na okres {TURNS} tur. Ten efekt jest nieustępliwy."
 "specials.v2.statuseffect.minor.underwater.all.enemies","Wszyscy przeciwnicy otrzymują {DAMAGE} obrażeń od wody przez {TURNS} tur(y)."
 "specials.v2.statuseffect.minor.underwater.all.enemies.absorb_healing.to.single","Wszyscy wrogowie odnoszą {DAMAGE} pkt. obrażeń od wody przez okres {TURNS} tur. Rzucający pochłania {ABSORBHEALING}% zadanych obrażeń od wody w postaci PŻ."
 "specials.v2.statuseffect.minor.underwater.neartotarget.enemies","Cel i pobliscy wrogowie otrzymują {DAMAGE} obrażeń od wody w ciągu {TURNS} tur."

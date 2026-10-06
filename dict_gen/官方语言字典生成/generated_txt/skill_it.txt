@@ -1886,6 +1886,14 @@ Danza della fortuna vibrante
 Danza della fortuna vibrante
 {STATUSEFFECTS}
  Le Danze della fortuna si accumulano con altri effetti di Danza."
+"specials.v2.statuseffect.minor.abyss.sides.enemies.dispelincreasesactivations","I nemici ai confini della formazione nemica assumono la forma di Spettro abissale per {TURNS} turni.
+ Mentre sono nella forma di Spettro abissale, i bersagli subiscono {DAMAGEPERTURN} danni a ogni turno. Questo effetto è persistente."
+"specials.v2.statuseffect.minor.abyss.single.enemies.dispelincreasesactivations","Il bersaglio assume la forma di Spettro abissale per {TURNS} turni. Questo effetto è persistente.
+ Mentre è nella forma di Spettro abissale, il bersaglio subisce {DAMAGEPERTURN} danni a ogni turno."
+"specials.v2.statuseffect.minor.abyss.single.enemies.onremoval.damage.all.allies.expiration.add_insanity_emilie.dispelincreasesactivations","Il bersaglio assume la forma di Spettro abissale per {TURNS} turni. Questo effetto è persistente.
+ Mentre è nella forma di Spettro abissale, il bersaglio subisce {DAMAGEPERTURN} danni a ogni turno.
+ Quando la forma di Spettro abissale termina:
+ Infligge {FIXEDPOWER} danni a tutti gli alleati e infligge loro {STATUSEFFECT1INSANITYTOADD} Follia."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies","Tutti i nemici ricevono un {ACCURACY}% di precisione per {TURNS} turni."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies.dispelincreasesactivations","Tutti i nemici ottengono il {ACCURACY}% di precisione per {TURNS} turni. Questo effetto è persistente."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies.resetonheal","Tutti i nemici ricevono un {ACCURACY}% di precisione per {TURNS} turni. La durata dell'effetto si ripristina se il bersaglio viene curato."
@@ -2300,6 +2308,12 @@ Ogni Lancio d'ossa infligge il {POWER1}% di danni.
  Melma divoratrice: rimuove tutte le magie benefiche annullabili e gli effetti di Crescita, infligge {BASEDAMAGEPERTURN} danni a ogni turno e {DAMAGEPERTURNPEREFFECT} danni per ogni effetto rimosso."
 "specials.v2.statuseffect.minor.devouringgoo.single.enemies.effects.minorbuff.positivebasestatmodifier","Il nemico bersaglio subisce il disturbo Melma divoratrice per {TURNS} turni.
  Melma divoratrice: rimuove tutte le magie benefiche annullabili e gli effetti di Crescita, infligge {BASEDAMAGEPERTURN} danni a ogni turno e {DAMAGEPERTURNPEREFFECT} danni per ogni effetto rimosso."
+"specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.add_insanity_salvatore.dispelincreasesactivations","L'evocatore assume la forma di Fantasma spietato squilibrato per {TURNS} turni. Questo effetto è persistente.
+ Mentre è nella forma di Fantasma spietato squilibrato, l'evocatore infligge automaticamente il {POWER1}% di danni e {STATUSEFFECT1INSANITYTOADD} Follia a un nemico casuale a ogni turno.
+ Mentre è nella forma di Fantasma spietato squilibrato, l'evocatore può subire danni dai nemici il cui elemento è forte contro il suo."
+"specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.dispelincreasesactivations","L'evocatore assume la forma di Fantasma spietato per {TURNS} turni. Questo effetto è persistente.
+ Mentre è nella forma di Fantasma spietato, l'evocatore infligge automaticamente il {POWER1}% di danni a un nemico casuale a ogni turno.
+ Mentre è nella forma di Spettro feroce, l'evocatore può subire danni dai nemici il cui elemento è forte contro il suo."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff","Annulla i disturbi di tutti gli alleati al termine di ogni turno, per {TURNS} turni."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.bypassremoveeffects","Annulla in modo sicuro i disturbi di tutti gli alleati al termine di ogni turno, per {TURNS} turni."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.customremovalcount","Annulla 1 disturbo di tutti gli alleati al termine di ogni turno, per {TURNS} turni."
@@ -2381,6 +2395,8 @@ Ogni Lancio d'ossa infligge il {POWER1}% di danni.
 "specials.v2.statuseffect.minor.elementswapovertime.allexceptcaster.allies","Per {TURNS} turni, tutti gli alleati tranne l'evocatore vengono afflitti da Flusso elementale. Il loro elemento cambia casualmente a ogni turno."
 "specials.v2.statuseffect.minor.elementswapovertime.damage_to_green.all.enemies","Per {TURNS} turni, tutti i nemici vengono afflitti da Flusso elementale. Il loro elemento cambia casualmente a ogni turno, infliggendo {DAMAGEPERTURN} danni ogni volta che diventa Natura."
 "specials.v2.statuseffect.minor.elementswapovertime.damage_to_yellow.all.enemies","Per {TURNS} turni, tutti i nemici vengono afflitti da Flusso elementale. Il loro elemento cambia casualmente a ogni turno, infliggendo {DAMAGEPERTURN} danni ogni volta che diventa Natura."
+"specials.v2.statuseffect.minor.ethereal.single.allies.dispelincreasesactivations","L'evocatore assume la forma di Spettro per {TURNS} turni.
+ Mentre è nella forma di Spettro, l'evocatore ottiene il {ATTACK}% di Attacco. Questo effetto è persistente."
 "specials.v2.statuseffect.minor.explodingberserk.single.allies","L'evocatore riceve il {ATTACK}% di Attacco, che aumenta del {CHANGE}% ogni volta che lui o uno dei suoi alleati viene colpito nel corso di {TURNS} turni, fino a un massimo del {MAXMODIFIER}%. Quando l'effetto termina, tutti i nemici subiscono {DAMAGE} danni. Ogni colpo subito dall'evocatore o dai suoi alleati mentre l'effetto è attivo ne aumenta i danni di {ADDITIONALDAMAGEPERHIT} fino a un massimo di {MAXDAMAGE} danni."
 "specials.v2.statuseffect.minor.extradamageagainstboostedhealth.all.allies.troop.npcnormalattack.specialskill.statuseffectskill","Tutti gli attacchi normali degli alleati e le Abilità speciali infliggono il {DAMAGEMULTIPLIER}% di danni ai bersagli con Salute aumentata per {TURNS} turni."
 "specials.v2.statuseffect.minor.fearstatuseffectskill.all.enemies.on.allyspecial.damage.random.allies","Tutti i nemici soccombono a Paura per {TURNS} turni."
@@ -2454,6 +2470,14 @@ Ogni moneta infligge un {POWER1}% di danni."
 "specials.v2.statuseffect.minor.frost.single.enemies.contagious","Il bersaglio subisce {DAMAGE} danni da gelo nel corso di {TURNS} turni. Questo effetto si diffonde ai nemici vicini."
 "specials.v2.statuseffect.minor.frost.single.enemies.contagious.noturns","Il bersaglio subisce {DAMAGE} danni da gelo duraturi a ogni turno. Questo effetto si diffonde ai nemici vicini."
 "specials.v2.statuseffect.minor.gamble.all.allies","Tutti gli alleati ricevono un {ATTACK}% di Attacco con un {ACCURACY}% di precisione per {TURNS} turni."
+"specials.v2.statuseffect.minor.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies.dispelincreasesactivations","L'evocatore assume la forma di Fantasma per {TURNS} turni. Questo effetto è persistente.
+ Quando la forma di Fantasma termina:
+ Tutti gli alleati ottengono il {REMOVALEFFECT1STATUSEFFECT1CRIT}% di probabilità di colpi critici per {REMOVALEFFECT1STATUSEFFECT1TURNS} turni. Questo effetto non può essere annullato."
+"specials.v2.statuseffect.minor.ghost.single.allies.onremoval.revival.randomdead.allies.expiration.hp_recovery_sable.all.allies.dispel_ailments.all.allies.dispelincreasesactivations","L'evocatore assume la forma di Fantasma per {TURNS} turni. Questo effetto è persistente.
+ Quando la forma di Fantasma si esaurisce:
+ L'evocatore rianima un alleato sconfitto casuale con il {REMOVALEFFECT1POWER}% di HP.
+ Tutti gli alleati ottengono {REMOVALEFFECT1STATUSEFFECT1TOTAL} Salute nel corso di {REMOVALEFFECT1STATUSEFFECT1TURNS} turni.
+ Rimuove i disturbi da tutti gli alleati alla fine di ogni turno per {REMOVALEFFECT1STATUSEFFECT2TURNS} turni."
 "specials.v2.statuseffect.minor.giftbomb.single.enemies.neartotargetminor.allies.death.expiration","Il bersaglio riceve una Bomba regalo. Dopo {TURNS} turni, la Bomba regalo esplode infliggendo {DAMAGE} danni al bersaglio e {MINORDAMAGE} danni ai bersagli vicini. La Bomba regalo esplode anche quando il bersaglio viene sconfitto."
 "specials.v2.statuseffect.minor.giftbomb.single.enemies.onremoval.damage.neartotarget.allies.death.expiration","Il bersaglio riceve una Bomba regalo. Dopo {TURNS} turni, la Bomba regalo esplode infliggendo {DAMAGE} danni al bersaglio e ai nemici vicini. La Bomba regalo esplode anche quando il bersaglio viene sconfitto."
 "specials.v2.statuseffect.minor.grapple.single.enemies","Afferra il bersaglio. Mentre è afferrato, l'attacco normale del bersaglio è ridotto a 1 e il bersaglio subisce {DAMAGE} danni nel corso di {TURNS} turni."
@@ -2943,6 +2967,7 @@ Non appena risorge, tutti i nemici ottengono il {STATUSEFFECT1ACCURACY}% di prec
 "specials.v2.statuseffect.minor.stackingattackmodifier.all.allies.effect_per_eaten_familiar.parasite.bigparasite","Iterazione (max: {MAXSTACK}): tutti gli alleati ottengono il {ATTACK}% di Attacco aggiuntivo per ogni demone distrutto."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies","Iterazione (max: {MAXSTACK}): l'evocatore ottiene il {ATTACK}% di Attacco."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.effect_per_eaten_familiar.minion.follower.bigminion","Iterazione (max: {MAXSTACK}): l'evocatore ottiene il {ATTACK}% di Attacco extra per ogni servitore distrutto."
+"specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.withbasestackcount","Iterazione +{BASESTACKCOUNT} (max: {MAXSTACK}): l'evocatore ottiene il {ATTACK}% di Attacco."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.enemies.chain_strike","Iterazione (max: {MAXSTACK}): ogni colpo conferisce il {ATTACK}% di Attacco al suo bersaglio."
 "specials.v2.statuseffect.minor.stackingattackmodifieragainstweakerelement.single.allies","Iterazione (max: {MAXSTACK}): l'evocatore ottiene il {ATTACK}% di Attacco contro l'elemento più debole."
 "specials.v2.statuseffect.minor.stackingcritmodifier.all.allies","Iterazione (max: {MAXSTACK}): tutti gli alleati ricevono il {CRIT}% di possibilità critica."
@@ -2962,6 +2987,7 @@ Non appena risorge, tutti i nemici ottengono il {STATUSEFFECT1ACCURACY}% di prec
 "specials.v2.statuseffect.minor.stackingicebound.all.enemies.effect_per_kill.minion.follower","Iterazione (max: {MAXSTACK}): alla fine di ogni turno, tutti i nemici subiscono {DAMAGE} danni da gelo per ogni nemico o servitore nemico sconfitto."
 "specials.v2.statuseffect.minor.stackingicebound.neartotarget.enemies","Iterazione (max: {MAXSTACK}): alla fine di ogni turno, il bersaglio e i nemici vicini subiscono {DAMAGE} danni da gelo."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies","Iterazione (max: {MAXSTACK}): tutti gli alleati ottengono il {MANAREGEN}% di rigenerazione mana."
+"specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies.withbasestackcount","Iterazione +{BASESTACKCOUNT} (max: {MAXSTACK}): tutti gli alleati ottengono il {MANAREGEN}% di rigenerazione mana."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies","Iterazione (max: {MAXSTACK}): tutti i nemici ottengono il {MANAREGEN}% di rigenerazione mana."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies.effect_per_eaten_familiar.minion.follower","Iterazione (max: {MAXSTACK}): tutti i nemici ricevono il {MANAREGEN}% di rigenerazione mana per ogni servitore distrutto."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies.effect_per_kill.minion.follower","Iterazione (max: {MAXSTACK}): tutti i nemici ricevono un {MANAREGEN}% di rigenerazione mana per ogni nemico o servitore nemico sconfitto."
@@ -2970,6 +2996,7 @@ Non appena risorge, tutti i nemici ottengono il {STATUSEFFECT1ACCURACY}% di prec
 "specials.v2.statuseffect.minor.stackingminionattackmodifier.all.allies","Iterazione (max: {MAXSTACK}): tutti gli alleati ottengono il {ATTACK}% di Attacco per i loro servitori."
 "specials.v2.statuseffect.minor.stackingminionmaxhealthmodifier.all.allies","Iterazione (max: {MAXSTACK}): tutti gli alleati ottengono il {MAXHEALTH}% di HP ereditati per i nuovi servitori che evocano."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease","Iterazione (max: {MAXSTACK}): tutti i danni subiti da tutti gli alleati vengono ridotti del {DAMAGEMODIFIER}%."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease.withbasestackcount","Iterazione +{BASESTACKCOUNT} (max: {MAXSTACK}): tutti i danni subiti da tutti gli alleati vengono ridotti del {DAMAGEMODIFIER}%."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies","Iterazione (max: {MAXSTACK}): tutti i danni subiti da tutti i nemici vengono aumentati del {DAMAGEMODIFIER}%."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies.withbasestackcount","Iterazione +{BASESTACKCOUNT} (max: {MAXSTACK}): tutti i danni subiti da tutti i nemici vengono aumentati del {DAMAGEMODIFIER}%."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.lessthanhalfhpleft.enemies","Iterazione (max: {MAXSTACK}): i nemici con meno del 50% di Salute residua subiscono il {DAMAGEMODIFIER}% di danni."
@@ -2981,6 +3008,7 @@ Non appena risorge, tutti i nemici ottengono il {STATUSEFFECT1ACCURACY}% di prec
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.allies.decrease","Iterazione (max: {MAXSTACK}): tutti i danni subiti dall'evocatore vengono ridotti del {DAMAGEMODIFIER}%."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies","Iterazione (max: {MAXSTACK}): tutti i danni subiti dal bersaglio vengono aumentati del {DAMAGEMODIFIER}%."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.chain_strike","Iterazione (max: {MAXSTACK}): ogni colpo aumenta del {DAMAGEMODIFIER}% tutti i danni subiti dal bersaglio."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.withbasestackcount.chain_strike","Iterazione +{BASESTACKCOUNT} (max: {MAXSTACK}): ogni colpo aumenta del {DAMAGEMODIFIER}% tutti i danni subiti dal bersaglio."
 "specials.v2.statuseffect.minor.statuseffectgeneratorstatuseffectskill.allexceptcaster.allies.on.ownturnstart.basic_attack_bluecat.mana_regen_bluecat.dispelincreasesactivations","Fonte di magie benefiche: all'inizio di ogni turno vengono applicati i seguenti effetti a un alleato casuale, escluso l'evocatore:
  Il {STATUSEFFECT1ATTACK}% di Attacco per {STATUSEFFECT1TURNS} turni.
  Il {STATUSEFFECT2MANAREGEN}% di rigenerazione mana per {STATUSEFFECT2TURNS} turni.
@@ -3073,6 +3101,7 @@ Ogni schivata dà a tutti gli alleati il {MANAREGEN}% di rigenerazione mana per 
 "specials.v2.statuseffect.minor.toxin.sides.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","I nemici ai confini della formazione nemica subiscono {DAMAGE} danni da tossine nel corso di {TURNS} turni. I danni aumentano contro i bersagli con Salute potenziata, servitori o un servitore Mega."
 "specials.v2.statuseffect.minor.toxin.single.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","Il bersaglio subisce {DAMAGE} danni da tossine nel corso di {TURNS} turni. I danni aumentano di nuovo contro i bersagli con Salute potenziata, servitori o un servitore Mega."
 "specials.v2.statuseffect.minor.transcendentalframe.single.allies","L'evocatore assume la forma di Spettro per {TURNS} turni."
+"specials.v2.statuseffect.minor.transcendentalframe.single.allies.dispelincreasesactivations","L'evocatore assume la forma di Fantasma per {TURNS} turni. Questo effetto è persistente."
 "specials.v2.statuseffect.minor.underwater.all.enemies","Tutti i nemici subiscono {DAMAGE} danni Acqua nell'arco di {TURNS} turni."
 "specials.v2.statuseffect.minor.underwater.all.enemies.absorb_healing.to.single","Tutti i nemici subiscono {DAMAGE} danni da acqua nel corso di {TURNS} turni. L'evocatore assorbe il {ABSORBHEALING}% di danni da acqua inflitti come salute."
 "specials.v2.statuseffect.minor.underwater.neartotarget.enemies","Il bersaglio e i nemici vicini subiscono {DAMAGE} danni da acqua nel corso di {TURNS} turni."

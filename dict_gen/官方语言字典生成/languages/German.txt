@@ -4261,6 +4261,10 @@ Expedition mit dieser Gruppe starten?"
 "familiar.statuseffect.minor.dispelimmunity.single.allies.noturns.reef_shark_sharpoon.summon","Der Hai-Lakai verhindert, dass Statuseffektboni gebannt oder gestohlen werden."
 "familiar.statuseffect.minor.dispelimmunity.single.allies.noturns.shark_mega_minion_haikala.summon","Der Hai-Mega-Lakai verhindert, dass Statuseffektboni gebannt oder gestohlen werden."
 "familiar.statuseffect.minor.dispelimmunity.single.allies.while.single.allies.familiaralive.spotted_boar_mega_minion.spotted_boar_mega_minion.summon","Wenn es beschworen wird, verleiht das gefleckte Mega-Wildschwein seinem Besitzer Immunität gegen Statuseffekt-Zerstreuungen, solange er ein geflecktes Mega-Wildschwein hat. Dieser Effekt kann nicht gebannt werden."
+"familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie.deathbydamage.eatenbycharacter","Wenn [#!]volle Entfernung[#] besiegt wird, wechselt der Angreifer für {TURNS} Züge in die Gestalt eines Eulhalla-Geists. Dieser Effekt ist [#!]hartnäckig[#].
+[*]In Gestalt eines Eulhalla-Geists erleidet das Ziel {DAMAGEPERTURN} Schaden pro Zug."
+"familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.owlkyrie_mayhem.deathbydamage.eatenbycharacter","Wenn [#!]volle Entfernung[#] besiegt wird, wechselt der Angreifer für {TURNS} Züge in die Gestalt eines Eulhalla-Geists. Dieser Effekt ist [#!]hartnäckig[#].
+[*]In Gestalt eines Eulhalla-Geists erleidet das Ziel {DAMAGEPERTURN} Schaden pro Zug."
 "familiar.statuseffect.minor.poison.single.enemies.contagious.sword_guard_mega_minion.turn","Das Ziel, das vom Mega-Schwertwächter-Lakeien getroffen wird, erhält {DAMAGE} Giftschaden über {TURNS} Züge. Dieser Effekt breitet sich auf nahe Gegner aus."
 "familiar.statuseffect.minor.receiveddamagemodifier.single.enemies.bull.turn","Das vom Stierlakaien getroffene Ziel erleidet {TURNS} Züge lang {DAMAGEREDUCTION} % mehr Schaden."
 "familiar.statuseffect.minor.receiveddamagemodifier.single.enemies.butterfly.turn","Der gesamte erlittene Schaden wird für {TURNS} Züge um {DAMAGEREDUCTION} % erhöht."
@@ -5951,16 +5955,34 @@ Der [#!]Lakaikern[#] wird immer aktiviert, wenn die [#!]Spezialfähigkeit[#] die
 
 In Kämpfen mit mehreren Wellen wird dieser Effekt zu Beginn jeder Welle zurückgesetzt."
 "herocard.passive_skill.description.redirectlethaldamage.enemies.single.battle","Wenn dieser Charakter zum ersten Mal tödlichen Schaden erleiden würde, werden {REDIRECTDAMAGEMULTIPLIER} % dieses Schadens stattdessen zu einem zufälligen Gegner weitergeleitet. (Verbleibende Aktivierungen: [#!]{ACTIVATIONSLEFT}[#])"
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled","Wenn dieser Charakter zum ersten Mal tödlichen Schaden erleiden würde, werden {REDIRECTDAMAGEMULTIPLIER} % dieses Schadens stattdessen zum Angreifer umgeleitet.
+
+Wird nicht aktiviert, wenn dieser Charakter das einzige Mitglied seines Teams im Kampf ist.
+
+In Kämpfen mit mehreren Wellen wird dieser Effekt zu Beginn jeder Welle zurückgesetzt."
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled.battle","Wenn dieser Charakter zum ersten Mal tödlichen Schaden erleiden würde, werden {REDIRECTDAMAGEMULTIPLIER} % dieses Schadens stattdessen zum Angreifer umgeleitet. (Verbleibende Aktivierungen: [#!]{ACTIVATIONSLEFT}[#])
+Wird nicht aktiviert, wenn dieser Charakter das einzige Mitglied seines Teams im Kampf ist."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single","Wenn dieser Charakter zum ersten Mal tödlichen Schaden erleiden würde, wird dieser Schaden stattdessen zu einem zufälligen Gegner weitergeleitet.
 
 In Kämpfen mit mehreren Wellen wird dieser Effekt zu Beginn jeder Welle zurückgesetzt."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.battle","Wenn dieser Charakter zum ersten Mal tödlichen Schaden erleiden würde, wird dieser Schaden stattdessen zu einem zufälligen Gegner weitergeleitet. (Verbleibende Aktivierungen: [#!]{ACTIVATIONSLEFT}[#])"
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Das erste Mal, wenn dieser Charakter durch normale Angriffe oder Spezialfähigkeiten tödlichen Schaden erleiden würde, leitet er stattdessen bis zu {REDIRECTDAMAGELIMIT} Schaden an den Angreifer weiter. (Verbleibende Aktivierungen: [#!]{ACTIVATIONSLEFT}[#])"
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","Das erste Mal, wenn dieser Charakter durch normale Angriffe oder Spezialfähigkeiten tödlichen Schaden erleiden würde, leitet er stattdessen bis zu {REDIRECTDAMAGELIMIT} Schaden an den Angreifer weiter. (Verbleibende Aktivierungen: [#!]{ACTIVATIONSLEFT}[#])"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Das erste Mal, wenn dieser Charakter durch normale Angriffe oder Spezialfähigkeiten tödlichen Schaden erleiden würde, leitet er stattdessen bis zu {REDIRECTDAMAGELIMIT} Schaden an einen zufälligen Gegner weiter."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","Das erste Mal, wenn dieser Charakter durch normale Angriffe oder Spezialfähigkeiten tödlichen Schaden erleiden würde, leitet er stattdessen bis zu {REDIRECTDAMAGELIMIT} Schaden an einen zufälligen Gegner weiter. (Verbleibende Aktivierungen: [#!]{ACTIVATIONSLEFT}[#])"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled","Das erste Mal, wenn dieser Charakter durch normale Angriffe oder Spezialfähigkeiten tödlichen Schaden erleiden würde, leitet er stattdessen bis zu {REDIRECTDAMAGELIMIT} Schaden an den Angreifer weiter.
+Wird nicht aktiviert, wenn dieser Charakter das einzige Mitglied seines Teams im Kampf ist."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled.battle","Das erste Mal, wenn dieser Charakter durch normale Angriffe oder Spezialfähigkeiten tödlichen Schaden erleiden würde, leitet er stattdessen bis zu {REDIRECTDAMAGELIMIT} Schaden an den Angreifer weiter. (Verbleibende Aktivierungen: [#!]{ACTIVATIONSLEFT}[#])
+Wird nicht aktiviert, wenn dieser Charakter das einzige Mitglied seines Teams im Kampf ist."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","Das erste Mal, wenn dieser Charakter durch normale Angriffe oder Spezialfähigkeiten tödlichen Schaden erleidet, leitet er stattdessen bis zu {REDIRECTDAMAGELIMIT} Schaden an den Angreifer weiter.
 
 In Kämpfen mit mehreren Wellen wird der Effekt zu Beginn jeder Welle erneuert."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit.battle","Das erste Mal, wenn dieser Charakter durch normale Angriffe oder Spezialfähigkeiten tödlichen Schaden erleiden würde, leitet er stattdessen bis zu {REDIRECTDAMAGELIMIT} Schaden an den Angreifer weiter. (Verbleibende Aktivierungen: [#!]{ACTIVATIONSLEFT}[#])"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled","Wenn dieser Charakter zum ersten Mal tödlichen Schaden erleiden würde, wird dieser Schaden stattdessen zum Angreifer umgeleitet.
+
+Wird nicht aktiviert, wenn dieser Charakter das einzige Mitglied seines Teams im Kampf ist.
+
+In Kämpfen mit mehreren Wellen wird dieser Effekt zu Beginn jeder Welle zurückgesetzt."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled.battle","Wenn dieser Charakter zum ersten Mal tödlichen Schaden erleiden würde, wird dieser Schadens stattdessen zum Angreifer umgeleitet. (Verbleibende Aktivierungen: [#!]{ACTIVATIONSLEFT}[#])
+Wird nicht aktiviert, wenn dieser Charakter das einzige Mitglied seines Teams im Kampf ist."
 "herocard.passive_skill.description.reduceinsanityperturn","Zu Beginn jedes Zugs wird der aktuelle [#!]Wahnsinn[#] dieses Charakters um [#!]{REDUCTION}[#] reduziert."
 "herocard.passive_skill.description.reflectresistedstatuseffect.all.enemies","Alle Statuseffekte, die dieser Charakter durch passive Fähigkeiten widersteht, werden auf alle Gegner reflektiert."
 "herocard.passive_skill.description.reflectstatuseffect.with_chance","[#!]{CHANCE} %[#] zusätzliche Chance, negative Statusänderungen auf den Angreifer zurückzuwerfen."
@@ -6164,7 +6186,7 @@ Diese [#!]Truppenfähigkeit[#] wirkt sich auf [#!]alle Gegner[#] für die Gesamt
 [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}[#] % Angriff, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#] % Leben."
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite.enemies.blocked_by.minion","Beschwört in jedem Zug einen [#!]Setzling-Feind[#] zu einem zufälligen Gegner.
 [*]Der [#!]Setzling-Feind[#] entwickelt sich nach {EVOLVINGFAMILIAR1EVOLVETURNS} Runden zu einem [#!]Spross-Feind[#].
-[*] Der [#!]Spross-Feind[#] entwickelt sich nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden zu einem [#!]Mega-Blütenfeind[#].
+[*]Der [#!]Spross-Feind[#] entwickelt sich nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden zu einem [#!]Mega-Blütenfeind[#].
 [*]Feinde können sich nicht zu Mega-Feinden entwickeln, wenn sich Lakaien auf demselben Helden befinden.
 
 [#!]Setzling-Feind[#]: 
@@ -6201,7 +6223,7 @@ Diese [#!]Truppenfähigkeit[#] wirkt sich auf [#!]alle Gegner[#] für die Gesamt
 [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}[#] % Angriff, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#] % Leben."
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_epic_mayhem.enemies.blocked_by.minion","Beschwört in jedem Zug einen [#!]Setzling-Feind[#] zu einem zufälligen Gegner.
 [*]Der [#!]Setzling-Feind[#] entwickelt sich nach {EVOLVINGFAMILIAR1EVOLVETURNS} Runden zu einem [#!]Spross-Feind[#].
-[*] Der [#!]Spross-Feind[#] entwickelt sich nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden zu einem [#!]Mega-Blütenfeind[#].
+[*]Der [#!]Spross-Feind[#] entwickelt sich nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden zu einem [#!]Mega-Blütenfeind[#].
 [*]Feinde können sich nicht zu Mega-Feinden entwickeln, wenn sich Lakaien auf demselben Helden befinden.
 
 [#!]Setzling-Feind[#]: 
@@ -6226,7 +6248,7 @@ Diese [#!]Truppenfähigkeit[#] wirkt sich auf [#!]alle Gegner[#] für die Gesamt
 [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}[#] % Angriff, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#] % Leben."
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_rare_mayhem.enemies.blocked_by.minion","Beschwört in jedem Zug einen [#!]Setzling-Feind[#] zu einem zufälligen Gegner.
 [*]Der [#!]Setzling-Feind[#] entwickelt sich nach {EVOLVINGFAMILIAR1EVOLVETURNS} Runden zu einem [#!]Spross-Feind[#].
-[*] Der [#!]Spross-Feind[#] entwickelt sich nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden zu einem [#!]Mega-Blütenfeind[#].
+[*]Der [#!]Spross-Feind[#] entwickelt sich nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden zu einem [#!]Mega-Blütenfeind[#].
 [*]Feinde können sich nicht zu Mega-Feinden entwickeln, wenn sich Lakaien auf demselben Helden befinden.
 
 [#!]Setzling-Feind[#]: 
@@ -6292,7 +6314,7 @@ Diese [#!]Truppenfähigkeit[#] wirkt sich auf [#!]alle Gegner[#] für die Gesamt
 [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}[#] % Angriff, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#] % Leben."
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_epic.enemies.sharedonceperturn.blocked_by.minion","Beschwört in jedem Zug einen [#!]Setzling-Feind[#] zu einem zufälligen Gegner.
 [*]Der [#!]Setzling-Feind[#] entwickelt sich nach {EVOLVINGFAMILIAR1EVOLVETURNS} Runden zu einem [#!]Spross-Feind[#].
-[*] Der [#!]Spross-Feind[#] entwickelt sich nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden zu einem [#!]Mega-Blütenfeind[#].
+[*]Der [#!]Spross-Feind[#] entwickelt sich nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden zu einem [#!]Mega-Blütenfeind[#].
 [*]Feinde können sich nicht zu Mega-Feinden entwickeln, wenn sich Lakaien auf demselben Helden befinden.
 
 [#!]Setzling-Feind[#]: 
@@ -6318,7 +6340,7 @@ Diese [#!]Truppenfähigkeit[#] wirkt sich auf [#!]alle Gegner[#] für die Gesamt
 [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK}[#] % Angriff, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT}[#] % Leben."
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite_with_delay_rare.enemies.sharedonceperturn.blocked_by.minion","Beschwört in jedem Zug einen [#!]Setzling-Feind[#] zu einem zufälligen Gegner.
 [*]Der [#!]Setzling-Feind[#] entwickelt sich nach {EVOLVINGFAMILIAR1EVOLVETURNS} Runden zu einem [#!]Spross-Feind[#].
-[*] Der [#!]Spross-Feind[#] entwickelt sich nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden zu einem [#!]Mega-Blütenfeind[#].
+[*]Der [#!]Spross-Feind[#] entwickelt sich nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden zu einem [#!]Mega-Blütenfeind[#].
 [*]Feinde können sich nicht zu Mega-Feinden entwickeln, wenn sich Lakaien auf demselben Helden befinden.
 
 [#!]Setzling-Feind[#]: 
@@ -6579,10 +6601,7 @@ Diese [#!]Truppenfähigkeit[#] wirkt sich auf [#!]alle Gegner[#] für die Gesamt
 "herocard.passive_skill.title.received_strong_troop_damage_pve","Truppen-Schadensreduzierung"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage","Truppenmeisterung"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage.increase.dragon","Starke Erhöhung des Feuerballschadens"
-"herocard.passive_skill.title.redirectlethaldamage.enemies.single","Dem Tod ein Schnippchen schlagen"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single","Dem Tod ein Schnippchen schlagen"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Dem Tod ein Schnippchen schlagen"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","Dem Tod ein Schnippchen schlagen"
+"herocard.passive_skill.title.redirectlethaldamage","Dem Tod ein Schnippchen schlagen"
 "herocard.passive_skill.title.reduceinsanityperturn","Verringerter Wahnsinn"
 "herocard.passive_skill.title.reflectresistedstatuseffect","Legendärer Reflektor"
 "herocard.passive_skill.title.remove_growth_from_enemies","Wächterangriff"
@@ -14088,17 +14107,17 @@ das Team von Empires & Puzzles"
 "map.province_rewards_preview_complete.message","Du erhältst die folgenden Belohnungen:"
 "map.province_rewards_preview_incomplete.message","Schließe diese Provinz ab, um die folgenden Belohnungen zu erhalten:"
 "mayhem.info.limited.time.event","Nur für kurze Zeit!"
-"mayhem.info.message","[*] Es wurden mehrere passive Effekte angepasst, die die Handlungsfähigkeit von verringert haben, um jetzt aktivere Kämpfe anzuregen.
+"mayhem.info.message","[*] Es wurden mehrere passive Effekte angepasst, die die Handlungsfähigkeit von Spielern verringert haben, um jetzt aktivere Kämpfe anzuregen.
 
-[*] Mehrere Effekte, die schwer zu vermeiden waren, sind jetzt strategisch einfacher zu kontern
+[*] Mehrere Effekte, die schwer zu vermeiden waren, sind jetzt strategisch einfacher zu kontern.
 
-[*] Die Zufälligkeit verschiedener Effekte wurde verringert und ihre Zuverlässigkeit erhöht
+[*] Die Zufälligkeit verschiedener Effekte wurde verringert und ihre Zuverlässigkeit erhöht.
 
-[*] Eine Vielzahl von Effekten wurde verbessert, damit sie im Kampf nützlicher sind
+[*] Eine Vielzahl von Effekten wurde verbessert, damit sie im Kampf nützlicher sind.
 
-[*] Verschiedene Effekte, die zu allgemein wirkten, haben jetzt eine fokussiertere Rolle
+[*] Verschiedene Effekte, die zu allgemein wirkten, haben jetzt eine fokussiertere Rolle.
 
-[*] Viele Effekte funktionieren jetzt zuverlässiger
+[*] Viele Effekte funktionieren jetzt zuverlässiger.
 
 [*] PvP-Regeln wurden für verbessertes Balancing von Angreifern gegen Verteidiger angepasst."
 "mayhem.info.title.bottom","2026"
@@ -16987,7 +17006,7 @@ Bitte versuche es später wieder."
 "odds.asterisk.info.bonus_pull.event.legendary","[#!]{0} %[#] Chance auf [#!]{1}[#] legendären Eventhelden als Bonus"
 "odds.asterisk.info.cutoff.old","Enthält auch Helden, die innerhalb von [#!]{0}[#] Tag(en) vor Beginn dieses Events veröffentlicht wurden."
 "odds.asterisk.info.cutoff.young","Enthält auch Helden, die bis zu [#!]{0}[#] Tag(e) vor Beginn dieses Events veröffentlicht wurden."
-"odds.asterisk.info.cutoff.young.dragon","Enthält auch Drachen, die bis zu [#!]{0}[#] Tag(e) vor Beginn dieses Events veröffentlicht wurden."
+"odds.asterisk.info.cutoff.young.dragon","Enthält auch Drachen, die mehr als [#!]{0}[#] Tag(e) vor Beginn dieses Events veröffentlicht wurden."
 "odds.asterisk.info.cutoff.young.old","Enthält auch Helden, die [#!]{0}[#] bis [#!]{1}[#] Tage vor Beginn dieses Events veröffentlicht wurden."
 "odds.asterisk.info.excluded.classic","Klassische Helden sind ausgenommen"
 "odds.asterisk.info.excluded.classic_hotm","Klassische und monatliche Helden sind ausgenommen"
@@ -26758,27 +26777,27 @@ Verwandlungseffekte:
 [*]Die Entwicklung der Feinde wird jedes Mal, wenn sie Heilung absorbieren, um {EVOLVINGFAMILIAR1EVOLVETURNSDELAY} Runden verzögert.
 [*]Feinde können sich nicht zu Megafeinden entwickeln, wenn der Held bereits Lakaien hat."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.evolving_seedling_parasite.blocked_by.minion.extra","[*]Der [#!]Setzling-Feind[#] entwickelt sich nach {EVOLVINGFAMILIAR1EVOLVETURNS} Runden zu einem [#!]Spross-Feind[#].
-[*] Der [#!]Spross-Feind[#] entwickelt sich nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden zu einem [#!]Mega-Blütenfeind[#].
+[*]Der [#!]Spross-Feind[#] entwickelt sich nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden zu einem [#!]Mega-Blütenfeind[#].
 
 [*] [#!]Setzling-Feind[#]: [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] Angriff, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] Leben.
 [*] [#!]Spross-Feind[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] Angriff, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] Leben.
 [*] [#!]Mega-Blütenfeind[#]: [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] Angriff, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] Leben.
 
-[*]Ein Feind fügt seinem Ziel in jedem Zug Schaden zu. Ein Feind verschwindet, nachdem er Heilung absorbiert hat. Die benötigte Menge an Heilung hängt vom maximalen Lebens des Ziels ab.
+[*]Ein Feind fügt seinem Ziel in jedem Zug Schaden zu. Ein Feind verschwindet, nachdem er Heilung absorbiert hat. Die benötigte Menge an Heilung hängt vom maximalen Leben des Ziels ab.
 [*]Feinde können sich nicht zu Megafeinden entwickeln, wenn es Lakaien desselben Helden gibt."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.evolving_seedling_parasite.extra","[*]Der [#!]Setzling-Feind[#] entwickelt sich nach {EVOLVINGFAMILIAR1EVOLVETURNS} Runden zu einem [#!]Spross-Feind[#].
-[*] Der [#!]Spross-Feind[#] entwickelt sich nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden zu einem [#!]Mega-Blütenfeind[#].
+[*]Der [#!]Spross-Feind[#] entwickelt sich nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden zu einem [#!]Mega-Blütenfeind[#].
 
 [*] [#!]Setzling-Feind[#]: [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] Angriff, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] Leben.
 [*] [#!]Spross-Feind[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] Angriff, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] Leben.
 [*] [#!]Mega-Blütenfeind[#]: [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] Angriff, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] Leben.
 
-[*]Ein Feind fügt seinem Ziel in jedem Zug Schaden zu. Ein Feind verschwindet, nachdem er Heilung absorbiert hat. Die benötigte Menge an Heilung hängt vom maximalen Lebens des Ziels ab."
+[*]Ein Feind fügt seinem Ziel in jedem Zug Schaden zu. Ein Feind verschwindet, nachdem er Heilung absorbiert hat. Die benötigte Menge an Heilung hängt vom maximalen Leben des Ziels ab."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.evolving_seedling_parasite_with_delay.blocked_by.minion.extra","[*]Der [#!]Setzling-Feind[#] entwickelt sich nach {EVOLVINGFAMILIAR1EVOLVETURNS} Runden zu einem [#!]Spross-Feind[#].
 [*]Der [#!]Spross-Feind[#] entwickelt sich nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden zu einem [#!]Mega-Blütenfeind[#].
 
-[*] [#!]Setzling-Feind[#]: [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] Angriff, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] Gesundheit.
-[*] [#!]Spross-Feind[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] Angriff, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] Gesundheit.
+[*] [#!]Setzling-Feind[#]: [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] Angriff, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] Leben.
+[*] [#!]Spross-Feind[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] Angriff, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] Leben.
 [*] [#!]Mega-Blütenfeind[#]: [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] Angriff, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] Leben.
 
 [*]Ein Feind fügt seinem Ziel jede Runde Schaden zu. Ein Feind verschwindet, nachdem er Heilung absorbiert hat. Die erforderliche Heilungsmenge hängt vom max. Leben des Ziels ab.
@@ -26787,8 +26806,8 @@ Verwandlungseffekte:
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.evolving_seedling_parasite_with_delay.extra","[*]Der [#!]Setzling-Feind[#] entwickelt sich nach {EVOLVINGFAMILIAR1EVOLVETURNS} Runden zu einem [#!]Spross-Feind[#].
 [*]Der [#!]Spross-Feind[#] entwickelt sich nach {EVOLVINGFAMILIAR2EVOLVETURNS} Runden zu einem [#!]Mega-Blütenfeind[#].
 
-[*] [#!]Setzling-Feind[#]: [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] Angriff, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] Gesundheit.
-[*] [#!]Spross-Feind[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] Angriff, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] Gesundheit.
+[*] [#!]Setzling-Feind[#]: [#!]{EVOLVINGFAMILIAR1FAMILIARATTACK} %[#] Angriff, [#!]{EVOLVINGFAMILIAR1FAMILIARHEALTHPERCENT} %[#] Leben.
+[*] [#!]Spross-Feind[#]: [#!]{EVOLVINGFAMILIAR2FAMILIARATTACK} %[#] Angriff, [#!]{EVOLVINGFAMILIAR2FAMILIARHEALTHPERCENT} %[#] Leben.
 [*] [#!]Mega-Blütenfeind[#]: [#!]{EVOLVINGFAMILIAR3FAMILIARATTACK} %[#] Angriff, [#!]{EVOLVINGFAMILIAR3FAMILIARHEALTHPERCENT} %[#] Leben.
 
 [*]Ein Feind fügt seinem Ziel jede Runde Schaden zu. Ein Feind verschwindet, nachdem er Heilung absorbiert hat. Die erforderliche Heilungsmenge hängt vom max. Leben des Ziels ab.
@@ -27389,6 +27408,14 @@ Wenn der Schleim nicht innerhalb von {CHANGEDAPPEARANCETURNS} Zügen besiegt wir
 [#!]Lebhafter Glückstanz[#]
 {STATUSEFFECTS}
 [*][#!]Glückstänze[#] sind mit anderen Tanzeffekten stapelbar."
+"specials.v2.statuseffect.minor.abyss.sides.enemies.dispelincreasesactivations","Gegner an den Rändern der gegnerischen Formation wechseln für {TURNS} Züge in die Gestalt eines Abgrundgeists.
+[*]In Gestalt eines Abgrundgeists erleiden Ziele {DAMAGEPERTURN} Schaden pro Zug. Dieser Effekt ist [#!]hartnäckig[#]."
+"specials.v2.statuseffect.minor.abyss.single.enemies.dispelincreasesactivations","Das Ziel wechselt für {TURNS} Züge in die Gestalt eines Abgrundgeists. Dieser Effekt ist [#!]hartnäckig[#].
+[*]In Gestalt eines Abgrundgeists erleidet das Ziel {DAMAGEPERTURN} Schaden pro Zug."
+"specials.v2.statuseffect.minor.abyss.single.enemies.onremoval.damage.all.allies.expiration.add_insanity_emilie.dispelincreasesactivations","Das Ziel wechselt für {TURNS} Züge in die Gestalt eines Abgrundgeistes. Dieser Effekt ist [#!]hartnäckig[#].
+[*] In Gestalt des Abgrundgeistes erhält das Ziel {DAMAGEPERTURN} Schaden pro Zug.
+[*] Wenn die Gestalt des Abgrundgeistes abläuft:
+[*] Fügt allen Verbündeten {FIXEDPOWER} Schaden zu und belegt sie mit {STATUSEFFECT1INSANITYTOADD} [#!]Wahnsinn[#]."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies","Alle Gegner erhalten {ACCURACY} % Genauigkeit für {TURNS} Züge."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies.dispelincreasesactivations","Alle Gegner erhalten für {TURNS} Züge {ACCURACY} % Genauigkeit. Dieser Effekt ist [#!]hartnäckig[#]."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies.resetonheal","Alle Gegner erhalten für {TURNS} Züge eine Treffsicherheit von {ACCURACY} %. Die Wirkungsdauer wird zurückgesetzt, wenn das Ziel geheilt wird."
@@ -27803,6 +27830,12 @@ Wenn der Schleim nicht innerhalb von {CHANGEDAPPEARANCETURNS} Zügen besiegt wir
 [*][#!]Verschlingender Schleim:[#] Entfernt alle bannbaren Boni und Wachstumseffekte, verursacht {BASEDAMAGEPERTURN} Schaden pro Zug und {DAMAGEPERTURNPEREFFECT} Schaden pro entferntem Effekt."
 "specials.v2.statuseffect.minor.devouringgoo.single.enemies.effects.minorbuff.positivebasestatmodifier","Der Zielgegner erleidet die negative Statusänderung „Verschlingender Schleim“ für {TURNS} Runden.
 [*][#!]Verschlingender Schleim[#]: Entfernt alle bannbaren Boni und Wachstumseffekte, verursacht {BASEDAMAGEPERTURN} Schaden pro Zug und {DAMAGEPERTURNPEREFFECT} Schaden pro entferntem Effekt."
+"specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.add_insanity_salvatore.dispelincreasesactivations","Der Wirker wechselt in die Gestalt eines verrückten grässlichen Geists für {TURNS} Runden. Dieser Effekt ist [#!]hartnäckig[#].
+[*] In dieser Gestalt fügt der Wirker in jeder Runde einem zufälligen Gegner automatisch {POWER1} % Schaden und {STATUSEFFECT1INSANITYTOADD} [#!]Wahnsinn[#] zu.
+[*] Der Wirker kann in der Gestalt des verrückten grässlichen Geists Schaden durch Gegner erleiden, deren Element stark gegen ihn ist."
+"specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.dispelincreasesactivations","Der Wirker wechselt für {TURNS} Runden in die Gestalt des Grässlichen Geistes. Dieser Effekt ist [#!]hartnäckig[#].
+[*]In der Gestalt des Grässlichen Geistes verursacht der Wirker in jeder Runde automatisch {POWER1} % Schaden bei einem zufälligen Feind.
+[*]In der Gestalt des Grässlichen Geistes kann der Wirker Schaden durch Gegner erleiden, deren Element stark gegen den Wirker ist."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff","Reinigt am Ende des Zugs negative Statusänderungen für alle Verbündeten für {TURNS} Züge."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.bypassremoveeffects","Entfernt am Ende jedes Zuges für {TURNS} Züge sicher alle negativen Statusänderungen von allen Verbündeten."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.customremovalcount","Bereinigt 1 negative Statusänderung bei allen Verbündeten am Ende jedes Zuges für {TURNS} Züge."
@@ -27883,6 +27916,8 @@ Wenn der Schleim nicht innerhalb von {CHANGEDAPPEARANCETURNS} Zügen besiegt wir
 "specials.v2.statuseffect.minor.elementswapovertime.allexceptcaster.allies","Alle Verbündeten außer dem Wirker werden für {TURNS} Runden mit [#!]Elementarflux[#] belegt. Ihr Element ändert sich jede Runde zufällig."
 "specials.v2.statuseffect.minor.elementswapovertime.damage_to_green.all.enemies","Für {TURNS} Runden werden alle Gegner mit [#!]Elementarflux[#] belegt. Ihr Element ändert sich jede Runde zufällig und verursacht {DAMAGEPERTURN} Schaden, wenn ihr Element zu [##elementgreen]Natur[#] wechselt."
 "specials.v2.statuseffect.minor.elementswapovertime.damage_to_yellow.all.enemies","Für {TURNS} Runden werden alle Gegner mit [#!]Elementarflux[#] belegt. Ihr Element ändert sich jede Runde zufällig und verursacht {DAMAGEPERTURN} Schaden, wenn ihr Element zu [##elementyellow]Licht[#] wechselt."
+"specials.v2.statuseffect.minor.ethereal.single.allies.dispelincreasesactivations","Der Wirker wechselt für {TURNS} Runden in die Geisterform.
+[*] In der Geisterform erhält der Wirker {ATTACK} % Angriff. Dieser Effekt ist [#!]hartnäckig[#]."
 "specials.v2.statuseffect.minor.explodingberserk.single.allies","Der Wirker erhält {ATTACK} % Angriff und eine weitere {CHANGE} % Erhöhung jedes Mal, wenn er oder einer seiner Verbündeten während {TURNS} Runden getroffen wird, bis zu {MAXMODIFIER} % Angriff. Wenn der Effekt endet, erhalten alle Feinde {DAMAGE} Schaden. Jeder Treffer des Wirkers oder seiner Verbündeten während der Dauer erhöht den Schaden um {ADDITIONALDAMAGEPERHIT} bis zu einem Maximum von {MAXDAMAGE} Schaden."
 "specials.v2.statuseffect.minor.extradamageagainstboostedhealth.all.allies.troop.npcnormalattack.specialskill.statuseffectskill","Die normalen Angriffe und Spezialfähigkeiten aller Verbündeten verursachen {TURNS} Runden lang {DAMAGEMULTIPLIER} % Schaden an Zielen mit verstärktem Leben."
 "specials.v2.statuseffect.minor.fearstatuseffectskill.all.enemies.on.allyspecial.damage.random.allies","Alle Gegner erliegen für {TURNS} Züge der [#!]Furcht[#]."
@@ -27956,6 +27991,14 @@ Wenn der Schleim nicht innerhalb von {CHANGEDAPPEARANCETURNS} Zügen besiegt wir
 "specials.v2.statuseffect.minor.frost.single.enemies.contagious","Das Ziel erleidet {DAMAGE} Frostschaden über {TURNS} Züge. Dieser Effekt breitet sich auf nahe Gegner aus."
 "specials.v2.statuseffect.minor.frost.single.enemies.contagious.noturns","Das Ziel erleidet {DAMAGE} [#!]bleibenden[#] Frostschaden pro Runde. Dieser Effekt breitet sich auf nahe Gegner aus."
 "specials.v2.statuseffect.minor.gamble.all.allies","Alle Verbündeten erhalten {ATTACK} % Angriff mit {ACCURACY} % Genauigkeit für {TURNS} Züge."
+"specials.v2.statuseffect.minor.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies.dispelincreasesactivations","Der Wirker wechselt für {TURNS} Züge in die Geisterform. Dieser Effekt ist [#!]hartnäckig[#].
+[*] Wenn die Geist-Form abläuft:
+[*] Alle Verbündeten erhalten für {REMOVALEFFECT1STATUSEFFECT1TURNS} Züge {REMOVALEFFECT1STATUSEFFECT1CRIT} % Chance auf kritische Treffer. Dieser Effekt kann nicht gebannt werden."
+"specials.v2.statuseffect.minor.ghost.single.allies.onremoval.revival.randomdead.allies.expiration.hp_recovery_sable.all.allies.dispel_ailments.all.allies.dispelincreasesactivations","Der Wirker wechselt für {TURNS} Runden in die Geisterform. Dieser Effekt ist [#!]hartnäckig[#].
+[*] Wenn die Geisterform abläuft:
+[*] Der Wirker belebt einen zufälligen besiegten Verbündeten mit {REMOVALEFFECT1POWER} % LP wieder. 
+[*] Alle Verbündeten erhalten {REMOVALEFFECT1STATUSEFFECT1TOTAL} Leben über {REMOVALEFFECT1STATUSEFFECT1TURNS} Runden.
+[*] Säubert am Ende des Zugs negative Statusänderungen für alle Verbündeten für {REMOVALEFFECT1STATUSEFFECT2TURNS} Züge."
 "specials.v2.statuseffect.minor.giftbomb.single.enemies.neartotargetminor.allies.death.expiration","Das Ziel erhält eine Giftbombe. Nach {TURNS} Zügen explodiert die Giftbombe und fügt dem Ziel {DAMAGE} Schaden und nahen Zielen {MINORDAMAGE} Schaden zu. Die Giftbombe explodiert auch, wenn das Ziel besiegt wird."
 "specials.v2.statuseffect.minor.giftbomb.single.enemies.onremoval.damage.neartotarget.allies.death.expiration","Das Ziel erhält eine Giftbombe. Nach {TURNS} Zügen explodiert die Giftbombe und fügt dem Ziel und nahen Gegnern {DAMAGE} Schaden zu. Die Giftbombe explodiert auch, wenn das Ziel besiegt wird."
 "specials.v2.statuseffect.minor.grapple.single.enemies","Fesselt das Ziel. Solange es gefesselt ist, wird der normale Angriff des Ziels auf 1 verringert und das Ziel erleidet {DAMAGE} Schaden über {TURNS} Runden."
@@ -28445,6 +28488,7 @@ Wenn der Schleim nicht innerhalb von {CHANGEDAPPEARANCETURNS} Zügen besiegt wir
 "specials.v2.statuseffect.minor.stackingattackmodifier.all.allies.effect_per_eaten_familiar.parasite.bigparasite","[#!]Stapel (Max.: {MAXSTACK}):[#] Alle Verbündeten erhalten zusätzlich {ATTACK} % Angriff pro zerstörtem Feind."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies","[#!]Stapel (Max.: {MAXSTACK}):[#] Der Wirker erhält {ATTACK} % Angriff."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.effect_per_eaten_familiar.minion.follower.bigminion","[#!]Stapel (Max.: {MAXSTACK}):[#] Der Wirker erhält zusätzlich {ATTACK} % Angriff pro zerstörtem Lakaien."
+"specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.withbasestackcount","[#!]Stapel +{BASESTACKCOUNT} (Max.: {MAXSTACK}):[#] Der Wirker erhält {ATTACK} % Angriff."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.enemies.chain_strike","[#!]Stapel (Max.: {MAXSTACK}):[#] Jeder Treffer gibt seinem Ziel {ATTACK} % Angriff."
 "specials.v2.statuseffect.minor.stackingattackmodifieragainstweakerelement.single.allies","[#!]Stapel (Max.: {MAXSTACK}):[#] Der Wirker erhält {ATTACK} % Angriff gegen das schwächere Element."
 "specials.v2.statuseffect.minor.stackingcritmodifier.all.allies","[#!]Stapel (Max.: {MAXSTACK}):[#] Alle Verbündeten erhalten {CRIT} % Chance auf kritische Treffer."
@@ -28464,6 +28508,7 @@ Wenn der Schleim nicht innerhalb von {CHANGEDAPPEARANCETURNS} Zügen besiegt wir
 "specials.v2.statuseffect.minor.stackingicebound.all.enemies.effect_per_kill.minion.follower","[#!]Stapel (Max.: {MAXSTACK}):[#] Alle Gegner erhalten am Ende jeder Runde {DAMAGE} Frostschaden pro besiegtem Gegner oder gegnerischem Lakaien."
 "specials.v2.statuseffect.minor.stackingicebound.neartotarget.enemies","[#!]Stapel (Max.: {MAXSTACK}):[#] Das Ziel und nahe Gegner erhalten am Ende jeder Runde {DAMAGE} Frostschaden."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies","[#!]Stapel (Max.: {MAXSTACK}):[#] Alle Verbündeten erhalten {MANAREGEN} % Manaregeneration."
+"specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies.withbasestackcount","[#!]Stapel +{BASESTACKCOUNT} (Max.: {MAXSTACK}):[#] Alle Verbündeten erhalten {MANAREGEN} % Manaregeneration."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies","[#!]Stapel (Max.: {MAXSTACK}):[#] Alle Gegner erhalten {MANAREGEN} % Manaregeneration."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies.effect_per_eaten_familiar.minion.follower","[#!]Stapel (Max.: {MAXSTACK}):[#] Alle Gegner erhalten {MANAREGEN} % Manaregeneration pro zerstörtem Lakaien."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies.effect_per_kill.minion.follower","[#!]Stapel (Max.: {MAXSTACK}):[#] Alle Gegner erhalten {MANAREGEN} % Manaregeneration pro besiegtem Gegner oder gegnerischem Lakaien."
@@ -28472,6 +28517,7 @@ Wenn der Schleim nicht innerhalb von {CHANGEDAPPEARANCETURNS} Zügen besiegt wir
 "specials.v2.statuseffect.minor.stackingminionattackmodifier.all.allies","[#!]Stapel (Max.: {MAXSTACK}):[#] Alle Verbündeten erhalten {ATTACK} % Angriff für ihre Lakaien."
 "specials.v2.statuseffect.minor.stackingminionmaxhealthmodifier.all.allies","[#!]Stapel (Max.: {MAXSTACK}):[#] Alle Verbündeten erhalten {MAXHEALTH} % vererbte LP für neue Lakaien, die sie beschwören."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease","[#!]Stapel (Max.: {MAXSTACK}):[#] Der gesamte Schaden, den alle Verbündeten erleiden, wird um {DAMAGEMODIFIER} % verringert."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease.withbasestackcount","[#!]Stapel +{BASESTACKCOUNT} (Max.: {MAXSTACK}):[#] Der gesamte Schaden, den alle Verbündeten erleiden, wird um {DAMAGEMODIFIER} % verringert."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies","[#!]Stapel (Max.: {MAXSTACK}):[#] Der gesamte Schaden, den alle Gegner erleiden, wird um {DAMAGEMODIFIER} % erhöht."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies.withbasestackcount","[#!]Stapel +{BASESTACKCOUNT} (Max.: {MAXSTACK}):[#] Der gesamte Schaden, den alle Gegner erleiden, wird um {DAMAGEMODIFIER} % erhöht."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.lessthanhalfhpleft.enemies","[#!]Stapel (max.: {MAXSTACK}):[#] Gegner mit weniger als 50 % verbleibender Gesundheit erleiden {DAMAGEMODIFIER} % Schaden."
@@ -28483,6 +28529,7 @@ Wenn der Schleim nicht innerhalb von {CHANGEDAPPEARANCETURNS} Zügen besiegt wir
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.allies.decrease","[#!]Stapel (Max.: {MAXSTACK}):[#] Der gesamte Schaden, den der Wirker erleidet, wird um {DAMAGEMODIFIER} % verringert."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies","[#!]Stapel (Max.: {MAXSTACK}):[#] Der gesamte Schaden, den das Ziel erleidet, wird um {DAMAGEMODIFIER} % erhöht."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.chain_strike","[#!]Stapel (Max.: {MAXSTACK}):[#] Jeder Treffer erhöht den gesamten Schaden, den das Ziel erleidet, um {DAMAGEMODIFIER} %."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.withbasestackcount.chain_strike","[#!]Stapel +{BASESTACKCOUNT} (Max.: {MAXSTACK}):[#] Jeder Treffer erhöht den gesamten Schaden, den das Ziel erleidet, um {DAMAGEMODIFIER} %."
 "specials.v2.statuseffect.minor.statuseffectgeneratorstatuseffectskill.allexceptcaster.allies.on.ownturnstart.basic_attack_bluecat.mana_regen_bluecat.dispelincreasesactivations","[#!]Quelle der Stärke:[#] Die folgenden Effekte werden zu Beginn jedes Zuges auf einen zufälligen Verbündeten gewirkt, der nicht der Wirker sein kann:
 [*]{STATUSEFFECT1ATTACK} % Angriff für {STATUSEFFECT1TURNS} Runden.
 [*]{STATUSEFFECT2MANAREGEN} % Manaregeneration für {STATUSEFFECT2TURNS} Runden.
@@ -28575,6 +28622,7 @@ Wenn der Schleim nicht innerhalb von {CHANGEDAPPEARANCETURNS} Zügen besiegt wir
 "specials.v2.statuseffect.minor.toxin.sides.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","Die Gegner am Rand der gegnerischen Formation erleiden {TURNS} Züge lang {DAMAGE} [#!]Toxinschaden[#]. Der Schaden ist für Ziele mit verstärktem Leben, Lakaien oder Mega-Lakaien erhöht."
 "specials.v2.statuseffect.minor.toxin.single.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","Das Ziel erleidet {TURNS} Züge lang {DAMAGE} [#!]Toxinschaden[#]. Der Schaden ist für Ziele mit verstärktem Leben, Lakaien oder Mega-Lakaien erhöht."
 "specials.v2.statuseffect.minor.transcendentalframe.single.allies","Der Wirker wechselt für {TURNS} Runden in die Geisterform."
+"specials.v2.statuseffect.minor.transcendentalframe.single.allies.dispelincreasesactivations","Der Wirker wechselt für {TURNS} Runden in die Geisterform. Dieser Effekt ist [#!]hartnäckig[#]."
 "specials.v2.statuseffect.minor.underwater.all.enemies","Alle Gegner erleiden {DAMAGE} Wasserschaden über {TURNS} Züge."
 "specials.v2.statuseffect.minor.underwater.all.enemies.absorb_healing.to.single","Alle Gegner erleiden {DAMAGE} Wasserschaden über {TURNS} Züge. Der Wirker absorbiert {ABSORBHEALING} % des zugefügten Wasserschadens als Leben."
 "specials.v2.statuseffect.minor.underwater.neartotarget.enemies","Das Ziel und nahe Gegner erleiden {DAMAGE} Wasserschaden über {TURNS} Züge."

@@ -382,7 +382,7 @@
 "specials.name.celestial_balance","神圣平衡"
 "specials.name.ceremonial_dance","典礼之舞"
 "specials.name.ceremonial_katar","仪式卡塔尔"
-"specials.name.ceremonial_katar_mayhem","仪式卡塔尔"
+"specials.name.ceremonial_katar_mayhem","仪式拳刃"
 "specials.name.chain_blasm_strike","连环轰暴"
 "specials.name.chain_lightning","连环闪电"
 "specials.name.chain_of_pain","痛苦锁链"

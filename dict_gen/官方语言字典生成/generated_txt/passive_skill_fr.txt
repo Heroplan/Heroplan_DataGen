@@ -279,16 +279,34 @@ Dégâts subis : -{MODIFIER} %"
 
 Dans les combats comportant plusieurs vagues, l'effet est rechargé au début de chaque vague."
 "herocard.passive_skill.description.redirectlethaldamage.enemies.single.battle","La première fois que ce personnage subit des dégâts qui devraient l'éliminer, il redirige à la place {REDIRECTDAMAGEMULTIPLIER} % de ces dégâts vers un ennemi aléatoire. (Activations restantes : {ACTIVATIONSLEFT}.)"
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled","La première fois que ce personnage subit des dégâts qui devraient l'éliminer, il redirige à la place {REDIRECTDAMAGEMULTIPLIER} % de ces dégâts vers l'attaquant.
+
+L'effet ne s'active pas si ce personnage est le seul membre de son équipe en combat.
+
+Dans les combats comportant plusieurs vagues, l'effet est rechargé au début de chaque vague."
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled.battle","La première fois que ce personnage subit des dégâts qui devraient l'éliminer, il redirige à la place {REDIRECTDAMAGEMULTIPLIER} % de ces dégâts vers l'attaquant. (Activations restantes : {ACTIVATIONSLEFT})
+L'effet ne s'active pas si ce personnage est le seul membre de son équipe en combat."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single","La première fois que ce personnage subit des dégâts qui devraient l'éliminer, ces dégâts sont envoyés à un ennemi aléatoire.
 
 Dans les combats comportant plusieurs vagues, l'effet est rechargé au début de chaque vague."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.battle","La première fois que ce personnage subit des dégâts qui devraient l'éliminer, ces dégâts sont envoyés à un ennemi aléatoire. (Activations restantes : {ACTIVATIONSLEFT}.)"
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","La première fois que ce personnage subit des dégâts d'attaque ou de compétence spéciale qui devraient l'éliminer, jusqu'à {REDIRECTDAMAGELIMIT} points de dégâts sont renvoyés à l'attaquant. (Activations restantes : {ACTIVATIONSLEFT})."
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","La première fois que ce personnage subit des dégâts d'attaque ou de compétence spéciale qui devraient l'éliminer, jusqu'à {REDIRECTDAMAGELIMIT} points de dégâts sont renvoyés à l'attaquant. (Activations restantes : {ACTIVATIONSLEFT})."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","La première fois que ce personnage subit des dégâts d'attaque ou de compétence spéciale qui devraient l'éliminer, jusqu'à {REDIRECTDAMAGELIMIT} points de dégâts sont renvoyés à un ennemi aléatoire."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","La première fois que ce personnage subit des dégâts d'attaque ou de compétence spéciale qui devraient l'éliminer, jusqu'à {REDIRECTDAMAGELIMIT} points de dégâts sont renvoyés à un ennemi aléatoire. (Activations restantes : {ACTIVATIONSLEFT})."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled","La première fois que ce personnage subit des dégâts d'attaque ou de compétence spéciale qui devraient l'éliminer, jusqu'à {REDIRECTDAMAGELIMIT} points de dégâts sont renvoyés à l'attaquant.
+L'effet ne s'active pas si ce personnage est le seul membre de son équipe en combat."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled.battle","La première fois que ce personnage subit des dégâts d'attaque ou de compétence spéciale qui devraient l'éliminer, jusqu'à {REDIRECTDAMAGELIMIT} points de dégâts sont renvoyés à l'attaquant. (Activations restantes : {ACTIVATIONSLEFT})
+L'effet ne s'active pas si ce personnage est le seul membre de son équipe en combat."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","La première fois que ce personnage subit des dégâts d'attaque ou de compétence spéciale qui devraient l'éliminer, il renvoie jusqu'à {REDIRECTDAMAGELIMIT} points de dégâts à l'attaquant.
 
 Dans les combats comportant plusieurs vagues, l'effet est rechargé au début de chaque vague."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit.battle","La première fois que ce personnage subit des dégâts d'attaque ou de compétence spéciale qui devraient l'éliminer, jusqu'à {REDIRECTDAMAGELIMIT} points de dégâts sont renvoyés à l'attaquant. (Activations restantes : {ACTIVATIONSLEFT})."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled","La première fois que ce personnage subit des dégâts qui devraient l'éliminer, il redirige à la place ces dégâts vers l'attaquant.
+
+L'effet ne s'active pas si ce personnage est le seul membre de son équipe en combat.
+
+Dans les combats comportant plusieurs vagues, l'effet est rechargé au début de chaque vague."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled.battle","La première fois que ce personnage subit des dégâts qui devraient l'éliminer, il redirige à la place ces dégâts vers l'attaquant. (Activations restantes : {ACTIVATIONSLEFT})
+L'effet ne s'active pas si ce personnage est le seul membre de son équipe en combat."
 "herocard.passive_skill.description.reduceinsanityperturn","Au début de chaque tour, les points de folie actuels de ce personnage sont réduits de {REDUCTION}."
 "herocard.passive_skill.description.reflectresistedstatuseffect.all.enemies","Tous les effets négatifs auxquels ce personnage résiste avec des compétences passives sont renvoyés à tous les ennemis."
 "herocard.passive_skill.description.reflectstatuseffect.with_chance","{CHANCE} % de chances supplémentaires de renvoyer les effets à l'attaquant."
@@ -908,10 +926,7 @@ Les boucliers sacrés sont renforcés et rendent {MODIFIER} % de mana en plus q
 "herocard.passive_skill.title.received_strong_troop_damage_pve","Réduction des dégâts des troupes"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage","Maîtrise des troupes"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage.increase.dragon","Grande augmentation des dégâts des boules de feu"
-"herocard.passive_skill.title.redirectlethaldamage.enemies.single","Trompe-la-mort"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single","Trompe-la-mort"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Trompe-la-mort"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","Trompe-la-mort"
+"herocard.passive_skill.title.redirectlethaldamage","Trompe-la-mort"
 "herocard.passive_skill.title.reduceinsanityperturn","Réduction de folie"
 "herocard.passive_skill.title.reflectresistedstatuseffect","Renvoi légendaire"
 "herocard.passive_skill.title.remove_growth_from_enemies","Ralliement de la garde"

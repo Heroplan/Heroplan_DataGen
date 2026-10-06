@@ -279,16 +279,34 @@ Modtaget skade: -{MODIFIER} %"
 
 I kampe med flere bølger fornyes effekten i begyndelsen af hver bølge."
 "herocard.passive_skill.description.redirectlethaldamage.enemies.single.battle","Første gang denne figur ellers ville have modtaget dødbringende skade, omdirigerer den i stedet {REDIRECTDAMAGEMULTIPLIER} % af den pågældende skade til en tilfældig fjende. (Aktiveringer tilbage: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled","Første gang denne figur ellers ville have modtaget dødbringende skade, omdirigerer den i stedet {REDIRECTDAMAGEMULTIPLIER} % af den pågældende skade til angriberen.
+
+Dette sker ikke, hvis denne figur er det eneste medlem af sit team i kamp.
+
+I kampe med flere bølger fornys effekten i begyndelsen af hver bølge."
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled.battle","Første gang denne figur ellers ville have modtaget dødbringende skade, omdirigerer den i stedet {REDIRECTDAMAGEMULTIPLIER} % af den pågældende skade til angriberen. (Aktiveringer tilbage: {ACTIVATIONSLEFT})
+Dette sker ikke, hvis denne figur er det eneste medlem af sit team i kamp."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single","Første gang denne figur ellers ville have modtaget dødbringende skade, bliver skaden omdirigeret til en tilfældig fjende.
 
 I kampe med flere bølger bliver effekter fornyet ved begyndelsen af hver bølge."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.battle","Første gang denne figur ellers ville have modtaget dødbringende skade, bliver skaden omdirigeret til en tilfældig fjende. (Aktiveringer tilbage: {ACTIVATIONSLEFT})"
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Første gang denne figur ellers ville have modtaget dødbringende skade fra normale angreb eller særlige evner, omdirigerer den i stedet op til {REDIRECTDAMAGELIMIT} skade til angriberen. (Aktiveringer tilbage: {ACTIVATIONSLEFT})"
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","Første gang denne figur ellers ville have modtaget dødbringende skade fra normale angreb eller særlige evner, bliver op til {REDIRECTDAMAGELIMIT} skade i stedet omdirigeret til angriberen. (Aktiveringer tilbage: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Første gang denne figur ellers ville have modtaget dødbringende skade fra normale angreb eller særlige evner, omdirigerer den i stedet op til {REDIRECTDAMAGELIMIT} skade til en tilfældig fjende."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","Første gang denne figur ellers ville have modtaget dødbringende skade fra normale angreb eller særlige evner, omdirigerer den i stedet op til {REDIRECTDAMAGELIMIT} skade til en tilfældig fjende. (Aktiveringer tilbage: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled","Første gang denne figur ellers ville have modtaget dødbringende skade fra normale angreb eller særlige evner, omdirigerer den i stedet op til {REDIRECTDAMAGELIMIT} skade til angriberen.
+.Dette sker ikke, hvis denne figur er det eneste medlem af sit team i kamp."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled.battle","Første gang denne figur ellers ville have modtaget dødbringende skade fra normale angreb eller særlige evner, omdirigerer den i stedet op til {REDIRECTDAMAGELIMIT} skade til angriberen. (Aktiveringer tilbage: {ACTIVATIONSLEFT})
+Dette sker ikke, hvis denne figur er det eneste medlem af sit team i kamp."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","Første gang denne figur ellers ville have modtaget dødbringende skade fra normale angreb eller særlige evner, omdirigerer den i stedet op til {REDIRECTDAMAGELIMIT} skade til angriberen.
 
 I kampe med flere bølger fornys effekten i begyndelsen af hver bølge."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit.battle","Første gang denne figur ellers ville have modtaget dødbringende skade fra normale angreb eller særlige evner, bliver op til {REDIRECTDAMAGELIMIT} skade i stedet omdirigeret til angriberen. (Aktiveringer tilbage: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled","Første gang denne figur ellers ville have modtaget dødbringende skade, omdirigerer den i stedet den pågældende skade til angriberen.
+
+Dette sker ikke, hvis denne figur er det eneste medlem af sit team i kamp.
+
+I kampe med flere bølger fornys effekten i begyndelsen af hver bølge."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled.battle","Første gang denne figur ellers ville have modtaget dødbringende skade, omdirigerer den i stedet den pågældende skade til angriberen. (Aktiveringer tilbage: {ACTIVATIONSLEFT})
+Dette sker ikke, hvis denne figur er det eneste medlem af sit team i kamp."
 "herocard.passive_skill.description.reduceinsanityperturn","I starten af hver runde reduceres denne figurs aktuelle vanvid med {REDUCTION}."
 "herocard.passive_skill.description.reflectresistedstatuseffect.all.enemies","Alle statuslidelser, som denne figur modstår ved hjælp af passive evner, kastes tilbage på alle fjender."
 "herocard.passive_skill.description.reflectstatuseffect.with_chance","{CHANCE} % ekstra chance for at reflektere statuslidelser tilbage på angriberen."
@@ -916,10 +934,7 @@ Hellige skjolde på brættet styrkes og giver {MODIFIER} % mere mana, når denn
 "herocard.passive_skill.title.received_strong_troop_damage_pve","Reduktion af troppeskade"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage","Troppeekspert"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage.increase.dragon","Stærk forøgelse af ildkugleskade"
-"herocard.passive_skill.title.redirectlethaldamage.enemies.single","Snyd døden"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single","Snyd døden"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Snyd døden"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","Snyd døden"
+"herocard.passive_skill.title.redirectlethaldamage","Snyd døden"
 "herocard.passive_skill.title.reduceinsanityperturn","Reducer vanvid"
 "herocard.passive_skill.title.reflectresistedstatuseffect","Legendarisk reflektor"
 "herocard.passive_skill.title.remove_growth_from_enemies","Vagtsamling"

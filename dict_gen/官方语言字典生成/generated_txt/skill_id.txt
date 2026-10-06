@@ -1882,6 +1882,14 @@ Tarian Hoki bertumpuk dengan efek Tarian lainnya."
 Tarian Hoki Cemerlang
 {STATUSEFFECTS}
 Tarian Hoki bertumpuk dengan efek Tarian lainnya."
+"specials.v2.statuseffect.minor.abyss.sides.enemies.dispelincreasesactivations","Musuh di tepi formasi musuh menjadi Hantu Jurang selama {TURNS} giliran.
+ Saat berwujud Hantu Jurang, sasaran menderita kerusakan sebesar {DAMAGEPERTURN} setiap giliran. Efek ini Bandel."
+"specials.v2.statuseffect.minor.abyss.single.enemies.dispelincreasesactivations","Sasaran berubah menjadi Hantu Jurang selama {TURNS} giliran. Efek ini Bandel.
+ Saat berwujud Hantu Jurang, sasaran menderita kerusakan sebesar {DAMAGEPERTURN} setiap giliran."
+"specials.v2.statuseffect.minor.abyss.single.enemies.onremoval.damage.all.allies.expiration.add_insanity_emilie.dispelincreasesactivations","Sasaran berubah menjadi Hantu Jurang selama {TURNS} giliran. Efek ini Bandel.
+ Saat berwujud Hantu Jurang, sasaran menderita kerusakan sebesar {DAMAGEPERTURN} setiap giliran.
+ Saat wujud Hantu Jurang berakhir:
+ Menimbulkan {FIXEDPOWER} kerusakan dan {STATUSEFFECT1INSANITYTOADD} Kegilaan kepada semua sekutu."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies","Semua musuh mendapat akurasi {ACCURACY}% selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies.dispelincreasesactivations","Semua musuh mendapat akurasi {ACCURACY}% selama {TURNS} giliran. Efek ini Bandel."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies.resetonheal","Semua musuh mendapat {ACCURACY}% akurasi selama {TURNS} giliran. Durasi efek ini direset jika sasaran disembuhkan."
@@ -2296,6 +2304,12 @@ Goo Menerkam: Menghapus semua genjotan yang bisa dienyahkan dan efek Bertumbuh, 
 Goo Menerkam: Menghapus semua genjotan yang bisa dienyahkan dan efek Bertumbuh, menimbulkan {BASEDAMAGEPERTURN} kerusakan per giliran dan {DAMAGEPERTURNPEREFFECT} kerusakan per efek yang dihapus."
 "specials.v2.statuseffect.minor.devouringgoo.single.enemies.effects.minorbuff.positivebasestatmodifier","Musuh yang ditarget menerima status pelemahan Goo Menerkam selama {TURNS} giliran.
 Goo Menerkam: Menghapus semua genjotan yang bisa dienyahkan dan efek Bertumbuh, menimbulkan {BASEDAMAGEPERTURN} kerusakan per giliran dan {DAMAGEPERTURNPEREFFECT} kerusakan per efek yang dihapus."
+"specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.add_insanity_salvatore.dispelincreasesactivations","Perapal berubah menjadi Arwah Ngeri Edan selama {TURNS} giliran. Efek ini Bandel.
+ Saat berwujud Arwah Ngeri Edan, perapal secara otomatis menimbulkan kerusakan sebesar {POWER1}% dan menimbulkan {STATUSEFFECT1INSANITYTOADD}  Kegilaan kepada musuh acak setiap giliran.
+ Saat berwujud Arwah Ngeri Edan, perapal dan sekutu terdekat dapat mengalami kerusakan dari musuh yang berelemen kuat melawan mereka."
+"specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.dispelincreasesactivations","Perapal berubah menjadi Arwah Ngeri selama {TURNS} giliran. Efek ini Bandel.
+ Saat berwujud Arwah Ngeri, perapal secara otomatis menimbulkan {POWER1}% kerusakan terhadap musuh acak setiap giliran.
+ Saat berwujud Arwah Ngeri, perapal dapat mengalami kerusakan dari musuh yang berelemen kuat melawan perapal."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff","Membersihkan status pelemahan pada akhir tiap giliran untuk semua sekutu selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.bypassremoveeffects","Secara aman membersihkan status pelemahan pada akhir tiap giliran untuk semua sekutu selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.customremovalcount","Membersihkan 1 status pelemahan pada akhir tiap giliran untuk semua sekutu selama {TURNS} giliran."
@@ -2377,6 +2391,8 @@ Goo Menerkam: Menghapus semua genjotan yang bisa dienyahkan dan efek Bertumbuh, 
 "specials.v2.statuseffect.minor.elementswapovertime.allexceptcaster.allies","Selama {TURNS} giliran, semua sekutu kecuali perapal menderita Aliran Elemen. Elemen mereka berubah secara acak setiap giliran."
 "specials.v2.statuseffect.minor.elementswapovertime.damage_to_green.all.enemies","Selama {TURNS} giliran, semua musuh menderita Aliran Elemen. Elemen mereka berubah secara acak setiap giliran, menimbulkan {DAMAGEPERTURN} kerusakan setiap kali elemen mereka berubah menjadi Alam."
 "specials.v2.statuseffect.minor.elementswapovertime.damage_to_yellow.all.enemies","Selama {TURNS} giliran, semua musuh menderita Aliran Elemen. Elemen mereka berubah secara acak setiap giliran, menimbulkan {DAMAGEPERTURN} kerusakan setiap kali elemen mereka berubah menjadi Suci."
+"specials.v2.statuseffect.minor.ethereal.single.allies.dispelincreasesactivations","Perapal berubah wujud menjadi Hantu selama {TURNS} giliran.
+ Saat berwujud Hantu, perapal meraih {ATTACK}% serangan. Efek ini Bandel."
 "specials.v2.statuseffect.minor.explodingberserk.single.allies","Serangan perapal naik {ATTACK}%, dan naik lagi sebesar {CHANGE}% setiap kali dia atau sekutunya terkena serangan selama {TURNS} giliran, hingga {MAXMODIFIER}% serangan. Saat efek ini habis, semua musuh mengalami {DAMAGE} kerusakan. setiap serangan yang mengenai perapal atau sekutunya selama durasi akan meningkatkan kerusakan sebesar {ADDITIONALDAMAGEPERHIT} sampai maksimum {MAXDAMAGE}."
 "specials.v2.statuseffect.minor.extradamageagainstboostedhealth.all.allies.troop.npcnormalattack.specialskill.statuseffectskill","Semua serangan normal sekutu dan Keahlian Khusus menimbulkan {DAMAGEMULTIPLIER}% kerusakan terhadap sasaran dengan peningkatan kesehatan selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.fearstatuseffectskill.all.enemies.on.allyspecial.damage.random.allies","Semua musuh menyerah pada rasa Takut selama {TURNS} giliran."
@@ -2450,6 +2466,14 @@ Tiap Koin menimbulkan {POWER1}% kerusakan."
 "specials.v2.statuseffect.minor.frost.single.enemies.contagious","Sasaran mengalami {DAMAGE} kerusakan Beku selama {TURNS} giliran. Efek ini menyebar ke musuh terdekat."
 "specials.v2.statuseffect.minor.frost.single.enemies.contagious.noturns","Sasaran mengalami {DAMAGE} kerusakan Beku yang langgeng per giliran. Efek ini menyebar ke musuh terdekat."
 "specials.v2.statuseffect.minor.gamble.all.allies","Semua sekutu mendapat {ATTACK}% serangan dengan {ACCURACY}% akurasi selama {TURNS} giliran."
+"specials.v2.statuseffect.minor.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies.dispelincreasesactivations","Perapal berubah wujud menjadi Hantu selama {TURNS} giliran. Efek ini Bandel.
+ Saat wujud Hantu berakhir:
+ Semua sekutu mendapat peluang kritis {REMOVALEFFECT1STATUSEFFECT1CRIT}% selama {REMOVALEFFECT1STATUSEFFECT1TURNS} giliran. Efek ini tidak bisa dienyahkan."
+"specials.v2.statuseffect.minor.ghost.single.allies.onremoval.revival.randomdead.allies.expiration.hp_recovery_sable.all.allies.dispel_ailments.all.allies.dispelincreasesactivations","Perapal berubah wujud menjadi Hantu selama {TURNS} giliran. Efek ini Bandel.
+ Saat wujud Hantu berakhir:
+ Perapal membangkitkan satu sekutu acak yang kalah dengan {REMOVALEFFECT1POWER}% HP. 
+ Semua sekutu memperoleh  {REMOVALEFFECT1STATUSEFFECT1TOTAL} kesehatan selama {REMOVALEFFECT1STATUSEFFECT1TURNS} giliran.
+ Membersihkan status pelemahan dari semua sekutu di akhir tiap giliran selama {REMOVALEFFECT1STATUSEFFECT2TURNS} giliran."
 "specials.v2.statuseffect.minor.giftbomb.single.enemies.neartotargetminor.allies.death.expiration","Sasaran menerima Bom Kado. Setelah {TURNS} giliran, Bom Kado meledak dan menimbulkan kerusakan {DAMAGE} kepada sasaran dan kerusakan {MINORDAMAGE} kepada sasaran terdekat. Bom Kado juga meledak jika sasaran kalah."
 "specials.v2.statuseffect.minor.giftbomb.single.enemies.onremoval.damage.neartotarget.allies.death.expiration","Sasaran menerima Bom Kado. Setelah {TURNS} giliran, Bom Kado meledak dan menimbulkan kerusakan {DAMAGE} kepada sasaran dan sasaran terdekat. Bom Kado juga meledak jika sasaran kalah."
 "specials.v2.statuseffect.minor.grapple.single.enemies","Bergumul dengan sasaran. Saat bergumul, serangan normal sasaran berkurang menjadi 1 dan sasaran menderita {DAMAGE} kerusakan selama {TURNS} giliran."
@@ -2939,6 +2963,7 @@ Sasaran dan musuh terdekat menjadi Terhubung Jiwanya selama {TURNS} giliran. Mus
 "specials.v2.statuseffect.minor.stackingattackmodifier.all.allies.effect_per_eaten_familiar.parasite.bigparasite","Tumpukan (Maks: {MAXSTACK}): Semua sekutu mendapat {ATTACK}% serangan tambahan untuk setiap Iblis yang hancur."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies","Tumpukan (Maks: {MAXSTACK}): Perapal mendapat serangan {ATTACK}%."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.effect_per_eaten_familiar.minion.follower.bigminion","Tumpukan (Maks: {MAXSTACK}): Perapal mendapat {ATTACK}% serangan tambahan untuk setiap Antek yang hancur."
+"specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.withbasestackcount","Tumpukan +{BASESTACKCOUNT} (Maks: {MAXSTACK}): Perapal mendapat serangan {ATTACK}%."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.enemies.chain_strike","Tumpukan (Maks: {MAXSTACK}): Setiap pukulan memberikan serangan {ATTACK}% kepada sasarannya."
 "specials.v2.statuseffect.minor.stackingattackmodifieragainstweakerelement.single.allies","Tumpukan (Maks: {MAXSTACK}): Perapal mendapat serangan {ATTACK}% terhadap elemen yang lebih lemah."
 "specials.v2.statuseffect.minor.stackingcritmodifier.all.allies","Tumpukan (Maks: {MAXSTACK}): Semua sekutu mendapat peluang kritis {CRIT}%."
@@ -2958,6 +2983,7 @@ Sasaran dan musuh terdekat menjadi Terhubung Jiwanya selama {TURNS} giliran. Mus
 "specials.v2.statuseffect.minor.stackingicebound.all.enemies.effect_per_kill.minion.follower","Tumpukan (Maks: {MAXSTACK}): Semua musuh mengalami {DAMAGE} kerusakan Beku per musuh atau Antek musuh yang kalah pada akhir setiap giliran."
 "specials.v2.statuseffect.minor.stackingicebound.neartotarget.enemies","Tumpukan (Maks: {MAXSTACK}): Sasaran dan musuh terdekat mengalami {DAMAGE} kerusakan Beku pada akhir setiap giliran."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies","Tumpukan (Maks: {MAXSTACK}): Semua sekutu mendapat generasi mana {MANAREGEN}%."
+"specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies.withbasestackcount","Tumpukan +{BASESTACKCOUNT} (Maks: {MAXSTACK}): Semua sekutu mendapat generasi mana {MANAREGEN}%."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies","Tumpukan (Maks: {MAXSTACK}): Semua musuh mendapat generasi mana {MANAREGEN}%."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies.effect_per_eaten_familiar.minion.follower","Tumpukan (Maks: {MAXSTACK}): Semua musuh mendapat generasi mana {MANAREGEN}%  per Antek yang hancur."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies.effect_per_kill.minion.follower","Tumpukan (Maks: {MAXSTACK}): Semua musuh mendapat generasi mana {MANAREGEN}% per musuh atau Antek musuh yang kalah."
@@ -2966,6 +2992,7 @@ Sasaran dan musuh terdekat menjadi Terhubung Jiwanya selama {TURNS} giliran. Mus
 "specials.v2.statuseffect.minor.stackingminionattackmodifier.all.allies","Tumpukan (Maks: {MAXSTACK}): Semua sekutu mendapat {ATTACK}% serangan untuk Anteknya."
 "specials.v2.statuseffect.minor.stackingminionmaxhealthmodifier.all.allies","Tumpukan (Maks: {MAXSTACK}): Semua sekutu mendapat {MAXHEALTH}% HP yang diwarisi untuk Antek baru yang dipanggilnya."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease","Tumpukan (Maks: {MAXSTACK}): Semua kerusakan yang diterima semua sekutu berkurang {DAMAGEMODIFIER}%"
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease.withbasestackcount","Tumpukan +{BASESTACKCOUNT} (Maks: {MAXSTACK}): Semua kerusakan yang diterima semua sekutu berkurang {DAMAGEMODIFIER}%"
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies","Tumpukan (Maks: {MAXSTACK}): Semua kerusakan yang diterima semua musuh bertambah {DAMAGEMODIFIER}%"
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies.withbasestackcount","Tumpukan +{BASESTACKCOUNT} (Maks: {MAXSTACK}): Semua kerusakan yang diterima semua musuh bertambah {DAMAGEMODIFIER}%."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.lessthanhalfhpleft.enemies","Tumpukan (Maks: {MAXSTACK}): Musuh dengan sisa kesehatan kurang dari 50% menerima kerusakan {DAMAGEMODIFIER}%."
@@ -2977,6 +3004,7 @@ Sasaran dan musuh terdekat menjadi Terhubung Jiwanya selama {TURNS} giliran. Mus
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.allies.decrease","Tumpukan (Maks: {MAXSTACK}): Semua kerusakan yang diterima perapal berkurang {DAMAGEMODIFIER}%."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies","Tumpukan (Maks: {MAXSTACK}): Semua kerusakan yang diterima sasaran bertambah {DAMAGEMODIFIER}%."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.chain_strike","Tumpukan (Maks: {MAXSTACK}): Setiap hantaman meningkatkan semua kerusakan yang diterima sasaran sebesar {DAMAGEMODIFIER}%"
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.withbasestackcount.chain_strike","Tumpukan +{BASESTACKCOUNT} (Maks: {MAXSTACK}): Setiap hantaman meningkatkan semua kerusakan yang diterima sasaran sebesar {DAMAGEMODIFIER}%"
 "specials.v2.statuseffect.minor.statuseffectgeneratorstatuseffectskill.allexceptcaster.allies.on.ownturnstart.basic_attack_bluecat.mana_regen_bluecat.dispelincreasesactivations","Sumber Genjotan: Efek berikut dirapal ke satu sekutu acak kecuali perapal di awal tiap giliran:
 {STATUSEFFECT1ATTACK}% serangan selama {STATUSEFFECT1TURNS} giliran.
 {STATUSEFFECT2MANAREGEN}% generasi mana selama {STATUSEFFECT2TURNS} giliran. 
@@ -3072,6 +3100,7 @@ Setiap kelitan memberi semua sekutu {MANAREGEN}% generasi mana selama {TURNS} gi
 "specials.v2.statuseffect.minor.toxin.single.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","Sasaran mengalami {DAMAGE} kerusakan Racun selama {TURNS} giliran. 
  Kerusakan bertambah melawan sasaran dengan peningkatan kesehatan, Antek, atau satu Antek Mega."
 "specials.v2.statuseffect.minor.transcendentalframe.single.allies","Perapal berubah wujud menjadi Hantu selama {TURNS} giliran."
+"specials.v2.statuseffect.minor.transcendentalframe.single.allies.dispelincreasesactivations","Perapal berubah wujud menjadi Hantu selama {TURNS} giliran. Efek ini Bandel."
 "specials.v2.statuseffect.minor.underwater.all.enemies","Semua musuh mengalami {DAMAGE} kerusakan Air selama {TURNS} giliran."
 "specials.v2.statuseffect.minor.underwater.all.enemies.absorb_healing.to.single","Semua musuh mengalami {DAMAGE} kerusakan Air selama {TURNS} giliran. Perapal menyerap {ABSORBHEALING}% dari kerusakan Air yang ditimbulkan sebagai kesehatan."
 "specials.v2.statuseffect.minor.underwater.neartotarget.enemies","Sasaran dan musuh terdekat mengalami {DAMAGE} kerusakan Air selama {TURNS} giliran."

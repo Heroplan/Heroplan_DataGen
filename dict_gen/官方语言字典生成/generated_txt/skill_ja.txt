@@ -1884,6 +1884,14 @@ HPがブーストされた場合は、さらに{REDUCTION}減少する。"
 活力の幸運のダンス
 {STATUSEFFECTS}
 幸運のダンス は、他のダンス効果と累積する。"
+"specials.v2.statuseffect.minor.abyss.sides.enemies.dispelincreasesactivations","{TURNS}ターンの間、敵陣形の端にいる敵が奈落の底ゴースト形態になる。
+ターゲットが奈落の底ゴースト形態でいる間はターン毎に{DAMAGEPERTURN}ダメージを受ける。この効果は強固だ。"
+"specials.v2.statuseffect.minor.abyss.single.enemies.dispelincreasesactivations","{TURNS}ターンの間、ターゲットが奈落の底ゴースト形態になる。この効果は強固だ。
+ターゲットが奈落の底ゴースト形態でいる間はターン毎に{DAMAGEPERTURN}ダメージを受ける。"
+"specials.v2.statuseffect.minor.abyss.single.enemies.onremoval.damage.all.allies.expiration.add_insanity_emilie.dispelincreasesactivations","{TURNS}ターンの間、ターゲットが奈落の底ゴースト形態になる。この効果は強固だ。
+ターゲットが奈落の底ゴースト形態でいる間はターン毎に{DAMAGEPERTURN}ダメージを受ける。
+奈落の底ゴースト形態が失効した場合：
+味方全員に{FIXEDPOWER}ダメージを与え、狂気を{STATUSEFFECT1INSANITYTOADD}付与する。"
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies","{TURNS}ターンの間、敵全員の命中率が{ACCURACY}%になる。"
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies.dispelincreasesactivations","{TURNS}ターンの間、敵全員の命中率が{ACCURACY}%になる。この効果は強固だ。"
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies.resetonheal","{TURNS}ターンの間、敵全員の命中率が{ACCURACY}%になる。ターゲットがHPを回復すると効果の持続時間がリセットされる。"
@@ -2296,6 +2304,12 @@ HPがブーストされた場合は、さらに{REDUCTION}減少する。"
 貪りのスライム：解除可能なすべてのバフと成長効果を消去する。また、ターン毎に{BASEDAMAGEPERTURN}ダメージを与え、さらに消去された効果1つごとに{DAMAGEPERTURNPEREFFECT}ダメージを与える。"
 "specials.v2.statuseffect.minor.devouringgoo.single.enemies.effects.minorbuff.positivebasestatmodifier","{TURNS}ターンの間、ターゲットとなった敵にステータス異常「貪りのスライム」を付与する。
 貪りのスライム：解除可能なすべてのバフと成長効果を消去する。また、ターン毎に{BASEDAMAGEPERTURN}ダメージを与え、さらに消去された効果1つごとに{DAMAGEPERTURNPEREFFECT}ダメージを与える。"
+"specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.add_insanity_salvatore.dispelincreasesactivations","{TURNS}ターンの間、術者が錯乱のダイアーゴースト形態になる。この効果は強固だ。
+錯乱のダイアーゴースト形態でいる間、術者は、ターン毎にランダムな敵1体に{POWER1}%のダメージを与え、{STATUSEFFECT1INSANITYTOADD}狂気を付与する。
+錯乱のダイアーゴースト形態でいる間、術者は、自分より優位な属性の敵からダメージを受ける。"
+"specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.dispelincreasesactivations","{TURNS}ターンの間、術者と近くにいる仲間が錯乱のダイアーゴースト形態になる。この効果は強固だ。
+錯乱のダイアーゴースト形態でいる間、術者はターン毎にランダムな敵1体に{POWER1}%のダメージを与える。
+錯乱のダイアーゴースト形態でいる間、術者は自分より優位な属性の敵からダメージを受ける。"
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff","{TURNS}ターンの間、各ターン終了時に仲間全員のステータス異常を浄化する。"
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.bypassremoveeffects","{TURNS}ターンの間、各ターン終了時に仲間全員のステータス異常を安全に浄化する。"
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.customremovalcount","{TURNS}ターンの間、各ターン終了時に仲間全員のステータス異常を1つ浄化する。"
@@ -2377,6 +2391,8 @@ HPがブーストされた場合は、さらに{REDUCTION}減少する。"
 "specials.v2.statuseffect.minor.elementswapovertime.allexceptcaster.allies","{TURNS}ターンの間、術者以外の仲間全員がエレメントフラックスを付与される。これによりターン毎に属性がランダムに変化する。"
 "specials.v2.statuseffect.minor.elementswapovertime.damage_to_green.all.enemies","{TURNS}ターンの間、敵全員がエレメントフラックスを付与される。これによりターン毎に属性がランダムに変化し、その属性が自然属性になると{DAMAGEPERTURN}ダメージを与える。"
 "specials.v2.statuseffect.minor.elementswapovertime.damage_to_yellow.all.enemies","{TURNS}ターンの間、敵全員がエレメントフラックスを付与される。これによりターン毎に属性がランダムに変化し、その属性が聖属性になると{DAMAGEPERTURN}ダメージを与える。"
+"specials.v2.statuseffect.minor.ethereal.single.allies.dispelincreasesactivations","{TURNS}ターンの間、術者がゴースト形態になる。
+ゴースト形態でいる間、術者の攻撃力が{ATTACK}%になる。この効果は強固だ。"
 "specials.v2.statuseffect.minor.explodingberserk.single.allies","術者の攻撃力が{ATTACK}%になる。{TURNS}ターンの間、術者または仲間が攻撃を受けるたびに、術者の攻撃力はさらに{CHANGE}%ずつ増加する（最大{MAXMODIFIER}%まで）。この効果終了時に、敵全員が{DAMAGE}ダメージを受ける。この効果が有効な間は、術者または仲間が攻撃されるたびに、敵に与えるダメージが{MAXDAMAGE}を上限に{ADDITIONALDAMAGEPERHIT}ずつ増加する。"
 "specials.v2.statuseffect.minor.extradamageagainstboostedhealth.all.allies.troop.npcnormalattack.specialskill.statuseffectskill","{TURNS}ターンの間、仲間全員が通常攻撃と特殊攻撃によって、ライフがブーストされたターゲットに与えるダメージが{DAMAGEMULTIPLIER}%になる。"
 "specials.v2.statuseffect.minor.fearstatuseffectskill.all.enemies.on.allyspecial.damage.random.allies","敵全員が{TURNS}ターンの間、恐怖に屈する。"
@@ -2450,6 +2466,14 @@ HPがブーストされた場合は、さらに{REDUCTION}減少する。"
 "specials.v2.statuseffect.minor.frost.single.enemies.contagious","{TURNS}ターンの間、ターゲットに{DAMAGE}のフロストダメージを与える。この効果は近くにいる敵にも波及する。"
 "specials.v2.statuseffect.minor.frost.single.enemies.contagious.noturns","毎ターン、ターゲットに{DAMAGE}の継続フロストダメージを与える。この効果は近くにいる敵にも波及する。"
 "specials.v2.statuseffect.minor.gamble.all.allies","{TURNS}ターンの間、仲間全員の攻撃力が{ATTACK}%に、命中率が{ACCURACY}%になる。"
+"specials.v2.statuseffect.minor.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies.dispelincreasesactivations","{TURNS}ターンの間、術者がゴースト形態になる。この効果は強固だ。
+ゴースト形態が終了すると：
+{REMOVALEFFECT1STATUSEFFECT1TURNS}ターンの間、味方全員のクリティカル攻撃成功率が{REMOVALEFFECT1STATUSEFFECT1CRIT}%になる。この効果は解除できない。"
+"specials.v2.statuseffect.minor.ghost.single.allies.onremoval.revival.randomdead.allies.expiration.hp_recovery_sable.all.allies.dispel_ailments.all.allies.dispelincreasesactivations","{TURNS}ターンの間、術者がゴースト形態に変化する。この効果は強固だ。
+ゴースト形態終了時：
+術者がランダムな仲間1人をライフ{REMOVALEFFECT1POWER}%の状態で蘇生させる。
+{REMOVALEFFECT1STATUSEFFECT1TURNS}ターンの間に、仲間全員が合計{REMOVALEFFECT1STATUSEFFECT1TOTAL}のライフを獲得する。
+ {REMOVALEFFECT1STATUSEFFECT2TURNS}ターンの間、各ターンの終了時に仲間全員のステータス異常を浄化する。"
 "specials.v2.statuseffect.minor.giftbomb.single.enemies.neartotargetminor.allies.death.expiration","ターゲットにギフト爆弾を与える。{TURNS}ターン後に、ギフト爆弾は爆発し、ターゲットに{DAMAGE}ダメージを与え、近くにいる敵に{MINORDAMAGE}ダメージを与える。ギフト爆弾は、ターゲットが倒れた場合にも爆発する。"
 "specials.v2.statuseffect.minor.giftbomb.single.enemies.onremoval.damage.neartotarget.allies.death.expiration","ターゲットにギフト爆弾を与える。{TURNS}ターン後に、ギフト爆弾は爆発し、ターゲットと近くにいる敵に{DAMAGE}ダメージを与える。ギフト爆弾は、ターゲットが倒れた場合にも爆発する。"
 "specials.v2.statuseffect.minor.grapple.single.enemies","ターゲットを掴む。掴まれている間、{TURNS}ターンにわたってターゲットの通常攻撃が1に減少し、{DAMAGE}ダメージを受ける。"
@@ -2939,6 +2963,7 @@ HPがブーストされた場合は、さらに{REDUCTION}減少する。"
 "specials.v2.statuseffect.minor.stackingattackmodifier.all.allies.effect_per_eaten_familiar.parasite.bigparasite","累積効果（最大：{MAXSTACK}）：フィエンドが倒されるたびに、仲間全員の攻撃力が{ATTACK}%上昇する。"
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies","累積効果(最大：{MAXSTACK}):術者の攻撃力が{ATTACK}%になる。"
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.effect_per_eaten_familiar.minion.follower.bigminion","累積効果（最大：{MAXSTACK}）：ミニオンが倒されるたびに、術者の攻撃力が{ATTACK}%上昇する。"
+"specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.withbasestackcount","累積効果+{BASESTACKCOUNT}(最大：{MAXSTACK}):術者の攻撃力が{ATTACK}%になる。"
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.enemies.chain_strike","累積効果(最大：{MAXSTACK})：攻撃を受けるたびに、ターゲットの攻撃力が{ATTACK}%になる。"
 "specials.v2.statuseffect.minor.stackingattackmodifieragainstweakerelement.single.allies","累積効果(最大：{MAXSTACK}):劣勢の属性の敵に対する術者の攻撃力が{ATTACK}%になる。"
 "specials.v2.statuseffect.minor.stackingcritmodifier.all.allies","累積効果（最大：{MAXSTACK}）：仲間全員が{CRIT}%のクリティカル確率を得る。"
@@ -2958,6 +2983,7 @@ HPがブーストされた場合は、さらに{REDUCTION}減少する。"
 "specials.v2.statuseffect.minor.stackingicebound.all.enemies.effect_per_kill.minion.follower","累積効果(最大：{MAXSTACK}):毎ターンの最後に、倒した敵または敵ミニオンの数に応じて、{DAMAGE}のフロストダメージを敵全員に与える。"
 "specials.v2.statuseffect.minor.stackingicebound.neartotarget.enemies","累積効果（最大：{MAXSTACK}）：毎ターンの最後に、ターゲットと近くにいる敵に{DAMAGE}のフロストダメージを与える。"
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies","累積効果(最大：{MAXSTACK})：仲間全員のマナ生成が{MANAREGEN}%になる。"
+"specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies.withbasestackcount","累積効果+{BASESTACKCOUNT}(最大：{MAXSTACK})：仲間全員のマナ生成が{MANAREGEN}%になる。"
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies","累積効果(最大：{MAXSTACK})：敵全員のマナ生成が{MANAREGEN}%になる。"
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies.effect_per_eaten_familiar.minion.follower","累積効果(最大：{MAXSTACK}):倒したミニオンの数に応じて、敵全員のマナ生成が{MANAREGEN}%になる。"
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies.effect_per_kill.minion.follower","累積効果(最大：{MAXSTACK}):倒した敵またはミニオンの数に応じて、敵全員のマナ生成が{MANAREGEN}%になる。"
@@ -2966,6 +2992,7 @@ HPがブーストされた場合は、さらに{REDUCTION}減少する。"
 "specials.v2.statuseffect.minor.stackingminionattackmodifier.all.allies","累積効果（最大：{MAXSTACK}）：ミニオンを保有する仲間全員の攻撃力が{ATTACK}%増加する。"
 "specials.v2.statuseffect.minor.stackingminionmaxhealthmodifier.all.allies","累積効果（最大：{MAXSTACK}): 仲間全員が新たにを召喚することで{MAXHEALTH}%のHPを得る。"
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease","累積効果（最大：{MAXSTACK}）：仲間全員が受けるすべてのダメージが{DAMAGEMODIFIER}%減少する。"
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease.withbasestackcount","累積効果+{BASESTACKCOUNT}（最大：{MAXSTACK}）：仲間全員が受けるすべてのダメージが{DAMAGEMODIFIER}%減少する。"
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies","累積効果（最大：{MAXSTACK}）：敵全員が受けるすべてのダメージが{DAMAGEMODIFIER}%増加する。"
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies.withbasestackcount","累積効果+{BASESTACKCOUNT}（最大：{MAXSTACK}）：敵全員が受けるすべてのダメージが{DAMAGEMODIFIER}%増加する。"
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.lessthanhalfhpleft.enemies","累積効果（最大：{MAXSTACK}）:残りHPが50%未満の敵が{DAMAGEMODIFIER}%のダメージを受ける。"
@@ -2977,6 +3004,7 @@ HPがブーストされた場合は、さらに{REDUCTION}減少する。"
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.allies.decrease","累積効果（最大：{MAXSTACK}）：術者が受けるすべてのダメージが{DAMAGEMODIFIER}%減少する。"
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies","累積効果（最大：{MAXSTACK}）:ターゲットが受けるすべてのダメージが{DAMAGEMODIFIER}%増加する。"
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.chain_strike","累積効果（最大：{MAXSTACK}）:攻撃が当たるごとに、ターゲットが受けるすべてのダメージが{DAMAGEMODIFIER}%増加する。"
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.withbasestackcount.chain_strike","累積効果+{BASESTACKCOUNT}（最大：{MAXSTACK}）:攻撃が当たるごとに、ターゲットが受けるすべてのダメージが{DAMAGEMODIFIER}%増加する。"
 "specials.v2.statuseffect.minor.statuseffectgeneratorstatuseffectskill.allexceptcaster.allies.on.ownturnstart.basic_attack_bluecat.mana_regen_bluecat.dispelincreasesactivations","バフの源：各ターン開始時に、術者を除くいずれかの仲間1体に次の効果を付与する：
 {STATUSEFFECT1TURNS}ターンの間、攻撃力が{STATUSEFFECT1ATTACK}%になる。
 {STATUSEFFECT2TURNS}ターンの間、マナ生成が{STATUSEFFECT2MANAREGEN}%になる。
@@ -3073,6 +3101,7 @@ HPがブーストされたターゲットやミニオンまたはメガミニオ
 "specials.v2.statuseffect.minor.toxin.single.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","ターゲットが{TURNS}ターンにわたって{DAMAGE}の猛毒ダメージを受ける。
 HPがブーストされたターゲットやミニオンまたはメガミニオンを所有するターゲットには追加ダメージを付与する。"
 "specials.v2.statuseffect.minor.transcendentalframe.single.allies","{TURNS}ターンの間、術者がゴースト形態になる。"
+"specials.v2.statuseffect.minor.transcendentalframe.single.allies.dispelincreasesactivations","{TURNS}ターンの間、術者がゴースト形態になる。この効果は強固だ。"
 "specials.v2.statuseffect.minor.underwater.all.enemies","{TURNS}ターンの間、敵全員に{DAMAGE}の水ダメージを与える。"
 "specials.v2.statuseffect.minor.underwater.all.enemies.absorb_healing.to.single","{TURNS}ターンの間、敵全員に{DAMAGE}の水ダメージを与える。術者は、与えた水ダメージの{ABSORBHEALING}%を回復として吸収する。"
 "specials.v2.statuseffect.minor.underwater.neartotarget.enemies","{TURNS}ターンの間、ターゲットと近くにいる敵に{DAMAGE}の水ダメージを与える。"

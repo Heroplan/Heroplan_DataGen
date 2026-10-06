@@ -1881,6 +1881,14 @@
 Яркий танец удачи
 {STATUSEFFECTS}
 Танцы удачи складываются с другими эффектами танца."
+"specials.v2.statuseffect.minor.abyss.sides.enemies.dispelincreasesactivations","Враги по краям вражеского построения превращаются в призраков бездны на {TURNS} х.
+ В форме призрака бездны цели получают по {DAMAGEPERTURN} ед. урона каждый ход. Эффект стойкий."
+"specials.v2.statuseffect.minor.abyss.single.enemies.dispelincreasesactivations","Цель превращается в призрака бездны на {TURNS} х. Эффект стойкий.
+ В этой форме цель получает {DAMAGEPERTURN} урона каждый ход."
+"specials.v2.statuseffect.minor.abyss.single.enemies.onremoval.damage.all.allies.expiration.add_insanity_emilie.dispelincreasesactivations","Цель превращается в призрака бездны на {TURNS} х. 
+ В этой форме цель получает {DAMAGEPERTURN} урона каждый ход. Эффект стойкий.
+ Когда персонаж перестает быть призраком бездны:
+ наносит {FIXEDPOWER} урона и вызывает {STATUSEFFECT1INSANITYTOADD} ед. безумия всем союзникам."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies","Все враги получают {ACCURACY} % меткости на {TURNS} х."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies.dispelincreasesactivations","Все враги получают {ACCURACY} % меткости на {TURNS} х. Эффект стойкий."
 "specials.v2.statuseffect.minor.accuracymodifier.all.enemies.resetonheal","Все враги получают {ACCURACY} % к меткости на {TURNS} х. Длительность эффекта восстанавливается, если цель исцелилась."
@@ -2295,6 +2303,12 @@
 Голодная слизь: снимает все снимаемые усиления и эффекты роста, нанося цели {BASEDAMAGEPERTURN} урона каждый ход и {DAMAGEPERTURNPEREFFECT} урона за каждый снятый эффект."
 "specials.v2.statuseffect.minor.devouringgoo.single.enemies.effects.minorbuff.positivebasestatmodifier","Цель получает недуг ""Голодная слизь"" на {TURNS} х.
 Голодная слизь: снимает все снимаемые усиления и эффекты роста, нанося цели {BASEDAMAGEPERTURN} урона каждый ход и {DAMAGEPERTURNPEREFFECT} урона за каждый снятый эффект."
+"specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.add_insanity_salvatore.dispelincreasesactivations","Герой превращается в безумного ужасного призрака на {TURNS} х. Эффект стойкий.
+ В этой форме герой автоматически наносит {POWER1} % урона и накладывает {STATUSEFFECT1INSANITYTOADD} ед. безумия на случайного врага каждый ход.
+ В этой форме герой может получить урон от врагов более сильной стихии."
+"specials.v2.statuseffect.minor.direghoststatuseffectskill.single.allies.on.turnend.damage.random.enemies.dispelincreasesactivations","Герой превращается в ужасного призрака на {TURNS} х. Эффект стойкий.
+ В этой форме герой автоматически наносит {POWER1} % урона случайному врагу при каждом ходе.
+ В этой форме герой может получить урон от врагов более сильной стихии."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff","Снимает недуги со всех союзников в конце хода на {TURNS} х."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.bypassremoveeffects","Безопасно снимает недуги со всех союзников в конце хода на {TURNS} х."
 "specials.v2.statuseffect.minor.dispel.all.allies.minordebuff.customremovalcount","Снимает 1 недуг со всех союзников в конце хода на {TURNS} х."
@@ -2376,6 +2390,8 @@
 "specials.v2.statuseffect.minor.elementswapovertime.allexceptcaster.allies","Все союзники, кроме героя, получают приток стихии в течение {TURNS} х. Стихия меняется случайным образом каждый ход."
 "specials.v2.statuseffect.minor.elementswapovertime.damage_to_green.all.enemies","Все враги получают приток стихии в течение {TURNS} х. Их стихия меняется случайным образом каждый ход. Когда она сменяется на природу, то наносит {DAMAGEPERTURN} ед. урона."
 "specials.v2.statuseffect.minor.elementswapovertime.damage_to_yellow.all.enemies","Все враги получают приток стихии в течение {TURNS} х. Их стихия меняется случайным образом каждый ход. Когда она сменяется на святыню, враги наносят {DAMAGEPERTURN} ед. урона."
+"specials.v2.statuseffect.minor.ethereal.single.allies.dispelincreasesactivations","Герой превращается в призрака на {TURNS} х.
+ В этой форме герой получает {ATTACK} % атаки. Эффект стойкий."
 "specials.v2.statuseffect.minor.explodingberserk.single.allies","Герой получает {ATTACK} % к атаке, а также {CHANGE} % при каждом ударе противника по нему или его союзникам на протяжении {TURNS} х., вплоть до {MAXMODIFIER} %. Когда действие эффекта заканчивается, все враги получают {DAMAGE} урона. Каждый удар по герою или его союзникам увеличивает урон на {ADDITIONALDAMAGEPERHIT} (максимум до {MAXDAMAGE})."
 "specials.v2.statuseffect.minor.extradamageagainstboostedhealth.all.allies.troop.npcnormalattack.specialskill.statuseffectskill","Обычные атаки всех союзников и особые навыки наносят {DAMAGEMULTIPLIER} % урона целям с увеличенным здоровьем в течение {TURNS} ходов."
 "specials.v2.statuseffect.minor.fearstatuseffectskill.all.enemies.on.allyspecial.damage.random.allies","Всех врагов поглощает страх на {TURNS} х."
@@ -2449,6 +2465,14 @@
 "specials.v2.statuseffect.minor.frost.single.enemies.contagious","Цель получает {DAMAGE} урона от мороза в течение {TURNS} х. Эффект распространяется на ближайших врагов."
 "specials.v2.statuseffect.minor.frost.single.enemies.contagious.noturns","Цель получает длительный урон от мороза в размере {DAMAGE} каждый ход. Эффект распространяется на ближайших врагов."
 "specials.v2.statuseffect.minor.gamble.all.allies","Все союзники получают {ATTACK} % атаки с {ACCURACY} % меткостью на {TURNS} х."
+"specials.v2.statuseffect.minor.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies.dispelincreasesactivations","Герой переходит в форму призрака на {TURNS} х. Эффект стойкий.
+ Когда форма призрака заканчивается:
+ Все союзники получают {REMOVALEFFECT1STATUSEFFECT1CRIT} % вероятности критического удара на {REMOVALEFFECT1STATUSEFFECT1TURNS} х. Этот эффект нельзя снять."
+"specials.v2.statuseffect.minor.ghost.single.allies.onremoval.revival.randomdead.allies.expiration.hp_recovery_sable.all.allies.dispel_ailments.all.allies.dispelincreasesactivations","Герой переходит в форму призрака на {TURNS} х. Эффект стойкий.
+ Когда форма призрака заканчивается:
+ Герой воскрешает случайного союзника с {REMOVALEFFECT1POWER} % ОЗ. 
+ Все союзники восстанавливают в общей сложности {REMOVALEFFECT1STATUSEFFECT1TOTAL} здоровья в течение {REMOVALEFFECT1STATUSEFFECT1TURNS} х.
+Снимает недуги со всех союзников в конце хода в течение {REMOVALEFFECT1STATUSEFFECT2TURNS} х."
 "specials.v2.statuseffect.minor.giftbomb.single.enemies.neartotargetminor.allies.death.expiration","Цель получает подарочную бомбу. Через {TURNS} х. подарочная бомба взрывается и наносит {DAMAGE} урона цели и {MINORDAMAGE} урона ближайшим врагам. Подарочная бомба также взрывается, если цель побеждена."
 "specials.v2.statuseffect.minor.giftbomb.single.enemies.onremoval.damage.neartotarget.allies.death.expiration","Цель получает подарочную бомбу. Через {TURNS} х. подарочная бомба взрывается и наносит {DAMAGE} урона цели и ближайшим врагам. Подарочная бомба также взрывается, если цель побеждена."
 "specials.v2.statuseffect.minor.grapple.single.enemies","Схватывает цель. Пока цель схвачена, ее обычная атака снижается до 1, и цель получает {DAMAGE} урона в течение {TURNS} х."
@@ -2937,6 +2961,7 @@
 "specials.v2.statuseffect.minor.stackingattackmodifier.all.allies.effect_per_eaten_familiar.parasite.bigparasite","Складывается (до {MAXSTACK}): все герои получают дополнительно {ATTACK} % атаки за каждого уничтоженного паразита."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies","Складывается (до {MAXSTACK}): Использующий навык герой получает {ATTACK} % атаки."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.effect_per_eaten_familiar.minion.follower.bigminion","Складывается (до {MAXSTACK}) : герой получает дополнительно {ATTACK} % атаки за каждого уничтоженного прислужника."
+"specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.withbasestackcount","Складывается +{BASESTACKCOUNT} (до {MAXSTACK}): Использующий навык герой получает {ATTACK} % атаки."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.enemies.chain_strike","Складывается (до {MAXSTACK}): Каждый удар дает цели {ATTACK} % атаки."
 "specials.v2.statuseffect.minor.stackingattackmodifieragainstweakerelement.single.allies","Складывается (до {MAXSTACK} р.): Использующий навык герой получает {ATTACK} % атаки против более слабой стихии."
 "specials.v2.statuseffect.minor.stackingcritmodifier.all.allies","Накопление (макс.: {MAXSTACK}): все союзники получают {CRIT} % к вероятности критического удара."
@@ -2956,6 +2981,7 @@
 "specials.v2.statuseffect.minor.stackingicebound.all.enemies.effect_per_kill.minion.follower","Складывается (до {MAXSTACK}): Все враги в конце хода получают {DAMAGE} ед. морозного урона за каждого побежденного врага или вражеского прислужника."
 "specials.v2.statuseffect.minor.stackingicebound.neartotarget.enemies","Складывается (до {MAXSTACK}): цель и враги поблизости в конце хода получают {DAMAGE} ед. морозного урона."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies","Складывается (до {MAXSTACK}): Все союзники получают {MANAREGEN} % генерации маны."
+"specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.allies.withbasestackcount","Складывается +{BASESTACKCOUNT} (до {MAXSTACK}): Все союзники получают {MANAREGEN} % генерации маны."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies","Складывается (до {MAXSTACK}): все враги получают {MANAREGEN} % генерации маны."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies.effect_per_eaten_familiar.minion.follower","Складывается (до {MAXSTACK}): все враги получают {MANAREGEN} % генерации маны за каждого уничтоженного прислужника."
 "specials.v2.statuseffect.minor.stackingmanagenerationmodifier.all.enemies.effect_per_kill.minion.follower","Складывается (до {MAXSTACK}): Все враги в конце хода получают {MANAREGEN} % генерации маны за каждого побежденного врага или вражеского прислужника."
@@ -2964,6 +2990,7 @@
 "specials.v2.statuseffect.minor.stackingminionattackmodifier.all.allies","Складывается (до {MAXSTACK}): Все союзники получают {ATTACK} % к атаке за прислужников."
 "specials.v2.statuseffect.minor.stackingminionmaxhealthmodifier.all.allies","Складывается (до {MAXSTACK}): Все союзники получают {MAXHEALTH} % ОЗ за новых призванных прислужников."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease","Складывается (до {MAXSTACK}): весь урон, получаемый всеми сюзниками, уменьшается на {DAMAGEMODIFIER} %."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease.withbasestackcount","Складывается +{BASESTACKCOUNT} (до {MAXSTACK}): весь урон, получаемый всеми союзниками, уменьшается на {DAMAGEMODIFIER} %."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies","Складывается (до {MAXSTACK}): весь урон, получаемый всеми врагами, увеличивается на {DAMAGEMODIFIER} %."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies.withbasestackcount","Заряды +{BASESTACKCOUNT} (до {MAXSTACK}): весь урон, получаемый всеми врагами, увеличивается на {DAMAGEMODIFIER} %."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.lessthanhalfhpleft.enemies","Складывается до {MAXSTACK}: враги, у которых осталось меньше 50 % здоровья, получают {DAMAGEMODIFIER} % урона."
@@ -2975,6 +3002,7 @@
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.allies.decrease","Складывается (до {MAXSTACK}): весь урон, получаемый героем, уменьшается на {DAMAGEMODIFIER} %."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies","Складывается (до {MAXSTACK}): весь урон, получаемый целью, увеличивается на {DAMAGEMODIFIER} %."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.chain_strike","Складывается (до {MAXSTACK}): каждый удар увеличивает получаемый целью урон на {DAMAGEMODIFIER} %"
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies.withbasestackcount.chain_strike","Складывается +{BASESTACKCOUNT} (до {MAXSTACK}): каждый удар увеличивает получаемый целью урон на {DAMAGEMODIFIER} %"
 "specials.v2.statuseffect.minor.statuseffectgeneratorstatuseffectskill.allexceptcaster.allies.on.ownturnstart.basic_attack_bluecat.mana_regen_bluecat.dispelincreasesactivations","Источник усилений: в начале каждого хода на случайного союзника, кроме самого героя, налагаются следующие эффекты:
 {STATUSEFFECT1ATTACK} % атаки на {STATUSEFFECT1TURNS} х.
 {STATUSEFFECT2MANAREGEN} % генерации маны на {STATUSEFFECT2TURNS} х.
@@ -3044,7 +3072,7 @@
 "specials.v2.statuseffect.minor.statuseffectondodgedspecial.all.allies.stacking_defense","Все союзники с вероятностью {DODGE} % уклоняются от особого навыка в течение {TURNS} х. Каждое уклонение приносит {DEFENSE} % защиты. Накапливается (макс.: {MAXSTACK})."
 "specials.v2.statuseffect.minor.statuseffectondodgedspecial.all.allies.stacking_defense_bastet_costume","Все союзники с вероятностью {DODGE} % уклоняются от особого навыка в течение {TURNS} х. Каждое уклонение приносит {DEFENSE} % защиты (вплоть до макс.: {MAXSTACK})."
 "specials.v2.statuseffect.minor.statuseffectondodgedspecial.allexceptcaster.allies.stacking_attack_amelia","Все союзники, кроме героя, с вероятностью {DODGE} % уклоняются от особых навыков в течение {TURNS} х. Каждое уклонение приносит {ATTACK} % атаки. Накапливается (макс.: {MAXSTACK})."
-"specials.v2.statuseffect.minor.statuseffectondodgedspecial.allexceptcaster.allies.stacking_attack_amelia_mayhem","Все союзники, кроме героя, с вероятностью {DODGE} % уклоняются от особых навыков в течение {TURNS} х. Каждое уклонение приносит {ATTACK} % атаки. Накапливается (макс.: {MAXSTACK})."
+"specials.v2.statuseffect.minor.statuseffectondodgedspecial.allexceptcaster.allies.stacking_attack_amelia_mayhem","Все союзники, кроме героя, с вероятностью {DODGE} % уклоняются от особых навыков в течение {TURNS} х. Каждое уклонение приносит {ATTACK} % атаки. Накапливается (макс.: {MAXSTACK})."
 "specials.v2.statuseffect.minor.statuseffectondodgedspecial.neartotarget.allies.stacking_defense","Герой и союзники поблизости с вероятностью {DODGE} % уклоняются от особого навыка в течение {TURNS} х. Каждое уклонение приносит {DEFENSE} % защиты. Накапливается (макс.: {MAXSTACK})."
 "specials.v2.statuseffect.minor.statuseffectondodgedspecial.neartotarget.allies.stacking_defense_aqeela_costume","Герой и союзники поблизости с вероятностью {DODGE} % уклоняются от особого навыка в течение {TURNS} х. Каждое уклонение приносит {DEFENSE} % защиты. Накапливается (макс.: {MAXSTACK})."
 "specials.v2.statuseffect.minor.statuseffectondodgedspecial.single.allies.stacking_defense","Герой с вероятностью {DODGE} % уклоняется от особого навыка в течение {TURNS} х. Каждое уклонение приносит {DEFENSE} % защиты. Накапливается (макс.: {MAXSTACK})."
@@ -3067,6 +3095,7 @@
 "specials.v2.statuseffect.minor.toxin.sides.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","Враги по краям вражеского построения получают {DAMAGE} урона от токсина в течение {TURNS} х. Цели с увеличенным здоровьем, прислужниками или мегаприслужником получают дополнительный урон."
 "specials.v2.statuseffect.minor.toxin.single.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","Цель получает {DAMAGE} урона от  токсина в течение {TURNS}х. Цели с увеличенным здоровьем, прислужниками и мегаприслужниками получают дополнительный урон."
 "specials.v2.statuseffect.minor.transcendentalframe.single.allies","Герой превращается в призрака на {TURNS} х."
+"specials.v2.statuseffect.minor.transcendentalframe.single.allies.dispelincreasesactivations","Герой превращается в призрака на {TURNS} х. Эффект стойкий."
 "specials.v2.statuseffect.minor.underwater.all.enemies","Все враги получают {DAMAGE} ед. урона от воды в течение {TURNS} ходов(а)."
 "specials.v2.statuseffect.minor.underwater.all.enemies.absorb_healing.to.single","Все враги получают {DAMAGE} ед. урона водой в течение {TURNS} х. Герой поглощает {ABSORBHEALING} % нанесенного водой урона в виде здоровья."
 "specials.v2.statuseffect.minor.underwater.neartotarget.enemies","Цель и ближайшие враги получают урон водой {DAMAGE} в течение {TURNS} ходов(а)."

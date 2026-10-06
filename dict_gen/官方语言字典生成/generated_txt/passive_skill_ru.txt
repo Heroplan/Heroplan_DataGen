@@ -278,17 +278,35 @@
 
  В боях с несколькими волнами эффект обновляется в начале каждой волны."
 "herocard.passive_skill.description.redirectlethaldamage.enemies.single.battle","Когда герой впервые получает смертельный урон, вместо этого он перенаправляет {REDIRECTDAMAGEMULTIPLIER} % от этого урона на случайного врага. (Осталось активаций: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled","Когда герой впервые получает смертельный урон, вместо этого он перенаправляет {REDIRECTDAMAGEMULTIPLIER} % от этого урона на атакующего.
+
+Не активируется, если персонаж является единственным членом команды в бою.
+
+В боях с несколькими волнами эффект обновляется в начале каждой волны."
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.updates_enabled.battle","Когда герой впервые получает смертельный урон, вместо этого он перенаправляет {REDIRECTDAMAGEMULTIPLIER} % от этого урона на атакующего. (Осталось активаций: {ACTIVATIONSLEFT})
+Не активируется, если персонаж является единственным членом команды в бою."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single","Когда персонаж впервые получает смертельный урон, вместо этого он перенаправляет этот урон на случайного врага.
 
  В боях с несколькими волнами эффект обновляется в начале каждой волны."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.battle","Когда персонаж впервые получает смертельный урон, вместо этого он перенаправляет этот урон на случайного врага. (Осталось активаций: {ACTIVATIONSLEFT})"
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Когда герой впервые получает смертельный урон от обычных атак или особых навыков, вместо этого он перенаправляет до {REDIRECTDAMAGELIMIT} ед. от этого урона на атакующего. (Осталось активаций: {ACTIVATIONSLEFT})"
-"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","Когда герой впервые получает смертельный урон от обычных атак или особых навыков, вместо этого он перенаправляет до {REDIRECTDAMAGELIMIT} ед. от этого урона на атакующего. (Осталось активаций: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Когда герой впервые получает смертельный урон от обычных атак или особых навыков, вместо этого он перенаправляет до {REDIRECTDAMAGELIMIT} ед. от этого урона случайному врагу."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.battle","Когда герой впервые получает смертельный урон от обычных атак или особых навыков, вместо этого он перенаправляет до {REDIRECTDAMAGELIMIT} ед. от этого урона случайному врагу. (Осталось активаций: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled","Когда герой впервые получает смертельный урон от обычных атак или особых навыков, вместо этого он перенаправляет до {REDIRECTDAMAGELIMIT} ед. от этого урона атакующему.
+Не активируется, если персонаж является единственным членом команды в бою."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit.updates_enabled.battle","Когда герой впервые получает смертельный урон от обычных атак или особых навыков, вместо этого он перенаправляет до {REDIRECTDAMAGELIMIT} ед. от этого урона атакующему. (Осталось активаций: {ACTIVATIONSLEFT})
+Не активируется, если персонаж является единственным членом команды в бою."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","Когда герой впервые получает смертельный урон от обычных атак или особых навыков, вместо этого он перенаправляет до {REDIRECTDAMAGELIMIT} ед. от этого урона на атакующего.
 
  В боях с несколькими волнами эффект обновляется в начале каждой волны."
 "herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit.battle","Когда герой впервые получает смертельный урон от обычных атак или особых навыков, вместо этого он перенаправляет до {REDIRECTDAMAGELIMIT} ед. от этого урона на атакующего. (Осталось активаций: {ACTIVATIONSLEFT})"
-"herocard.passive_skill.description.reduceinsanityperturn","В начале каждого хода текущее безумие персонажа снижается на {REDUCTION} ед.."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled","Когда герой впервые получает смертельный урон, вместо этого он перенаправляет этот урон на атакующего.
+
+Не активируется, если персонаж является единственным членом команды в бою.
+
+В боях с несколькими волнами эффект обновляется в начале каждой волны."
+"herocard.passive_skill.description.redirectlethaldamage.full_damage.enemies.single.updates_enabled.battle","Когда герой впервые получает смертельный урон, вместо этого он перенаправляет этот урон на атакующего. (Осталось активаций: {ACTIVATIONSLEFT})
+Не активируется, если персонаж является единственным членом команды в бою."
+"herocard.passive_skill.description.reduceinsanityperturn","В начале каждого хода текущее безумие персонажа снижается на {REDUCTION}."
 "herocard.passive_skill.description.reflectresistedstatuseffect.all.enemies","Недуги этого персонажа, которым он сопротивляется с помощью пассивных навыков, отражаются на всех врагов."
 "herocard.passive_skill.description.reflectstatuseffect.with_chance","{CHANCE} % дополнительной вероятности отразить недуг в атакующего."
 "herocard.passive_skill.description.removebasestatmodifiers.removenegative.from.all.allies","Каждые {TURNS} х. снимает все эффекты увядания со всех союзников."
@@ -897,10 +915,7 @@
 "herocard.passive_skill.title.received_strong_troop_damage_pve","Снижение урона отрядов"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage","Мастерство: отряды"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage.increase.dragon","Сильное увеличение урона от огненных шаров"
-"herocard.passive_skill.title.redirectlethaldamage.enemies.single","Обман смерти"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single","Обман смерти"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.specialskill.troop.npcnormalattack.damage_limit","Обман смерти"
-"herocard.passive_skill.title.redirectlethaldamage.full_damage.enemies.single.troop.specialskill.npcnormalattack.damage_limit","Обман смерти"
+"herocard.passive_skill.title.redirectlethaldamage","Обман смерти"
 "herocard.passive_skill.title.reduceinsanityperturn","Снижение безумия"
 "herocard.passive_skill.title.reflectresistedstatuseffect","Легендарный отражатель"
 "herocard.passive_skill.title.remove_growth_from_enemies","Приведение в порядок стражем"
