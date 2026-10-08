@@ -13663,6 +13663,15 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "astral_demon_gremory",
+        "name": "Gremory",
+        "passives": [
+            "Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in the battle.",
+            "Resist Mana Reduction: This character is immune to mana reductions.",
+            "Perfect Accuracy: This character's Special Skill never misses its targets."
+        ]
+    },
+    {
         "heroId": "elemental_grilka",
         "name": "Grilka",
         "passives": [
@@ -15156,13 +15165,53 @@ const allTranslations =
         ]
     },
     {
-        "heroId": "astral_demon_gremory",
-        "name": "Gremory",
+        "heroId": "ghost_xiwang_gui",
+        "name": "Xiwang Gui",
         "passives": []
     },
     {
-        "heroId": "ghost_xiwang_gui",
-        "name": "Xiwang Gui",
+        "heroId": "rodent_galepaw",
+        "name": "Galepaw",
+        "passives": []
+    },
+    {
+        "heroId": "rodent_oakspine",
+        "name": "Oakspine",
+        "passives": []
+    },
+    {
+        "heroId": "rodent_dewfoot",
+        "name": "Dewfoot",
+        "passives": []
+    },
+    {
+        "heroId": "rodent_honeytuft",
+        "name": "Honeytuft",
+        "passives": []
+    },
+    {
+        "heroId": "tales2_motsognir_costume_holy",
+        "name": "Motsognir C",
+        "passives": []
+    },
+    {
+        "heroId": "mahayoddha_sangeeta",
+        "name": "Sangeeta",
+        "passives": []
+    },
+    {
+        "heroId": "s3_heimdall_costume_cute",
+        "name": "Heimdall Toon",
+        "passives": []
+    },
+    {
+        "heroId": "forest_god_zeline_costume_cute",
+        "name": "Zeline Toon",
+        "passives": []
+    },
+    {
+        "heroId": "s3_gullinbursti_costume_cute",
+        "name": "Gullinbursti Toon",
         "passives": []
     },
     {

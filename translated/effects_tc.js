@@ -6061,7 +6061,7 @@ const translatedEffectsTC =
         "name": "Gregorion C1",
         "effects": [
             "對目標造成 535% 傷害。",
-            "所有盟友獲得 +45% 暴擊率，持續 3 回合。",
+            "所有盟友獲得 +45% 暴擊率，持續 4 回合。",
             "元素鏈給予所有自然盟友 +15% 攻擊力與 +15% 防禦，持續 6 回合。此效果無法驅散。"
         ]
     },
@@ -9734,12 +9734,12 @@ const translatedEffectsTC =
         "effects": [
             "低於 40 謙遜：",
             "對位於敵方陣型邊緣的敵人造成 265% 傷害。如果只有一個敵人，傷害加倍。",
-            "枯萎：位於敵方陣型邊緣的敵人獲得-300點防禦。",
+            "枯萎：位於敵方陣型邊緣的敵人獲得 -300 點防禦。",
             "驅散敵方陣型邊緣敵人的增益效果。",
             "40 或以上的謙遜：",
             "安全驅散敵方陣型邊緣敵人的增益效果。（安全驅散無視已移除狀態效果增益的第二效果，如移除時造成的傷害。外部效果如被動技能和家族效果仍可發動。）",
             "對位於敵方陣型邊緣的敵人造成 360% 傷害。如果只有一個敵人，傷害加倍。",
-            "枯萎：位於敵方陣型邊緣的敵人獲得-350點防禦。"
+            "枯萎：位於敵方陣型邊緣的敵人獲得 -350 點防禦。"
         ]
     },
     {
@@ -17271,6 +17271,16 @@ const translatedEffectsTC =
         ]
     },
     {
+        "heroId": "astral_demon_gremory",
+        "name": "Gremory",
+        "effects": [
+            "對所有敵人造成 400% 傷害。",
+            "每有一個敵人被擊敗，傷害增加 60%。",
+            "每名被擊敗的盟友有 50% 的機率以 30% 的生命值復活。",
+            "對暗黑系造成額外傷害。"
+        ]
+    },
+    {
         "heroId": "elemental_grilka",
         "name": "Grilka",
         "effects": [
@@ -19187,13 +19197,53 @@ const translatedEffectsTC =
         ]
     },
     {
-        "heroId": "astral_demon_gremory",
-        "name": "Gremory",
+        "heroId": "ghost_xiwang_gui",
+        "name": "Xiwang Gui",
         "effects": []
     },
     {
-        "heroId": "ghost_xiwang_gui",
-        "name": "Xiwang Gui",
+        "heroId": "rodent_galepaw",
+        "name": "Galepaw",
+        "effects": []
+    },
+    {
+        "heroId": "rodent_oakspine",
+        "name": "Oakspine",
+        "effects": []
+    },
+    {
+        "heroId": "rodent_dewfoot",
+        "name": "Dewfoot",
+        "effects": []
+    },
+    {
+        "heroId": "rodent_honeytuft",
+        "name": "Honeytuft",
+        "effects": []
+    },
+    {
+        "heroId": "tales2_motsognir_costume_holy",
+        "name": "Motsognir C",
+        "effects": []
+    },
+    {
+        "heroId": "mahayoddha_sangeeta",
+        "name": "Sangeeta",
+        "effects": []
+    },
+    {
+        "heroId": "s3_heimdall_costume_cute",
+        "name": "Heimdall Toon",
+        "effects": []
+    },
+    {
+        "heroId": "forest_god_zeline_costume_cute",
+        "name": "Zeline Toon",
+        "effects": []
+    },
+    {
+        "heroId": "s3_gullinbursti_costume_cute",
+        "name": "Gullinbursti Toon",
         "effects": []
     },
     {

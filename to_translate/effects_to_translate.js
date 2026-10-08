@@ -6061,7 +6061,7 @@ const allTranslations =
         "name": "Gregorion C1",
         "effects": [
             "Deals 535% damage to the target.",
-            "All allies get +45% critical chance for 3 turns.",
+            "All allies get +45% critical chance for 4 turns.",
             "Element Link gives all Nature allies +15% attack and +15% defense for 6 turns. This effect can't be dispelled."
         ]
     },
@@ -17271,6 +17271,16 @@ const allTranslations =
         ]
     },
     {
+        "heroId": "astral_demon_gremory",
+        "name": "Gremory",
+        "effects": [
+            "Deals 400% damage to all enemies.",
+            "The damage is increased by 60% per each defeated enemy.",
+            "Each defeated ally has a 50% chance to get revived with 30% HP.",
+            "Deals extra damage against Dark."
+        ]
+    },
+    {
         "heroId": "elemental_grilka",
         "name": "Grilka",
         "effects": [
@@ -19187,13 +19197,53 @@ const allTranslations =
         ]
     },
     {
-        "heroId": "astral_demon_gremory",
-        "name": "Gremory",
+        "heroId": "ghost_xiwang_gui",
+        "name": "Xiwang Gui",
         "effects": []
     },
     {
-        "heroId": "ghost_xiwang_gui",
-        "name": "Xiwang Gui",
+        "heroId": "rodent_galepaw",
+        "name": "Galepaw",
+        "effects": []
+    },
+    {
+        "heroId": "rodent_oakspine",
+        "name": "Oakspine",
+        "effects": []
+    },
+    {
+        "heroId": "rodent_dewfoot",
+        "name": "Dewfoot",
+        "effects": []
+    },
+    {
+        "heroId": "rodent_honeytuft",
+        "name": "Honeytuft",
+        "effects": []
+    },
+    {
+        "heroId": "tales2_motsognir_costume_holy",
+        "name": "Motsognir C",
+        "effects": []
+    },
+    {
+        "heroId": "mahayoddha_sangeeta",
+        "name": "Sangeeta",
+        "effects": []
+    },
+    {
+        "heroId": "s3_heimdall_costume_cute",
+        "name": "Heimdall Toon",
+        "effects": []
+    },
+    {
+        "heroId": "forest_god_zeline_costume_cute",
+        "name": "Zeline Toon",
+        "effects": []
+    },
+    {
+        "heroId": "s3_gullinbursti_costume_cute",
+        "name": "Gullinbursti Toon",
         "effects": []
     },
     {

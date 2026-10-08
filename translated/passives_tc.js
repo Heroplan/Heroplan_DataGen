@@ -13663,6 +13663,15 @@ const translatedPassivesTC =
         ]
     },
     {
+        "heroId": "astral_demon_gremory",
+        "name": "Gremory",
+        "passives": [
+            "阻礙法力：降低 -80% 特殊技能、被動技能家族加成和狀態效果所增加的法力量。該效果適用於戰鬥的所有敵人。",
+            "抵禦法力減損：此角色對法力減損具有天生抗性。",
+            "完美精準度：此角色的特殊技能必定命中目標。"
+        ]
+    },
+    {
         "heroId": "elemental_grilka",
         "name": "Grilka",
         "passives": [
@@ -15156,13 +15165,53 @@ const translatedPassivesTC =
         ]
     },
     {
-        "heroId": "astral_demon_gremory",
-        "name": "Gremory",
+        "heroId": "ghost_xiwang_gui",
+        "name": "Xiwang Gui",
         "passives": []
     },
     {
-        "heroId": "ghost_xiwang_gui",
-        "name": "Xiwang Gui",
+        "heroId": "rodent_galepaw",
+        "name": "Galepaw",
+        "passives": []
+    },
+    {
+        "heroId": "rodent_oakspine",
+        "name": "Oakspine",
+        "passives": []
+    },
+    {
+        "heroId": "rodent_dewfoot",
+        "name": "Dewfoot",
+        "passives": []
+    },
+    {
+        "heroId": "rodent_honeytuft",
+        "name": "Honeytuft",
+        "passives": []
+    },
+    {
+        "heroId": "tales2_motsognir_costume_holy",
+        "name": "Motsognir C",
+        "passives": []
+    },
+    {
+        "heroId": "mahayoddha_sangeeta",
+        "name": "Sangeeta",
+        "passives": []
+    },
+    {
+        "heroId": "s3_heimdall_costume_cute",
+        "name": "Heimdall Toon",
+        "passives": []
+    },
+    {
+        "heroId": "forest_god_zeline_costume_cute",
+        "name": "Zeline Toon",
+        "passives": []
+    },
+    {
+        "heroId": "s3_gullinbursti_costume_cute",
+        "name": "Gullinbursti Toon",
         "passives": []
     },
     {

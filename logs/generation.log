@@ -1,9 +1,9 @@
-INFO - 成功加载并规范化 1908 条中文额外数据。
+INFO - 成功加载并规范化 1917 条中文额外数据。
 INFO - [skill] 已加载 cn 技能 2854 条
 INFO - [skill] 已加载 tc 技能 2854 条
 INFO - [skill] 已加载 en 技能 2854 条
 WARNING - 
---- 4 个3-5星英雄在 heroes_data_extra_skill_cn.json 中缺少数据 ---
-INFO - 成功加载并规范化 1908 条中文额外数据。
+--- 5 个3-5星英雄在 heroes_data_extra_skill_cn.json 中缺少数据 ---
+INFO - 成功加载并规范化 1917 条中文额外数据。
 WARNING - 
---- 4 个3-5星英雄在 heroes_data_extra_skill_cn.json 中缺少数据 ---
+--- 5 个3-5星英雄在 heroes_data_extra_skill_cn.json 中缺少数据 ---

@@ -50800,5 +50800,26 @@ window.allHeroesExtra = [
             "reduce_revival_health_all_enemies"
         ],
         "family": "beauty_beast"
+    },
+    {
+        "name": "Gremory",
+        "fancy name": "Astral Demon Psychopomp",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Cleric",
+        "speed": "slow",
+        "Release date": "2026-10-08",
+        "AetherPower": "Bulwark",
+        "heroId": "astral_demon_gremory",
+        "baseAttack": 695,
+        "baseDefense": 694,
+        "baseHealth": 1179,
+        "specialId": "power_of_shattered_moons",
+        "passiveSkills": [
+            "never_miss_special",
+            "resist_all_mana_debuffs_and_reductions",
+            "mana_generation_modifier_all_enemies_more_sources"
+        ],
+        "family": "astral_demons"
     }
 ];
