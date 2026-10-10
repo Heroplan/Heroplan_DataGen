@@ -126,6 +126,9 @@
 "aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount","В начале каждого боя герой получает иммунитет к новым недугам. Эффект сохраняется до отражения недугов {MAXACTIVATIONCOUNT} р.
 
 В боях, где больше одной волны, эффект обновляется в начале каждой волны."
+"aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount.one","В начале каждого боя герой получает иммунитет к новым недугам. Эффект сохраняется до отражения недугов {MAXACTIVATIONCOUNT} р.
+
+В боях, где больше одной волны, эффект обновляется в начале каждой волны."
 "aetherpower.statuseffect.minor.dodgespecialdamage.single.allies","В начале каждого боя герой получает шанс {DODGE} % уклониться от особых навыков, наносящих урон, в течение {TURNS} х.
 
 В боях, где больше одной волны, эффект обновляется в начале каждой волны."
@@ -4289,6 +4292,8 @@
 "familiar.statuseffect.minor.dispelimmunity.single.allies.noturns.shark_mega_minion_haikala.summon","Мегаприслужник-акула не позволяет снимать и красть усиливающие эффекты статуса."
 "familiar.statuseffect.minor.dispelimmunity.single.allies.while.single.allies.familiaralive.spotted_boar_mega_minion.spotted_boar_mega_minion.summon","При призыве пятнистый вепрь-мегаприслужник дает владельцу иммунитет к снятию эффектов статуса, пока у того есть мегаприслужник. Эффект нельзя снять."
 "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie.deathbydamage.eatenbycharacter","Когда используется [#!]полное снятие[#], атаковавший враг превращается в призрака Совальхаллы на {TURNS} х. Эффект [#!]стойкий.[#]
+[*] В этой форме цель получает {DAMAGEPERTURN} урона каждый ход."
+"familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie_mayhem.deathbydamage.eatenbycharacter","Когда используется [#!]полное снятие[#], атаковавший враг превращается в призрака Совальхаллы на {TURNS} х. Эффект [#!]стойкий.[#]
 [*] В этой форме цель получает {DAMAGEPERTURN} урона каждый ход."
 "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.owlkyrie_mayhem.deathbydamage.eatenbycharacter","Когда используется [#!]полное снятие[#], атаковавший враг превращается в призрака Совальхаллы на {TURNS} х. Эффект [#!]стойкий.[#]
 [*] В этой форме цель получает {DAMAGEPERTURN} урона каждый ход."

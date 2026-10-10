@@ -129,6 +129,9 @@ I strider med flera vågor återställs effekten i början av varje våg."
 "aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount","I början av striden är hjälten immun mot nya negativa statuseffekter. Den här effekten varar tills {MAXACTIVATIONCOUNT} negativa statuseffekter har motståtts.
 
 I strider med flera vågor återställs effekten i början av varje våg."
+"aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount.one","I början av striden är hjälten immun mot nya negativa statuseffekter. Den här effekten varar tills {MAXACTIVATIONCOUNT} negativa statuseffekter har motståtts.
+
+I strider med flera vågor återställs effekten i början av varje våg."
 "aetherpower.statuseffect.minor.dodgespecialdamage.single.allies","I början av striden får hjälten {DODGE} % chans att undvika specialförmågor som gör skada under {TURNS} rundor.
 
 I strider med flera vågor återställs effekten i början av varje våg."
@@ -4281,6 +4284,8 @@ Påbörja expeditionen med den valda gruppen?"
 "familiar.statuseffect.minor.dispelimmunity.single.allies.noturns.shark_mega_minion_haikala.summon","Hajmegaundersåten gör att statuseffektsbonusar inte kan avbrytas eller stjälas."
 "familiar.statuseffect.minor.dispelimmunity.single.allies.while.single.allies.familiaralive.spotted_boar_mega_minion.spotted_boar_mega_minion.summon","När den fläckiga megavildsvin-undersåten åkallas gör den sin ägare immun mot avbrytande av statuseffekter så länge ägaren har en fläckig megavildsvin-undersåte. Den här effekten kan inte avbrytas."
 "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie.deathbydamage.eatenbycharacter","Efter att [#!]fullständig borttagning[#] används antar anfallaren formen av ett Ugglehallsspöke i {TURNS} rundor. Den här effekten är [#!]envis.[#]
+[*] Som Ugglehallsspöke tar målet {DAMAGEPERTURN} skada varje runda."
+"familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie_mayhem.deathbydamage.eatenbycharacter","Efter att [#!]fullständig borttagning[#] används antar anfallaren formen av ett Ugglehallsspöke i {TURNS} rundor. Den här effekten är [#!]envis.[#]
 [*] Som Ugglehallsspöke tar målet {DAMAGEPERTURN} skada varje runda."
 "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.owlkyrie_mayhem.deathbydamage.eatenbycharacter","Efter att [#!]fullständig borttagning[#] används antar anfallaren formen av ett Ugglehallsspöke i {TURNS} rundor. Den här effekten är [#!]envis.[#]
 [*] Som Ugglehallsspöke tar målet {DAMAGEPERTURN} skada varje runda."

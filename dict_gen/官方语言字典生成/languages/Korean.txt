@@ -130,6 +130,9 @@
 "aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount","각 전투 시작 시 이 영웅은 새로운 상태 이상에 면역이 됩니다. 이 효과는 상태 이상 {MAXACTIVATIONCOUNT}개에 저항할 때까지 지속됩니다.
 
 여러 웨이브로 구성된 전투에서는 각 웨이브 시작 시 이 효과가 갱신됩니다."
+"aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount.one","각 전투 시작 시 이 영웅은 새로운 상태 이상에 면역이 됩니다. 이 효과는 상태 이상 {MAXACTIVATIONCOUNT}개에 저항할 때까지 지속됩니다.
+
+여러 웨이브로 구성된 전투에서는 각 웨이브 시작 시 이 효과가 갱신됩니다."
 "aetherpower.statuseffect.minor.dodgespecialdamage.single.allies","전투가 시작될 때마다 이 영웅은 {TURNS}턴 동안 피해를 주는 특수 스킬을 {DODGE}% 확률로 회피합니다.
 
 공세가 여러 번 있는 전투에서 이 효과는 각 공세가 시작될 때마다 새로고침됩니다."
@@ -4297,6 +4300,8 @@ VIP 패스 포함 사항:
 "familiar.statuseffect.minor.dispelimmunity.single.allies.noturns.shark_mega_minion_haikala.summon","상어 메가 하수인은 상태 이상 강화 효과가 해제되거나 강탈되는 것을 차단합니다."
 "familiar.statuseffect.minor.dispelimmunity.single.allies.while.single.allies.familiaralive.spotted_boar_mega_minion.spotted_boar_mega_minion.summon","소환되면 점박이 멧돼지 메가 하수인을 보유한 동안, 하수인의 주인은 상태 효과 해제 면역을 하수인으로부터 받습니다. 이 효과는 해제할 수 없습니다."
 "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie.deathbydamage.eatenbycharacter","[#!]완전 제거[#]를 사용한 후 공격자가 {TURNS}턴 동안 아울할라 유령 형태로 변합니다. 이 효과는 [#!]완고[#]입니다.
+[*] 아울할라 유령 형태인 동안 대상은 매 턴 {DAMAGEPERTURN}의 피해를 받습니다."
+"familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie_mayhem.deathbydamage.eatenbycharacter","[#!]완전 제거[#]를 사용한 후 공격자가 {TURNS}턴 동안 아울할라 유령 형태로 변합니다. 이 효과는 [#!]완고[#]입니다.
 [*] 아울할라 유령 형태인 동안 대상은 매 턴 {DAMAGEPERTURN}의 피해를 받습니다."
 "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.owlkyrie_mayhem.deathbydamage.eatenbycharacter","[#!]완전 제거[#]를 사용한 후 공격자가 {TURNS}턴 동안 아울할라 유령 형태로 변합니다. 이 효과는 [#!]완고[#]입니다.
 [*] 아울할라 유령 형태인 동안 대상은 매 턴 {DAMAGEPERTURN}의 피해를 받습니다."

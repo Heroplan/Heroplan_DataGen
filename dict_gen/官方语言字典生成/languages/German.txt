@@ -130,6 +130,9 @@ Bei Kämpfen mit mehreren Wellen wird dieser Effekt zu Beginn jeder Welle erneue
 "aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount","Zu Beginn jedes Kampfes ist dieser Held immun gegen neue Statusveränderungen. Dieser Effekt hält so lange an, bis {MAXACTIVATIONCOUNT} Statusveränderungen abgewehrt wurden.
 
 In Kämpfen mit mehreren Wellen wird der Effekt zu Beginn jeder Welle erneuert."
+"aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount.one","Zu Beginn jedes Kampfes ist dieser Held immun gegen neue Statusveränderungen. Dieser Effekt hält so lange an, bis {MAXACTIVATIONCOUNT} Statusveränderungen abgewehrt wurden.
+
+In Kämpfen mit mehreren Wellen wird der Effekt zu Beginn jeder Welle erneuert."
 "aetherpower.statuseffect.minor.dodgespecialdamage.single.allies","Zu Beginn jedes Kampfes weicht dieser Held {TURNS} Züge lang mit einer Wahrscheinlichkeit von {DODGE} % Spezialfähigkeiten aus, die Schaden verursachen.
 
 Bei Kämpfen mit mehreren Wellen wird dieser Effekt zu Beginn jeder Welle erneuert."
@@ -4262,6 +4265,8 @@ Expedition mit dieser Gruppe starten?"
 "familiar.statuseffect.minor.dispelimmunity.single.allies.noturns.shark_mega_minion_haikala.summon","Der Hai-Mega-Lakai verhindert, dass Statuseffektboni gebannt oder gestohlen werden."
 "familiar.statuseffect.minor.dispelimmunity.single.allies.while.single.allies.familiaralive.spotted_boar_mega_minion.spotted_boar_mega_minion.summon","Wenn es beschworen wird, verleiht das gefleckte Mega-Wildschwein seinem Besitzer Immunität gegen Statuseffekt-Zerstreuungen, solange er ein geflecktes Mega-Wildschwein hat. Dieser Effekt kann nicht gebannt werden."
 "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie.deathbydamage.eatenbycharacter","Wenn [#!]volle Entfernung[#] besiegt wird, wechselt der Angreifer für {TURNS} Züge in die Gestalt eines Eulhalla-Geists. Dieser Effekt ist [#!]hartnäckig[#].
+[*]In Gestalt eines Eulhalla-Geists erleidet das Ziel {DAMAGEPERTURN} Schaden pro Zug."
+"familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie_mayhem.deathbydamage.eatenbycharacter","Wenn [#!]volle Entfernung[#] besiegt wird, wechselt der Angreifer für {TURNS} Züge in die Gestalt eines Eulhalla-Geists. Dieser Effekt ist [#!]hartnäckig[#].
 [*]In Gestalt eines Eulhalla-Geists erleidet das Ziel {DAMAGEPERTURN} Schaden pro Zug."
 "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.owlkyrie_mayhem.deathbydamage.eatenbycharacter","Wenn [#!]volle Entfernung[#] besiegt wird, wechselt der Angreifer für {TURNS} Züge in die Gestalt eines Eulhalla-Geists. Dieser Effekt ist [#!]hartnäckig[#].
 [*]In Gestalt eines Eulhalla-Geists erleidet das Ziel {DAMAGEPERTURN} Schaden pro Zug."

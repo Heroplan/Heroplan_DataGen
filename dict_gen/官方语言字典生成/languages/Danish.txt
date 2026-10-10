@@ -126,6 +126,9 @@ I kampe med flere bølger fornys effekten i begyndelsen af hver bølge."
 "aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount","I starten af hver kamp bliver helten immun over for nye statuslidelser. Denne effekt varer indtil {MAXACTIVATIONCOUNT} lidelser er blevet modkæmpet.
 
 I kampe med flere bølger fornys effekten i starten af hver bølge."
+"aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount.one","I starten af hver kamp bliver helten immun over for nye statuslidelser. Denne effekt varer indtil {MAXACTIVATIONCOUNT} lidelser er blevet modkæmpet.
+
+I kampe med flere bølger fornys effekten i starten af hver bølge."
 "aetherpower.statuseffect.minor.dodgespecialdamage.single.allies","I begyndelsen af hver kamp får helten {DODGE} % chance for at undvige særlige evner, som forvolder skade i {TURNS} runder.
 
 I kampe med flere bølger fornys effekten i begyndelsen af hver bølge."
@@ -4284,6 +4287,8 @@ Vil du begynde ekspeditionen med denne gruppe?"
 "familiar.statuseffect.minor.dispelimmunity.single.allies.noturns.shark_mega_minion_haikala.summon","Haj-kæmpehåndlangeren forhindrer statuseffektbuffere i at blive ophævet eller stjålet."
 "familiar.statuseffect.minor.dispelimmunity.single.allies.while.single.allies.familiaralive.spotted_boar_mega_minion.spotted_boar_mega_minion.summon","Når den hidkaldes, giver den plettede vildsvin-kæmpehåndlanger sin ejer immunitet over for ophævelse af statuseffekter, så længe ejeren har en plettet vildsvin-kæmpehåndlanger. Denne effekt kan ikke ophæves."
 "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie.deathbydamage.eatenbycharacter","Efter [#!]fuld fjernelse[#] er blevet kastet, tager fjenden form som Uglehallas spøgelse i {TURNS} runder. Denne effekt er [#!]stædig.[#]
+[*] Som Uglehallas spøgelse tager målet {DAMAGEPERTURN} skade i hver runde."
+"familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie_mayhem.deathbydamage.eatenbycharacter","Efter [#!]fuld fjernelse[#] er blevet kastet, tager fjenden form som Uglehallas spøgelse i {TURNS} runder. Denne effekt er [#!]stædig.[#]
 [*] Som Uglehallas spøgelse tager målet {DAMAGEPERTURN} skade i hver runde."
 "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.owlkyrie_mayhem.deathbydamage.eatenbycharacter","Efter [#!]fuld fjernelse[#] er blevet kastet, tager fjenden form som Uglehallas spøgelse i {TURNS} runder. Denne effekt er [#!]stædig.[#]
 [*] Som Uglehallas spøgelse tager målet {DAMAGEPERTURN} skade i hver runde."

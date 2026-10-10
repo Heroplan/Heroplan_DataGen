@@ -130,6 +130,9 @@ Birkaç dalganın olduğu savaşlarda efekt, her dalganın başında yenilenir."
 "aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount","Her savaşın başında bu Kahraman yeni durum engellerine bağışıklık kazanır. Bu efekt, {MAXACTIVATIONCOUNT} engele direnilene kadar sürer.
 
 Birkaç dalganın olduğu savaşlarda efekt, her dalganın başında yenilenir."
+"aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount.one","Her savaşın başında bu Kahraman yeni durum engellerine bağışıklık kazanır. Bu efekt, {MAXACTIVATIONCOUNT} engele direnilene kadar sürer.
+
+Birkaç dalganın olduğu savaşlarda efekt, her dalganın başında yenilenir."
 "aetherpower.statuseffect.minor.dodgespecialdamage.single.allies","Her savaşın başında, bu Kahraman {TURNS} tur boyunca hasar veren Özel Yetenekleri savuşturmak için %{DODGE} şans alır.
 
 Birkaç dalganın olduğu savaşlarda efekt, her dalganın başında yenilenir."
@@ -4288,6 +4291,8 @@ Keşif bu Grup ile başlatılsın mı?"
 "familiar.statuseffect.minor.dispelimmunity.single.allies.noturns.shark_mega_minion_haikala.summon","Mega Köpek Balığı Hizmetkarı, durum efekti buff'larının bozulmasını veya çalınmasını engeller."
 "familiar.statuseffect.minor.dispelimmunity.single.allies.while.single.allies.familiaralive.spotted_boar_mega_minion.spotted_boar_mega_minion.summon","Benekli Domuz Mega Hizmetkarı çağrıldığında, sahibi Benekli Domuz Mega Hizmetkarına sahip olduğu sürece sahibine efekt bozmalarına karşı bağışıklık verir. Bu efekt bozulamaz."
 "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie.deathbydamage.eatenbycharacter","[#!]Tam Kaldırma[#] uygulandıktan sonra saldırgan {TURNS} tur boyunca Bayhalla Hayaleti formuna dönüşür. Bu efekt [#!]İnatçıdır.[#]
+[*] Bayhalla Hayaleti formundayken hedef her turda {DAMAGEPERTURN} hasar alır."
+"familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie_mayhem.deathbydamage.eatenbycharacter","[#!]Tam Kaldırma[#] uygulandıktan sonra saldırgan {TURNS} tur boyunca Bayhalla Hayaleti formuna dönüşür. Bu efekt [#!]İnatçıdır.[#]
 [*] Bayhalla Hayaleti formundayken hedef her turda {DAMAGEPERTURN} hasar alır."
 "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.owlkyrie_mayhem.deathbydamage.eatenbycharacter","[#!]Tam Kaldırma[#] uygulandıktan sonra saldırgan {TURNS} tur boyunca Bayhalla Hayaleti formuna dönüşür. Bu efekt [#!]İnatçıdır.[#]
 [*] Bayhalla Hayaleti formundayken hedef her turda {DAMAGEPERTURN} hasar alır."

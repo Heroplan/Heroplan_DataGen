@@ -130,6 +130,9 @@ Dans les combats comportant plusieurs vagues, l'effet est réinitialisé au déb
 "aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount","Au début de chaque combat, ce héros est immunisé contre les nouveaux effets négatifs. Cet effet dure jusqu'à ce que {MAXACTIVATIONCOUNT} effets aient été annulés.
 
 Dans les combats comportant plusieurs vagues, l'effet est réinitialisé au début de chaque vague."
+"aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount.one","Au début de chaque combat, ce héros est immunisé contre les nouveaux effets négatifs. Cet effet dure jusqu'à ce que {MAXACTIVATIONCOUNT} effets aient été annulés.
+
+Dans les combats comportant plusieurs vagues, l'effet est réinitialisé au début de chaque vague."
 "aetherpower.statuseffect.minor.dodgespecialdamage.single.allies","Au début de chaque combat, ce héros a {DODGE} % de chances d'éviter les compétences spéciales qui infligent des dégâts pendant {TURNS} tours.
 
 Dans les combats comportant plusieurs vagues, l'effet est réinitialisé au début de chaque vague."
@@ -4291,6 +4294,8 @@ Voulez-vous commencer l'expédition avec ce groupe ?"
 "familiar.statuseffect.minor.dispelimmunity.single.allies.noturns.shark_mega_minion_haikala.summon","Le méga sbire requin empêche les bonus d'être dissipés ou volés."
 "familiar.statuseffect.minor.dispelimmunity.single.allies.while.single.allies.familiaralive.spotted_boar_mega_minion.spotted_boar_mega_minion.summon","Lorsqu'il est invoqué, le sbire méga sanglier tacheté octroie à son propriétaire une immunité contre les dissipations d'effets appliqués aussi longtemps qu'il est actif. Cet effet ne peut pas être dissipé."
 "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie.deathbydamage.eatenbycharacter","Après l'utilisation de [#!]Suppression totale[#], l'attaquant passe en forme de fantôme du Valhallhibou pour {TURNS} tours. Cet effet est [#!]obstiné.[#]
+[*] Sous cette forme, il reçoit {DAMAGEPERTURN} points de dégâts par tour."
+"familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie_mayhem.deathbydamage.eatenbycharacter","Après l'utilisation de [#!]Suppression totale[#], l'attaquant passe en forme de fantôme du Valhallhibou pour {TURNS} tours. Cet effet est [#!]obstiné.[#]
 [*] Sous cette forme, il reçoit {DAMAGEPERTURN} points de dégâts par tour."
 "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.owlkyrie_mayhem.deathbydamage.eatenbycharacter","Après l'utilisation de [#!]Suppression totale[#], l'attaquant passe en forme de fantôme du Valhallhibou pour {TURNS} tours. Cet effet est [#!]obstiné.[#]
 [*] Sous cette forme, il reçoit {DAMAGEPERTURN} points de dégâts par tour."

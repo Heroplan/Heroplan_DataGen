@@ -130,6 +130,9 @@ Useamman aallon taisteluissa vaikutus uudistuu jokaisen aallon alussa."
 "aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount","Tämä sankari on jokaisen taistelun alusta alkaen immuuni uusille vaivoille. Vaikutus kestää, kunnes {MAXACTIVATIONCOUNT} vaivaa on vastustettu.
 
 Useamman aallon taisteluissa vaikutus uudistuu jokaisen aallon alussa."
+"aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount.one","Tämä sankari on jokaisen taistelun alusta alkaen immuuni uusille vaivoille. Vaikutus kestää, kunnes {MAXACTIVATIONCOUNT} vaivaa on vastustettu.
+
+Useamman aallon taisteluissa vaikutus uudistuu jokaisen aallon alussa."
 "aetherpower.statuseffect.minor.dodgespecialdamage.single.allies","Tämä sankari saa jokaisen taistelun alussa {DODGE} %:n mahdollisuuden väistää vauriota tekevät erikoistaidot {TURNS} vuoron ajaksi.
 
 Useamman aallon taisteluissa vaikutus uudistuu jokaisen aallon alussa."
@@ -4304,6 +4307,8 @@ Aloitetaanko matka tällä ryhmällä?"
 "familiar.statuseffect.minor.dispelimmunity.single.allies.noturns.shark_mega_minion_haikala.summon","Hai-megakäskyläinen estää tilaefektitehosteiden häivyttämisen tai varastamisen."
 "familiar.statuseffect.minor.dispelimmunity.single.allies.while.single.allies.familiaralive.spotted_boar_mega_minion.spotted_boar_mega_minion.summon","Kun täplävillisika-megakäskyläinen kutsutaan, se antaa omistajalleen immuniteetin tilaefektien häivyttämistä vastaan, joka kestää niin kauan kuin omistajalla on täplävillisika-megakäskyläinen. Vaikutusta ei voi häivyttää."
 "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie.deathbydamage.eatenbycharacter","Kun [#!]täysi poisto[#] on loitsittu, hyökkääjä muuttuu Pöllövalhallan haamuksi {TURNS} vuoron ajaksi. Tämä vaikutus on [#!]sitkeä.[#]
+[*] Pöllövalhallan haamun muodossa kohde saa {DAMAGEPERTURN} vauriota joka vuorolla."
+"familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie_mayhem.deathbydamage.eatenbycharacter","Kun [#!]täysi poisto[#] on loitsittu, hyökkääjä muuttuu Pöllövalhallan haamuksi {TURNS} vuoron ajaksi. Tämä vaikutus on [#!]sitkeä.[#]
 [*] Pöllövalhallan haamun muodossa kohde saa {DAMAGEPERTURN} vauriota joka vuorolla."
 "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.owlkyrie_mayhem.deathbydamage.eatenbycharacter","Kun [#!]täysi poisto[#] on loitsittu, hyökkääjä muuttuu Pöllövalhallan haamuksi {TURNS} vuoron ajaksi. Tämä vaikutus on [#!]sitkeä.[#]
 [*] Pöllövalhallan haamun muodossa kohde saa {DAMAGEPERTURN} vauriota joka vuorolla."

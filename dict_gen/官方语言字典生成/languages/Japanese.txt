@@ -130,6 +130,9 @@
 "aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount","バトル開始時に、この英雄は新たなステータス異常への耐性を持つ。この効果は、ステータス異常が{MAXACTIVATIONCOUNT}回無効化されると消失する。
 
 バトルが複数のウェーブで構成されている場合、この効果は各ウェーブ開始時にリセットされる。"
+"aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount.one","バトル開始時に、この英雄は新たなステータス異常への耐性を持つ。この効果は、ステータス異常が{MAXACTIVATIONCOUNT}回無効化されると消失する。
+
+バトルが複数のウェーブで構成されている場合、この効果は各ウェーブ開始時にリセットされる。"
 "aetherpower.statuseffect.minor.dodgespecialdamage.single.allies","バトル開始時に、{TURNS}ターンの間、この英雄が{DODGE}%の確率でダメージ付きの特殊スキルを回避する。
 
 バトルが複数のウェーブで構成されている場合、この効果は各ウェーブ開始時にリセットされる。"
@@ -4310,6 +4313,8 @@ VIPパスの内容：
 "familiar.statuseffect.minor.dispelimmunity.single.allies.noturns.shark_mega_minion_haikala.summon","サメのメガミニオンは、ステータス効果バフの解除および奪取を無効化する。"
 "familiar.statuseffect.minor.dispelimmunity.single.allies.while.single.allies.familiaralive.spotted_boar_mega_minion.spotted_boar_mega_minion.summon","マダラボアのメガミニオンがサモンされた場合、自らの所有者がステータス効果解除に耐性を持つ。（所有者がマダラボアのメガミニオンを所有する限り有効）。この効果は解除できない。"
 "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie.deathbydamage.eatenbycharacter","[#!]完全解除[#]がかけられると、{TURNS}ターンの間、攻撃者がオウルハラゴースト形態になる。この効果は[#!]強固[#]だ。
+[*]ターゲットがオウルハラゴースト形態でいる間はターン毎に{DAMAGEPERTURN}ダメージを受ける。"
+"familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie_mayhem.deathbydamage.eatenbycharacter","[#!]完全解除[#]がかけられると、{TURNS}ターンの間、攻撃者がオウルハラゴースト形態になる。この効果は[#!]強固[#]だ。
 [*]ターゲットがオウルハラゴースト形態でいる間はターン毎に{DAMAGEPERTURN}ダメージを受ける。"
 "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.owlkyrie_mayhem.deathbydamage.eatenbycharacter","[#!]完全解除[#]がかけられると、{TURNS}ターンの間、攻撃者がオウルハラゴースト形態になる。この効果は[#!]強固[#]だ。
 [*]ターゲットがオウルハラゴースト形態でいる間はターン毎に{DAMAGEPERTURN}ダメージを受ける。"

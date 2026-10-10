@@ -130,6 +130,9 @@ In battles with multiple waves, the effect is refreshed at the beginning of each
 "aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount","At the start of each battle, this Hero is immune to new status ailments. This effect lasts until {MAXACTIVATIONCOUNT} ailments have been resisted.
 
 In battles with multiple waves, the effect is refreshed at the beginning of each wave."
+"aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount.one","At the start of each battle, this Hero is immune to new status ailments. This effect lasts until {MAXACTIVATIONCOUNT} ailment has been resisted.
+
+In battles with multiple waves, the effect is refreshed at the beginning of each wave."
 "aetherpower.statuseffect.minor.dodgespecialdamage.single.allies","At the start of each battle, this Hero gets {DODGE}% chance to dodge Special Skills that deal damage for {TURNS} turns.
 
 In battles with multiple waves, the effect is refreshed at the beginning of each wave."
@@ -4297,6 +4300,8 @@ Begin Expedition with this Party?"
 "familiar.statuseffect.minor.dispelimmunity.single.allies.noturns.shark_mega_minion_haikala.summon","The Shark Mega Minion blocks status effect buffs from being dispelled or stolen."
 "familiar.statuseffect.minor.dispelimmunity.single.allies.while.single.allies.familiaralive.spotted_boar_mega_minion.spotted_boar_mega_minion.summon","When summoned, the Spotted Boar Mega Minion gives its owner immunity to status effect dispels for as long as the owner has a Spotted Boar Mega Minion. This effect can't be dispelled."
 "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie.deathbydamage.eatenbycharacter","After the [#!]Full Removal[#] is cast, the attacker shifts into Owlhalla Ghost form for {TURNS} turns. This effect is [#!]Stubborn.[#]
+[*] While in Owlhalla Ghost form the target receives {DAMAGEPERTURN} damage each turn."
+"familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie_mayhem.deathbydamage.eatenbycharacter","After the [#!]Full Removal[#] is cast, the attacker shifts into Owlhalla Ghost form for {TURNS} turns. This effect is [#!]Stubborn.[#]
 [*] While in Owlhalla Ghost form the target receives {DAMAGEPERTURN} damage each turn."
 "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.owlkyrie_mayhem.deathbydamage.eatenbycharacter","After the [#!]Full Removal[#] is cast, the attacker shifts into Owlhalla Ghost form for {TURNS} turns. This effect is [#!]Stubborn.[#]
 [*] While in Owlhalla Ghost form the target receives {DAMAGEPERTURN} damage each turn."
@@ -14190,7 +14195,9 @@ Empires & Puzzles Staff"
 
 [*] Many effects now function more consistently
 
-[*] Adjusted PvP rules for improved general balancing of attackers vs defenders"
+[*] Adjusted PvP rules for improved general balancing of attackers vs defenders
+
+[*] Event duration: 4 weeks"
 "mayhem.info.title.bottom","2026"
 "mayhem.info.title.top","Renewal"
 "mayhem.info.top.message","Explore a refreshed battle balance in a limited time event!"
@@ -14201,7 +14208,9 @@ Empires & Puzzles Staff"
 "mayhem.milestones.info.battletype.pvpevent","Raid Tournament"
 "mayhem.milestones.info.battletype.pvpleague","Hero League"
 "mayhem.milestones.info.chest","Reward chest"
-"mayhem.milestones.info.message","Win {0} battles during the event to earn a reward at every milestone. Milestones are claimed in order."
+"mayhem.milestones.info.message","Win {0} battles during the event to earn a reward at every milestone. Milestones are claimed in order. 
+
+Total required wins to get all rewards: [#!]250[#]"
 "mayhem.milestones.info.milestone","{0} wins: {1}"
 "mayhem.milestones.reward.title","Limited time event milestone reward"
 "mayhem.milestones.wins","{0}/{1} wins"
@@ -27809,6 +27818,7 @@ If the Slime is not defeated in {CHANGEDAPPEARANCETURNS} turns, it will be rebor
 "specials.v2.statuseffect.minor.counterattackpertile.blue.all.allies","All allies counterattack with {DEFLECTION}% of the damage received, and a further {DEFLECTIONPERTILE}% increase per each [##elementblue]Ice[#] shield on the board for {TURNS} turns, up to {MAXDEFLECTION}% damage in total."
 "specials.v2.statuseffect.minor.coveredbyallies.single.allies","Allies share the damage this character would receive from Special Skill attacks and normal attacks for {TURNS} turns."
 "specials.v2.statuseffect.minor.critmodifier.all.allies","All allies get {CRIT}% critical chance for {TURNS} turns."
+"specials.v2.statuseffect.minor.critmodifier.all.allies.noturns","All allies get [#!]lasting[#] {CRIT}% critical chance per turn. "
 "specials.v2.statuseffect.minor.critmodifier.all.enemies","All enemies get {CRIT}% critical chance for {TURNS} turns."
 "specials.v2.statuseffect.minor.critmodifier.allexceptcaster.allies","All allies except the caster get {CRIT}% critical chance for {TURNS} turns."
 "specials.v2.statuseffect.minor.critmodifier.neartotarget.allies","The caster and nearby allies get {CRIT}% critical chance for {TURNS} turns."

@@ -128,6 +128,9 @@ Di pertempuran dengan banyak gelombang, efeknya diperbarui di awal tiap gelomban
 "aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount","Di awal setiap pertempuran, Pahlawan ini kebal terhadap status pelemahan baru. Efek ini bertahan sampai {MAXACTIVATIONCOUNT} pelemahan telah ditampik.
 
 Di pertempuran dengan banyak gelombang, efeknya diperbarui di awal tiap gelombang."
+"aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount.one","Di awal setiap pertempuran, Pahlawan ini kebal terhadap status pelemahan baru. Efek ini bertahan sampai {MAXACTIVATIONCOUNT} pelemahan telah ditampik.
+
+Di pertempuran dengan banyak gelombang, efeknya diperbarui di awal tiap gelombang."
 "aetherpower.statuseffect.minor.dodgespecialdamage.single.allies","Di awal setiap pertempuran, Pahlawan ini berpeluang {DODGE}% untuk mengelak dari Keahlian Khusus yang menimbulkan kerusakan selama {TURNS} giliran.
 
 Di pertempuran dengan banyak gelombang, efeknya diperbarui di awal tiap gelombang."
@@ -4289,6 +4292,8 @@ Mulai Ekspedisi dengan Grup ini?"
 "familiar.statuseffect.minor.dispelimmunity.single.allies.noturns.shark_mega_minion_haikala.summon","Antek Mega Hiu memblokir genjotan efek status agar tidak dienyahkan atau dicuri."
 "familiar.statuseffect.minor.dispelimmunity.single.allies.while.single.allies.familiaralive.spotted_boar_mega_minion.spotted_boar_mega_minion.summon","Ketika dipanggil, Antek Mega Celeng Berbintik memberikan pemiliknya kekebalan terhadap pengenyahan efek status selama pemiliknya memiliki Antek Mega Celeng Berbintik. Efek ini tidak bisa dienyahkan."
 "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie.deathbydamage.eatenbycharacter","Setelah [#!]Penghapusan Penuh[#] dirapal, penyerang berubah menjadi Hantu Owlhalla selama {TURNS} giliran. Efek ini [#!]Bandel.[#]
+[*] Saat berwujud Hantu Owlhalla, musuh menderita kerusakan sebesar {DAMAGEPERTURN} setiap giliran."
+"familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie_mayhem.deathbydamage.eatenbycharacter","Setelah [#!]Penghapusan Penuh[#] dirapal, penyerang berubah menjadi Hantu Owlhalla selama {TURNS} giliran. Efek ini [#!]Bandel.[#]
 [*] Saat berwujud Hantu Owlhalla, musuh menderita kerusakan sebesar {DAMAGEPERTURN} setiap giliran."
 "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.owlkyrie_mayhem.deathbydamage.eatenbycharacter","Setelah [#!]Penghapusan Penuh[#] dirapal, penyerang berubah menjadi Hantu Owlhalla selama {TURNS} giliran. Efek ini [#!]Bandel.[#]
 [*] Saat berwujud Hantu Owlhalla, musuh menderita kerusakan sebesar {DAMAGEPERTURN} setiap giliran."

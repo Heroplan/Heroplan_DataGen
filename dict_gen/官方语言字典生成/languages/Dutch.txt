@@ -130,6 +130,9 @@ In gevechten met meerdere aanvalsgolven wordt het effect aan het begin van elke 
 "aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount","Aan het begin van elk gevecht is deze held immuun voor nieuwe statusaandoeningen. Dit effect duurt totdat er {MAXACTIVATIONCOUNT} aandoeningen zijn weerstaan.
 
 In gevechten met meerdere aanvalsgolven wordt het effect aan het begin van elke golf vernieuwd."
+"aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount.one","Aan het begin van elk gevecht is deze held immuun voor nieuwe statusaandoeningen. Dit effect duurt totdat er {MAXACTIVATIONCOUNT} aandoeningen zijn weerstaan.
+
+In gevechten met meerdere aanvalsgolven wordt het effect aan het begin van elke golf vernieuwd."
 "aetherpower.statuseffect.minor.dodgespecialdamage.single.allies","Aan het begin van elk gevecht krijgt deze held een kans van {DODGE}% om speciale vaardigheden die schade toebrengen gedurende {TURNS} beurten te ontwijken.
 
 In gevechten met meerdere aanvalsgolven wordt het effect aan het begin van elke golf vernieuwd."
@@ -4286,6 +4289,8 @@ Expeditie starten met dit team?"
 "familiar.statuseffect.minor.dispelimmunity.single.allies.noturns.shark_mega_minion_haikala.summon","De haaimegavolgeling blokkeert het verwijderen of stelen van statuseffectoppeppers."
 "familiar.statuseffect.minor.dispelimmunity.single.allies.while.single.allies.familiaralive.spotted_boar_mega_minion.spotted_boar_mega_minion.summon","Wanneer deze aangeroepen wordt, levert de gevlekte everzwijn-megavolgeling de eigenaar immuniteit op voor het verwijderen van statuseffecten zolang de eigenaar een gevlekte everzwijn-megavolgeling heeft. Dit effect kan niet worden verwijderd."
 "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie.deathbydamage.eatenbycharacter","Nadat de [#!]volledige verwijdering[#] is toegepast, neemt de aanvaller {TURNS} beurten lang de vorm van een Uilhalla-geest aan. Dit effect is [#!]hardnekkig[#].
+[*] Als Uilhalla-geest lijdt het doelwit {DAMAGEPERTURN} schade per beurt."
+"familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie_mayhem.deathbydamage.eatenbycharacter","Nadat de [#!]volledige verwijdering[#] is toegepast, neemt de aanvaller {TURNS} beurten lang de vorm van een Uilhalla-geest aan. Dit effect is [#!]hardnekkig[#].
 [*] Als Uilhalla-geest lijdt het doelwit {DAMAGEPERTURN} schade per beurt."
 "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.owlkyrie_mayhem.deathbydamage.eatenbycharacter","Nadat de [#!]volledige verwijdering[#] is toegepast, neemt de aanvaller {TURNS} beurten lang de vorm van een Uilhalla-geest aan. Dit effect is [#!]hardnekkig[#].
 [*] Als Uilhalla-geest lijdt het doelwit {DAMAGEPERTURN} schade per beurt."

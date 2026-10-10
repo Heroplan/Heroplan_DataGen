@@ -128,6 +128,9 @@
 "aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount","في بداية كل معركة، يتمتع هذا البطل بمناعة ضد أمراض الحالات الجديدة. يستمر هذا التأثير حتى تتم مقاومة {MAXACTIVATIONCOUNT} من الأمراض.
 
 في المعارك ذات الموجات المتعددة، يتجدد هذا التأثير في بداية كل موجة."
+"aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount.one","في بداية كل معركة، يتمتع هذا البطل بمناعة ضد أمراض الحالات الجديدة. يستمر هذا التأثير حتى تتم مقاومة {MAXACTIVATIONCOUNT} من الأمراض.
+
+في المعارك ذات الموجات المتعددة، يتجدد هذا التأثير في بداية كل موجة."
 "aetherpower.statuseffect.minor.dodgespecialdamage.single.allies","في بداية كل معركة، يحصل هذا البطل على فرصة بنسبة {DODGE}% لتفادي المهارات الخاصة التي تلحق ضررًا طوال {TURNS} من الجولات.
 
 في المعارك ذات الموجات المتعددة، يتم تحديث التأثير في بداية كل موجة."
@@ -3941,6 +3944,8 @@
 "familiar.statuseffect.minor.dispelimmunity.single.allies.noturns.shark_mega_minion_haikala.summon","يحجب تابع القرش الضخم تبديد تعزيزات تأثير الحالة أو سرقتها."
 "familiar.statuseffect.minor.dispelimmunity.single.allies.while.single.allies.familiaralive.spotted_boar_mega_minion.spotted_boar_mega_minion.summon","عند استدعائه، يمنح تابع الخنزير المرقط  الضخم مالكه حصانة ضد تبديد  التأثيرات على الحالة ما دام المالك لديه تابع خنزير مرقط ضخم. لا يمكن تبديد هذا التأثير."
 "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie.deathbydamage.eatenbycharacter","بعد إلقاء [#!]الإزالة الكاملة[#]، يتحول المهاجم إلى هيئة شبح فالهالا لمدة {TURNS} من الجولات.هذا التأثير [#!]عنيد.[#]
+[*]  يتلقى الهدف في هيئة شبح فالهالا، {DAMAGEPERTURN} من الضرر في كل جولة."
+"familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie_mayhem.deathbydamage.eatenbycharacter","بعد إلقاء [#!]الإزالة الكاملة[#]، يتحول المهاجم إلى هيئة شبح فالهالا لمدة {TURNS} من الجولات.هذا التأثير [#!]عنيد.[#]
 [*]  يتلقى الهدف في هيئة شبح فالهالا، {DAMAGEPERTURN} من الضرر في كل جولة."
 "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.owlkyrie_mayhem.deathbydamage.eatenbycharacter","بعد إلقاء [#!]الإزالة الكاملة[#]، يتحول المهاجم إلى هيئة شبح فالهالا لمدة {TURNS} من الجولات. هذا التأثير [#!]عنيد.[#]
 [*]  يتلقى الهدف في هيئة شبح فالهالا، {DAMAGEPERTURN} من الضرر في كل جولة."

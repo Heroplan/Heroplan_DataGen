@@ -130,6 +130,9 @@
 "aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount","每场战斗开始时，此英雄对新的状态异常免疫。该效果持续至抵抗{MAXACTIVATIONCOUNT}次状态异常状态后失效。
 
 在拥有多个波次的战斗中，该效果将在每一波开始时刷新。"
+"aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount.one","每场战斗开始时，此英雄对新的状态异常免疫。该效果持续至抵抗{MAXACTIVATIONCOUNT}次状态异常状态后失效。
+
+在拥有多个波次的战斗中，该效果将在每一波开始时刷新。"
 "aetherpower.statuseffect.minor.dodgespecialdamage.single.allies","每场战斗开始时，此英雄拥有{DODGE}%几率闪避可以造成伤害的特殊技能，持续{TURNS}回合。
 
 在拥有多个波次的战斗中，该效果将在每一波开始时刷新。"
@@ -4291,6 +4294,8 @@
 "familiar.statuseffect.minor.dispelimmunity.single.allies.noturns.shark_mega_minion_haikala.summon","鲨鱼超级小兵可阻止状态效果增益被驱散或窃取。"
 "familiar.statuseffect.minor.dispelimmunity.single.allies.while.single.allies.familiaralive.spotted_boar_mega_minion.spotted_boar_mega_minion.summon","斑点野猪超级小兵被召唤后，在拥有该小兵期间，该小兵使其所有者对状态效果驱散免疫。此效果无法被驱散。"
 "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie.deathbydamage.eatenbycharacter","施放[#!]完全移除[#]后，攻击者转化为猫头鹰神殿幽灵形态，持续{TURNS}回合。此效果具有[#!]顽固[#]特性。
+[*]处于猫头鹰神殿幽灵形态的目标，每回合将受到{DAMAGEPERTURN}点伤害。"
+"familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie_mayhem.deathbydamage.eatenbycharacter","施放[#!]完全移除[#]后，攻击者转化为猫头鹰神殿幽灵形态，持续{TURNS}回合。此效果具有[#!]顽固[#]特性。
 [*]处于猫头鹰神殿幽灵形态的目标，每回合将受到{DAMAGEPERTURN}点伤害。"
 "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.owlkyrie_mayhem.deathbydamage.eatenbycharacter","施放[#!]完全移除[#]后，攻击者转化为猫头鹰神殿幽灵形态，持续{TURNS}回合。此效果具有[#!]顽固[#]特性。
 [*]处于猫头鹰神殿幽灵形态的目标，每回合将受到{DAMAGEPERTURN}点伤害。"

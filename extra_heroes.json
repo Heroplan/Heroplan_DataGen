@@ -1,5 +1,17 @@
 [
     {
+        "name": "Titanbone Mimic",
+        "fancy_name": "Hoard of the Horned Scavenger",
+        "color": "Blue",
+        "Release date": "",
+        "canBeReceivedDate": "2026-10-10 07:00:00",
+        "star": 5,
+        "family": "mimic",
+        "costume_id": 0,
+        "heroId": "mimic_titan_part_blue",
+        "Lottery_Only": 1
+    },
+    {
         "name": "Xiwang Gui",
         "fancy_name": "Hungry Ghost",
         "color": "Blue",
@@ -72,15 +84,27 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Sangeeta",
-        "fancy_name": "Wandering Minstrel",
-        "color": "Red",
+        "name": "Dain C",
+        "fancy_name": "Dwarven Kitchenmaster",
+        "color": "Blue",
+        "Release date": "",
+        "canBeReceivedDate": "2026-10-16 07:00:00",
+        "star": 4,
+        "family": "myrkheim",
+        "costume_id": 1,
+        "heroId": "tales2_dain_costume_kitchen",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Sangram",
+        "fancy_name": "Valiant Senapati",
+        "color": "Purple",
         "Release date": "",
         "canBeReceivedDate": "2026-10-16 07:00:00",
         "star": 5,
         "family": "mahayoddha",
         "costume_id": 0,
-        "heroId": "mahayoddha_sangeeta",
+        "heroId": "mahayoddha_sangram",
         "Lottery_Only": 1
     },
     {

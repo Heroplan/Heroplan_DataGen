@@ -120,6 +120,9 @@ I kamper med flere bølger vil effekten fornyes ved starten av hver bølge."
 "aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount","Ved starten av hver kamp er denne helten immun mot nye statuslidelser. Denne effekten varer til {MAXACTIVATIONCOUNT} lidelser har blitt motstått.
 
 I kamper med flere bølger fornyes effekten ved starten av hver bølge."
+"aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount.one","Ved starten av hver kamp er denne helten immun mot nye statuslidelser. Denne effekten varer til {MAXACTIVATIONCOUNT} lidelser har blitt motstått.
+
+I kamper med flere bølger fornyes effekten ved starten av hver bølge."
 "aetherpower.statuseffect.minor.dodgespecialdamage.single.allies","Ved starten av hver kamp vil denne helten ha {DODGE} % sjanse til å unnvike spesialferdigheter som påfører skade i {TURNS} runder.
 
 I kamper med flere bølger vil effekten fornyes ved starten av hver bølge."
@@ -4300,6 +4303,8 @@ Vil du starte ekspedisjonen med denne gjengen?"
 "familiar.statuseffect.minor.dispelimmunity.single.allies.noturns.shark_mega_minion_haikala.summon","Hai-megaundersåtten blokkerer statuseffektøkninger fra å bli fjernet og stjålet."
 "familiar.statuseffect.minor.dispelimmunity.single.allies.while.single.allies.familiaralive.spotted_boar_mega_minion.spotted_boar_mega_minion.summon","Når fremkalt, gir flekket villsvin-megaundersåtten eieren immunitet mot fjerning av statuseffekter så lenge eieren har flekket villsvin-megaundersåtten. Denne effekten kan ikke fjernes."
 "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie.deathbydamage.eatenbycharacter","Etter at [#!]full fjerning[#] er brukt, går angriperen over til Uglehalla-spøkelsesform i {TURNS} runder. Denne effekten er [#!]sta.[#]
+[*] Når målet er i Uglehalla-spøkelsesform, tar det {DAMAGEPERTURN} skade hver runde."
+"familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie_mayhem.deathbydamage.eatenbycharacter","Etter at [#!]full fjerning[#] er brukt, går angriperen over til Uglehalla-spøkelsesform i {TURNS} runder. Denne effekten er [#!]sta.[#]
 [*] Når målet er i Uglehalla-spøkelsesform, tar det {DAMAGEPERTURN} skade hver runde."
 "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.owlkyrie_mayhem.deathbydamage.eatenbycharacter","Etter at [#!]full fjerning[#] er brukt, går angriperen over til Uglehalla-spøkelsesform i {TURNS} runder. Denne effekten er [#!]sta.[#]
 [*] Når målet er i Uglehalla-spøkelsesform, tar det {DAMAGEPERTURN} skade hver runde."

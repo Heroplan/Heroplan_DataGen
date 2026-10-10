@@ -33,11 +33,17 @@ RULES = [
     ('element.plain.', 'color', []),
     ('hero.class.', 'class', ['requirements']),
     ('manaspeed.', 'speed', ['turnsleft', 'dragon', 'other']),
-    ('limitbreak.gift.title.', 'aether_power', []),
-    #("specials.name.", "skill_name", []),
-    #("heroes.name_fancy.", "fancy_name", [])
-    
+    # ("specials.name.", "skill_name", []),
+    # ("heroes.name_fancy.", "fancy_name", [])
 ]
+
+# 每个分组对应输出文件名前缀
+OUTPUT_PREFIX = {
+    'color': 'color_dict',
+    'class': 'class_dict',
+    'speed': 'speed_dict',
+}
+
 
 def process_language_file(file_path: Path) -> dict:
     """处理单个语言文件，返回 {lang_code: {group: {subkey: text}}} 结构"""
@@ -72,13 +78,20 @@ def process_language_file(file_path: Path) -> dict:
         print(f"处理文件 {file_path} 时出错: {e}")
     return {lang_code: result} if result else {}
 
+
 def main():
     languages_dir = Path('./languages')
     if not languages_dir.exists() or not languages_dir.is_dir():
         print("错误：找不到 ./languages 文件夹")
         return
 
+    # 输出目录
+    output_dir = Path('./json')
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    # 按 (语言, 分组) 聚合数据： {lang: {group: {subkey: text}}}
     all_data = {}
+
     for txt_file in languages_dir.glob('*.txt'):
         print(f"处理文件: {txt_file.name}")
         lang_data = process_language_file(txt_file)
@@ -90,12 +103,17 @@ def main():
                     all_data[lang][group] = {}
                 all_data[lang][group].update(sub_dict)
 
-    # 写入 JSON 文件
-    output_path = Path('base_values_dict_other.json')
-    with open(output_path, 'w', encoding='utf-8') as f:
-        json.dump(all_data, f, ensure_ascii=False, indent=2)
+    # 分别写出每个分组、每种语言的 JSON 文件
+    for lang, groups in all_data.items():
+        for group, sub_dict in groups.items():
+            prefix = OUTPUT_PREFIX.get(group, group)
+            output_path = output_dir / f"{prefix}_{lang}.json"
+            with open(output_path, 'w', encoding='utf-8') as f:
+                json.dump(sub_dict, f, ensure_ascii=False, indent=2)
+            print(f"已写出: {output_path}")
 
-    print(f"提取完成，结果已保存到 {output_path}")
+    print("提取完成。")
+
 
 if __name__ == '__main__':
     main()

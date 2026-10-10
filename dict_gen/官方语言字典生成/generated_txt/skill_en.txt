@@ -2215,6 +2215,7 @@ The Skeleton Fox Fiend absorbs healing. It disappears after absorbing a healing 
 "specials.v2.statuseffect.minor.counterattackpertile.blue.all.allies","All allies counterattack with {DEFLECTION}% of the damage received, and a further {DEFLECTIONPERTILE}% increase per each Ice shield on the board for {TURNS} turns, up to {MAXDEFLECTION}% damage in total."
 "specials.v2.statuseffect.minor.coveredbyallies.single.allies","Allies share the damage this character would receive from Special Skill attacks and normal attacks for {TURNS} turns."
 "specials.v2.statuseffect.minor.critmodifier.all.allies","All allies get {CRIT}% critical chance for {TURNS} turns."
+"specials.v2.statuseffect.minor.critmodifier.all.allies.noturns","All allies get lasting {CRIT}% critical chance per turn."
 "specials.v2.statuseffect.minor.critmodifier.all.enemies","All enemies get {CRIT}% critical chance for {TURNS} turns."
 "specials.v2.statuseffect.minor.critmodifier.allexceptcaster.allies","All allies except the caster get {CRIT}% critical chance for {TURNS} turns."
 "specials.v2.statuseffect.minor.critmodifier.neartotarget.allies","The caster and nearby allies get {CRIT}% critical chance for {TURNS} turns."

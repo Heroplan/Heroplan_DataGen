@@ -7158,7 +7158,9 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. This effect is Stu
 
 总重复组数: 236
 
---- 无未匹配英文条目 ---
+--- 未匹配的英文条目 ---
+- [specials.v2.statuseffect.minor.critmodifier.all.allies.noturns] All allies get lasting {CRIT}% critical chance per turn.
+总数: 1
 
 --- 未使用的Arabic翻译 ---
 - [specials.v2.bigminion.white_boar_mega_minion_c1.single] تستدعي تابع خنزير أبيض ضخم بنسبة {FAMILIARHEALTHPERCENT}% من نقاط الصحة و{FAMILIARATTACK}% من الهجوم الموروث من الملقي.
@@ -9206,7 +9208,9 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. This effect is Stu
 
 总重复组数: 236
 
---- 无未匹配英文条目 ---
+--- 未匹配的英文条目 ---
+- [specials.v2.statuseffect.minor.critmodifier.all.allies.noturns] All allies get lasting {CRIT}% critical chance per turn.
+总数: 1
 
 --- 未使用的ChineseSimplified翻译 ---
 - [specials.v2.bigminion.white_boar_mega_minion_c1.single] 召唤一个白野猪超级小兵，其可从施法者处继承{FAMILIARHEALTHPERCENT}%生命和{FAMILIARATTACK}%攻击力。
@@ -11273,7 +11277,9 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. This effect is Stu
 
 总重复组数: 236
 
---- 无未匹配英文条目 ---
+--- 未匹配的英文条目 ---
+- [specials.v2.statuseffect.minor.critmodifier.all.allies.noturns] All allies get lasting {CRIT}% critical chance per turn.
+总数: 1
 
 --- 未使用的ChineseTraditional翻译 ---
 - [specials.v2.bigminion.white_boar_mega_minion_c1.single] 召喚一個白野豬超級小兵，其可從施法者繼承{FAMILIARHEALTHPERCENT}%生命與{FAMILIARATTACK}%攻擊。
@@ -13339,7 +13345,9 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. This effect is Stu
 
 总重复组数: 236
 
---- 无未匹配英文条目 ---
+--- 未匹配的英文条目 ---
+- [specials.v2.statuseffect.minor.critmodifier.all.allies.noturns] All allies get lasting {CRIT}% critical chance per turn.
+总数: 1
 
 --- 未使用的Danish翻译 ---
 - [specials.v2.bigminion.white_boar_mega_minion_c1.single] Hidkalder hvid vildsvin-kæmpehåndlanger med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angreb, nedarvet fra kasteren.
@@ -15405,7 +15413,9 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. This effect is Stu
 
 总重复组数: 236
 
---- 无未匹配英文条目 ---
+--- 未匹配的英文条目 ---
+- [specials.v2.statuseffect.minor.critmodifier.all.allies.noturns] All allies get lasting {CRIT}% critical chance per turn.
+总数: 1
 
 --- 未使用的Dutch翻译 ---
 - [specials.v2.bigminion.white_boar_mega_minion_c1.single] Roept een wit everzwijn-megavolgeling aan die {FAMILIARHEALTHPERCENT}% van de gezondheid en {FAMILIARATTACK}% van de aanvalskracht erft van de spreukspreker.
@@ -19541,7 +19551,9 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. This effect is Stu
 
 总重复组数: 236
 
---- 无未匹配英文条目 ---
+--- 未匹配的英文条目 ---
+- [specials.v2.statuseffect.minor.critmodifier.all.allies.noturns] All allies get lasting {CRIT}% critical chance per turn.
+总数: 1
 
 --- 未使用的Finnish翻译 ---
 - [specials.v2.bigminion.white_boar_mega_minion_c1.single] Kutsuu valkoinen villisika -megakäskyläisen, joka perii loitsijalta {FAMILIARHEALTHPERCENT} % terveyttä ja {FAMILIARATTACK} % hyökkäystä.
@@ -21608,7 +21620,9 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. This effect is Stu
 
 总重复组数: 236
 
---- 无未匹配英文条目 ---
+--- 未匹配的英文条目 ---
+- [specials.v2.statuseffect.minor.critmodifier.all.allies.noturns] All allies get lasting {CRIT}% critical chance per turn.
+总数: 1
 
 --- 未使用的French翻译 ---
 - [specials.v2.bigminion.white_boar_mega_minion_c1.single] Invoque un sbire méga sanglier blanc avec {FAMILIARHEALTHPERCENT} % de PV et {FAMILIARATTACK} % d'attaque hérités du lanceur.
@@ -23674,7 +23688,9 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. This effect is Stu
 
 总重复组数: 236
 
---- 无未匹配英文条目 ---
+--- 未匹配的英文条目 ---
+- [specials.v2.statuseffect.minor.critmodifier.all.allies.noturns] All allies get lasting {CRIT}% critical chance per turn.
+总数: 1
 
 --- 未使用的German翻译 ---
 - [specials.v2.bigminion.white_boar_mega_minion_c1.single] Beschwört einen weißen Mega-Wildschwein-Lakaien mit {FAMILIARHEALTHPERCENT} % LP und {FAMILIARATTACK} % Angriff des Wirkers.
@@ -25740,7 +25756,9 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. This effect is Stu
 
 总重复组数: 236
 
---- 无未匹配英文条目 ---
+--- 未匹配的英文条目 ---
+- [specials.v2.statuseffect.minor.critmodifier.all.allies.noturns] All allies get lasting {CRIT}% critical chance per turn.
+总数: 1
 
 --- 未使用的Indonesian翻译 ---
 - [specials.v2.bigminion.white_boar_mega_minion_c1.single] Memanggil Antek Mega Celeng Putih dengan {FAMILIARHEALTHPERCENT}% HP dan {FAMILIARATTACK}% serangan yang diwarisi dari perapal.
@@ -27806,7 +27824,9 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. This effect is Stu
 
 总重复组数: 236
 
---- 无未匹配英文条目 ---
+--- 未匹配的英文条目 ---
+- [specials.v2.statuseffect.minor.critmodifier.all.allies.noturns] All allies get lasting {CRIT}% critical chance per turn.
+总数: 1
 
 --- 未使用的Italian翻译 ---
 - [specials.v2.bigminion.white_boar_mega_minion_c1.single] Chiama un servitore Mega cinghiale bianco con il {FAMILIARHEALTHPERCENT}% di HP e il {FAMILIARATTACK}% di Attacco ereditati dall'evocatore.
@@ -29873,7 +29893,9 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. This effect is Stu
 
 总重复组数: 236
 
---- 无未匹配英文条目 ---
+--- 未匹配的英文条目 ---
+- [specials.v2.statuseffect.minor.critmodifier.all.allies.noturns] All allies get lasting {CRIT}% critical chance per turn.
+总数: 1
 
 --- 未使用的Japanese翻译 ---
 - [specials.v2.bigminion.white_boar_mega_minion_c1.single] 術者のHPの{FAMILIARHEALTHPERCENT}%と攻撃力の{FAMILIARATTACK}%を持つホワイトボアのメガミニオンをサモンする。
@@ -31940,7 +31962,9 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. This effect is Stu
 
 总重复组数: 236
 
---- 无未匹配英文条目 ---
+--- 未匹配的英文条目 ---
+- [specials.v2.statuseffect.minor.critmodifier.all.allies.noturns] All allies get lasting {CRIT}% critical chance per turn.
+总数: 1
 
 --- 未使用的Korean翻译 ---
 - [specials.v2.bigminion.white_boar_mega_minion_c1.single] 시전자 HP의 {FAMILIARHEALTHPERCENT}%와 공격력의 {FAMILIARATTACK}%를 지닌 하얀 멧돼지 메가 하수인을 소환해 줍니다.
@@ -34007,7 +34031,9 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. This effect is Stu
 
 总重复组数: 236
 
---- 无未匹配英文条目 ---
+--- 未匹配的英文条目 ---
+- [specials.v2.statuseffect.minor.critmodifier.all.allies.noturns] All allies get lasting {CRIT}% critical chance per turn.
+总数: 1
 
 --- 未使用的Norwegian翻译 ---
 - [specials.v2.bigminion.white_boar_mega_minion_c1.single] Påkaller en hvit villsvin-megaundersått med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angrep nedarvet fra brukeren.
@@ -36073,7 +36099,9 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. This effect is Stu
 
 总重复组数: 236
 
---- 无未匹配英文条目 ---
+--- 未匹配的英文条目 ---
+- [specials.v2.statuseffect.minor.critmodifier.all.allies.noturns] All allies get lasting {CRIT}% critical chance per turn.
+总数: 1
 
 --- 未使用的Polish翻译 ---
 - [specials.v2.bigminion.white_boar_mega_minion_c1.single] Wzywa mega pomocnika białego dzika z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku przejętymi od rzucającego.
@@ -38140,7 +38168,9 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. This effect is Stu
 
 总重复组数: 236
 
---- 无未匹配英文条目 ---
+--- 未匹配的英文条目 ---
+- [specials.v2.statuseffect.minor.critmodifier.all.allies.noturns] All allies get lasting {CRIT}% critical chance per turn.
+总数: 1
 
 --- 未使用的Portuguese翻译 ---
 - [specials.v2.bigminion.white_boar_mega_minion_c1.single] Convoca um mega-ajudante Javali Branco com {FAMILIARHEALTHPERCENT}% de PV e {FAMILIARATTACK}% de ataque herdados do invocador.
@@ -40207,7 +40237,9 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. This effect is Stu
 
 总重复组数: 236
 
---- 无未匹配英文条目 ---
+--- 未匹配的英文条目 ---
+- [specials.v2.statuseffect.minor.critmodifier.all.allies.noturns] All allies get lasting {CRIT}% critical chance per turn.
+总数: 1
 
 --- 未使用的Russian翻译 ---
 - [specials.v2.bigminion.white_boar_mega_minion_c1.single] Призывает белого мегавепря с {FAMILIARHEALTHPERCENT} % здоровья и {FAMILIARATTACK} % атаки, получаемой от героя.
@@ -42273,7 +42305,9 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. This effect is Stu
 
 总重复组数: 236
 
---- 无未匹配英文条目 ---
+--- 未匹配的英文条目 ---
+- [specials.v2.statuseffect.minor.critmodifier.all.allies.noturns] All allies get lasting {CRIT}% critical chance per turn.
+总数: 1
 
 --- 未使用的Spanish翻译 ---
 - [specials.v2.bigminion.white_boar_mega_minion_c1.single] Invoca un megasecuaz jabalí blanco con un {FAMILIARHEALTHPERCENT} % de VIT y un {FAMILIARATTACK} % de ataque heredados del héroe.
@@ -44350,7 +44384,9 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. This effect is Stu
 
 总重复组数: 236
 
---- 无未匹配英文条目 ---
+--- 未匹配的英文条目 ---
+- [specials.v2.statuseffect.minor.critmodifier.all.allies.noturns] All allies get lasting {CRIT}% critical chance per turn.
+总数: 1
 
 --- 未使用的Swedish翻译 ---
 - [specials.v2.bigminion.white_boar_mega_minion_c1.single] Åkallar en vit megavildsvin-undersåte med {FAMILIARHEALTHPERCENT} % hälsa och {FAMILIARATTACK} % attack som ärvs från anfallaren.
@@ -46427,7 +46463,9 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. This effect is Stu
 
 总重复组数: 236
 
---- 无未匹配英文条目 ---
+--- 未匹配的英文条目 ---
+- [specials.v2.statuseffect.minor.critmodifier.all.allies.noturns] All allies get lasting {CRIT}% critical chance per turn.
+总数: 1
 
 --- 未使用的Turkish翻译 ---
 - [specials.v2.bigminion.white_boar_mega_minion_c1.single] Eylemciden devralınan %{FAMILIARHEALTHPERCENT} SP ve %{FAMILIARATTACK} saldırıya sahip bir Beyaz Domuz Mega Hizmetkârı çağırır.

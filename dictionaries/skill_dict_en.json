@@ -1384,6 +1384,7 @@
   "The caster gets lasting counterattack with {DEFLECTION}% of the damage received.": "The caster gets lasting counterattack with {DEFLECTION}% of the damage received.",
   "All allies counterattack with {DEFLECTION}% of the damage received, and a further {DEFLECTIONPERTILE}% increase per each Ice shield on the board for {TURNS} turns, up to {MAXDEFLECTION}% damage in total.": "All allies counterattack with {DEFLECTION}% of the damage received, and a further {DEFLECTIONPERTILE}% increase per each Ice shield on the board for {TURNS} turns, up to {MAXDEFLECTION}% damage in total.",
   "Allies share the damage this character would receive from Special Skill attacks and normal attacks for {TURNS} turns.": "Allies share the damage this character would receive from Special Skill attacks and normal attacks for {TURNS} turns.",
+  "All allies get lasting {CRIT}% critical chance per turn.": "All allies get lasting {CRIT}% critical chance per turn.",
   "All enemies get {CRIT}% critical chance for {TURNS} turns.": "All enemies get {CRIT}% critical chance for {TURNS} turns.",
   "All allies except the caster get {CRIT}% critical chance for {TURNS} turns.": "All allies except the caster get {CRIT}% critical chance for {TURNS} turns.",
   "The caster and nearby allies get {CRIT}% critical chance for {TURNS} turns.": "The caster and nearby allies get {CRIT}% critical chance for {TURNS} turns.",

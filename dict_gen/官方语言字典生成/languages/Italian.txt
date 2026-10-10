@@ -130,6 +130,9 @@ Nelle battaglie a più ondate, l'effetto viene aggiornato all'inizio di ogni ond
 "aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount","All'inizio di ogni battaglia, questo Eroe diventa immune dai nuovi disturbi. Questo effetto dura finché non ha resistito a {MAXACTIVATIONCOUNT} disturbi.
 
 Nelle battaglie a più ondate, l'effetto viene aggiornato all'inizio di ogni ondata."
+"aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount.one","All'inizio di ogni battaglia, questo Eroe diventa immune dai nuovi disturbi. Questo effetto dura finché non ha resistito a {MAXACTIVATIONCOUNT} disturbi.
+
+Nelle battaglie a più ondate, l'effetto viene aggiornato all'inizio di ogni ondata."
 "aetherpower.statuseffect.minor.dodgespecialdamage.single.allies","All'inizio di ogni battaglia, questo Eroe ottiene il {DODGE}% di probabilità di schivare le Abilità speciali che infliggono danni per {TURNS} turni.
 
 Nelle battaglie a più ondate, l'effetto viene aggiornato all'inizio di ogni ondata."
@@ -4293,6 +4296,8 @@ Vuoi iniziare la spedizione con questo gruppo?"
 "familiar.statuseffect.minor.dispelimmunity.single.allies.noturns.shark_mega_minion_haikala.summon","Il servitore Mega Squalo impedisce che le magie benefiche degli effetti di stato vengano annullate o rubate."
 "familiar.statuseffect.minor.dispelimmunity.single.allies.while.single.allies.familiaralive.spotted_boar_mega_minion.spotted_boar_mega_minion.summon","Quando viene evocato, il servitore Mega cinghiale maculato conferisce l'immunità all'annullamento degli effetti di stato al suo proprietario finché quest'ultimo possiede un servitore Mega cinghiale maculato. Questo effetto non può essere annullato."
 "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie.deathbydamage.eatenbycharacter","Dopo il lancio di [#!]Rimozione totale[#], l'attaccante assume la forma di Fantasma del Gufhalla per {TURNS} turni. Questo effetto è [#!]persistente.[#]
+[*] Mentre è nella forma Fantasma del Gufhalla, il bersaglio subisce {DAMAGEPERTURN} danni a ogni turno."
+"familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie_mayhem.deathbydamage.eatenbycharacter","Dopo il lancio di [#!]Rimozione totale[#], l'attaccante assume la forma di Fantasma del Gufhalla per {TURNS} turni. Questo effetto è [#!]persistente.[#]
 [*] Mentre è nella forma Fantasma del Gufhalla, il bersaglio subisce {DAMAGEPERTURN} danni a ogni turno."
 "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.owlkyrie_mayhem.deathbydamage.eatenbycharacter","Dopo il lancio di [#!]Rimozione totale[#], l'attaccante assume la forma di Fantasma del Gufhalla per {TURNS} turni. Questo effetto è [#!]persistente.[#]
 [*] Mentre è nella forma Fantasma del Gufhalla, il bersaglio subisce {DAMAGEPERTURN} danni a ogni turno."

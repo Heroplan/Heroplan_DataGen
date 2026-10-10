@@ -130,6 +130,9 @@ W bitwach z wieloma falami efekt odświeża się na początku każdej kolejnej f
 "aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount","Na początku każdej bitwy ten Bohater jest odporny na nowe efekty ze statusu. Efekt trwa aż do odparcia łącznie {MAXACTIVATIONCOUNT} dolegliwości.
 
 W bitwach z wieloma falami efekt odnawia się na początku każdej fali."
+"aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount.one","Na początku każdej bitwy ten Bohater jest odporny na nowe efekty ze statusu. Efekt trwa aż do odparcia łącznie {MAXACTIVATIONCOUNT} dolegliwości.
+
+W bitwach z wieloma falami efekt odnawia się na początku każdej fali."
 "aetherpower.statuseffect.minor.dodgespecialdamage.single.allies","Na początku każdej bitwy ten bohater otrzymuje {DODGE}% szans unikania umiejętności specjalnych zadających obrażenia na okres {TURNS} tur.
 
 W bitwach z wieloma falami efekt odświeża się na początku każdej kolejnej fali."
@@ -4294,6 +4297,8 @@ Rozpocząć ekspedycję tą drużyną?"
 "familiar.statuseffect.minor.dispelimmunity.single.allies.noturns.shark_mega_minion_haikala.summon","Mega pomocnik rekin blokuje możliwość zdjęcia lub kradzieży ulepszeń efektów ze statusu."
 "familiar.statuseffect.minor.dispelimmunity.single.allies.while.single.allies.familiaralive.spotted_boar_mega_minion.spotted_boar_mega_minion.summon","Po przywołaniu mega pomocnik cętkowany dzik zapewnia właścicielowi niewrażliwość na odwołania efektów ze statusu przez cały okres posiadania. Efekt nie może być odwołany czarami."
 "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie.deathbydamage.eatenbycharacter","Po rzuceniu [#!]pełnego usunięcia[#] atakujący przeobraża się w ducha Sowiej Walhalli na okres {TURNS} tur. Ten efekt jest [#!]nieustępliwy.[#]
+[*] Pod postacią Sowiej Walhalli wróg otrzymuje  {DAMAGEPERTURN} pkt. obrażeń w każdej turze."
+"familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie_mayhem.deathbydamage.eatenbycharacter","Po rzuceniu [#!]pełnego usunięcia[#] atakujący przeobraża się w ducha Sowiej Walhalli na okres {TURNS} tur. Ten efekt jest [#!]nieustępliwy.[#]
 [*] Pod postacią Sowiej Walhalli wróg otrzymuje  {DAMAGEPERTURN} pkt. obrażeń w każdej turze."
 "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.owlkyrie_mayhem.deathbydamage.eatenbycharacter","Po rzuceniu [#!]pełnego usunięcia[#] atakujący przeobraża się w ducha Sowiej Walhalli na okres {TURNS} tur. Ten efekt jest [#!]nieustępliwy.[#]
 [*] Pod postacią Sowiej Walhalli wróg otrzymuje  {DAMAGEPERTURN} pkt. obrażeń w każdej turze."

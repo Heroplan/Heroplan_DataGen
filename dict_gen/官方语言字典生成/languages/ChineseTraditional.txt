@@ -130,6 +130,9 @@
 "aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount","每場戰鬥開始時，此英雄免疫新的狀態異常。此效果持續至抵禦{MAXACTIVATIONCOUNT}個狀態異常為止。
 
 在有數波攻勢的戰鬥中，該效果將於每波攻勢開始時刷新。"
+"aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount.one","每場戰鬥開始時，此英雄免疫新的狀態異常。此效果持續至抵禦{MAXACTIVATIONCOUNT}個狀態異常為止。
+
+在有數波攻勢的戰鬥中，該效果將於每波攻勢開始時刷新。"
 "aetherpower.statuseffect.minor.dodgespecialdamage.single.allies","每場戰鬥開始時，此英雄有{DODGE}%的機率可閃避造成傷害的特殊技能，持續{TURNS}個回合。
 
 在有數波攻勢的戰鬥中，效果將於每波攻勢開始時刷新。"
@@ -4282,6 +4285,8 @@ VIP卡中包含：
 "familiar.statuseffect.minor.dispelimmunity.single.allies.noturns.shark_mega_minion_haikala.summon","鯊魚超級小兵可阻止狀態效果增益被驅散或竊取。"
 "familiar.statuseffect.minor.dispelimmunity.single.allies.while.single.allies.familiaralive.spotted_boar_mega_minion.spotted_boar_mega_minion.summon","當受到召喚時，只要主人還有斑點野豬超級小兵，斑點野豬超級小兵就會給予主人免疫增益驅散。"
 "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie.deathbydamage.eatenbycharacter","在施放[#!]完整移除[#]後，攻擊者變為貓頭鷹哈拉幽靈型態，持續{TURNS}個回合。此效果為[#!]頑固[#]。
+[*]目標變為貓頭鷹哈拉幽靈型態時，目標每回合會受到{DAMAGEPERTURN}點傷害。"
+"familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie_mayhem.deathbydamage.eatenbycharacter","在施放[#!]完整移除[#]後，攻擊者變為貓頭鷹哈拉幽靈型態，持續{TURNS}個回合。此效果為[#!]頑固[#]。
 [*]目標變為貓頭鷹哈拉幽靈型態時，目標每回合會受到{DAMAGEPERTURN}點傷害。"
 "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.owlkyrie_mayhem.deathbydamage.eatenbycharacter","在施放[#!]完整移除[#]後，攻擊者變為貓頭鷹哈拉幽靈型態，持續{TURNS}個回合。此效果為[#!]頑固[#]。
 [*]目標變為貓頭鷹哈拉幽靈型態時，目標每回合會受到{DAMAGEPERTURN}點傷害。"

@@ -130,6 +130,9 @@ En batallas con múltiples oleadas, el efecto se reinicia al comienzo de cada un
 "aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount","Al comienzo de cada batalla, este héroe es inmune a nuevos estados alterados. Este efecto dura hasta que haya resistido {MAXACTIVATIONCOUNT} estados alterados.
 
  En batallas con múltiples oleadas, el efecto se reinicia al comienzo de cada una."
+"aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount.one","Al comienzo de cada batalla, este héroe es inmune a nuevos estados alterados. Este efecto dura hasta que haya resistido {MAXACTIVATIONCOUNT} estados alterados.
+
+ En batallas con múltiples oleadas, el efecto se reinicia al comienzo de cada una."
 "aetherpower.statuseffect.minor.dodgespecialdamage.single.allies","Al comienzo de cada batalla, este héroe obtiene un {DODGE} % de probabilidad de esquivar las habilidades especiales que infligen daño durante {TURNS} turnos.
 
 En batallas con múltiples oleadas, el efecto se reinicia al comienzo de cada una."
@@ -4289,6 +4292,8 @@ Clases de héroe permitidas:
 "familiar.statuseffect.minor.dispelimmunity.single.allies.noturns.shark_mega_minion_haikala.summon","El megasecuaz de tiburón impide que las bendiciones de efecto de estado sean descartadas o robadas."
 "familiar.statuseffect.minor.dispelimmunity.single.allies.while.single.allies.familiaralive.spotted_boar_mega_minion.spotted_boar_mega_minion.summon","Al invocarse, mientras lo tenga, el megasecuaz de jabalí moteado otorga a su dueño inmunidad a los descartes de efectos de estado. Este efecto no se puede descartar."
 "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie.deathbydamage.eatenbycharacter","Después de lanzarse [#!]Eliminación completa[#], el atacante cambia a la forma de fantasma del Buhohalla durante {TURNS} turnos. Este efecto es [#!]obstinado[#].
+[*] El objetivo recibe {DAMAGEPERTURN} de daño cada turno mientras está en esta forma."
+"familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie_mayhem.deathbydamage.eatenbycharacter","Después de lanzarse [#!]Eliminación completa[#], el atacante cambia a la forma de fantasma del Buhohalla durante {TURNS} turnos. Este efecto es [#!]obstinado[#].
 [*] El objetivo recibe {DAMAGEPERTURN} de daño cada turno mientras está en esta forma."
 "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.owlkyrie_mayhem.deathbydamage.eatenbycharacter","Después de lanzarse [#!]Eliminación completa[#], el atacante cambia a la forma de fantasma del Buhohalla durante {TURNS} turnos. Este efecto es [#!]obstinado[#].
 [*] El objetivo recibe {DAMAGEPERTURN} de daño cada turno mientras está en esta forma."

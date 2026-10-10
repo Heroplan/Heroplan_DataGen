@@ -130,6 +130,9 @@ Em batalhas com várias ondas, o efeito é aplicado novamente no início de cada
 "aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount","No início da batalha, este herói fica imune a novos males de status. Este efeito dura até que {MAXACTIVATIONCOUNT} males sejam resistidos.
 
 Em batalhas com várias ondas, o efeito é aplicado novamente no início de cada onda."
+"aetherpower.statuseffect.minor.debuffshield.single.allies.withactivationcount.one","No início da batalha, este herói fica imune a novos males de status. Este efeito dura até que {MAXACTIVATIONCOUNT} males sejam resistidos.
+
+Em batalhas com várias ondas, o efeito é aplicado novamente no início de cada onda."
 "aetherpower.statuseffect.minor.dodgespecialdamage.single.allies","No início de cada batalha, este herói recebe {DODGE}% de chance de se esquivar de habilidades especiais que causam dano por {TURNS} turnos.
 
 Em batalhas com várias ondas, o efeito é aplicado novamente no início de cada onda."
@@ -4286,6 +4289,8 @@ Começar expedição com este grupo?"
 "familiar.statuseffect.minor.dispelimmunity.single.allies.noturns.shark_mega_minion_haikala.summon","O mega-ajudante Tubarão impede que reforços de efeitos de status sejam dissipados ou roubados."
 "familiar.statuseffect.minor.dispelimmunity.single.allies.while.single.allies.familiaralive.spotted_boar_mega_minion.spotted_boar_mega_minion.summon","Quando convocado, o mega-ajudante Javali Pintado dá ao dono imunidade a dissipações de efeito de status enquanto o dono tem um mega-ajudante Javali Pintado. Este efeito não pode ser dissipado."
 "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie.deathbydamage.eatenbycharacter","Após a aplicação de [#!]Remoção Total[#], o atacante assume a forma de Fantasma de Corujalla por {TURNS} turnos. Este efeito é [#!]persistente[#].
+[*] Enquanto está na forma de Fantasma de Corujalla, o alvo recebe {DAMAGEPERTURN} de dano a cada turno."
+"familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.attacker.owlkyrie_mayhem.deathbydamage.eatenbycharacter","Após a aplicação de [#!]Remoção Total[#], o atacante assume a forma de Fantasma de Corujalla por {TURNS} turnos. Este efeito é [#!]persistente[#].
 [*] Enquanto está na forma de Fantasma de Corujalla, o alvo recebe {DAMAGEPERTURN} de dano a cada turno."
 "familiar.statuseffect.minor.owlhalla.single.enemies.dispelincreasesactivations.owlkyrie_mayhem.deathbydamage.eatenbycharacter","Após a aplicação de [#!]Remoção Total[#], o atacante assume a forma de Fantasma de Corujalla por {TURNS} turnos. Este efeito é [#!]persistente[#].
 [*] Enquanto está na forma de Fantasma de Corujalla, o alvo recebe {DAMAGEPERTURN} de dano a cada turno."
